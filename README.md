@@ -1,5 +1,3 @@
-## __**Week 1: Trust Without Trust: Distributed Systems & Consensus**__
-
 <h2 align="center">CS198.2x - BerkeleyX - 
 <h2 align="center">Blockchain Technologies</h2>
 <!------------------------------------------------------------------------------------------------>
