@@ -1,10 +1,11 @@
-<h2 align="center">CS198.2x - BerkeleyX - 
-<h2 align="center">Blockchain Technologies</h2>
+<h2 align="center">CS198.2x - University of California @ BerkeleyX
+
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- Berkeley cs198.2x blockchain logo -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center">
 <img src="/images/image1.png" alt="Berkeley: CS198.2x logo" style="width:5in;height:2.81998in" />
+<h2 align="center">Blockchain Technologies</h2>
 
 ### Course Syllabus
 
