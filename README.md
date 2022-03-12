@@ -1,5 +1,5 @@
 <h2 align="center">CS198.2x - University of California @ BerkeleyX
-
+<br/>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- Berkeley cs198.2x blockchain logo -------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -7,7 +7,7 @@
 <img src="/images/image1.png" alt="Berkeley: CS198.2x logo" style="width:5in;height:2.81998in" />
 <h2 align="center">Blockchain Technologies</h2>
 
-### Course Syllabus
+## Course Syllabus
 
 This course provides a wide overview of many of the topics relating to
 and building upon the foundation of Bitcoin and blockchain technology. 
