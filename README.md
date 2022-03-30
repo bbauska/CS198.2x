@@ -223,8 +223,48 @@ blockchain enthusiasts from all educational and industrial backgrounds.
 <p align="center">
 <img src="/images/image3.png" alt="another Blockchain at Berkeley logo" style="width:5in;height:3.35" />
 
-Welcome to the first module of Blockchain Technology, the second course
-in the Blockchain Fundamentals program.
+This course is a continuation of our first course, Bitcoin and Cryptocurrencies; if you haven’t already, please take a look at that course.
+In the first course, we studied Bitcoin as the first use case for blockchain and examined its various components and properties.
+We also looked at how blockchain is used for cryptocurrencies and generalized computational platforms, such as Ethereum.
+By now, you’ve decoupled the concept of blockchain from cryptocurrencies to understand all the pieces individually and how they fit together.
+This first week, we’ll be covering distributed systems and consensus algorithms.
+You should be familiar with Bitcoin, one of the largest cryptocurrencies, and its use of Proof-of-Work to make sure everyone agrees – or comes to consensus – on who owns what amounts of bitcoin.
+This is what Bitcoin accomplishes, but what is the underlying problem that Bitcoin is trying to solve?
+Well, it’s truly a distributed systems problem: several computers, all unknown and untrusting of each other, are trying to agree on something.
+Understanding the fundamental purpose and challenges of building distributed systems will give us the ability to understand the subset that is blockchain.
+First, we’ll go over distributed systems fundamentals and the consensus problem, some tradeoffs and formalisms, and traditional literature in the space.
+Then, we’ll look at Nakamoto Consensus, a new paradigm of distributed consensus, and examine how it fits into the traditional model of distributed systems, with a focus on Proof-of-Stake and other new styles of consensus.
+After this lecture, you’ll be able to think about blockchain within the much larger scope of distributed systems and consensus.
+Week 1 Announcements
+Welcome to Week 1. Here's a quick breakdown of what to expect every week:
+In general, each week will have 5 sections of video content and associated Quick Check questions. Quick Checks, as their name implies, are designed to be quick self-tests that you indeed understand the material. Quick Checks are graded on correctness, but you will have unlimited tries on each Quick Check question. 
+The 1st week, we cover:
+	Distributed Systems
+	Voting Based Consensus
+	Nakamoto Consensus
+	Proof-of-Stake
+	Federated Consensus
+
+1.1 Intro: Distributed Systems
+Let’s take a step back and think about the design and architecture of what we’re trying to achieve with blockchain.
+What exactly are we trying to build, and how do we go about designing such a system?
+With blockchain, we want to deploy it across a network, where users who potentially are located on different sides of the world can interact with one another.
+We want this system to be distributed – a distributed system!
+We want such a system to be able to agree on a common truth without trusting a single machine or authority.
+In other words, we need the network to be able to reach consensus.
+Instead of trusting the execution of individual processes or reliability of any individuals, we trust the general protocol and the math behind it.
+It’s trust – without trust.
+Luckily for us, distributed systems and the consensus problem have been studied for decades by mathematicians and computer scientists.
+It’s by studying this traditional literature and design formalisms that we can start designing blockchain systems from the ground up.
+Distributed Systems Origins
+Before we explain what a distributed system actually is, let’s define a fundamental, age-old problem that pervades not only computer science and blockchain technology, but all of humanity.
+How does a group make a decision?
+Whether this be by majority opinion, general agreement, or force, how do we each consensus?
+Consensus is trivial when we only have one actor.
+I can always agree with myself on where to have lunch, but when I go out with my friends, we have to all agree on where to go first, and the process by which we reach agreement might be difficult.
+ 
+In this example, my group of friends had to come to consensus on a common choice of action – what to get for lunch – before we were able to move forward – to actually get lunch.
+
 
 This course is a continuation of our first course, Bitcoin and
 Cryptocurrencies; if you haven't already, please take a look at that
