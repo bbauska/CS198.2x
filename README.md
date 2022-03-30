@@ -1,4 +1,4 @@
-<h2 align="center">CS198.2x - University of California @ BerkeleyX
+<h2 align="center">CS198.2x - University of California @ BerkeleyX</h2>
 <br/><br/>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- Berkeley cs198.2x blockchain logo -------------------------------->
@@ -7,7 +7,7 @@
 <img src="/images/image1.png" alt="Berkeley: CS198.2x logo" style="width:5in;height:2.81998in" />
 <h2 align="center">Blockchain Technologies</h2>
 
-## Course Syllabus
+<h2>Course Syllabus</h2>
 
 This course provides a wide overview of many of the topics relating to
 and building upon the foundation of Bitcoin and blockchain technology. 
@@ -17,7 +17,7 @@ Systems & Consensus, 2. Cryptoeconomics & Proof-of-Stake, 3. Enterprise
 Blockchain, 4. Scalability, 5. Anonymity, and 6. A Blockchain Powered
 Future.
 
-### Trust Without Trust: Distributed Systems & Consensus
+<h3>Trust Without Trust: Distributed Systems & Consensus</h3>
 
 > Blockchain architecture is built on the foundation of decades of
 > computer science and distributed systems literature. We start out by
@@ -28,7 +28,7 @@ Future.
 > Proof-of-Stake, voting-based consensus algorithms, and federated
 > consensus.
 
-### Securing Incentives: Cryptoeconomics & Proof-of-Stake
+<h3>Securing Incentives: Cryptoeconomics & Proof-of-Stake<h3>
 
 > We examine the meaning and properties of cryptoeconomics as it relates
 > to its two compositional fields: cryptography and economics. We then
@@ -36,7 +36,7 @@ Future.
 > systems fundamentals (liveness, safety, data availability) and the
 > griefing factors and faults in the way of these goals.
 
-### Real-World Applications: Enterprise Blockchain
+<h3>Real-World Applications: Enterprise Blockchain</h3>
 
 > We categorize the uses of blockchain and distributed ledger
 > technologies, and look at various existing enterprise-level blockchain
@@ -45,7 +45,7 @@ Future.
 > blockchain, ICOs, and the increasing regulations surrounding
 > blockchain.
 
-### Cryptocurrencies for the Masses: Scaling Blockchain
+<h3>Cryptocurrencies for the Masses: Scaling Blockchain</h3>
 
 > One major obstacle to widespread blockchain adoption is the problem of
 > scalability. We define scaling first as it relates to Bitcoin as a
@@ -56,7 +56,7 @@ Future.
 > Topics include block size increases, Segregated Witness, payment
 > channels, Lightning Network, sidechains, Plasma, sharding, and Cosmos.
 
-### The Fight for Privacy: Anonymity, Mixing & Altcoins
+<h3>The Fight for Privacy: Anonymity, Mixing & Altcoins</h3>
 
 > We look into the measures that governments have taken to regulate and
 > control blockchain technology.  We examine Anti-Money Laundering (AML)
@@ -65,7 +65,7 @@ Future.
 > Then from the user's perspective, we also dive into privacy oriented
 > altcoins and mixing techniques.
 
-### A Blockchain Powered Future
+<h3>A Blockchain Powered Future</h3>
 
 > A summary of the entire Blockchain Fundamentals program and an
 > exploratory look into blockchain ventures today, such as venture
@@ -73,7 +73,7 @@ Future.
 > blockchain-based future thought experiment and explain the avenues for
 > the student's potential involvement.
 
-#### Notes from Rustie
+<h4>Notes from Rustie</h4>
 Since Fall, 2016, Blockchain at Berkeley has been offering a course on
 the fundamental concepts of cryptocurrencies and blockchain on UC
 Berkeley campus. The goal was to create a survey of the blockchain space
@@ -119,7 +119,7 @@ We hope you enjoy the course! 
 
 Rustie Lin
 
-#### **Resources**
+<h4><i>Resources</i></h4>
 CS198.1x Bitcoin and Cryptocurrencies is a prerequisite for this course.
 If you haven\'t already taken it, the course material is free for review
 on edX, or for verified certificate if you wish. You can enroll in both
