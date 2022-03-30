@@ -262,10 +262,11 @@ How does a group make a decision?
 Whether this be by majority opinion, general agreement, or force, how do we each consensus?
 Consensus is trivial when we only have one actor.
 I can always agree with myself on where to have lunch, but when I go out with my friends, we have to all agree on where to go first, and the process by which we reach agreement might be difficult.
+
+    
+![image](https://user-images.githubusercontent.com/41387907/160863223-98364e2f-49c2-42b0-a5ed-a0ff590231dc.png)
  
 In this example, my group of friends had to come to consensus on a common choice of action – what to get for lunch – before we were able to move forward – to actually get lunch.
-
-![image](https://user-images.githubusercontent.com/41387907/160863223-98364e2f-49c2-42b0-a5ed-a0ff590231dc.png)
 
 This course is a continuation of our first course, Bitcoin and
 Cryptocurrencies; if you haven't already, please take a look at that
