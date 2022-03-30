@@ -438,7 +438,7 @@ color:black'>(BerkeleyX - CS198.2x)</span></p>
 <p class=MsoNormal>&nbsp;</p>
 
 <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><img
-width=480 height=269 id="Picture 2" src="CS198.2x-filtered_files/image001.png"></p>
+width=480 height=269 id="Picture 2" src="/images/image001.png"></p>
 
 <b><u><span style='font-size:16.0pt;line-height:107%;font-family:"Bahnschrift",sans-serif;
 color:#454545'><br clear=all style='page-break-before:always'>
@@ -671,7 +671,7 @@ font-family:"Bahnschrift",sans-serif;color:#454545'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;text-indent:.5in;
 background:white'><span style='color:black'><img border=0 width=482 height=411
-id="Picture 333" src="CS198.2x-filtered_files/image002.jpg"></span></p>
+id="Picture 333" src="/images/image002.jpg"></span></p>
 
 <p style='margin:0in;text-indent:.5in;background:white'><span style='font-size:
 13.0pt;font-family:"Bahnschrift",sans-serif;color:#454545'>&nbsp;</span></p>
@@ -808,7 +808,7 @@ color:#454545'> Consensus</span></b></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=326 id="Picture 1"
-src="CS198.2x-filtered_files/image003.png"></span></p>
+src="/images/image003.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Welcome to the first module of Blockchain Technology, the second
@@ -989,7 +989,7 @@ process by which we reach agreement might be difficult.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 32"
-src="CS198.2x-filtered_files/image004.jpg"></span></p>
+src="/images/image004.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In this example, my group of friends had to come to consensus on a
@@ -1003,7 +1003,7 @@ where we start building our intuition and context.</span></p>
 <p align=center style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
 margin-left:0in;text-align:center;background:white'><span style='color:black'><img
 border=0 width=482 height=272 id="Picture 33"
-src="CS198.2x-filtered_files/image005.jpg"></span></p>
+src="/images/image005.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Consensus has been studied for ages in fields such as biophysics,
@@ -1057,7 +1057,7 @@ another challenge.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=268 id="Picture 31"
-src="CS198.2x-filtered_files/image006.jpg"></span></p>
+src="/images/image006.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Early literature had focused on enabling coordination of processes
@@ -1124,7 +1124,7 @@ scientists, the formal study of distributed systems began to take shape.</span><
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=266 id="Picture 37"
-src="CS198.2x-filtered_files/image007.jpg"></span></p>
+src="/images/image007.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>And as it turns out, the same problem that was originally studied
@@ -1133,7 +1133,7 @@ example on more high-tech jet planes.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=268 id="Picture 38"
-src="CS198.2x-filtered_files/image008.jpg"></span></p>
+src="/images/image008.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>And more recently, on various spacecraft, such as SpaceX’s famous
@@ -1152,7 +1152,7 @@ found after cross checking.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=267 id="Picture 39"
-src="CS198.2x-filtered_files/image009.jpg"></span></p>
+src="/images/image009.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:#454545'>Distributed systems and consensus is also studied in the context
@@ -1166,7 +1166,7 @@ important data.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 40"
-src="CS198.2x-filtered_files/image010.jpg"></span></p>
+src="/images/image010.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>And finally, of course – the main focus of this course – the
@@ -1221,7 +1221,7 @@ font-family:"Bahnschrift",sans-serif;color:black'>It’s trust – without trust
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=265 id="Picture 264"
-src="CS198.2x-filtered_files/image011.jpg"></span></p>
+src="/images/image011.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In order to understand blockchain technology like a pro, knowing
@@ -1246,7 +1246,7 @@ systems contain two particular categories of components.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 337"
-src="CS198.2x-filtered_files/image012.jpg"></span></p>
+src="/images/image012.jpg"></span></p>
 
 <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
 0in;background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
@@ -1264,7 +1264,7 @@ cores in your laptop.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 338"
-src="CS198.2x-filtered_files/image013.jpg"></span></p>
+src="/images/image013.jpg"></span></p>
 
 <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
 0in;background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
@@ -1326,7 +1326,7 @@ to be safe in the event of a crash.</span></p>
 <p align=center style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
 margin-left:0in;text-align:center;background:white'><span style='color:black'><img
 border=0 width=482 height=272 id="Picture 265"
-src="CS198.2x-filtered_files/image014.jpg"></span></p>
+src="/images/image014.jpg"></span></p>
 
 <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
 0in;background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
@@ -1385,7 +1385,7 @@ working distributed system from a faulty one.</span></p>
 <p align=center style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
 margin-left:0in;text-align:center;background:white'><span style='color:black'><img
 border=0 width=482 height=274 id="Picture 266"
-src="CS198.2x-filtered_files/image015.jpg"></span></p>
+src="/images/image015.jpg"></span></p>
 
 <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
 0in;background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
@@ -1438,7 +1438,7 @@ color:black'>We’re about to answer those questions right now.</span></p>
 <p align=center style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
 margin-left:0in;text-align:center;background:white'><span style='color:black'><img
 border=0 width=482 height=271 id="Picture 335"
-src="CS198.2x-filtered_files/image016.jpg"></span></p>
+src="/images/image016.jpg"></span></p>
 
 <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
 0in;background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
@@ -1528,7 +1528,7 @@ your program can and should do.</span></p>
 <p align=center style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
 margin-left:0in;text-align:center;background:white'><span style='color:black'><img
 border=0 width=482 height=271 id="Picture 268"
-src="CS198.2x-filtered_files/image017.jpg"></span></p>
+src="/images/image017.jpg"></span></p>
 
 <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
 0in;background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
@@ -1666,7 +1666,7 @@ consensus will ever be achieved.</span></p>
 <p align=center style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
 margin-left:0in;text-align:center;background:white'><span style='color:black'><img
 border=0 width=482 height=271 id="Picture 334"
-src="CS198.2x-filtered_files/image018.jpg"></span></p>
+src="/images/image018.jpg"></span></p>
 
 <p style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:
 0in;background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
@@ -1695,7 +1695,7 @@ tradeoffs that any system must make.</span></p>
 <p align=center style='margin-top:6.0pt;margin-right:0in;margin-bottom:6.0pt;
 margin-left:0in;text-align:center;background:white'><span style='color:black'><img
 border=0 width=482 height=271 id="Picture 313"
-src="CS198.2x-filtered_files/image019.png"></span></p>
+src="/images/image019.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>This section hones in on a famous trilemma of distributed systems
@@ -1721,7 +1721,7 @@ delve into the implications.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=268 id="Picture 270"
-src="CS198.2x-filtered_files/image020.jpg"></span></p>
+src="/images/image020.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The “C” in CAP stands for Consistency.</span></p>
@@ -1747,7 +1747,7 @@ state.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 271"
-src="CS198.2x-filtered_files/image021.jpg"></span></p>
+src="/images/image021.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The “A” in CAP stands for Availability.</span></p>
@@ -1768,7 +1768,7 @@ happen, which is the ability to read or write some state.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 272"
-src="CS198.2x-filtered_files/image022.jpg"></span></p>
+src="/images/image022.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>And last but not least the “P” in CAP stands for </span><b><i><span
@@ -1802,7 +1802,7 @@ functioning even with partitions. </span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 273"
-src="CS198.2x-filtered_files/image023.jpg"></span></p>
+src="/images/image023.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>What is the CAP Theorem, truly?</span></p>
@@ -1836,7 +1836,7 @@ examples.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 274"
-src="CS198.2x-filtered_files/image024.jpg"></span></p>
+src="/images/image024.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In each example, we’re going to give an example of a situation in
@@ -1847,7 +1847,7 @@ color:black'>Let’s pretend this is a database which stores my favorite color.<
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 275"
-src="CS198.2x-filtered_files/image025.jpg"></span></p>
+src="/images/image025.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In our first example, let’s choose Partition Tolerance and
@@ -1869,7 +1869,7 @@ Node 1.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 276"
-src="CS198.2x-filtered_files/image026.jpg"></span></p>
+src="/images/image026.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Node 1 relays the update to all other accessible nodes, which
@@ -1906,7 +1906,7 @@ color:black'>Same scenario,</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 277"
-src="CS198.2x-filtered_files/image027.jpg"></span></p>
+src="/images/image027.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>I send the update to Node 1, which then sends the update to other
@@ -1914,14 +1914,14 @@ nodes.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 278"
-src="CS198.2x-filtered_files/image028.jpg"></span></p>
+src="/images/image028.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Nodes 2 and 4 are still ignorant of the update to red.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 279"
-src="CS198.2x-filtered_files/image029.jpg"></span></p>
+src="/images/image029.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Again, I query Node 2.</span></p>
@@ -1951,7 +1951,7 @@ what happens when we choose Consistency and Availability.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 280"
-src="CS198.2x-filtered_files/image030.jpg"></span></p>
+src="/images/image030.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>I send an update to Node 1.</span></p>
@@ -1961,7 +1961,7 @@ color:black'>Node 1 passes the information around.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 281"
-src="CS198.2x-filtered_files/image031.jpg"></span></p>
+src="/images/image031.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>I query Node 2, and it returns a value to me.</span></p>
@@ -1988,7 +1988,7 @@ system must compromise.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 282"
-src="CS198.2x-filtered_files/image032.jpg"></span></p>
+src="/images/image032.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Now you understand the CAP Theorem.</span></p>
@@ -2053,7 +2053,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=221 id="Picture 284"
-src="CS198.2x-filtered_files/image033.jpg"></span></p>
+src="/images/image033.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>We’ve defined distributed systems, understood the definition of
@@ -2167,7 +2167,7 @@ for the remaining situations.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=219 id="Picture 317"
-src="CS198.2x-filtered_files/image034.png"></span></p>
+src="/images/image034.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Practical Byzantine Fault Tolerance released in 1999 by Miguel
@@ -2194,7 +2194,7 @@ always be easier to handle than the second type of fault.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=218 id="Picture 318"
-src="CS198.2x-filtered_files/image035.png"></span></p>
+src="/images/image035.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>A Byzantine fault, referring to the Byzantine Generals’ Problem,
@@ -2288,7 +2288,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=217 id="Picture 319"
-src="CS198.2x-filtered_files/image036.png"></span></p>
+src="/images/image036.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>So before we talk about our first consensus mechanisms, let’s take
@@ -2348,7 +2348,7 @@ maintained a ledger, where they’d record everything that happened.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=218 id="Picture 4"
-src="CS198.2x-filtered_files/image037.png"></span></p>
+src="/images/image037.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>So diving a bit more in depth, the paper specifies that within the
@@ -2381,7 +2381,7 @@ consensus algorithms.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=220 id="Picture 5"
-src="CS198.2x-filtered_files/image038.png"></span></p>
+src="/images/image038.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The protocol that the Paxon parliament uses proceeds over several
@@ -2420,7 +2420,7 @@ let the entire island know what happened in parliament.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=222 id="Picture 6"
-src="CS198.2x-filtered_files/image039.png"></span></p>
+src="/images/image039.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>So there’s a very clear parallel between the Paxon parliament and
@@ -2442,7 +2442,7 @@ passed by the parliament.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=217 id="Picture 7"
-src="CS198.2x-filtered_files/image040.png"></span></p>
+src="/images/image040.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One major assumption that Paxos makes is that nodes aren’t trying
@@ -2481,7 +2481,7 @@ maybe because of the huge Paxon parliament story.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=218 id="Picture 8"
-src="CS198.2x-filtered_files/image041.png"></span></p>
+src="/images/image041.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In 2014, an alternative to Paxos was proposed.</span></p>
@@ -2506,7 +2506,7 @@ algorithm that Ethereum uses for a faster Raft-based consensus.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=219 id="Picture 9"
-src="CS198.2x-filtered_files/image042.png"></span></p>
+src="/images/image042.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>There’s a really good Raft simulation that I’ll link in the
@@ -2574,7 +2574,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=218 id="Picture 10"
-src="CS198.2x-filtered_files/image043.png"></span></p>
+src="/images/image043.png"></span></p>
 
 <p style='margin:0in;background:white'><span style='font-size:13.0pt;
 font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
@@ -2607,7 +2607,7 @@ despite the fact that it can now withstand Byzantine faults.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=386 height=222 id="Picture 11"
-src="CS198.2x-filtered_files/image044.png"></span></p>
+src="/images/image044.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The main PBFT algorithm consists of three phases – pre-prepare,
@@ -2622,7 +2622,7 @@ Paxon Parliament based on the requests of the people.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 12"
-src="CS198.2x-filtered_files/image045.png"></span></p>
+src="/images/image045.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In this case, the primary node is Derrick. We have a total of 4
@@ -2636,7 +2636,7 @@ internet connection.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 13"
-src="CS198.2x-filtered_files/image046.png"></span></p>
+src="/images/image046.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Nadir might’ve dropped out, but the other 3 nodes might not know
@@ -2644,7 +2644,7 @@ that yet, so they’ll still send messages to him.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 14"
-src="CS198.2x-filtered_files/image047.png"></span></p>
+src="/images/image047.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The next step is pre-prepare, which is one of the three main
@@ -2658,7 +2658,7 @@ validity.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 15"
-src="CS198.2x-filtered_files/image048.png"></span></p>
+src="/images/image048.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>If a node accepts a pre-prepare message, it follows up by sending
@@ -2671,7 +2671,7 @@ Again, f is the number of Byzantine faults.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 16"
-src="CS198.2x-filtered_files/image049.png"></span></p>
+src="/images/image049.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>After nodes have prepared, they send out a commit message. If a
@@ -2680,7 +2680,7 @@ request and then finally </span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 17"
-src="CS198.2x-filtered_files/image050.png"></span></p>
+src="/images/image050.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Send out the reply to the client. The client waits for f + 1 of
@@ -2690,7 +2690,7 @@ client gets the correct response. </span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 18"
-src="CS198.2x-filtered_files/image051.png"></span></p>
+src="/images/image051.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Here’s a diagram from the PBFT whitepaper, which models exactly
@@ -3142,7 +3142,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 19"
-src="CS198.2x-filtered_files/image052.png"></span></p>
+src="/images/image052.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>As we mentioned in the Nakamoto consensus section, we can
@@ -3266,7 +3266,7 @@ font-family:"Bahnschrift",sans-serif'><span style='text-decoration:none'>&nbsp;<
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 20"
-src="CS198.2x-filtered_files/image053.png"></span></p>
+src="/images/image053.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Tendermint was the first BFT-based Proof-of-Stake consensus
@@ -4011,7 +4011,7 @@ safety properties while termination is a liveness property.</span></p>
 <p class=MsoNormal align=center style='margin-bottom:17.0pt;text-align:center;
 line-height:normal'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif'><img
 border=0 width=384 height=366 id="Picture 21"
-src="CS198.2x-filtered_files/image054.png"
+src="/images/image054.png"
 alt="CAP Theorem Venn diagram highlighting intersections of Consistency and Availability with the letters CA, Consistency and Partition Tolerance with the letters CP, and Availability and Partition Tolerances with the letters AP."></span></p>
 
 <p class=MsoNormal style='margin-top:15.0pt;margin-right:0in;margin-bottom:
@@ -4565,7 +4565,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 22"
-src="CS198.2x-filtered_files/image055.png"></span></p>
+src="/images/image055.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Cryptoeconomics aims to understand virtual decision-making by
@@ -4709,7 +4709,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 23"
-src="CS198.2x-filtered_files/image056.png"></span></p>
+src="/images/image056.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Before we talk about the specifics of cryptography, let’s go over
@@ -5272,7 +5272,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 24"
-src="CS198.2x-filtered_files/image057.png"></span></p>
+src="/images/image057.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In Game Theory, we aim to deduce how an actor will act in a given
@@ -5528,7 +5528,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 25"
-src="CS198.2x-filtered_files/image058.png"></span></p>
+src="/images/image058.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Now, some attacks review, with a particular focus on economic
@@ -5846,7 +5846,7 @@ font-family:"Bahnschrift",sans-serif;color:black'>Attacks</span></u></b></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 290"
-src="CS198.2x-filtered_files/image059.jpg"></span></p>
+src="/images/image059.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Let’s start looking at the most basic problem in Proof-of-Stake:
@@ -5865,7 +5865,7 @@ color:black'>Anything that prevents this from happening should be discouraged.</
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=268 id="Picture 291"
-src="CS198.2x-filtered_files/image060.jpg"></span></p>
+src="/images/image060.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>If ever the blockchain ends up in a situation which consensus is
@@ -5880,7 +5880,7 @@ color:black'>What is it about Proof-of-Stake that makes this an issue?</span></p
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 292"
-src="CS198.2x-filtered_files/image061.jpg"></span></p>
+src="/images/image061.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Take a look at the bottom image demonstrating Proof-of-Work.</span></p>
@@ -5959,7 +5959,7 @@ color:black'>Is there a way to solve this?</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 293"
-src="CS198.2x-filtered_files/image062.jpg"></span></p>
+src="/images/image062.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Well, to discourage voting on voting on incorrect forks, let’s
@@ -6005,7 +6005,7 @@ voting strategies need to be explicitly enforced.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 294"
-src="CS198.2x-filtered_files/image063.jpg"></span></p>
+src="/images/image063.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>As you can see in this example, we've made it such that the best
@@ -6014,7 +6014,7 @@ both, now leads to penalties for the voter.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 295"
-src="CS198.2x-filtered_files/image064.jpg"></span></p>
+src="/images/image064.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One major attack that can be conducted in a Proof-of-Stake network
@@ -6027,7 +6027,7 @@ main chain.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 296"
-src="CS198.2x-filtered_files/image065.jpg"></span></p>
+src="/images/image065.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>There are two properties in Proof-of-Stake that allow this to
@@ -6055,7 +6055,7 @@ nodes know which of the chains they are given is the main chain.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 297"
-src="CS198.2x-filtered_files/image066.jpg"></span></p>
+src="/images/image066.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One preconception about blockchains in general is that the longest
@@ -6079,7 +6079,7 @@ color:black'>To explain this clearly, we will step through an example.</span></p
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 298"
-src="CS198.2x-filtered_files/image067.jpg"></span></p>
+src="/images/image067.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Suppose Gloria owns 1% of the tokens the moment the genesis block
@@ -6104,7 +6104,7 @@ any point of the chain, including the genesis block.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 299"
-src="CS198.2x-filtered_files/image068.jpg"></span></p>
+src="/images/image068.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Next, we’ll take a look at the Stake Grinding attack.</span></p>
@@ -6140,7 +6140,7 @@ around with the block parameters to change the signature outcome.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 300"
-src="CS198.2x-filtered_files/image069.jpg"></span></p>
+src="/images/image069.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>There are a few ways that we can address this vulnerability.</span></p>
@@ -6230,7 +6230,7 @@ by shifting letters to the right by a previously set amount.</span></p>
 margin-bottom:17.0pt;margin-left:0in;text-align:center;line-height:normal;
 background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'><img border=0 width=482 height=236 id="Picture 27"
-src="CS198.2x-filtered_files/image070.png" alt="Caesar Cipher"></span></p>
+src="/images/image070.png" alt="Caesar Cipher"></span></p>
 
 <p class=MsoNormal style='margin-top:15.0pt;margin-right:0in;margin-bottom:
 17.0pt;margin-left:0in;line-height:normal;background:white'><span
@@ -6540,7 +6540,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 28"
-src="CS198.2x-filtered_files/image071.png"></span></p>
+src="/images/image071.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>As Bitcoin and blockchain grew increasingly popular, banks and
@@ -6593,7 +6593,7 @@ enterprise use than associated public blockchain systems.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 301"
-src="CS198.2x-filtered_files/image072.jpg"></span></p>
+src="/images/image072.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>While many use cases exist for enterprise blockchains, most
@@ -6603,7 +6603,7 @@ systems, and creating self-sovereign decentralized networks.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 302"
-src="CS198.2x-filtered_files/image073.jpg"></span></p>
+src="/images/image073.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Although many enterprises now wish to take advantage of blockchain
@@ -6645,7 +6645,7 @@ color:black'>Let’s look back at the previous slide.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 303"
-src="CS198.2x-filtered_files/image074.jpg"></span></p>
+src="/images/image074.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Coordination failures between multiple parties seeking to work
@@ -6687,7 +6687,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 304"
-src="CS198.2x-filtered_files/image075.jpg"></span></p>
+src="/images/image075.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>At its most basic level, a blockchain is merely a highly
@@ -6750,7 +6750,7 @@ most people are familiar with: centralized databases.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 305"
-src="CS198.2x-filtered_files/image076.jpg"></span></p>
+src="/images/image076.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Centralized databases, such as a single password server, are
@@ -6768,7 +6768,7 @@ multiple users to the same set of data, and act as a single point of failure.</s
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 306"
-src="CS198.2x-filtered_files/image077.jpg"></span></p>
+src="/images/image077.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>On the other hand, distributed databases consist of groups of
@@ -6782,7 +6782,7 @@ across all nodes.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=276 id="Picture 307"
-src="CS198.2x-filtered_files/image078.jpg"></span></p>
+src="/images/image078.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>However, distributed databases also introduce increased
@@ -6793,7 +6793,7 @@ color:black'>That’s just the overhead of being distributed.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 308"
-src="CS198.2x-filtered_files/image079.jpg"></span></p>
+src="/images/image079.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>A specific type of distributed database is a distributed ledger,
@@ -6807,7 +6807,7 @@ consensus protocols are known as blockchains.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 309"
-src="CS198.2x-filtered_files/image080.jpg"></span></p>
+src="/images/image080.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Recall from our Bitcoin and Cryptocurrencies course that the
@@ -6829,7 +6829,7 @@ non-trusting parties in the network to interact with each other.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 311"
-src="CS198.2x-filtered_files/image081.jpg"></span></p>
+src="/images/image081.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Blockchains can also be categorized based on their architecture
@@ -6911,7 +6911,7 @@ constituents.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 314"
-src="CS198.2x-filtered_files/image082.jpg"></span></p>
+src="/images/image082.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>While blockchain is still in its infancy, many tech powerhouses
@@ -6957,7 +6957,7 @@ layer.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 315"
-src="CS198.2x-filtered_files/image083.jpg"></span></p>
+src="/images/image083.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Despite enterprise movement towards blockchain, there’s still
@@ -7009,7 +7009,7 @@ color:black'>Blockchain can be cool, but only in very particular ways.</span></p
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 320"
-src="CS198.2x-filtered_files/image084.jpg"></span></p>
+src="/images/image084.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>It’s a misconception that enterprise blockchains are always
@@ -7118,7 +7118,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 30"
-src="CS198.2x-filtered_files/image085.png"></span></p>
+src="/images/image085.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In the early days of blockchain development, the most common
@@ -7187,7 +7187,7 @@ different facets of the enterprise blockchain space.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 182"
-src="CS198.2x-filtered_files/image086.jpg"></span></p>
+src="/images/image086.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>As the use of blockchain becomes more and more prevalent, the
@@ -7234,7 +7234,7 @@ exchange decentralization for scalability and security.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 262"
-src="CS198.2x-filtered_files/image087.jpg"></span></p>
+src="/images/image087.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Ethereum is the industry standard blockchain platform for public
@@ -7283,7 +7283,7 @@ helping popular initiatives such as MetaMask and Truffle.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 267"
-src="CS198.2x-filtered_files/image088.jpg"></span></p>
+src="/images/image088.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Hyperledger, a project of the Linux Foundation, was one of the
@@ -7339,7 +7339,7 @@ to check out their edX course.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 269"
-src="CS198.2x-filtered_files/image089.jpg"></span></p>
+src="/images/image089.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Corda focuses on enabling banks to record, manage, synchronize,
@@ -7373,7 +7373,7 @@ transaction and flag that a end attempt has occurred otherwise.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 283"
-src="CS198.2x-filtered_files/image090.jpg"></span></p>
+src="/images/image090.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Chain is another blockchain platform also aimed at financial
@@ -7401,7 +7401,7 @@ that Sequence cannot produce transactions on any other users’ behalf.</span></
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 285"
-src="CS198.2x-filtered_files/image091.jpg"></span></p>
+src="/images/image091.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Ripple is another enterprise blockchain platform focusing on
@@ -7453,7 +7453,7 @@ color:black'>These are called xCurrent, xRapid, and xVia, respectively.</span></
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=268 id="Picture 286"
-src="CS198.2x-filtered_files/image092.jpg"></span></p>
+src="/images/image092.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Rootstock, a Bitcoin sidechain, aims integrate smart contracts
@@ -7484,7 +7484,7 @@ every ten minutes.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 287"
-src="CS198.2x-filtered_files/image093.jpg"></span></p>
+src="/images/image093.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Quorum is a lightweight fork of Ethereum, built for enterprise,
@@ -7533,7 +7533,7 @@ consensus mechanisms.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 288"
-src="CS198.2x-filtered_files/image094.jpg"></span></p>
+src="/images/image094.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Cosmos is an initiative to connect blockchains together. </span></p>
@@ -7577,7 +7577,7 @@ come the Scalability lecture.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 289"
-src="CS198.2x-filtered_files/image095.jpg"></span></p>
+src="/images/image095.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>As a short summary of all the enterprise blockchain platforms
@@ -7653,7 +7653,7 @@ font-family:"Bahnschrift",sans-serif'><span style='text-decoration:none'>&nbsp;<
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 222"
-src="CS198.2x-filtered_files/image096.jpg"></span></p>
+src="/images/image096.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Mobility use cases combine blockchain, autonomous cars, and IoT.</span></p>
@@ -7669,7 +7669,7 @@ Ashley Lannquist, doing a lot of exploration of the industry.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 310"
-src="CS198.2x-filtered_files/image097.jpg"></span></p>
+src="/images/image097.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One of their major use cases revolves around collecting a car’s
@@ -7687,7 +7687,7 @@ Rover.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 336"
-src="CS198.2x-filtered_files/image098.jpg"></span></p>
+src="/images/image098.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>As far as other use cases, there’s supply chain and provenance, so
@@ -7725,7 +7725,7 @@ font-family:"Bahnschrift",sans-serif'><span style='text-decoration:none'>&nbsp;<
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 34"
-src="CS198.2x-filtered_files/image099.png"></span></p>
+src="/images/image099.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The finance industry is particularly well-situated for the
@@ -7746,7 +7746,7 @@ notably Goldman Sachs.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 36"
-src="CS198.2x-filtered_files/image100.png"></span></p>
+src="/images/image100.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Blockchains and their associated assets are also allowing assets
@@ -7775,7 +7775,7 @@ Fabric and yielded positive results earlier this year.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 35"
-src="CS198.2x-filtered_files/image101.png"></span></p>
+src="/images/image101.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Lastly, many finance giants are using blockchain to facilitate
@@ -7808,7 +7808,7 @@ font-family:"Bahnschrift",sans-serif'><span style='text-decoration:none'>&nbsp;<
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 339"
-src="CS198.2x-filtered_files/image102.jpg"></span></p>
+src="/images/image102.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Blockchain is also making waves in the travel industry, allowing
@@ -7832,7 +7832,7 @@ the flexibility to make specialized offers.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 340"
-src="CS198.2x-filtered_files/image103.jpg"></span></p>
+src="/images/image103.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Definitely one of the largest problems facing the travel industry
@@ -7881,7 +7881,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 341"
-src="CS198.2x-filtered_files/image104.jpg"></span></p>
+src="/images/image104.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Companies focusing on decentralized digital identity are focusing
@@ -7901,7 +7901,7 @@ by decoupling that information.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 342"
-src="CS198.2x-filtered_files/image105.jpg"></span></p>
+src="/images/image105.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One of the companies working on self sovereign identity (SSI) is
@@ -7959,7 +7959,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=276 id="Picture 344"
-src="CS198.2x-filtered_files/image106.jpg"></span></p>
+src="/images/image106.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In the healthcare industry, blockchain can provide utility by guaranteeing
@@ -7988,7 +7988,7 @@ product will allow EMTs to view the medical record of unresponsive patients.</sp
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=277 id="Picture 343"
-src="CS198.2x-filtered_files/image107.jpg"></span></p>
+src="/images/image107.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Blockchain is also particularly useful for providing financial
@@ -8029,7 +8029,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 345"
-src="CS198.2x-filtered_files/image108.jpg"></span></p>
+src="/images/image108.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>At the most basic level, insurance is something of a prediction
@@ -8047,11 +8047,11 @@ trust.</span></p>
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Accenture reports that 46 percent of insurers expect to integrate
 blockchain within 2 years.</span><span style='color:black'><img border=0
-width=1 height=1 id="Picture 44" src="CS198.2x-filtered_files/image109.png"></span></p>
+width=1 height=1 id="Picture 44" src="/images/image109.png"></span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 346"
-src="CS198.2x-filtered_files/image110.jpg"></span></p>
+src="/images/image110.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>A blockchain solution would allow the insured party to log their
@@ -8098,7 +8098,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 48"
-src="CS198.2x-filtered_files/image111.png"></span></p>
+src="/images/image111.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>With the rise of supply chains, many massive corporations have
@@ -8194,7 +8194,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 49"
-src="CS198.2x-filtered_files/image112.png"></span></p>
+src="/images/image112.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>IoT devices collect and push data, and blockchains verify and
@@ -8242,7 +8242,7 @@ font-family:"Bahnschrift",sans-serif'><span style='text-decoration:none'>&nbsp;<
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=276 id="Picture 50"
-src="CS198.2x-filtered_files/image113.png"></span></p>
+src="/images/image113.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Real estate is another industry being revolutionized by
@@ -8272,7 +8272,7 @@ available, persistent, and valid?</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 347"
-src="CS198.2x-filtered_files/image114.jpg"></span></p>
+src="/images/image114.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The blockchain solution is to create a hash of every land registry
@@ -8321,7 +8321,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 348"
-src="CS198.2x-filtered_files/image115.jpg"></span></p>
+src="/images/image115.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Last but certainly not least, blockchain can improve the
@@ -8357,7 +8357,7 @@ traced from sender to recipient.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 349"
-src="CS198.2x-filtered_files/image116.jpg"></span></p>
+src="/images/image116.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The problems of fraud and accountability are more severe for
@@ -8440,7 +8440,7 @@ how they fit into the generalizations.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 350"
-src="CS198.2x-filtered_files/image117.jpg"></span></p>
+src="/images/image117.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>To start off, let’s talk about the scenarios where a blockchain
@@ -8492,7 +8492,7 @@ they’re over-engineered solutions to these problems.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 351"
-src="CS198.2x-filtered_files/image118.jpg"></span></p>
+src="/images/image118.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>As mentioned in several of the use cases, blockchains allow us to
@@ -8536,7 +8536,7 @@ intended, giving us the ability to believe in this code as law.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 352"
-src="CS198.2x-filtered_files/image119.jpg"></span></p>
+src="/images/image119.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Blockchains create a standardized platform for access and
@@ -8597,7 +8597,7 @@ while benefiting themselves as well.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 353"
-src="CS198.2x-filtered_files/image120.jpg"></span></p>
+src="/images/image120.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Finally, the most abstract yet fundamental property of a good
@@ -8649,7 +8649,7 @@ persisting across nations.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 354"
-src="CS198.2x-filtered_files/image121.jpg"></span></p>
+src="/images/image121.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Now that we’ve finished talking about all the meaningful
@@ -8769,7 +8769,7 @@ lose out on most of the benefits of decentralization.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 355"
-src="CS198.2x-filtered_files/image122.jpg"></span></p>
+src="/images/image122.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The main takeaway is that there are advantages to both centralized
@@ -8843,7 +8843,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 356"
-src="CS198.2x-filtered_files/image123.jpg"></span></p>
+src="/images/image123.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>An Initial Coin Offering, or “ICO,” is a novel, unregulated means
@@ -8907,7 +8907,7 @@ color:black'>We’ll see in a bit how much each industry has raised through ICOs
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 357"
-src="CS198.2x-filtered_files/image124.jpg"></span></p>
+src="/images/image124.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Let’s take a deeper look at how ICOs innovate on previous
@@ -8957,7 +8957,7 @@ development.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 358"
-src="CS198.2x-filtered_files/image125.jpg"></span></p>
+src="/images/image125.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Open source development is typically led by foundations, such as
@@ -8999,7 +8999,7 @@ will further increase in value.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 359"
-src="CS198.2x-filtered_files/image126.jpg"></span></p>
+src="/images/image126.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>What does the lifecycle of an ICO look like?</span></p>
@@ -9123,7 +9123,7 @@ revolutionary blockchain project! </span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 360"
-src="CS198.2x-filtered_files/image127.jpg"></span></p>
+src="/images/image127.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Legal uncertainty, as expected from so new a space, also permeates
@@ -9171,7 +9171,7 @@ goods from the team.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 361"
-src="CS198.2x-filtered_files/image128.jpg"></span></p>
+src="/images/image128.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Another caveat to consider is the reluctance or even inability of
@@ -9197,7 +9197,7 @@ long term.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 362"
-src="CS198.2x-filtered_files/image129.jpg"></span></p>
+src="/images/image129.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One proposed solution was for funds to be held in escrow, released
@@ -9216,7 +9216,7 @@ color:black'>This solution is not popularly used in ICOs.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 363"
-src="CS198.2x-filtered_files/image130.jpg"></span></p>
+src="/images/image130.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Recall, the purpose of an ICO is to remove regulatory bodies from
@@ -9271,7 +9271,7 @@ accessibility to a larger set of investors, also come the consequences.</span></
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 365"
-src="CS198.2x-filtered_files/image131.jpg"></span></p>
+src="/images/image131.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The new paradigm of ICOs don’t just have drawbacks for investors.</span></p>
@@ -9308,7 +9308,7 @@ color:black'>They do not come with the support that a VC can provide.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 364"
-src="CS198.2x-filtered_files/image132.jpg"></span></p>
+src="/images/image132.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>This model of funding comes with many further drawbacks.</span></p>
@@ -9364,7 +9364,7 @@ they say: “be careful what you wish for.”</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 260"
-src="CS198.2x-filtered_files/image133.png"></span></p>
+src="/images/image133.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In 2017, we saw ICOs overtake VCs as the most popular form of
@@ -9381,7 +9381,7 @@ through VC.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 366"
-src="CS198.2x-filtered_files/image134.jpg"></span></p>
+src="/images/image134.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In 2018, we saw even more raised through ICOs, totaling 20 billion
@@ -9405,7 +9405,7 @@ credit as a funding mechanism, VC funding is starting to surge.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 261"
-src="CS198.2x-filtered_files/image135.png"></span></p>
+src="/images/image135.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>You’ll see in this slide the distribution of funding.</span></p>
@@ -9459,7 +9459,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 367"
-src="CS198.2x-filtered_files/image136.jpg"></span></p>
+src="/images/image136.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>With handling money come several significant measures to prevent
@@ -9499,7 +9499,7 @@ possible.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 368"
-src="CS198.2x-filtered_files/image137.jpg"></span></p>
+src="/images/image137.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Know your Customer regulations are another kind of regulation
@@ -9556,7 +9556,7 @@ audiences as large as possible.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 369"
-src="CS198.2x-filtered_files/image138.jpg"></span></p>
+src="/images/image138.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Entities which deal with money transfer services or payment
@@ -9587,7 +9587,7 @@ services enormously difficult.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 370"
-src="CS198.2x-filtered_files/image139.jpg"></span></p>
+src="/images/image139.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>If that weren’t enough, New York has a separate license
@@ -9618,7 +9618,7 @@ company to obtain a BitLicense, being the 9th.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 371"
-src="CS198.2x-filtered_files/image140.jpg"></span></p>
+src="/images/image140.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>For a bit more perspective, let’s delve into some regulatory
@@ -9653,7 +9653,7 @@ regulation – this ruling confirms that.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 129"
-src="CS198.2x-filtered_files/image141.png"></span></p>
+src="/images/image141.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>This slide demonstrates key arguments against proposed ETFs and
@@ -9673,7 +9673,7 @@ an underlying asset for financial products.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 372"
-src="CS198.2x-filtered_files/image142.jpg"></span></p>
+src="/images/image142.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Now that we’ve given some examples of regulation about
@@ -9719,7 +9719,7 @@ legislation.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 373"
-src="CS198.2x-filtered_files/image143.jpg"></span></p>
+src="/images/image143.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>To put cryptocurrencies and blockchain further into perspective,
@@ -9785,7 +9785,7 @@ cryptocurrencies and blockchain.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 374"
-src="CS198.2x-filtered_files/image144.jpg"></span></p>
+src="/images/image144.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In Bangladesh, it’s claimed that a lack of regulation by a central
@@ -9855,7 +9855,7 @@ networks.&nbsp;</span></p>
 margin-bottom:17.0pt;margin-left:0in;text-align:center;line-height:normal;
 background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'><img border=0 width=290 height=297 id="Picture 137"
-src="CS198.2x-filtered_files/image145.png"
+src="/images/image145.png"
 alt="There are two main catogories of databases: Centralized Databases and Distributed Databases. Within Distributed Databases, there is Distributed ledgers. Within Distributed ledgers, there is Blockchain"></span></p>
 
 <p class=MsoNormal style='margin-top:15.0pt;margin-right:0in;margin-bottom:
@@ -9869,7 +9869,7 @@ requests and data processing.</span></p>
 margin-bottom:17.0pt;margin-left:0in;text-align:center;line-height:normal;
 background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'><img border=0 width=194 height=322 id="Picture 136"
-src="CS198.2x-filtered_files/image146.png" alt="Central Database"></span></p>
+src="/images/image146.png" alt="Central Database"></span></p>
 
 <p class=MsoNormal style='margin-top:15.0pt;margin-right:0in;margin-bottom:
 17.0pt;margin-left:0in;line-height:normal;background:white'><b><span
@@ -9884,7 +9884,7 @@ connecting storage nodes.)</span></p>
 margin-bottom:17.0pt;margin-left:0in;text-align:center;line-height:normal;
 background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'><img border=0 width=290 height=277 id="Picture 135"
-src="CS198.2x-filtered_files/image147.png" alt="Distributed Database"></span></p>
+src="/images/image147.png" alt="Distributed Database"></span></p>
 
 <p class=MsoNormal style='margin-top:15.0pt;margin-right:0in;margin-bottom:
 17.0pt;margin-left:0in;line-height:normal;background:white'><b><span
@@ -9900,7 +9900,7 @@ to have a consistent view of the system.</span></p>
 margin-bottom:17.0pt;margin-left:0in;text-align:center;line-height:normal;
 background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'><img border=0 width=290 height=286 id="Picture 134"
-src="CS198.2x-filtered_files/image148.png" alt="Distributed Ledger"></span></p>
+src="/images/image148.png" alt="Distributed Ledger"></span></p>
 
 <p class=MsoNormal style='margin-top:15.0pt;margin-right:0in;margin-bottom:
 17.0pt;margin-left:0in;line-height:normal;background:white'><span
@@ -10036,7 +10036,7 @@ finish up the project, leading to incentive misalignments.</span></p>
 margin-bottom:17.0pt;margin-left:0in;text-align:center;line-height:normal;
 background:white'><span style='font-size:13.5pt;font-family:"Inter",sans-serif;
 color:black'><img border=0 width=290 height=433 id="Picture 138"
-src="CS198.2x-filtered_files/image149.png" alt=Miroskii></span></p>
+src="/images/image149.png" alt=Miroskii></span></p>
 
 <p class=MsoNormal style='margin-top:15.0pt;margin-right:0in;margin-bottom:
 17.0pt;margin-left:0in;line-height:normal;background:white'><span
@@ -10199,7 +10199,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 375"
-src="CS198.2x-filtered_files/image150.jpg"></span></p>
+src="/images/image150.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One property we look for when gauging the scalability of a
@@ -10220,7 +10220,7 @@ a higher velocity.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 376"
-src="CS198.2x-filtered_files/image151.jpg"></span></p>
+src="/images/image151.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Another property we’re looking for is the speed with which we can
@@ -10249,7 +10249,7 @@ want to wait an hour every morning to get my coffee.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 377"
-src="CS198.2x-filtered_files/image152.jpg"></span></p>
+src="/images/image152.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>And one side note: as we know, blockchain is a decentralized
@@ -10308,7 +10308,7 @@ blockchain systems keeping into account storage size.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 378"
-src="CS198.2x-filtered_files/image153.jpg"></span></p>
+src="/images/image153.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Fundamentally, there’s a scalability trilemma here.</span></p>
@@ -10362,7 +10362,7 @@ would take a hit.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 381"
-src="CS198.2x-filtered_files/image154.jpg"></span></p>
+src="/images/image154.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>To understand all of that more, let’s look at further detail and
@@ -10382,7 +10382,7 @@ around 546 bytes.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 379"
-src="CS198.2x-filtered_files/image155.jpg"></span></p>
+src="/images/image155.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>And here, we have a similar graph, but for Bitcoin block size.</span></p>
@@ -10393,7 +10393,7 @@ reflected in the graph.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 380"
-src="CS198.2x-filtered_files/image156.jpg"></span></p>
+src="/images/image156.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>So here’s a quick calculation based on the numbers we’ve collected
@@ -10423,7 +10423,7 @@ color:black'>That’s not too hot.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 382"
-src="CS198.2x-filtered_files/image157.jpg"></span></p>
+src="/images/image157.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Compared with some other traditional payment systems, Bitcoin is
@@ -10452,7 +10452,7 @@ color:black'>That was the situation at hand.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 383"
-src="CS198.2x-filtered_files/image158.jpg"></span></p>
+src="/images/image158.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Suppose we now want to make our transaction rate comparable to
@@ -10497,7 +10497,7 @@ sections.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 384"
-src="CS198.2x-filtered_files/image159.jpg"></span></p>
+src="/images/image159.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In terms of different techniques with which we can scale, there
@@ -10567,7 +10567,7 @@ color:black'>Yep that’s right –– blockchains have layers.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 385"
-src="CS198.2x-filtered_files/image160.jpg"></span></p>
+src="/images/image160.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>We’ll cover this part pretty quickly since it’s more insightful to
@@ -10593,7 +10593,7 @@ operation of the Ethereum blockchain.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 386"
-src="CS198.2x-filtered_files/image161.jpg"></span></p>
+src="/images/image161.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>On the other hand, we have layer 2 scaling solutions, which push
@@ -10658,7 +10658,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 387"
-src="CS198.2x-filtered_files/image162.jpg"></span></p>
+src="/images/image162.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>So the first idea we have for a naive scaling solution is to
@@ -10684,7 +10684,7 @@ that we looked at earlier, right?</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 388"
-src="CS198.2x-filtered_files/image163.jpg"></span></p>
+src="/images/image163.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The main issue we have here if we decrease the difficulty of the
@@ -10710,7 +10710,7 @@ color:black'>Let’s say that we halve the block time.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 389"
-src="CS198.2x-filtered_files/image164.jpg"></span></p>
+src="/images/image164.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Firstly, decreasing block time means that the blockchain will grow
@@ -10726,7 +10726,7 @@ it the same size, since we’re producing blocks twice as fast now.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 390"
-src="CS198.2x-filtered_files/image165.jpg"></span></p>
+src="/images/image165.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Now, with the decreased block time, it’s also more likely that
@@ -10775,7 +10775,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 391"
-src="CS198.2x-filtered_files/image166.jpg"></span></p>
+src="/images/image166.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>What we were trying to do with our naive scaling solution was to
@@ -10794,7 +10794,7 @@ can take a look at with a more constructive outlook?</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 392"
-src="CS198.2x-filtered_files/image167.jpg"></span></p>
+src="/images/image167.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Recall that another problem with the naive solution was that there
@@ -10820,7 +10820,7 @@ color:black'>How do we avoid wasting all of this work?</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 393"
-src="CS198.2x-filtered_files/image168.jpg"></span></p>
+src="/images/image168.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Instead of just increasing the speed of blocks and doing nothing
@@ -10866,7 +10866,7 @@ to reduce the overhead of communicating with pools anyways.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=268 id="Picture 394"
-src="CS198.2x-filtered_files/image169.jpg"></span></p>
+src="/images/image169.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Ethereum had a period when it had 17 second block times, but now
@@ -10897,7 +10897,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=277 id="Picture 395"
-src="CS198.2x-filtered_files/image170.jpg"></span></p>
+src="/images/image170.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Another vertical scaling alternative we can achieve by adjusting
@@ -10939,7 +10939,7 @@ less reward.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 396"
-src="CS198.2x-filtered_files/image171.jpg"></span></p>
+src="/images/image171.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Another issue that might come up after implementing block size
@@ -10965,7 +10965,7 @@ increasing block size.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 397"
-src="CS198.2x-filtered_files/image172.jpg"></span></p>
+src="/images/image172.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Yet another con is that of longer propagation times.</span></p>
@@ -10991,7 +10991,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 399"
-src="CS198.2x-filtered_files/image173.jpg"></span></p>
+src="/images/image173.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Another alternative we mentioned earlier was that of decreasing
@@ -11016,7 +11016,7 @@ size, which are SegWit and recursive SNARKs.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 400"
-src="CS198.2x-filtered_files/image174.jpg"></span></p>
+src="/images/image174.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>SegWit is short for Segregated Witness, and was originally created
@@ -11056,7 +11056,7 @@ about 546 bytes, so if we can decrease that size, that would be awesome.</span><
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 401"
-src="CS198.2x-filtered_files/image175.jpg"></span></p>
+src="/images/image175.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The idea for SegWit was to move the signatures to a separate
@@ -11078,7 +11078,7 @@ color:black'>Assuming the signatures are valid, then the transaction is valid.</
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 402"
-src="CS198.2x-filtered_files/image176.jpg"></span></p>
+src="/images/image176.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Old nodes on the other hand would find these new scriptPubKeys and
@@ -11106,7 +11106,7 @@ color:black'>SegWit is compatible as a soft fork.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 404"
-src="CS198.2x-filtered_files/image177.jpg"></span></p>
+src="/images/image177.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One issue now though is that because we segregated signatures from
@@ -11115,7 +11115,7 @@ correct signatures were included in their respective transactions!</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 403"
-src="CS198.2x-filtered_files/image178.jpg"></span></p>
+src="/images/image178.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>To fix this, Segwit also comes with a change to the regular merkle
@@ -11134,7 +11134,7 @@ the beautiful properties of tamper evidence.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 405"
-src="CS198.2x-filtered_files/image179.jpg"></span></p>
+src="/images/image179.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The pros and cons of SegWit.</span></p>
@@ -11210,7 +11210,7 @@ transactions we want to represent.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 407"
-src="CS198.2x-filtered_files/image180.jpg"></span></p>
+src="/images/image180.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>As for cons, we know that SegWit is only a one time linear capacity
@@ -11248,7 +11248,7 @@ malleability.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 408"
-src="CS198.2x-filtered_files/image181.jpg"></span></p>
+src="/images/image181.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>So as the Bitcoin scalability debate reached its climax, Bitcoin
@@ -11261,7 +11261,7 @@ color:black'>This was on August 1st, 2017, at block number 478,558.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 409"
-src="CS198.2x-filtered_files/image182.jpg"></span></p>
+src="/images/image182.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The next on-chain vertical scalability topic we’ll cover hinges on
@@ -11286,7 +11286,7 @@ your user’s identities are compromised.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 410"
-src="CS198.2x-filtered_files/image183.jpg"></span></p>
+src="/images/image183.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Instead, websites usually store a hash of your password instead.</span></p>
@@ -11328,7 +11328,7 @@ color:black'>That’s the main idea of zk-SNARKS</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 411"
-src="CS198.2x-filtered_files/image184.jpg"></span></p>
+src="/images/image184.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>And it gets better; we can introduce a recursive structure!</span></p>
@@ -11360,7 +11360,7 @@ color:black'>For some closing thoughts, let’s look back at our previous slide.
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 412"
-src="CS198.2x-filtered_files/image185.jpg"></span></p>
+src="/images/image185.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Back to Alice and Bob, Alice generates a proof that she can send a
@@ -11373,7 +11373,7 @@ in milliseconds.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 413"
-src="CS198.2x-filtered_files/image186.jpg"></span></p>
+src="/images/image186.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>However, there do exist some pretty big drawbacks.</span></p>
@@ -11398,7 +11398,7 @@ blockchains.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 414"
-src="CS198.2x-filtered_files/image187.jpg"></span></p>
+src="/images/image187.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>We’ve been playing with a bunch of parameters, such as block size,
@@ -11473,7 +11473,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 415"
-src="CS198.2x-filtered_files/image188.jpg"></span></p>
+src="/images/image188.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>We’ve been referring back to Bitcoin a lot since it’s one of the
@@ -11493,7 +11493,7 @@ during winter 2018, becoming insanely high.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 206"
-src="CS198.2x-filtered_files/image189.jpg"></span></p>
+src="/images/image189.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Here’s a graph of the daily transaction fees in US dollars per
@@ -11538,7 +11538,7 @@ users, Alice and Bob.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 207"
-src="CS198.2x-filtered_files/image190.jpg"></span></p>
+src="/images/image190.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>How would we actually implement a private payment channel between
@@ -11572,7 +11572,7 @@ long confirmation times of regular on chain transactions.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 208"
-src="CS198.2x-filtered_files/image191.jpg"></span></p>
+src="/images/image191.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>This is how Alice and Bob’s payment channel would look like.</span></p>
@@ -11606,7 +11606,7 @@ party in a payment channel can cheat the other.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 209"
-src="CS198.2x-filtered_files/image192.jpg"></span></p>
+src="/images/image192.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In blockchain, we call them payment channels, but we generally
@@ -11634,7 +11634,7 @@ of a contract governing all actions – including incentives for not cheating.</
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 210"
-src="CS198.2x-filtered_files/image193.jpg"></span></p>
+src="/images/image193.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Let’s walk through a short little demo for a payment on a payment
@@ -11670,7 +11670,7 @@ wait a large number of blocks, say 1000 blocks.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 211"
-src="CS198.2x-filtered_files/image194.jpg"></span></p>
+src="/images/image194.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Say Alice pays Bob 3 bitcoins.</span></p>
@@ -11714,7 +11714,7 @@ cheating.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 212"
-src="CS198.2x-filtered_files/image195.jpg"></span></p>
+src="/images/image195.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Now some key observations from our payment channel demo, and of
@@ -11770,7 +11770,7 @@ color:black'>There remain some issues though.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 213"
-src="CS198.2x-filtered_files/image196.jpg"></span></p>
+src="/images/image196.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Firstly, both participants Alice and Bob need to have capital
@@ -11830,7 +11830,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 183"
-src="CS198.2x-filtered_files/image197.png"></span></p>
+src="/images/image197.png"></span></p>
 
 <p style='margin:0in;background:white'><span style='font-size:13.0pt;
 font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
@@ -11852,7 +11852,7 @@ then she can send him money.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 214"
-src="CS198.2x-filtered_files/image198.jpg"></span></p>
+src="/images/image198.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>This is an example of what a payment channel network would look
@@ -11866,7 +11866,7 @@ to Charlie.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 215"
-src="CS198.2x-filtered_files/image199.png"></span></p>
+src="/images/image199.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The main problem we have to address here is that of security.</span></p>
@@ -11955,7 +11955,7 @@ literally have tens of thousands of tps with the Lightning Network.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 217"
-src="CS198.2x-filtered_files/image200.png"></span></p>
+src="/images/image200.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>As great as the Lightning Network sounds, of course we have some
@@ -12015,7 +12015,7 @@ just the Lightning Network for Bitcoin.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 218"
-src="CS198.2x-filtered_files/image201.png"></span></p>
+src="/images/image201.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>There’s also a comparable technology for Ethereum, called Raiden.</span></p>
@@ -12065,7 +12065,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 219"
-src="CS198.2x-filtered_files/image202.png"></span></p>
+src="/images/image202.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One way databases have traditionally been horizontally scaled is
@@ -12130,7 +12130,7 @@ it creates a scalability bottleneck.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 179"
-src="CS198.2x-filtered_files/image203.png"></span></p>
+src="/images/image203.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In the case of blockchain, sharding could be used to eliminate the
@@ -12177,7 +12177,7 @@ currently actively being researched.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 180"
-src="CS198.2x-filtered_files/image204.png"></span></p>
+src="/images/image204.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Especially within the Ethereum research community, there’ve been
@@ -12220,7 +12220,7 @@ maintain correct operation if a single shard has been taken over.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 181"
-src="CS198.2x-filtered_files/image205.png"></span></p>
+src="/images/image205.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>On a similar note, there’s also the idea of creating side chains.</span></p>
@@ -12254,7 +12254,7 @@ against a compromised chain.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=265 id="Picture 184"
-src="CS198.2x-filtered_files/image206.png"></span></p>
+src="/images/image206.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>And here’s an idea of how sidechain networks would look like.</span></p>
@@ -12333,7 +12333,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=268 id="Picture 185"
-src="CS198.2x-filtered_files/image207.png"></span></p>
+src="/images/image207.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Having discussed both vertical and horizontal scaling solutions,
@@ -12357,7 +12357,7 @@ acts as an arbiter in the case of dispute.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 216"
-src="CS198.2x-filtered_files/image208.png"></span></p>
+src="/images/image208.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>A user’s interaction with Plasma might be as follows.</span></p>
@@ -12400,7 +12400,7 @@ serves as the source of truth.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 220"
-src="CS198.2x-filtered_files/image209.png"></span></p>
+src="/images/image209.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Plasma is being developed by Blockchain at Berkeley’s FourthState
@@ -12431,7 +12431,7 @@ implementation on Cosmos.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 221"
-src="CS198.2x-filtered_files/image210.png"></span></p>
+src="/images/image210.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Here’s a picture of our team getting a well deserved shoutout at
@@ -12449,7 +12449,7 @@ particular sense of modularity.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 223"
-src="CS198.2x-filtered_files/image211.png"></span></p>
+src="/images/image211.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Plasma is one component of the larger scalability ecosystem.</span></p>
@@ -12463,7 +12463,7 @@ Cosmos, it especially opens up the door for interoperability.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 224"
-src="CS198.2x-filtered_files/image212.png"></span></p>
+src="/images/image212.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Before introducing Cosmos from the scalability perspective, it’s
@@ -12504,7 +12504,7 @@ scripting language, etc.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 225"
-src="CS198.2x-filtered_files/image213.png"></span></p>
+src="/images/image213.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Then, with the advent of Ethereum, writing blockchain applications
@@ -12527,7 +12527,7 @@ Tendermint, with the ABCI, or application blockchain interface.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=275 id="Picture 226"
-src="CS198.2x-filtered_files/image214.png"></span></p>
+src="/images/image214.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>An advantage of this modular design is that of flexibility, which
@@ -12544,7 +12544,7 @@ itself.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 227"
-src="CS198.2x-filtered_files/image215.png"></span></p>
+src="/images/image215.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>We won’t dive too in depth here, but the general topology of the
@@ -12564,7 +12564,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 186"
-src="CS198.2x-filtered_files/image216.png"></span></p>
+src="/images/image216.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>With consideration of blockchain ecosystem rearchitecting, such as
@@ -12593,7 +12593,7 @@ do your own research in this.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 228"
-src="CS198.2x-filtered_files/image217.png"></span></p>
+src="/images/image217.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Let’s take a moment to reflect on what we’ve learned this week.</span></p>
@@ -12614,7 +12614,7 @@ all factors in community adoption – the ultimate goal, really.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 229"
-src="CS198.2x-filtered_files/image218.png"></span></p>
+src="/images/image218.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Upon understanding the scaling problem, we saw some fundamental
@@ -12672,7 +12672,7 @@ functionality.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 230"
-src="CS198.2x-filtered_files/image219.png"></span></p>
+src="/images/image219.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Perhaps a blockchain would rather focus on security or
@@ -12687,7 +12687,7 @@ structures.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=277 id="Picture 231"
-src="CS198.2x-filtered_files/image220.png"></span></p>
+src="/images/image220.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Again to summarize what we’ve learned, let’s tie back to the two
@@ -12706,7 +12706,7 @@ color:black'>Let’s step through all of the scaling solutions we learned.</span
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 232"
-src="CS198.2x-filtered_files/image221.png"></span></p>
+src="/images/image221.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>First, we tried tuning on-chain parameters for vertical scaling.</span></p>
@@ -12824,7 +12824,7 @@ interoperable blockchains.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 233"
-src="CS198.2x-filtered_files/image222.png"></span></p>
+src="/images/image222.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>And finally, with Tendermint’s integration within the Cosmos
@@ -12869,7 +12869,7 @@ color:black'>II. Vertical Scaling</span></p>
 <p align=center style='margin-top:15.0pt;margin-right:0in;margin-bottom:17.0pt;
 margin-left:0in;text-align:center;background:white'><span style='font-size:
 13.0pt;font-family:"Bahnschrift",sans-serif;color:black'><img border=0
-width=300 height=60 id="Picture 190" src="CS198.2x-filtered_files/image223.png"
+width=300 height=60 id="Picture 190" src="/images/image223.png"
 alt="TPS calculation"></span></p>
 
 <p style='margin-top:15.0pt;margin-right:0in;margin-bottom:17.0pt;margin-left:
@@ -12915,7 +12915,7 @@ propagate a block remains the same.</span></p>
 <p align=center style='margin-top:15.0pt;margin-right:0in;margin-bottom:17.0pt;
 margin-left:0in;text-align:center;background:white'><span style='font-size:
 13.0pt;font-family:"Bahnschrift",sans-serif;color:black'><img border=0
-width=500 height=114 id="Picture 189" src="CS198.2x-filtered_files/image224.png"
+width=500 height=114 id="Picture 189" src="/images/image224.png"
 alt="Time to broadcast block fixed while block creation time decreases"></span></p>
 
 <p style='margin-top:15.0pt;margin-right:0in;margin-bottom:17.0pt;margin-left:
@@ -13007,7 +13007,7 @@ network of payment channels</span></p>
 <p align=center style='margin-top:15.0pt;margin-right:0in;margin-bottom:17.0pt;
 margin-left:0in;text-align:center;background:white'><span style='font-size:
 13.0pt;font-family:"Bahnschrift",sans-serif;color:black'><img border=0
-width=386 height=120 id="Picture 188" src="CS198.2x-filtered_files/image225.png"
+width=386 height=120 id="Picture 188" src="/images/image225.png"
 alt="Payment Channel Network. Alice to Bob to Eve to Charlie"></span></p>
 
 <p style='margin-top:15.0pt;margin-right:0in;margin-bottom:17.0pt;margin-left:
@@ -13074,7 +13074,7 @@ color:black'>Here is an example of a sidechain setup:</span></p>
 <p align=center style='margin-top:15.0pt;margin-right:0in;margin-bottom:17.0pt;
 margin-left:0in;text-align:center;background:white'><span style='font-size:
 13.0pt;font-family:"Bahnschrift",sans-serif;color:black'><img border=0
-width=386 height=193 id="Picture 187" src="CS198.2x-filtered_files/image226.png"
+width=386 height=193 id="Picture 187" src="/images/image226.png"
 alt="Side chains"></span></p>
 
 <p style='margin:0in;background:white'><span style='font-size:13.0pt;
@@ -13138,7 +13138,7 @@ vertically or horizontally.</span></p>
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;color:black'><img
 border=0 width=482 height=167 id="Picture 191"
-src="CS198.2x-filtered_files/image227.png"
+src="/images/image227.png"
 alt="Vertical and Horizontal, Layer 1 and Layer 2 scaling solutions"></span></p>
 
 <p style='margin:0in;background:white'><span style='font-size:13.0pt;
@@ -13319,7 +13319,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 192"
-src="CS198.2x-filtered_files/image228.png"></span></p>
+src="/images/image228.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>When thinking of anonymity, your mind might jump to secret
@@ -13353,7 +13353,7 @@ to even the average person.</span></p>
 color:black'>Imagine it’s just any other day.</span></p>
 
 <p style='background:white'><span style='color:black'><img border=0 width=482
-height=269 id="Picture 234" src="CS198.2x-filtered_files/image229.png"></span></p>
+height=269 id="Picture 234" src="/images/image229.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>You’re with your friend at McDonald’s ordering food, and it’s time
@@ -13402,7 +13402,7 @@ another, it reduces the fungibility of the currency and makes life harder for
 you too.</span></p>
 
 <p style='background:white'><span style='color:black'><img border=0 width=482
-height=278 id="Picture 235" src="CS198.2x-filtered_files/image230.png"></span></p>
+height=278 id="Picture 235" src="/images/image230.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Now let’s consider a more drastic example.</span></p>
@@ -13424,7 +13424,7 @@ about your transaction history and financial standing put you in danger.</span><
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 236"
-src="CS198.2x-filtered_files/image231.png"></span></p>
+src="/images/image231.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Taking a step back, we can look at the origin of Bitcoin and
@@ -13451,7 +13451,7 @@ color:black'>They allowed anyone to store the blockchain.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 237"
-src="CS198.2x-filtered_files/image232.png"></span></p>
+src="/images/image232.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>What this means though is that everyone has everyone’s data.</span></p>
@@ -13468,7 +13468,7 @@ their detriment.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 238"
-src="CS198.2x-filtered_files/image233.png"></span></p>
+src="/images/image233.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>It’s clear that blockchains are not anonymous by default.</span></p>
@@ -13503,14 +13503,14 @@ color:black'>Most blockchains are not anonymous.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 239"
-src="CS198.2x-filtered_files/image234.png"></span></p>
+src="/images/image234.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Instead, most blockchains are pseudonymous.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=266 id="Picture 240"
-src="CS198.2x-filtered_files/image235.png"></span></p>
+src="/images/image235.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In most blockchains, we use a publicly viewable but arbitrary
@@ -13554,7 +13554,7 @@ color:black'>Therefore, most blockchains, including Bitcoin, are pseudonymous.</
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 241"
-src="CS198.2x-filtered_files/image236.png"></span></p>
+src="/images/image236.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In Bitcoin, and some other blockchain platforms, it’s generally
@@ -13591,7 +13591,7 @@ software, which often performs this by default.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 246"
-src="CS198.2x-filtered_files/image237.png"></span></p>
+src="/images/image237.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Just generate a new address every time you receive any
@@ -13610,7 +13610,7 @@ time you receive Bitcoin.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 244"
-src="CS198.2x-filtered_files/image238.png"></span></p>
+src="/images/image238.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>It’s much harder to do that in Ethereum and other account based
@@ -13622,7 +13622,7 @@ technique of regenerating pseudonyms ineffective.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 247"
-src="CS198.2x-filtered_files/image239.png"></span></p>
+src="/images/image239.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Similar to a lock on a front door, generating new pseudonyms for every
@@ -13631,7 +13631,7 @@ probably find a way to link your activity together.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 242"
-src="CS198.2x-filtered_files/image240.png"></span></p>
+src="/images/image240.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The term “linking” in the context of anonymity is the act of
@@ -13665,7 +13665,7 @@ color:black'>But see, that’s the catch.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=270 id="Picture 243"
-src="CS198.2x-filtered_files/image241.png"></span></p>
+src="/images/image241.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The underlying technology might be anonymous or pseudonymous, but we
@@ -13678,7 +13678,7 @@ privacy.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 248"
-src="CS198.2x-filtered_files/image242.jpg"></span></p>
+src="/images/image242.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>What we like to say is that anonymity is not absolute – not a
@@ -13702,7 +13702,7 @@ anonymity?</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 249"
-src="CS198.2x-filtered_files/image238.png"></span></p>
+src="/images/image238.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>To deal with the question again of how anonymous cryptocurrencies
@@ -13757,7 +13757,7 @@ color:black'>We leave further contemplation for you to do yourself.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 245"
-src="CS198.2x-filtered_files/image243.png"></span></p>
+src="/images/image243.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>To round out our brief introduction as to why we might want
@@ -13829,7 +13829,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=264 id="Picture 193"
-src="CS198.2x-filtered_files/image244.png"></span></p>
+src="/images/image244.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The big concern about decentralization that we look at in regards
@@ -13838,14 +13838,14 @@ reveal information about a particular pseudonym.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 250"
-src="CS198.2x-filtered_files/image245.png"></span></p>
+src="/images/image245.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>That’s the goal of deanonymization, or linking</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 251"
-src="CS198.2x-filtered_files/image246.png"></span></p>
+src="/images/image246.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One way we can achieve this – which we alluded to earlier – is by
@@ -13867,7 +13867,7 @@ make certain transactions with certain other pseudonyms.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 252"
-src="CS198.2x-filtered_files/image247.png"></span></p>
+src="/images/image247.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One way of analyzing the transaction graph is by clustering, or
@@ -14096,7 +14096,7 @@ to track your activity.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 195"
-src="CS198.2x-filtered_files/image248.png"></span></p>
+src="/images/image248.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>To better understand mixing’s mechanics, we’re going to examine a
@@ -14348,7 +14348,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=266 id="Picture 196"
-src="CS198.2x-filtered_files/image249.png"></span></p>
+src="/images/image249.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Thus far, our proposed solutions have leveraged either a single
@@ -14665,7 +14665,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 197"
-src="CS198.2x-filtered_files/image250.png"></span></p>
+src="/images/image250.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Fair exchange mixers are a different category of mixer.</span></p>
@@ -14832,7 +14832,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 198"
-src="CS198.2x-filtered_files/image251.png"></span></p>
+src="/images/image251.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>DASH, formerly known as DarkCoin, is a privacy focused cryptocurrency
@@ -15381,7 +15381,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 199"
-src="CS198.2x-filtered_files/image252.png"></span></p>
+src="/images/image252.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In traditional cypherpunk fashion, there was a proposal published
@@ -15653,7 +15653,7 @@ pseudonyms.</span></p>
 margin-bottom:17.0pt;margin-left:0in;text-align:center;line-height:normal;
 background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'><img border=0 width=482 height=377 id="Picture 201"
-src="CS198.2x-filtered_files/image253.jpg"
+src="/images/image253.jpg"
 alt="The transaction graph shows the crypto transactions in the network. Satoshi, Mt Gox and silk road are nodes where most edges are connected to."></span></p>
 
 <p class=MsoNormal style='margin-top:15.0pt;margin-right:0in;margin-bottom:
@@ -15719,7 +15719,7 @@ mixing solutions:</span></b></p>
 17.0pt;margin-left:0in;line-height:normal;background:white'><span
 style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;color:black'><img
 border=0 width=626 height=215 id="Picture 200"
-src="CS198.2x-filtered_files/image254.jpg"
+src="/images/image254.jpg"
 alt="Alice dirty input 1 BTC into the centralized mixing service. And the Mixer sends cleaned funds after random waiting period. So Alice will get 0.9 BTC as the output(0.1 is the &quot;cleanning fee&quot;)"></span></p>
 
 <ul type=disc>
@@ -16074,7 +16074,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 202"
-src="CS198.2x-filtered_files/image255.png"></span></p>
+src="/images/image255.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>You’ve done it!</span></p>
@@ -16631,7 +16631,7 @@ Technology</span></u></b></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 203"
-src="CS198.2x-filtered_files/image256.png"></span></p>
+src="/images/image256.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>In our second course CS198.2x we decided to take a huge step back
@@ -17163,7 +17163,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=272 id="Picture 204"
-src="CS198.2x-filtered_files/image257.png"></span></p>
+src="/images/image257.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Throughout our offerings of both courses in the Blockchain
@@ -17184,7 +17184,7 @@ considered.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 324"
-src="CS198.2x-filtered_files/image258.jpg"></span></p>
+src="/images/image258.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>First of all, one ought to choose profitable hardware; the older
@@ -17240,7 +17240,7 @@ minimize time to break even, and maximize return on investment.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 325"
-src="CS198.2x-filtered_files/image259.jpg"></span></p>
+src="/images/image259.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>One of the ways to do this is to optimize hardware costs on the
@@ -17285,7 +17285,7 @@ color:black'>Hence, it’s crucial to keep your cards cool.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=274 id="Picture 326"
-src="CS198.2x-filtered_files/image260.jpg"></span></p>
+src="/images/image260.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>The non-essentials of a mining rig are all the components that are
@@ -17319,7 +17319,7 @@ color:black'>It doesn’t need to look pretty, it just needs to get you paid.</s
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 327"
-src="CS198.2x-filtered_files/image261.jpg"></span></p>
+src="/images/image261.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Now onto software ==== In terms of software for mining, some
@@ -17356,7 +17356,7 @@ generally a good metric to measuring successful cryptocurrency mining.</span></p
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=273 id="Picture 328"
-src="CS198.2x-filtered_files/image262.jpg"></span></p>
+src="/images/image262.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Ideally, every business endeavor wants to minimize the time until
@@ -17580,7 +17580,7 @@ color:black'>Let’s start with the utopia.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 26"
-src="CS198.2x-filtered_files/image263.jpg"></span></p>
+src="/images/image263.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>You leave the apartment where you spent the night, and as you
@@ -17601,7 +17601,7 @@ decide to extend your payment channel for another 20 years.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=266 id="Picture 29"
-src="CS198.2x-filtered_files/image264.jpg"></span></p>
+src="/images/image264.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>You call ‘your’ car, but it’s not really yours; it’s plugged into
@@ -17617,7 +17617,7 @@ maintenance and insurance.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 316"
-src="CS198.2x-filtered_files/image265.jpg"></span></p>
+src="/images/image265.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Accidents are rare, but when they do happen, the insurance agency
@@ -17644,7 +17644,7 @@ knowledge.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=269 id="Picture 321"
-src="CS198.2x-filtered_files/image266.jpg"></span></p>
+src="/images/image266.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Your company isn’t really a company either - it’s a decentralized
@@ -17659,7 +17659,7 @@ benefit to society your research brings.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 322"
-src="CS198.2x-filtered_files/image267.jpg"></span></p>
+src="/images/image267.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Your latest research provides strong evidence that the efforts to
@@ -17679,7 +17679,7 @@ targets.</span></p>
 
 <p align=center style='text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=267 id="Picture 323"
-src="CS198.2x-filtered_files/image268.jpg"></span></p>
+src="/images/image268.jpg"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>Thanks to the fair democracy enabled by the DAO, the planet is
@@ -17851,7 +17851,7 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 
 <p align=center style='margin:0in;text-align:center;background:white'><span
 style='color:black'><img border=0 width=482 height=271 id="Picture 205"
-src="CS198.2x-filtered_files/image269.png"></span></p>
+src="/images/image269.png"></span></p>
 
 <p style='background:white'><span style='font-size:13.0pt;font-family:"Bahnschrift",sans-serif;
 color:black'>About getting involved in the blockchain space.</span></p>
@@ -18056,279 +18056,3 @@ font-family:"Bahnschrift",sans-serif'>&nbsp;</span></p>
 </body>
 
 </html>
-
-<!---------------------------------------------------------------------------------------------------------------------------
-<h2 align="center">CS198.2x - University of California @ BerkeleyX</h2>
-<br/><br/>
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------- Berkeley cs198.2x blockchain logo -------------------------------->
-<!------------------------------------------------------------------------------------------------>
-<p align="center">
-<img src="/images/image1.png" alt="Berkeley: CS198.2x logo" style="width:5in;height:2.81998in" />
-<h2 align="center">Blockchain Technologies</h2>
-
-<h2>Course Syllabus</h2>
-
-This course provides a wide overview of many of the topics relating to
-and building upon the foundation of Bitcoin and blockchain technology. 
-
-The course is divided into [6 modules]{.underline}: 1. Distributed
-Systems & Consensus, 2. Cryptoeconomics & Proof-of-Stake, 3. Enterprise
-Blockchain, 4. Scalability, 5. Anonymity, and 6. A Blockchain Powered
-Future.
-
-<h3>Trust Without Trust: Distributed Systems & Consensus</h3>
-
-> Blockchain architecture is built on the foundation of decades of
-> computer science and distributed systems literature. We start out by
-> providing a formal definition of distributed consensus and presenting
-> foundational theoretical computer science topics such as the CAP
-> Theorem and the Byzantine Generals Problem. We then explore
-> alternative consensus mechanisms to Bitcoin's Proof-of-work, including
-> Proof-of-Stake, voting-based consensus algorithms, and federated
-> consensus.
-
-<h3>Securing Incentives: Cryptoeconomics & Proof-of-Stake<h3>
-
-> We examine the meaning and properties of cryptoeconomics as it relates
-> to its two compositional fields: cryptography and economics. We then
-> look at the goals of cryptoeconomics with respect to distributed
-> systems fundamentals (liveness, safety, data availability) and the
-> griefing factors and faults in the way of these goals.
-
-<h3>Real-World Applications: Enterprise Blockchain</h3>
-
-> We categorize the uses of blockchain and distributed ledger
-> technologies, and look at various existing enterprise-level blockchain
-> implementations, such as JP Morgan's Quorum, Ripple, Tendermint, and
-> HyperLedger. We also explore business and industry use cases for
-> blockchain, ICOs, and the increasing regulations surrounding
-> blockchain.
-
-<h3>Cryptocurrencies for the Masses: Scaling Blockchain</h3>
-
-> One major obstacle to widespread blockchain adoption is the problem of
-> scalability. We define scaling first as it relates to Bitcoin as a
-> payment method, and compare it to more traditional forms of payment
-> such as credit cards. We then consider the general blockchain
-> scalability debate and look into some solutions categorized by
-> vertical and horizontal, as well as layer 1 and layer 2 scaling.
-> Topics include block size increases, Segregated Witness, payment
-> channels, Lightning Network, sidechains, Plasma, sharding, and Cosmos.
-
-<h3>The Fight for Privacy: Anonymity, Mixing & Altcoins</h3>
-
-> We look into the measures that governments have taken to regulate and
-> control blockchain technology.  We examine Anti-Money Laundering (AML)
-> and Know Your Customer (KYC) regulations, anonymity goals, and
-> government techniques for deanonymization of entities on blockchain.
-> Then from the user's perspective, we also dive into privacy oriented
-> altcoins and mixing techniques.
-
-<h3>A Blockchain Powered Future</h3>
-
-> A summary of the entire Blockchain Fundamentals program and an
-> exploratory look into blockchain ventures today, such as venture
-> capitalism, ICOs, and crowdfunding. We conclude with a
-> blockchain-based future thought experiment and explain the avenues for
-> the student's potential involvement.
-
-<h4>Notes from Rustie</h4>
-Since Fall, 2016, Blockchain at Berkeley has been offering a course on
-the fundamental concepts of cryptocurrencies and blockchain on UC
-Berkeley campus. The goal was to create a survey of the blockchain space
-that was accessible to anyone, no matter their background.
-
-Our core curriculum, Blockchain Fundamentals, is split into two main
-narrative "epochs," which roughly model the gradual maturing and general
-sentiment about cryptocurrency and then later blockchain technologies.
-This has translated nicely to the edX platform.
-
-Our narrative starts with [Bitcoin and
-Cryptocurrencies ](https://www.edx.org/course/cryptocurrencies-bitcoin-and-the-crypto-space)explaining
-cryptocurrencies as the first use case for blockchain, and Bitcoin as
-the original inspiration. Our aim for this first epoch is to explore
-both the technological and social aspects of Bitcoin, and then introduce
-Ethereum towards the end, so as to dramatically reveal to students the
-amount of intuition that carries over between understanding different
-blockchain platforms at a high level. While the name of the epoch is
-"Bitcoin and Cryptocurrencies," the primary motivation outside of
-explaining what the title says is to decouple the ideas of Bitcoin and
-cryptocurrencies from that of blockchain. 
-
-With the realization that their intuition carries from Bitcoin, a
-cryptocurrency, to Ethereum, a more generalized blockchain platform,
-students then transition into the curriculum's second epoch, [Blockchain
-Technology ](https://www.edx.org/course/blockchain-advancing-decentralized-technology)
-The aim for this second epoch is to further expand the student's mental
-model of what blockchain is. At this point, students are confident in
-their understanding of cryptocurrencies and blockchain, so in this
-epoch, we start by diving into important big-picture technical topics.
-
-That's where we are now, and we can't wait to get to know each and every
-one of you through the discussions you start and the questions you
-ask. Our vision for Blockchain Fundamentals was to surmount the steep
-learning curve of blockchain and to create a space for students of all
-backgrounds to collaborate and learn together. If you have any questions
-or concerns, please do not hesitate to ask in the discussion boards.
-
-On behalf of all of our amazing course staff, I'd like to officially
-welcome you to CS198.2x Blockchain Technology.
-
-We hope you enjoy the course! 
-
-Rustie Lin
-
-<h4><i>Resources</i></h4>
-CS198.1x Bitcoin and Cryptocurrencies is a prerequisite for this course.
-If you haven\'t already taken it, the course material is free for review
-on edX, or for verified certificate if you wish. You can enroll in both
-courses concurrently.
-
-You are free to read from the following books, which are both freely
-distributed and available online. If you haven\'t taken our previous
-course yet, another way to catch up besides auditing the course material
-is to read these books.
-
--   [Bitcoin and Cryptocurrency
-    Technologies ](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)by
-    Arvind Narayanan, Joseph
-
--   Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder
-
--   [Mastering
-    Bitcoin ](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)by
-    Andreas Antonopoulos
-
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------------- Blockchain at Berkeley logo -------------------------------->
-<!------------------------------------------------------------------------------------------------>
-<p align="center">
-<img src="/images/image2.png" alt="Blockchain at Berkeley logo" style="width:5in;height:4.25" />
-
-Also, a good unofficial resource is the Blockchain at Berkeley Public
-Slack, where we discuss various topics related to blockchain. You can
-request access to our Slack workspace at the bottom of the [Blockchain
-at Berkeley Website ](https://blockchain.berkeley.edu/) under \"Join
-Blockchain at Berkeley on Slack.\"
-
-**Note**: the views expressed on the public slack do not reflect the
-views of the instructors for this course. Official course discussion
-should still occur on the edX discussion board.
-
-**Course Staff**
-
-Rustie Lin, Nadir Akhtar, Jennifer Hu, Janice Ng.
-
-**Major Contributors**
-
-Blockchain Fundamentals started off as the [Cryptocurrency
-DeCal ](https://blockchain.berkeley.edu/decal/fa16/)(Democratic
-Education at Cal, student run) course on UC Berkeley campus in Fall
-2016, taking inspiration from existing courses, videos, and textbooks.
-From the beginning, the vision was to lower the barrier of entry and
-provide a survey into the blockchain and cryptocurrency space \-- to
-explain concepts from the ground up, as clearly and concisely as
-possible.
-
-Each semester since then, we have had many student volunteers take time
-out of their already hectic schedules to help develop and fine-tune
-content, to make Blockchain Fundamentals what it is today. 
-
-Blockchain Fundamentals is constantly being improved, in terms of new
-information as well as course design, but its vision has remained
-constant. Here are some of the major contributors to Blockchain
-Fundamentals, who have not already been featured on the previous page.
-
-Max Fang, Philip Hayes, Sunny Aggarwal, Aparna Krishnan, Gloria Zhao,
-Gillian Chu, and Brian Ho.
-
-## FAQ
-
-Q: Are there any prerequisites to this course?
-
-A: CS198.1x Bitcoin and Cryptocurrencies (or equivalent knowledge) is a
-prerequisite to this course. You can review all material from the first
-course online for free or for a professional certificate.
-
-Q: If this is a computer science course, why are there no programming
-assignments?
-
-A: There are many answers to this question. Firstly, computer science is
-not programming, and especially for this course, we're operating at a
-higher level of thinking. We'll be designing systems from the ground up
-rather than being "stuck in the code." Additionally, to keep the
-material open and accessible to students of all backgrounds, we have
-designed the course to focus on fundamental blockchain thinking. 
-
-It is, however, important to get your hands dirty and understand how
-blockchain systems are actually built. If you are interested, we have a
-separate curriculum, Blockchain for Developers, which we plan to port
-over to edX in the near future. Recordings from our latest offering
-(Spring 2018) can be found online for free at [Learn
-Blockchain](https://learnblockcha.in/)
-
-Q: Who is Blockchain at Berkeley?
-
-A: Blockchain at Berkeley is a student organization on the UC Berkeley
-Campus, dedicated to serving the crypto and blockchain communities. Our
-members include Berkeley students, alumni, community members, and
-blockchain enthusiasts from all educational and industrial backgrounds.
-
-##__**Week 1: Trust Without Trust: Distributed Systems & Consensus**__
-
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------- Another Blockchain at Berkeley logo ---------------------------->
-<!------------------------------------------------------------------------------------------------>
-<p align="center">
-<img src="/images/image3.png" alt="another Blockchain at Berkeley logo" style="width:5in;height:3.35" />
-
-This course is a continuation of our first course, Bitcoin and Cryptocurrencies; if you haven’t already, please take a look at that course.
-In the first course, we studied Bitcoin as the first use case for blockchain and examined its various components and properties.
-We also looked at how blockchain is used for cryptocurrencies and generalized computational platforms, such as Ethereum.
-By now, you’ve decoupled the concept of blockchain from cryptocurrencies to understand all the pieces individually and how they fit together.
-This first week, we’ll be covering distributed systems and consensus algorithms.
-You should be familiar with Bitcoin, one of the largest cryptocurrencies, and its use of Proof-of-Work to make sure everyone agrees – or comes to consensus – on who owns what amounts of bitcoin.
-This is what Bitcoin accomplishes, but what is the underlying problem that Bitcoin is trying to solve?
-Well, it’s truly a distributed systems problem: several computers, all unknown and untrusting of each other, are trying to agree on something.
-Understanding the fundamental purpose and challenges of building distributed systems will give us the ability to understand the subset that is blockchain.
-First, we’ll go over distributed systems fundamentals and the consensus problem, some tradeoffs and formalisms, and traditional literature in the space.
-Then, we’ll look at Nakamoto Consensus, a new paradigm of distributed consensus, and examine how it fits into the traditional model of distributed systems, with a focus on Proof-of-Stake and other new styles of consensus.
-After this lecture, you’ll be able to think about blockchain within the much larger scope of distributed systems and consensus.
-Week 1 Announcements
-Welcome to Week 1. Here's a quick breakdown of what to expect every week:
-In general, each week will have 5 sections of video content and associated Quick Check questions. Quick Checks, as their name implies, are designed to be quick self-tests that you indeed understand the material. Quick Checks are graded on correctness, but you will have unlimited tries on each Quick Check question. 
-The 1st week, we cover:
-	Distributed Systems
-	Voting Based Consensus
-	Nakamoto Consensus
-	Proof-of-Stake
-	Federated Consensus
-
-1.1 Intro: Distributed Systems
-Let’s take a step back and think about the design and architecture of what we’re trying to achieve with blockchain.
-What exactly are we trying to build, and how do we go about designing such a system?
-With blockchain, we want to deploy it across a network, where users who potentially are located on different sides of the world can interact with one another.
-We want this system to be distributed – a distributed system!
-We want such a system to be able to agree on a common truth without trusting a single machine or authority.
-In other words, we need the network to be able to reach consensus.
-Instead of trusting the execution of individual processes or reliability of any individuals, we trust the general protocol and the math behind it.
-It’s trust – without trust.
-Luckily for us, distributed systems and the consensus problem have been studied for decades by mathematicians and computer scientists.
-It’s by studying this traditional literature and design formalisms that we can start designing blockchain systems from the ground up.
-Distributed Systems Origins
-Before we explain what a distributed system actually is, let’s define a fundamental, age-old problem that pervades not only computer science and blockchain technology, but all of humanity.
-How does a group make a decision?
-Whether this be by majority opinion, general agreement, or force, how do we each consensus?
-Consensus is trivial when we only have one actor.
-I can always agree with myself on where to have lunch, but when I go out with my friends, we have to all agree on where to go first, and the process by which we reach agreement might be difficult.
-
-    
-![image](https://user-images.githubusercontent.com/41387907/160863223-98364e2f-49c2-42b0-a5ed-a0ff590231dc.png)
- 
-In this example, my group of friends had to come to consensus on a common choice of action – what to get for lunch – before we were able to move forward – to actually get lunch.
-
-This course is a continuation of our first course, Bitcoin and
-Cryptocurrencies; if you haven't already, please take a look at that
-    
--------------------------------------------------------------------------------------------------------------------------------->
