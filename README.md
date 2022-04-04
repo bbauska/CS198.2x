@@ -1,8 +1,8 @@
-**Blockchain Technologies**
+<h2>Blockchain Technologies</h2>
 
 (BerkeleyX - CS198.2x)
 
-![](images/image1.png){width="5.0in" height="2.7978729221347334in"}
+![](images/image001.png){width="5.0in" height="2.7978729221347334in"}
 
 **[\
 Course Syllabus]{.underline}**
@@ -15,7 +15,7 @@ Systems & Consensus, 2. Cryptoeconomics & Proof-of-Stake, 3. Enterprise
 Blockchain, 4. Scalability, 5. Anonymity, and 6. A Blockchain Powered
 Future.
 
-### **Trust Without Trust: *Distributed Systems & Consensus***
+<h3><b>Trust Without Trust: <i>Distributed Systems & Consensus</i></b></h3>
 
 > Blockchain architecture is built on the foundation of decades of
 > computer science and distributed systems literature. We start out by
@@ -26,7 +26,7 @@ Future.
 > Proof-of-Stake, voting-based consensus algorithms, and federated
 > consensus.
 
-### **Securing Incentives: *Cryptoeconomics & Proof-of-Stake***
+<h3><b>Securing Incentives: <i>Cryptoeconomics & Proof-of-Stake</i></b></h3>
 
 > We examine the meaning and properties of cryptoeconomics as it relates
 > to its two compositional fields: cryptography and economics. We then
@@ -34,7 +34,7 @@ Future.
 > systems fundamentals (liveness, safety, data availability) and the
 > griefing factors and faults in the way of these goals.
 
-### **Real-World Applications: *Enterprise Blockchain***
+<h3><b>Real-World Applications: <i>Enterprise Blockchain</i></b></h3>
 
 > We categorize the uses of blockchain and distributed ledger
 > technologies, and look at various existing enterprise-level blockchain
@@ -43,7 +43,7 @@ Future.
 > blockchain, ICOs, and the increasing regulations surrounding
 > blockchain.
 
-### **Cryptocurrencies for the Masses: *Scaling Blockchain***
+<h3><b>Cryptocurrencies for the Masses: <i>Scaling Blockchain</i></b></h3>
 
 > One major obstacle to widespread blockchain adoption is the problem of
 > scalability. We define scaling first as it relates to Bitcoin as a
@@ -54,7 +54,7 @@ Future.
 > Topics include block size increases, Segregated Witness, payment
 > channels, Lightning Network, sidechains, Plasma, sharding, and Cosmos.
 
-### **The Fight for Privacy: *Anonymity, Mixing & Altcoins***
+<h3><b>The Fight for Privacy: <i>Anonymity, Mixing & Altcoins</i></b></h3>
 
 > We look into the measures that governments have taken to regulate and
 > control blockchain technology.  We examine Anti-Money Laundering (AML)
@@ -63,7 +63,7 @@ Future.
 > Then from the user's perspective, we also dive into privacy oriented
 > altcoins and mixing techniques.
 
-### **A Blockchain Powered Future**
+<h3><b>A Blockchain Powered Future</b></h3>
 
 > A summary of the entire Blockchain Fundamentals program and an
 > exploratory look into blockchain ventures today, such as venture
@@ -118,7 +118,7 @@ We hope you enjoy the course! 
 
 Rustie Lin
 
-**Resources**
+<b>Resources</b>
 
 CS198.1x Bitcoin and Cryptocurrencies is a prerequisite for this course.
 If you haven\'t already taken it, the course material is free for review
@@ -140,7 +140,7 @@ is to read these books.
     Bitcoin ](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)by
     Andreas Antonopoulos
 
-![](images/image2.png){width="5.0in" height="4.266025809273841in"}
+![](images/image002.png){width="5.0in" height="4.266025809273841in"}
 
 A good unofficial resource is the Blockchain at Berkeley Public Slack,
 where we discuss various topics related to blockchain. You can request
@@ -216,7 +216,7 @@ blockchain enthusiasts from all educational and industrial backgrounds.
 
 **Week 1: Trust Without Trust: Distributed Systems & Consensus**
 
-![](images/image3.png){width="5.0in" height="3.3748261154855643in"}
+![](images/image003.png){width="5.0in" height="3.3748261154855643in"}
 
 Welcome to the first module of Blockchain Technology, the second course
 in the Blockchain Fundamentals program.
@@ -286,7 +286,7 @@ The 1st week, we cover:
 
 -   Federated Consensus
 
-## 1.1 Intro: Distributed Systems
+<h3>1.1 Intro: Distributed Systems</h3>
 
 Let's take a step back and think about the design and architecture of
 what we're trying to achieve with blockchain.
@@ -317,7 +317,7 @@ studied for decades by mathematicians and computer scientists.
 It's by studying this traditional literature and design formalisms that
 we can start designing blockchain systems from the ground up.
 
-### Distributed Systems Origins
+<h3>Distributed Systems Origins</h3>
 
 Before we explain what a distributed system actually is, let's define a
 fundamental, age-old problem that pervades not only computer science and
@@ -334,7 +334,7 @@ I can always agree with myself on where to have lunch, but when I go out
 with my friends, we have to all agree on where to go first, and the
 process by which we reach agreement might be difficult.
 
-![](images/image4.png){width="5.0in" height="2.8009634733158357in"}
+![](images/image004.png){width="5.0in" height="2.8009634733158357in"}
 
 In this example, my group of friends had to come to consensus on a
 common choice of action -- what to get for lunch -- before we were able
@@ -343,7 +343,7 @@ to move forward -- to actually get lunch.
 This is no different from how a distributed system works, and is where
 we start building our intuition and context.
 
-![](images/image5.png){width="5.0in" height="2.8190627734033247in"}
+![](images/image005.png){width="5.0in" height="2.8190627734033247in"}
 
 Consensus has been studied for ages in fields such as biophysics,
 ethics, and philosophy, but the formal study of consensus in computer
@@ -384,7 +384,7 @@ distribute the points of failure.
 How these computers coordinated amongst each other though was another
 challenge.
 
-![](images/image6.png){width="5.0in" height="2.778676727909011in"}
+![](images/image006.png){width="5.0in" height="2.778676727909011in"}
 
 Early literature had focused on enabling coordination of processes --
 where these processes could be processes on a CPU, or computers in a
@@ -438,13 +438,13 @@ While this is at a depth that is out of scope for this course, it's
 important to recognize that through the efforts of Lamport and other
 scientists, the formal study of distributed systems began to take shape.
 
-![](images/image7.png){width="5.0in" height="2.7553423009623796in"}
+![](images/image007.png){width="5.0in" height="2.7553423009623796in"}
 
 And as it turns out, the same problem that was originally studied to
 coordinate computers on commercial airliners is still studied today, for
 example on more high-tech jet planes.
 
-![](images/image8.png){width="5.0in" height="2.7705971128608926in"}
+![](images/image008.png){width="5.0in" height="2.7705971128608926in"}
 
 And more recently, on various spacecraft, such as SpaceX's famous Falcon
 9 or Dragon spacecraft.
@@ -458,7 +458,7 @@ SpaceX Dragon specifically uses three flight computers, which perform
 calculations independently, and reboot automatically if errors are found
 after cross checking.
 
-![](images/image9.png){width="5.0in" height="2.768860454943132in"}
+![](images/image009.png){width="5.0in" height="2.768860454943132in"}
 
 Distributed systems and consensus is also studied in the context of big
 enterprise operations as well.
@@ -468,7 +468,7 @@ read or write to the same piece of data at the same time -- a problem
 called mutual exclusion -- thereby preventing potential corruption to
 important data.
 
-![](images/image10.png){width="5.0in" height="2.835219816272966in"}
+![](images/image010.png){width="5.0in" height="2.835219816272966in"}
 
 And finally, of course -- the main focus of this course -- the
 blockchain and distributed ledger revolution.
@@ -509,9 +509,9 @@ it.
 
 It's trust -- without trust.
 
-### Distributed Systems Fundamentals
+<h3>Distributed Systems Fundamentals</h3>
 
-![](images/image11.png){width="5.0in" height="2.742717629046369in"}
+![](images/image011.png){width="5.0in" height="2.742717629046369in"}
 
 In order to understand blockchain technology like a pro, knowing its ins
 and outs, we need to delve into the heart of what blockchain looks like
@@ -529,7 +529,7 @@ The definition for a distributed system changes depending on who you
 ask, but the general "consensus" (no pun intended) is that distributed
 systems contain two particular categories of components.
 
-![](images/image12.png){width="5.0in" height="2.7938812335958003in"}
+![](images/image012.png){width="5.0in" height="2.7938812335958003in"}
 
 The first category is referred to as "nodes."
 
@@ -539,7 +539,7 @@ This separation manifests in the real-world as physical distance, such
 as in Bitcoin, or just a separation of components, similar to the CPU
 cores in your laptop.
 
-![](images/image13.png){width="5.0in" height="2.82503937007874in"}
+![](images/image013.png){width="5.0in" height="2.82503937007874in"}
 
 The second category is referred to as "message passing."
 
@@ -574,7 +574,7 @@ machine shuts down or misbehaves, it's not the end of the world.
 We can create protocols withstanding failure, giving us the power to be
 safe in the event of a crash.
 
-![](images/image14.png){width="5.0in" height="2.8145166229221346in"}
+![](images/image014.png){width="5.0in" height="2.8145166229221346in"}
 
 Let's discuss the properties of a distributed system keeping in mind the
 two main two components to understand exactly what we're working with.
@@ -608,7 +608,7 @@ understanding the role of nodes and edges in this system.
 In the next section, we're going to look at how we distinguish a working
 distributed system from a faulty one.
 
-![](images/image15.png){width="5.0in" height="2.8327919947506564in"}
+![](images/image015.png){width="5.0in" height="2.8327919947506564in"}
 
 This graph shows a classic example problem from distributed systems.
 
@@ -637,7 +637,7 @@ What constitutes a correct answer?
 
 We're about to answer those questions right now.
 
-![](images/image16.png){width="5.0in" height="2.809446631671041in"}
+![](images/image016.png){width="5.0in" height="2.809446631671041in"}
 
 Leslie Lamport, distributed systems researcher and superhero, designed a
 scheme by which we can formally prove the correctness of a distributed
@@ -688,7 +688,7 @@ get into serious trouble.
 You need some of both, but not too much, to define a sense of what your
 program can and should do.
 
-![](images/image17.png){width="5.0in" height="2.8119947506561678in"}
+![](images/image017.png){width="5.0in" height="2.8119947506561678in"}
 
 We spent quite a bit of time understanding safety and liveness, but how
 do we apply those ideas of desirable and undesirable guidelines to a
@@ -713,8 +713,8 @@ Lucky for us, computer scientists much smarter than us have already done
 that, recognizing that the three requirements of any correct consensus
 algorithm are validity, agreement, and termination.
 
-***Validity** means that any value decided upon by the network must be
-proposed by one of the processes.*
+<b><i>Validity</i> means that any value decided upon by the network must be
+proposed by one of the processes.</b>
 
 In other words, the consensus algorithm cannot arbitrarily agree on some
 result.
@@ -766,7 +766,7 @@ what must happen for the system to be considered correct.
 Without the guarantee of termination, we have no guarantee that
 consensus will ever be achieved.
 
-![](images/image18.png){width="5.0in" height="2.8089884076990375in"}
+![](images/image018.png){width="5.0in" height="2.8089884076990375in"}
 
 By understanding these three essentials of a consensus algorithm, you
 now understand what is needed for any distributed system to come to
@@ -779,9 +779,9 @@ Before we get into examples of consensus algorithms, however, we need to
 understand more of the caveats of distributed systems, and the tradeoffs
 that any system must make.
 
-### CAP Theorem
+<h3>CAP Theorem</h3>
 
-![](images/image19.png){width="5.0in" height="2.811224846894138in"}
+![](images/image019.png){width="5.0in" height="2.811224846894138in"}
 
 This section hones in on a famous trilemma of distributed systems called
 the CAP Theorem.
@@ -800,7 +800,7 @@ previous section about safety, liveness, and consensus correctness.
 After defining these terms and proving the CAP Theorem, we'll delve into
 the implications.
 
-![](images/image20.png){width="5.0in" height="2.775974409448819in"}
+![](images/image020.png){width="5.0in" height="2.775974409448819in"}
 
 The "C" in CAP stands for Consistency.
 
@@ -816,7 +816,7 @@ to something that will never happen.
 Consistency in a system says that no two nodes will return a different
 state at any given time, and that no node will return an outdated state.
 
-![](images/image21.png){width="5.0in" height="2.8022867454068243in"}
+![](images/image021.png){width="5.0in" height="2.8022867454068243in"}
 
 The "A" in CAP stands for Availability.
 
@@ -829,7 +829,7 @@ retrieve the state of the system without delay.
 This, then, is born from liveness: availability promises what must
 happen, which is the ability to read or write some state.
 
-![](images/image22.png){width="5.0in" height="2.822580927384077in"}
+![](images/image022.png){width="5.0in" height="2.822580927384077in"}
 
 And last but not least the "P" in CAP stands for ***Partition
 Tolerance***.
@@ -852,7 +852,7 @@ in line with safety, as it specifies what will not happen.
 Partition tolerance states that the network will not stop functioning
 even with partitions.
 
-![](images/image23.png){width="5.0in" height="2.8338757655293088in"}
+![](images/image023.png){width="5.0in" height="2.8338757655293088in"}
 
 What is the CAP Theorem, truly?
 
@@ -875,14 +875,14 @@ is true.
 
 In order to prove the CAP Theorem, let's run through some examples.
 
-![](images/image24.png){width="5.0in" height="2.7938812335958003in"}
+![](images/image024.png){width="5.0in" height="2.7938812335958003in"}
 
 In each example, we're going to give an example of a situation in which
 choosing two properties forces us to yield the third.
 
 Let's pretend this is a database which stores my favorite color.
 
-![](images/image25.png){width="5.0in" height="2.798386920384952in"}
+![](images/image025.png){width="5.0in" height="2.798386920384952in"}
 
 In our first example, let's choose Partition Tolerance and Availability.
 
@@ -895,7 +895,7 @@ Naturally, my favorite color will have to change from blue to red.
 
 I send the update to the system, and my message happens to go to Node 1.
 
-![](images/image26.png){width="5.0in" height="2.7993525809273843in"}
+![](images/image026.png){width="5.0in" height="2.7993525809273843in"}
 
 Node 1 relays the update to all other accessible nodes, which update
 their state.
@@ -921,15 +921,15 @@ We'll see how that ends up sacrificing Availability.
 
 Same scenario,
 
-![](images/image27.png){width="5.0in" height="2.83413823272091in"}
+![](images/image027.png){width="5.0in" height="2.83413823272091in"}
 
 I send the update to Node 1, which then sends the update to other nodes.
 
-![](images/image28.png){width="5.0in" height="2.82503937007874in"}
+![](images/image028.png){width="5.0in" height="2.82503937007874in"}
 
 Nodes 2 and 4 are still ignorant of the update to red.
 
-![](images/image29.png){width="5.0in" height="2.7858300524934383in"}
+![](images/image029.png){width="5.0in" height="2.7858300524934383in"}
 
 Again, I query Node 2.
 
@@ -949,13 +949,13 @@ outdated information and refuse to return a value.
 We lose out on something in the last two examples, so let's see what
 happens when we choose Consistency and Availability.
 
-![](images/image30.png){width="5.0in" height="2.845528215223097in"}
+![](images/image030.png){width="5.0in" height="2.845528215223097in"}
 
 I send an update to Node 1.
 
 Node 1 passes the information around.
 
-![](images/image31.png){width="5.0in" height="2.831715879265092in"}
+![](images/image031.png){width="5.0in" height="2.831715879265092in"}
 
 I query Node 2, and it returns a value to me.
 
@@ -973,7 +973,7 @@ situations.
 And this proof demonstrates the spirit of the CAP Theorem, that a system
 must compromise.
 
-![](images/image32.png){width="5.0in" height="2.8200984251968504in"}
+![](images/image032.png){width="5.0in" height="2.8200984251968504in"}
 
 Now you understand the CAP Theorem.
 
@@ -1019,9 +1019,9 @@ incorrectly fixate on the black-and-white implications of the CAP
 Theorem rather than using it as another lens to view the system's
 design.
 
-### Byzantine Fault Tolerance
+<h3>Byzantine Fault Tolerance</h3>
 
-![](images/image33.png){width="4.0331780402449695in"
+![](images/image033.png){width="4.0331780402449695in"
 height="2.305611329833771in"}
 
 We've defined distributed systems, understood the definition of
@@ -1113,7 +1113,7 @@ this to a general fraction.
 However, that doesn't mean it's not possible to make an algorithm for
 the remaining situations.
 
-![](images/image34.png){width="4.0in" height="2.270411198600175in"}
+![](images/image034.png){width="4.0in" height="2.270411198600175in"}
 
 Practical Byzantine Fault Tolerance released in 1999 by Miguel Castro
 and Barbara Liskov gives an algorithm to allow nodes to come to
@@ -1134,7 +1134,7 @@ solve these kinds of problems. This kind of failure may be temporary or
 indefinite, but it will always be easier to handle than the second type
 of fault.
 
-![](images/image35.png){width="4.0in" height="2.254273840769904in"}
+![](images/image035.png){width="4.0in" height="2.254273840769904in"}
 
 A Byzantine fault, referring to the Byzantine Generals' Problem, is a
 fault that refers to any arbitrary deviance from the protocol. In other
@@ -1172,7 +1172,7 @@ block or the valid chain of transaction history is the same as coming to
 agreement on whether to attack or retreat. It's the same concepts with
 different names.
 
-### Intro: Voting Based Consensus
+<h3>Intro: Voting Based Consensus</h3>
 
 Now that we have an understanding of the fundamentals of distributed
 systems and distributed consensus, our main focus for the next section
@@ -1201,9 +1201,9 @@ systems of today.
 **[\
 ]{.underline}**
 
-### Paxos and Raft
+<h3>Paxos and Raft</h3>
 
-![](images/image36.png){width="4.0in" height="2.246865704286964in"}
+![](images/image036.png){width="4.0in" height="2.246865704286964in"}
 
 So before we talk about our first consensus mechanisms, let's take a
 short break.
@@ -1249,7 +1249,7 @@ No one was willing to remain in the chambers all the time, and they
 didn't have secretaries either, so instead, each Paxon legislator
 maintained a ledger, where they'd record everything that happened.
 
-![](images/image37.png){width="4.0in" height="2.2562893700787403in"}
+![](images/image037.png){width="4.0in" height="2.2562893700787403in"}
 
 So diving a bit more in depth, the paper specifies that within the Paxon
 parliament, there are three types of legislators: proposers, acceptors,
@@ -1272,7 +1272,7 @@ We'll see later on that the idea of quorums is also very important in
 other consensus algorithms, such as those that are considered federated
 consensus algorithms.
 
-![](images/image38.png){width="4.0in" height="2.2753991688538933in"}
+![](images/image038.png){width="4.0in" height="2.2753991688538933in"}
 
 The protocol that the Paxon parliament uses proceeds over several
 rounds, until consensus is reached.
@@ -1301,7 +1301,7 @@ they'd all write it down on everyone's ledgers.
 After reaching consensus, the learners learn the result, and then let
 the entire island know what happened in parliament.
 
-![](images/image39.png){width="4.0in" height="2.28670384951881in"}
+![](images/image039.png){width="4.0in" height="2.28670384951881in"}
 
 So there's a very clear parallel between the Paxon parliament and
 distributed consensus.
@@ -1317,7 +1317,7 @@ action on the result.
 And the state of the distributed database is like the current law passed
 by the parliament.
 
-![](images/image40.png){width="4.0in" height="2.245962379702537in"}
+![](images/image040.png){width="4.0in" height="2.245962379702537in"}
 
 One major assumption that Paxos makes is that nodes aren't trying to
 subvert the protocol, and that messages are delivered without
@@ -1348,7 +1348,7 @@ further, with a follow up paper titled "Paxos Made Simple," it still
 caused mass confusion -- maybe because of the huge Paxon parliament
 story.
 
-![](images/image41.png){width="4.0in" height="2.2510695538057743in"}
+![](images/image041.png){width="4.0in" height="2.2510695538057743in"}
 
 In 2014, an alternative to Paxos was proposed.
 
@@ -1367,7 +1367,7 @@ designed to be an enterprise version of Ethereum, swaps out the public
 Proof-of-Work algorithm that Ethereum uses for a faster Raft-based
 consensus.
 
-![](images/image42.png){width="4.0in" height="2.269737532808399in"}
+![](images/image042.png){width="4.0in" height="2.269737532808399in"}
 
 There's a really good Raft simulation that I'll link in the "Readings"
 section for this week, but here's a brief rundown of how Raft consensus
@@ -1411,9 +1411,9 @@ example.
 
 All credit and respect to the original author!
 
-### Practical Byzantine Fault Tolerance
+<h3>Practical Byzantine Fault Tolerance</h3>
 
-![](images/image43.png){width="4.0in" height="2.2581200787401574in"}
+![](images/image043.png){width="4.0in" height="2.2581200787401574in"}
 
 We'll end here with another famous consensus algorithm: Practical
 Byzantine Fault Tolerance, or PBFT. Published by Miguel Castro and
@@ -1436,7 +1436,7 @@ protocol developed by Sun Microsystems in 1984, the resulting BFT-NFS is
 only 3% slower, despite the fact that it can now withstand Byzantine
 faults.
 
-![](images/image44.png){width="4.0in" height="2.288768591426072in"}
+![](images/image044.png){width="4.0in" height="2.288768591426072in"}
 
 The main PBFT algorithm consists of three phases -- pre-prepare,
 prepare, and commit.
@@ -1447,19 +1447,19 @@ this should be familiar since it's a common design pattern. For example,
 remembering back to Paxos, the Proposer proposes new decrees to other
 legislators in the Paxon Parliament based on the requests of the people.
 
-![](images/image45.png){width="5.0in" height="2.8507010061242344in"}
+![](images/image045.png){width="5.0in" height="2.8507010061242344in"}
 
 In this case, the primary node is Derrick. We have a total of 4 nodes,
 meaning that we should be able to withstand 1 fault, since ¼ is less
 than ⅓. So let's say one of our 4 nodes, Nadir, drops out due to a
 spotty internet connection.
 
-![](images/image46.png){width="5.0in" height="2.839032152230971in"}
+![](images/image046.png){width="5.0in" height="2.839032152230971in"}
 
 Nadir might've dropped out, but the other 3 nodes might not know that
 yet, so they'll still send messages to him.
 
-![](images/image47.png){width="5.0in" height="2.85169072615923in"}
+![](images/image047.png){width="5.0in" height="2.85169072615923in"}
 
 The next step is pre-prepare, which is one of the three main phases --
 pre-prepare, prepare, and commit. In the pre-prepare phase, the primary
@@ -1470,7 +1470,7 @@ increasing numbers Proposers in Paxos assign to each of their decrees.
 They also contain signatures, and other useful metadata that lets nodes
 determine message validity.
 
-![](images/image48.png){width="5.0in" height="2.839032152230971in"}
+![](images/image048.png){width="5.0in" height="2.839032152230971in"}
 
 If a node accepts a pre-prepare message, it follows up by sending out a
 prepare message to everyone else. And prepare messages are accepted by
@@ -1481,20 +1481,20 @@ pre-prepared, and has seen 2f prepare messages that match its
 pre-prepare -- making for 2f + 1 prepares. Again, f is the number of
 Byzantine faults.
 
-![](images/image49.png){width="5.0in" height="2.82785542432196in"}
+![](images/image049.png){width="5.0in" height="2.82785542432196in"}
 
 After nodes have prepared, they send out a commit message. If a node
 receives f + 1 valid commit messages, then they carry out the client
 request and then finally
 
-![](images/image50.png){width="5.0in" height="2.8085804899387576in"}
+![](images/image050.png){width="5.0in" height="2.8085804899387576in"}
 
 Send out the reply to the client. The client waits for f + 1 of the same
 reply. Since we allow for at most f faults, we need to wait for at least
 f + 1, and this ensures the response to be valid. After this point, the
 client gets the correct response.
 
-![](images/image51.png){width="5.0in" height="2.81122375328084in"}
+![](images/image051.png){width="5.0in" height="2.81122375328084in"}
 
 Here's a diagram from the PBFT whitepaper, which models exactly the
 scenario we just went over. The diagram has five processes, or nodes in
@@ -1515,7 +1515,7 @@ After acknowledging everyone's presence, we all send the commit message.
 After hearing sufficient amount of commits, we respond directly to the
 client.
 
-### Intro: Nakamoto Consensus
+<h3>Intro: Nakamoto Consensus
 
 Now that we've traversed the landscape of classical voting-based
 consensus mechanisms, we now arrive in modern times.
@@ -1551,7 +1551,7 @@ mechanism, it isn't the only style of Nakamoto Consensus.
 
 That's what we're going to be covering in this section.
 
-### Nakamoto Consensus
+<h3>Nakamoto Consensus
 
 In general, Nakamoto consensus delivers a few key properties.
 
@@ -1810,7 +1810,7 @@ There is a question mark because this follows the paradigm of
 politically centralized systems, with a few actors making decisions for
 the rest of the network.
 
-## Intro: Proof-of-Stake
+<h2>Intro: Proof-of-Stake</h2>
 
 Proof-of-Stake is a pretty important consensus mechanism -- so much so
 that we have this entire section on it.
@@ -1829,9 +1829,9 @@ space are driving blockchain research from a cryptoeconomics standpoint,
 which aims to formalize all its claims about blockchain through
 cryptography and economics.
 
-### Proof-of-Stake Overview
+<h3>Proof-of-Stake Overview</h3>
 
-![](images/image52.png){width="5.0in" height="2.7975109361329835in"}
+![](images/image052.png){width="5.0in" height="2.7975109361329835in"}
 
 As we mentioned in the Nakamoto consensus section, we can understand
 both Proof-of-Work and Proof-of-Stake by looking at what resources are
@@ -1918,9 +1918,9 @@ designed from scratch based on the same safety proof.
 The second is Casper the Friendly Finality Gadget, which is a
 Proof-of-Work and Proof-of-Stake hybrid.
 
-### Proof-of-Stake Implementations
+<h3>Proof-of-Stake Implementations</h3>
 
-![](images/image53.png){width="5.0in" height="2.8092946194225723in"}
+![](images/image053.png){width="5.0in" height="2.8092946194225723in"}
 
 Tendermint was the first BFT-based Proof-of-Stake consensus mechanism,
 created by Jae Kwon and his team in 2014.
@@ -2179,7 +2179,7 @@ finality and absolute finality and the differences between how the two
 types of Casper achieve finality are the most important takeaways for
 this particular section.
 
-### Intro: Federated Consensus
+<h3>Intro: Federated Consensus</h3>
 
 We've discussed voting consensus algorithms as solutions to traditional
 distributed systems problems and Nakamoto consensus algorithms as
@@ -2205,7 +2205,7 @@ subjected to Sybil attacks?
 
 One way to achieve this is Federated Consensus.
 
-### Federated Consensus Overview
+<h3>Federated Consensus Overview</h3>
 
 Before diving into federated consensus, we're going to refresh ourselves
 with the definitions of all the terminology we've picked up thus far.
@@ -2338,7 +2338,7 @@ The intersections are the most crucial parts, as those ensure that
 decisions made within individual quorums propagate to the other parts of
 the network.
 
-### Federated Consensus Implementations
+<h3>Federated Consensus Implementations</h3>
 
 Because of the way that Federated Byzantine Agreement functions, it
 offers a few nice properties.
@@ -2404,9 +2404,9 @@ decision on what they want to have for lunch.
 If interested in exploring Stellar, check out the Adventures in Galactic
 Consensus comic strips.
 
-## Text: Week 1 Summary
+<h2>Text: Week 1 Summary</h2>
 
-### I. Distributed Systems
+<h3>I. Distributed Systems</h3>
 
 Bitcoin transactions are recorded on the blockchain, a ledger that is
 maintained by a **distributed system**, or a network of
@@ -2457,12 +2457,12 @@ requirements of any correct consensus algorithm:
 Notice that validity and agreement are safety properties while
 termination is a liveness property.
 
-### II. CAP Theorem
+<h3>II. CAP Theorem</h3>
 
 ![CAP Theorem Venn diagram highlighting intersections of Consistency and
 Availability with the letters CA, Consistency and Partition Tolerance
 with the letters CP, and Availability and Partition Tolerances with the
-letters AP.](images/image54.png){width="4.0in"
+letters AP.](images/image054.png){width="4.0in"
 height="3.816783683289589in"}
 
 The CAP Theorem states that any distributed system can only achieve 2 of
@@ -2481,7 +2481,7 @@ the following 3 properties at any given time:
 It is important to understand there aren't black and white tradeoffs
 between these three properties \-- compromises can be made. 
 
-### III. Byzantine Fault Tolerance
+<h3>III. Byzantine Fault Tolerance</h3>
 
 **Byzantine nodes** may act maliciously or arbitrarily. Achieving
 consensus when ⅓ or more of the nodes are Byzantine nodes is impossible.
@@ -2495,7 +2495,7 @@ nodes, where faults are deviants from protocol:
     incorrect/corrupted values; all deviations from protocol fall under
     this category
 
-### IV. Voting Based Consensus Mechanisms
+<h3>IV. Voting Based Consensus Mechanisms</h3>
 
 These mechanisms allow nodes to come to consensus when no more than ⅓ of
 the nodes are Byzantine nodes.
@@ -2549,7 +2549,7 @@ Operates using 3 phases: 
     > we allow for at most F faults, we need to wait for at least F + 1,
     > and this ensures the response to be valid.
 
-### V. Nakamoto Consensus
+<h3>V. Nakamoto Consensus</h3>
 
 Used in Bitcoin and other cryptocurrencies. Whereas the voting based
 consensus mechanisms covered above use explicit voting, Nakamoto
@@ -2594,7 +2594,7 @@ Multiple forms of Nakamoto Consensus:
 -   **Proof of Burn** - like Proof-of-Stake, except staked coins are
     > burned
 
-### VI. Proof-of-Stake
+<h3>VI. Proof-of-Stake</h3>
 
 With proof-of-stake, **validators** are stakeholders with voting power
 proportional to the **economic stake** they have locked up. The
@@ -2618,7 +2618,7 @@ Tolerant PoS** chooses consistency.
     -   If the larger players grow past 33% of network, poses a threat
         > to validity
 
-### VII. Federated Consensus
+<h3>VII. Federated Consensus</h3>
 
 Federated consensus allows us to achieve explicit voting and censorship
 resistance, so that we can allow anyone to join but also protect the
@@ -2767,7 +2767,7 @@ ensuring that the decisions' history is maintained honestly and forever.
 
 **[Cryptoeconomics]{.underline}**
 
-![](images/image55.png){width="5.0in" height="2.8356036745406823in"}
+![](images/image055.png){width="5.0in" height="2.8356036745406823in"}
 
 Cryptoeconomics aims to understand virtual decision-making by unknown,
 untrusting peers.
@@ -2869,7 +2869,7 @@ that information is kept secret and safe whenever necessary.
 
 **[Origins of Cryptography]{.underline}**
 
-![](images/image56.png){width="5.0in" height="2.8482042869641293in"}
+![](images/image056.png){width="5.0in" height="2.8482042869641293in"}
 
 Before we talk about the specifics of cryptography, let's go over some
 situations which gave birth to the field of cryptography.
@@ -3273,7 +3273,7 @@ timelock to our specifications.
 
 **[Game Theory]{.underline}**
 
-![](images/image57.png){width="5.0in" height="2.8152165354330707in"}
+![](images/image057.png){width="5.0in" height="2.8152165354330707in"}
 
 In Game Theory, we aim to deduce how an actor will act in a given
 situation. There are a number of factors that will affect the actor's
@@ -3482,7 +3482,7 @@ we dive into the next section, Proof-of-Stake.
 
 **[Blacklisting]{.underline}**
 
-![](images/image58.png){width="5.0in" height="2.8212325021872267in"}
+![](images/image058.png){width="5.0in" height="2.8212325021872267in"}
 
 Now, some attacks review, with a particular focus on economic
 incentives.. These were covered in our first course, go back and take
@@ -3727,7 +3727,7 @@ the system in check.
 
 **[Attacks]{.underline}**
 
-![](images/image59.png){width="5.0in" height="2.8054669728783903in"}
+![](images/image059.png){width="5.0in" height="2.8054669728783903in"}
 
 Let's start looking at the most basic problem in Proof-of-Stake: the
 Nothing at Stake attack.
@@ -3740,7 +3740,7 @@ single correct chain.
 
 Anything that prevents this from happening should be discouraged.
 
-![](images/image60.png){width="5.0in" height="2.772435476815398in"}
+![](images/image060.png){width="5.0in" height="2.772435476815398in"}
 
 If ever the blockchain ends up in a situation which consensus is not
 desirable for individual actors, then there is an issue.
@@ -3750,7 +3750,7 @@ consensus!
 
 What is it about Proof-of-Stake that makes this an issue?
 
-![](images/image61.png){width="5.0in" height="2.828202099737533in"}
+![](images/image061.png){width="5.0in" height="2.828202099737533in"}
 
 Take a look at the bottom image demonstrating Proof-of-Work.
 
@@ -3807,7 +3807,7 @@ Both forks will continue to grow indefinitely.
 
 Is there a way to solve this?
 
-![](images/image62.png){width="5.0in" height="2.8054669728783903in"}
+![](images/image062.png){width="5.0in" height="2.8054669728783903in"}
 
 Well, to discourage voting on voting on incorrect forks, let's introduce
 a penalty to do exactly that.
@@ -3840,13 +3840,13 @@ activity.
 Because all voting is virtual, even the penalties for malicious voting
 strategies need to be explicitly enforced.
 
-![](images/image63.png){width="5.0in" height="2.8125in"}
+![](images/image063.png){width="5.0in" height="2.8125in"}
 
 As you can see in this example, we\'ve made it such that the best choice
 is to vote on fork A. This is because voting on fork B, or voting on
 both, now leads to penalties for the voter.
 
-![](images/image64.png){width="5.0in" height="2.8145166229221346in"}
+![](images/image064.png){width="5.0in" height="2.8145166229221346in"}
 
 One major attack that can be conducted in a Proof-of-Stake network is a
 long range attack.
@@ -3855,7 +3855,7 @@ In this scenario, attackers essentially create a new chain of
 transactions starting from the Genesis block and then attempt to take
 over the main chain.
 
-![](images/image65.png){width="5.0in" height="2.840909886264217in"}
+![](images/image065.png){width="5.0in" height="2.840909886264217in"}
 
 There are two properties in Proof-of-Stake that allow this to happen:
 nothing-at-stake and weak subjectivity.
@@ -3875,7 +3875,7 @@ Weak subjectivity is a problem for both new nodes and nodes that come
 back online after being offline for long periods of time: neither of
 these nodes know which of the chains they are given is the main chain.
 
-![](images/image66.png){width="5.0in" height="2.7893897637795275in"}
+![](images/image066.png){width="5.0in" height="2.7893897637795275in"}
 
 One preconception about blockchains in general is that the longest chain
 is the most trustworthy one.
@@ -3892,7 +3892,7 @@ long range attack can potentially be accepted as the main chain.
 
 To explain this clearly, we will step through an example.
 
-![](images/image67.png){width="5.0in" height="2.8317147856517937in"}
+![](images/image067.png){width="5.0in" height="2.8317147856517937in"}
 
 Suppose Gloria owns 1% of the tokens the moment the genesis block is
 created.
@@ -3910,7 +3910,7 @@ specific block.
 This is called a long range attack because it can be executed from any
 point of the chain, including the genesis block.
 
-![](images/image68.png){width="5.0in" height="2.8145166229221346in"}
+![](images/image068.png){width="5.0in" height="2.8145166229221346in"}
 
 Next, we'll take a look at the Stake Grinding attack.
 
@@ -3936,7 +3936,7 @@ getting chosen as a block validator.
 Attackers can choose from different block signatures by playing around
 with the block parameters to change the signature outcome.
 
-![](images/image69.png){width="5.0in" height="2.8155336832895888in"}
+![](images/image069.png){width="5.0in" height="2.8155336832895888in"}
 
 There are a few ways that we can address this vulnerability.
 
@@ -3987,7 +3987,7 @@ example of encryption was the Roman Empire's use of the **Caesar
 Cipher**, in which messages are encrypted by shifting letters to the
 right by a previously set amount.
 
-![Caesar Cipher](images/image70.png){width="5.0in"
+![Caesar Cipher](images/image070.png){width="5.0in"
 height="2.440944881889764in"}
 
 Be aware of various cryptographic primitives (review from previous
@@ -4170,7 +4170,7 @@ distinguish different types of blockchains available for use.
 
 **[Enterprise Blockchain History (3:56)]{.underline}**
 
-![](images/image71.png){width="5.0in" height="2.8304024496937883in"}
+![](images/image071.png){width="5.0in" height="2.8304024496937883in"}
 
 As Bitcoin and blockchain grew increasingly popular, banks and large
 corporations began to take notice of the potential applications of this
@@ -4209,14 +4209,14 @@ At the same time, others encouraged the research into fundamental
 blockchain technologies, as they were more compliant and better suited
 for enterprise use than associated public blockchain systems.
 
-![](images/image72.png){width="5.0in" height="2.8432961504811898in"}
+![](images/image072.png){width="5.0in" height="2.8432961504811898in"}
 
 While many use cases exist for enterprise blockchains, most problems
 that enterprise blockchain aims to solve fall within three broad
 classifications: solving coordination failures, horizontally integrating
 systems, and creating self-sovereign decentralized networks.
 
-![](images/image73.png){width="5.0in" height="2.851372484689414in"}
+![](images/image073.png){width="5.0in" height="2.851372484689414in"}
 
 Although many enterprises now wish to take advantage of blockchain
 technology, true enterprise blockchain solutions are typically very
@@ -4248,7 +4248,7 @@ and decentralized networks.
 
 Let's look back at the previous slide.
 
-![](images/image74.png){width="5.0in" height="2.849025590551181in"}
+![](images/image074.png){width="5.0in" height="2.849025590551181in"}
 
 Coordination failures between multiple parties seeking to work together
 often exist due to trust issues.
@@ -4275,7 +4275,7 @@ centralized corruption.
 
 **[Enterprise Blockchain Overview]{.underline}**
 
-![](images/image75.png){width="5.0in" height="2.8190627734033247in"}
+![](images/image075.png){width="5.0in" height="2.8190627734033247in"}
 
 At its most basic level, a blockchain is merely a highly specialized
 type of database.
@@ -4321,7 +4321,7 @@ centralized or decentralized.
 To better understand this, let's go back to the form of databases most
 people are familiar with: centralized databases.
 
-![](images/image76.png){width="5.0in" height="2.8109853455818024in"}
+![](images/image076.png){width="5.0in" height="2.8109853455818024in"}
 
 Centralized databases, such as a single password server, are located,
 stored, and maintained in one location, with one central entity handling
@@ -4335,7 +4335,7 @@ they are prone to bottlenecks, lack simultaneous write access by
 multiple users to the same set of data, and act as a single point of
 failure.
 
-![](images/image77.png){width="5.0in" height="2.8190627734033247in"}
+![](images/image077.png){width="5.0in" height="2.8190627734033247in"}
 
 On the other hand, distributed databases consist of groups of nodes
 which trust each other and cooperate to maintain a consistent view of
@@ -4345,14 +4345,14 @@ Because there is no longer a single point of failure, the system is more
 fault-tolerant and can handle more demand by distributing load evenly
 across all nodes.
 
-![](images/image78.png){width="5.0in" height="2.8559864391951004in"}
+![](images/image078.png){width="5.0in" height="2.8559864391951004in"}
 
 However, distributed databases also introduce increased complexity,
 cost, and redundancy as well as exposing more points of failure.
 
 That's just the overhead of being distributed.
 
-![](images/image79.png){width="5.0in" height="2.8257327209098864in"}
+![](images/image079.png){width="5.0in" height="2.8257327209098864in"}
 
 A specific type of distributed database is a distributed ledger, which
 contains nodes operated by different entities that may or may not trust
@@ -4362,7 +4362,7 @@ While many consensus mechanisms exist for distributed ledgers, those
 that specifically implement a chain of blocks in their record-keeping
 and consensus protocols are known as blockchains.
 
-![](images/image80.png){width="5.0in" height="2.8373972003499563in"}
+![](images/image080.png){width="5.0in" height="2.8373972003499563in"}
 
 Recall from our Bitcoin and Cryptocurrencies course that the fundamental
 innovation of blockchain was not to enable distributed information
@@ -4378,7 +4378,7 @@ Compared to a traditional database, a blockchain system is uniquely able
 to remove the need for a centralized administrator and allow for
 non-trusting parties in the network to interact with each other.
 
-![](images/image81.png){width="5.0in" height="2.8002132545931757in"}
+![](images/image081.png){width="5.0in" height="2.8002132545931757in"}
 
 Blockchains can also be categorized based on their architecture and the
 trust and access permissions that a typical user possesses.
@@ -4441,7 +4441,7 @@ However, in an enterprise setting, permissioned blockchains might be
 used to solve a coordination problem amongst the loosely linked
 constituents.
 
-![](images/image82.png){width="5.0in" height="2.80290791776028in"}
+![](images/image082.png){width="5.0in" height="2.80290791776028in"}
 
 While blockchain is still in its infancy, many tech powerhouses are
 already starting to show interest.
@@ -4477,7 +4477,7 @@ also institutions and governments that provides a standard framework for
 companies trying to build enterprise blockchain using Ethereum as their
 base layer.
 
-![](images/image83.png){width="5.0in" height="2.8165583989501313in"}
+![](images/image083.png){width="5.0in" height="2.8165583989501313in"}
 
 Despite enterprise movement towards blockchain, there's still differing
 perspectives and sentiment about blockchain technology as a whole -- and
@@ -4515,7 +4515,7 @@ strengths and weaknesses of the applicability of blockchain technology.
 
 Blockchain can be cool, but only in very particular ways.
 
-![](images/image84.png){width="5.0in" height="2.806451224846894in"}
+![](images/image084.png){width="5.0in" height="2.806451224846894in"}
 
 It's a misconception that enterprise blockchains are always useful.
 
@@ -4589,7 +4589,7 @@ type and consensus mechanisms.
 
 **[Enterprise Blockchain Platforms]{.underline}**
 
-![](images/image85.png){width="5.0in" height="2.8442508748906388in"}
+![](images/image085.png){width="5.0in" height="2.8442508748906388in"}
 
 In the early days of blockchain development, the most common projects
 forked the original Bitcoin codebase to modify small but significant
@@ -4642,7 +4642,7 @@ supporting or opposing any particular initiatives.
 We're simply sampling a variety of projects across multiple different
 facets of the enterprise blockchain space.
 
-![](images/image86.png){width="5.0in" height="2.8327919947506564in"}
+![](images/image086.png){width="5.0in" height="2.8327919947506564in"}
 
 As the use of blockchain becomes more and more prevalent, the issue of
 scalability also grows.
@@ -4677,7 +4677,7 @@ specific users.
 Thus, these blockchains still follow the scalability trilemma and
 exchange decentralization for scalability and security.
 
-![](images/image87.png){width="5.0in" height="2.8170155293088364in"}
+![](images/image087.png){width="5.0in" height="2.8170155293088364in"}
 
 Ethereum is the industry standard blockchain platform for public
 projects at this point.
@@ -4714,7 +4714,7 @@ ConsenSys is a startup founded by one of the Ethereum cofounders Joe
 Lubin, meant to develop and foster growth in the Ethereum ecosystem,
 helping popular initiatives such as MetaMask and Truffle.
 
-![](images/image88.png){width="5.0in" height="2.796474190726159in"}
+![](images/image088.png){width="5.0in" height="2.796474190726159in"}
 
 Hyperledger, a project of the Linux Foundation, was one of the earliest
 responses to the need for easily accessible permissioned or private
@@ -4756,7 +4756,7 @@ within the consortium.
 If you're interested in learning more about Hyperledger, feel free to
 check out their edX course.
 
-![](images/image89.png){width="5.0in" height="2.783172572178478in"}
+![](images/image089.png){width="5.0in" height="2.783172572178478in"}
 
 Corda focuses on enabling banks to record, manage, synchronize, and
 support financial transactions and agreements through distributed ledger
@@ -4782,7 +4782,7 @@ Sign the transaction if it has not already signed other transactions
 consuming any of the proposed transaction input states, or (2) Reject
 the transaction and flag that a end attempt has occurred otherwise.
 
-![](images/image90.png){width="5.0in" height="2.8200962379702537in"}
+![](images/image090.png){width="5.0in" height="2.8200962379702537in"}
 
 Chain is another blockchain platform also aimed at financial services.
 
@@ -4802,7 +4802,7 @@ Private keys are kept in the hands of the entities using the network,
 while Sequence hosts the blockchain on behalf of the users, meaning that
 Sequence cannot produce transactions on any other users' behalf.
 
-![](images/image91.png){width="5.0in" height="2.8536581364829394in"}
+![](images/image091.png){width="5.0in" height="2.8536581364829394in"}
 
 Ripple is another enterprise blockchain platform focusing on creating a
 global network of financial services.
@@ -4839,7 +4839,7 @@ demand liquidity, and sending global payments.
 
 These are called xCurrent, xRapid, and xVia, respectively.
 
-![](images/image92.png){width="5.0in" height="2.7741940069991253in"}
+![](images/image092.png){width="5.0in" height="2.7741940069991253in"}
 
 Rootstock, a Bitcoin sidechain, aims integrate smart contracts with the
 Bitcoin blockchain.
@@ -4862,7 +4862,7 @@ interacting with the Bitcoin network but also to increase scalability,
 using blockchain sharding techniques and creating blocks every ten
 seconds instead of every ten minutes.
 
-![](images/image93.png){width="5.0in" height="2.8145166229221346in"}
+![](images/image093.png){width="5.0in" height="2.8145166229221346in"}
 
 Quorum is a lightweight fork of Ethereum, built for enterprise, with a
 particular focus on governance, confidentiality, and security for
@@ -4898,7 +4898,7 @@ to others.
 Quorum also supports pluggable Istanbul BFT and Raft-based consensus
 mechanisms.
 
-![](images/image94.png){width="5.0in" height="2.8278696412948383in"}
+![](images/image094.png){width="5.0in" height="2.8278696412948383in"}
 
 Cosmos is an initiative to connect blockchains together.
 
@@ -4930,7 +4930,7 @@ enterprise blockchain networks as well.
 We'll be focusing more on the specifics of Cosmos and Tendermint come
 the Scalability lecture.
 
-![](images/image95.png){width="5.0in" height="2.8327919947506564in"}
+![](images/image095.png){width="5.0in" height="2.8327919947506564in"}
 
 As a short summary of all the enterprise blockchain platforms we've seen
 in the past couple slides, let's tie it back to a more fundamental
@@ -4986,7 +4986,7 @@ quality.
 
 **[Use Case: Auto & Mobility]{.underline}**
 
-![](images/image96.png){width="5.0in" height="2.8135050306211724in"}
+![](images/image096.png){width="5.0in" height="2.8135050306211724in"}
 
 Mobility use cases combine blockchain, autonomous cars, and IoT.
 
@@ -4997,7 +4997,7 @@ affordable, safe, and free of congestion.
 Fun fact, MOBI was co-founded by a Blockchain at Berkeley alumnus,
 Ashley Lannquist, doing a lot of exploration of the industry.
 
-![](images/image97.png){width="5.0in" height="2.798386920384952in"}
+![](images/image097.png){width="5.0in" height="2.798386920384952in"}
 
 One of their major use cases revolves around collecting a car's data,
 the obvious stuff like miles driven, MPG, but also more micro datapoints
@@ -5009,7 +5009,7 @@ micropayments.
 
 This concept is also being explored by Toyota and Jaguar/Land Rover.
 
-![](images/image98.png){width="5.0in" height="2.8130074365704285in"}
+![](images/image098.png){width="5.0in" height="2.8130074365704285in"}
 
 As far as other use cases, there's supply chain and provenance, so
 tracking car parts, or an immutable 'Carfax'-style used car database.
@@ -5034,7 +5034,7 @@ disintermediated value transfer, privacy, and traceability.
 
 **[Use Case: Finance]{.underline}**
 
-![](images/image99.png){width="5.0in" height="2.8530982064741908in"}
+![](images/image099.png){width="5.0in" height="2.8530982064741908in"}
 
 The finance industry is particularly well-situated for the blockchain
 revolution since a lot of the assets banks deal with are not necessarily
@@ -8632,7 +8632,7 @@ scale blockchains vertically on chain once again.
 
 **[Text: Week 4 Summary]{.underline}**
 
-### I. Background
+<h3>I. Background</h3>
 
 Modern day public blockchains have been victims of their own success.
 Bitcoin and Ethereum especially are having scalability issues in that
@@ -8671,7 +8671,7 @@ These parameters are all built into a blockchain system itself, and
 tuning these parameters directly constitute as layer 1 scaling
 solutions.
 
-### II.I. Decrease Block Time
+<h3>II.I. Decrease Block Time</h3>
 
 We can't simply decrease the block time of a blockchain system, since
 that would result in a higher rate of naturally occurring forks,
@@ -8689,7 +8689,7 @@ rather the chain with the most "weight", where weight is a value
 calculated by both a chain's length and the number of uncle blocks it
 has. 
 
-### II.II. Increase Block Size
+<h3>II.II. Increase Block Size</h3>
 
 Increasing block size would improve a blockchain's TPS. Since a block
 can now contain more transactions, it would also lower transaction fees.
@@ -8703,7 +8703,7 @@ size is most likely not a one-time fix, since the scalability boost is
 only linear. The block size might need to be increased in the future
 again, leading to a "slippery slope" type of debate.
 
-### II.III. Decrease Transaction Size
+<h3>II.III. Decrease Transaction Size</h3>
 
 Segregated Witness (SegWit) was an upgrade to Bitcoin that move
 transaction signatures from within the transaction to a separate
@@ -8730,7 +8730,7 @@ verify proofs within milliseconds. However, currently, a trusted
 environment setup is required in order to produce these style of proofs.
 And proof generation in practice is very costly.
 
-### III. Vertical Scaling Off-Chain
+<h3>III. Vertical Scaling Off-Chain</h3>
 
 Given that the speed of a blockchain limits its scalability, we can
 consider entirely removing the more costly operations off the chain and
@@ -8771,7 +8771,7 @@ Some problems include having to lock up capital in order to initiate a
 payment channel, and centralization concerns of payment channel networks
 converging to hub-and-spoke topologies.
 
-### IV. Horizontal Scaling
+<h3>IV. Horizontal Scaling</h3>
 
 Sharding is database scaling strategy that breaks up a monolithic
 database into "shards", each a separate database that contains data from
@@ -8801,9 +8801,7 @@ height="1.994673009623797in"}
 
 Source: [https://blockstream.com/technology/ ](https://blockstream.com/technology/ )
 
-### 
-
-### V. Advanced Scaling & Generalizations
+<h3>V. Advanced Scaling & Generalizations</h3>
 
 Ethereum's Plasma can be seen as a diagonal scaling solution, since it
 enables horizontal scaling by implementing side chains and vertical
@@ -9477,7 +9475,7 @@ tokens to a bunch of random addresses.
 
 However, by design of taint analysis, that won't work at all.
 
-### Intro: Anonymity Through Mixing 
+<h3>Intro: Anonymity Through Mixing</h3>
 
 One of the biggest issues with anonymity in public and traceable
 blockchains such as Bitcoin is that they are not anonymous at all in
@@ -10691,7 +10689,7 @@ associated activity throughout the network (**taint** is the percentages
 of funds received by an address that can be traced back to another
 address).
 
-### III. Anonymity Through Mixing
+<h3>III. Anonymity Through Mixing</h3>
 
 An **anonymity set** is the set of pseudonyms between which an entity
 cannot be distinguished from their counterparts. The goal
