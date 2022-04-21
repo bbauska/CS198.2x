@@ -1,18 +1,20 @@
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ CS198.2x - Blockchain Technologies ------------------------------>
+<!----------------------- readme.md in CS198.2x - Blockchain Technologies ------------------------>
 <!------------------------------------------------------------------------------------------------>
-
 <h2 aiign="center">Blockchain Technologies</h2>
 
 <p align="center">(BerkeleyX - CS198.2x)</p>
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- Berkeley's Blockchain logo ------------------------------------->
+<!------------------------------- 01. Berkeley's Blockchain logo --------------------------------->
 <!------------------------------------------------------------------------------------------------>
-![](images/image001.png){width="5.0in" height="2.7978729221347334in"}
+<p align="center" width="100%">
+<img src="/images/image001.png?raw=true"
+   alt="Blockchain at BerkeleyX logo"
+   width="65%" >
+&nbsp;
 
-**[\
-Course Syllabus]{.underline}**
+**[Course Syllabus]**
 
 This course provides a wide overview of many of the topics relating to
 and building upon the foundation of Bitcoin and blockchain technology. 
@@ -78,7 +80,7 @@ Future.
 > blockchain-based future thought experiment and explain the avenues for
 > the student's potential involvement.
 
-[Notes from Rustie]{.underline}
+<h4>Notes from Rustie</h4>
 
 Since Fall, 2016, Blockchain at Berkeley has been offering a course on
 the fundamental concepts of cryptocurrencies and blockchain on UC
@@ -147,7 +149,14 @@ is to read these books.
     Bitcoin ](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)by
     Andreas Antonopoulos
 
-![](images/image002.png){width="5.0in" height="4.266025809273841in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------- 02. blockchain at berkeleyX logo --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image002.jpg?raw=true"
+   alt="Blockchain at BerkeleyX logo"
+   width="65%" >
+&nbsp;
 
 A good unofficial resource is the Blockchain at Berkeley Public Slack,
 where we discuss various topics related to blockchain. You can request
@@ -218,12 +227,16 @@ Campus, dedicated to serving the crypto and blockchain communities. Our
 members include Berkeley students, alumni, community members, and
 blockchain enthusiasts from all educational and industrial backgrounds.
 
-**[\
-]{.underline}**
-
 **Week 1: Trust Without Trust: Distributed Systems & Consensus**
 
-![](images/image003.png){width="5.0in" height="3.3748261154855643in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------- 03. blockchain at berkeleyX logo #2 ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image003.png?raw=true"
+   alt="Blockchain at BerkeleyX logo #2"
+   width="65%" >
+&nbsp;
 
 Welcome to the first module of Blockchain Technology, the second course
 in the Blockchain Fundamentals program.
@@ -341,7 +354,14 @@ I can always agree with myself on where to have lunch, but when I go out
 with my friends, we have to all agree on where to go first, and the
 process by which we reach agreement might be difficult.
 
-![](images/image004.png){width="5.0in" height="2.8009634733158357in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------- 04. distributed systems: origins --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image004.jpg?raw=true"
+   alt="Distributed Systems: Origins"
+   width="65%" >
+&nbsp;
 
 In this example, my group of friends had to come to consensus on a
 common choice of action -- what to get for lunch -- before we were able
@@ -350,7 +370,14 @@ to move forward -- to actually get lunch.
 This is no different from how a distributed system works, and is where
 we start building our intuition and context.
 
-![](images/image005.png){width="5.0in" height="2.8190627734033247in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 05. distributed systems: digital avionics --------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image005.jpg?raw=true"
+   alt="Distributed Systems: Digital Avionics"
+   width="65%" >
+&nbsp;
 
 Consensus has been studied for ages in fields such as biophysics,
 ethics, and philosophy, but the formal study of consensus in computer
@@ -391,7 +418,14 @@ distribute the points of failure.
 How these computers coordinated amongst each other though was another
 challenge.
 
-![](images/image006.png){width="5.0in" height="2.778676727909011in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 06. distributed systems: early literature --------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image006.jpg?raw=true"
+   alt="Distributed Systems: Early Literature"
+   width="65%" >
+&nbsp;
 
 Early literature had focused on enabling coordination of processes --
 where these processes could be processes on a CPU, or computers in a
@@ -445,7 +479,14 @@ While this is at a depth that is out of scope for this course, it's
 important to recognize that through the efforts of Lamport and other
 scientists, the formal study of distributed systems began to take shape.
 
-![](images/image007.png){width="5.0in" height="2.7553423009623796in"}
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------- 07. distributed systems: other problems ---------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image007.jpg?raw=true"
+   alt="Distributed Systems: Other Problems"
+   width="65%" >
+&nbsp;
 
 And as it turns out, the same problem that was originally studied to
 coordinate computers on commercial airliners is still studied today, for
@@ -12353,3 +12394,6 @@ the blockchain space.
 We wish you all the best on the rest of your blockchain journey!
 
 The end...
+<p>
+4/20/2022 bbauska @ 8:06pm
+</p>
