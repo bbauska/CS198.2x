@@ -1,7 +1,6 @@
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- readme.md in CS198.2x - Blockchain Technologies ------------------------>
 <!------------------------------------------------------------------------------------------------>
-<h2 aiign="center">Blockchain Technologies</h2>
 
 <h2 align="center">CS198.2x - University of California @ BerkeleyX</h2>
 
@@ -11,10 +10,12 @@
 <p align="center" width="100%">
 <img src="/images/image001.png?raw=true"
    alt="Blockchain at BerkeleyX logo"
-   width="65%" >
-&nbsp;
+   width="65%" />
+</p>
 
-<h2 aiign="center">Blockchain Technologies</h2>
+<h2 align="center">Blockchain Technologies</h2>
+	
+<!----------------- ## [Table of Contents](#table-of-contents) ------->
 
 **Course Syllabus**
 
@@ -26,7 +27,7 @@ Systems & Consensus, 2. Cryptoeconomics & Proof-of-Stake, 3. Enterprise
 Blockchain, 4. Scalability, 5. Anonymity, and 6. A Blockchain Powered
 Future.
 
-<h2><b>Trust Without Trust: <i>Distributed Systems & Consensus</i></b></h2>
+<h2><b>1. Trust Without Trust: <i>Distributed Systems & Consensus</i></b></h2>
 
 > Blockchain architecture is built on the foundation of decades of
 > computer science and distributed systems literature. We start out by
@@ -37,7 +38,7 @@ Future.
 > Proof-of-Stake, voting-based consensus algorithms, and federated
 > consensus.
 
-<h2><b>1. Securing Incentives: <i>Cryptoeconomics & Proof-of-Stake</i></b></h2>
+<h2><b>2. Securing Incentives: <i>Cryptoeconomics & Proof-of-Stake</i></b></h2>
 
 > We examine the meaning and properties of cryptoeconomics as it relates
 > to its two compositional fields: cryptography and economics. We then
@@ -45,7 +46,7 @@ Future.
 > systems fundamentals (liveness, safety, data availability) and the
 > griefing factors and faults in the way of these goals.
 
-<h2><b>2. Real-World Applications: <i>Enterprise Blockchain</i></b></h2>
+<h2><b>3. Real-World Applications: <i>Enterprise Blockchain</i></b></h2>
 
 > We categorize the uses of blockchain and distributed ledger
 > technologies, and look at various existing enterprise-level blockchain
@@ -54,7 +55,7 @@ Future.
 > blockchain, ICOs, and the increasing regulations surrounding
 > blockchain.
 
-<h2><b>3. Cryptocurrencies for the Masses: <i>Scaling Blockchain</i></b></h2>
+<h2><b>4. Cryptocurrencies for the Masses: <i>Scaling Blockchain</i></b></h2>
 
 > One major obstacle to widespread blockchain adoption is the problem of
 > scalability. We define scaling first as it relates to Bitcoin as a
@@ -65,7 +66,7 @@ Future.
 > Topics include block size increases, Segregated Witness, payment
 > channels, Lightning Network, sidechains, Plasma, sharding, and Cosmos.
 
-<h2><b>4. The Fight for Privacy: <i>Anonymity, Mixing & Altcoins</i></b></h2>
+<h2><b>5. The Fight for Privacy: <i>Anonymity, Mixing & Altcoins</i></b></h2>
 
 > We look into the measures that governments have taken to regulate and
 > control blockchain technology.  We examine Anti-Money Laundering (AML)
@@ -74,7 +75,7 @@ Future.
 > Then from the user's perspective, we also dive into privacy oriented
 > altcoins and mixing techniques.
 
-<h2><b>5. A Blockchain Powered Future</b></h2>
+<h2><b>6. A Blockchain Powered Future</b></h2>
 
 > A summary of the entire Blockchain Fundamentals program and an
 > exploratory look into blockchain ventures today, such as venture
