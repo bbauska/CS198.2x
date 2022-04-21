@@ -230,7 +230,7 @@ Campus, dedicated to serving the crypto and blockchain communities. Our
 members include Berkeley students, alumni, community members, and
 blockchain enthusiasts from all educational and industrial backgrounds.
 
-**Week 1: Trust Without Trust: Distributed Systems & Consensus**
+<h2><b>Week 1: Trust Without Trust: Distributed Systems & Consensus</b></h2>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 03. blockchain at berkeleyX logo #2 ------------------------------>
@@ -286,7 +286,7 @@ of consensus.
 After this lecture, you'll be able to think about blockchain within the
 much larger scope of distributed systems and consensus.
 
-**Week 1 Announcements**
+<h3>Week 1 Announcements</h3>
 
 Welcome to Week 1. Here\'s a quick breakdown of what to expect every
 week:
@@ -363,7 +363,7 @@ process by which we reach agreement might be difficult.
 <p align="center" width="100%">
 <img src="/images/image004.jpg?raw=true"
    alt="Distributed Systems: Origins"
-   width="65%" >
+   width="65%" />
 &nbsp;
 
 In this example, my group of friends had to come to consensus on a
@@ -379,7 +379,7 @@ we start building our intuition and context.
 <p align="center" width="100%">
 <img src="/images/image005.jpg?raw=true"
    alt="Distributed Systems: Digital Avionics"
-   width="65%" >
+   width="65%" />
 &nbsp;
 
 Consensus has been studied for ages in fields such as biophysics,
@@ -427,7 +427,7 @@ challenge.
 <p align="center" width="100%">
 <img src="/images/image006.jpg?raw=true"
    alt="Distributed Systems: Early Literature"
-   width="65%" >
+   width="65%" />
 &nbsp;
 
 Early literature had focused on enabling coordination of processes --
@@ -488,14 +488,21 @@ scientists, the formal study of distributed systems began to take shape.
 <p align="center" width="100%">
 <img src="/images/image007.jpg?raw=true"
    alt="Distributed Systems: Other Problems"
-   width="65%" >
+   width="65%" />
 &nbsp;
 
 And as it turns out, the same problem that was originally studied to
 coordinate computers on commercial airliners is still studied today, for
 example on more high-tech jet planes.
 
-![](images/image008.png){width="5.0in" height="2.7705971128608926in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------- 08. distributed systems: other problems #2 --------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image008.jpg?raw=true"
+   alt="Distributed Systems: Other Problems #2"
+   width="65%" />
+&nbsp;
 
 And more recently, on various spacecraft, such as SpaceX's famous Falcon
 9 or Dragon spacecraft.
@@ -509,7 +516,14 @@ SpaceX Dragon specifically uses three flight computers, which perform
 calculations independently, and reboot automatically if errors are found
 after cross checking.
 
-![](images/image009.png){width="5.0in" height="2.768860454943132in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 09. distributed systems: other problems #3 -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image009.jpg?raw=true"
+   alt="Distributed Systems: Other Problems #3"
+   width="65%" />
+&nbsp;
 
 Distributed systems and consensus is also studied in the context of big
 enterprise operations as well.
@@ -519,7 +533,14 @@ read or write to the same piece of data at the same time -- a problem
 called mutual exclusion -- thereby preventing potential corruption to
 important data.
 
-![](images/image010.png){width="5.0in" height="2.835219816272966in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- 10. distributed systems origins: other problems ------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image010.jpg?raw=true"
+   alt="Distributed Systems Origins: Other Problems"
+   width="65%" />
+&nbsp;
 
 And finally, of course -- the main focus of this course -- the
 blockchain and distributed ledger revolution.
@@ -562,7 +583,14 @@ It's trust -- without trust.
 
 <h3>Distributed Systems Fundamentals</h3>
 
-![](images/image011.png){width="5.0in" height="2.742717629046369in"}
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------- 11. distributed systems: definition  ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image011.jpg?raw=true"
+   alt="Distributed Systems: Definition"
+   width="65%" />
+&nbsp;
 
 In order to understand blockchain technology like a pro, knowing its ins
 and outs, we need to delve into the heart of what blockchain looks like
@@ -580,7 +608,14 @@ The definition for a distributed system changes depending on who you
 ask, but the general "consensus" (no pun intended) is that distributed
 systems contain two particular categories of components.
 
-![](images/image012.png){width="5.0in" height="2.7938812335958003in"}
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------- 12. distributed systems: definition #2 ---------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image012.jpg?raw=true"
+   alt="Distributed Systems: Definition #2"
+   width="65%" />
+&nbsp;
 
 The first category is referred to as "nodes."
 
@@ -590,7 +625,14 @@ This separation manifests in the real-world as physical distance, such
 as in Bitcoin, or just a separation of components, similar to the CPU
 cores in your laptop.
 
-![](images/image013.png){width="5.0in" height="2.82503937007874in"}
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------- 13. distributed systems: definition #3 ---------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image013.jpg?raw=true"
+   alt="Distributed Systems: Definition #3"
+   width="65%" />
+&nbsp;
 
 The second category is referred to as "message passing."
 
@@ -625,7 +667,14 @@ machine shuts down or misbehaves, it's not the end of the world.
 We can create protocols withstanding failure, giving us the power to be
 safe in the event of a crash.
 
-![](images/image014.png){width="5.0in" height="2.8145166229221346in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------- 14. distributed systems: properties ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image014.jpg?raw=true"
+   alt="Distributed Systems: Properties"
+   width="65%" />
+&nbsp;
 
 Let's discuss the properties of a distributed system keeping in mind the
 two main two components to understand exactly what we're working with.
@@ -659,7 +708,14 @@ understanding the role of nodes and edges in this system.
 In the next section, we're going to look at how we distinguish a working
 distributed system from a faulty one.
 
-![](images/image015.png){width="5.0in" height="2.8327919947506564in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------ 15. distributed systems: example -------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image014.jpg?raw=true"
+   alt="Distributed Systems: Example"
+   width="65%" />
+&nbsp;
 
 This graph shows a classic example problem from distributed systems.
 
@@ -688,7 +744,14 @@ What constitutes a correct answer?
 
 We're about to answer those questions right now.
 
-![](images/image016.png){width="5.0in" height="2.809446631671041in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------ 16. distributed systems: properties of multiprocess programs ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image016.jpg?raw=true"
+   alt="Distributed Systems: Properties of Multiprocess Programs"
+   width="65%" />
+&nbsp;
 
 Leslie Lamport, distributed systems researcher and superhero, designed a
 scheme by which we can formally prove the correctness of a distributed
@@ -739,7 +802,14 @@ get into serious trouble.
 You need some of both, but not too much, to define a sense of what your
 program can and should do.
 
-![](images/image017.png){width="5.0in" height="2.8119947506561678in"}
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------- 17. distributed consensus: correctness ----------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image017.jpg?raw=true"
+   alt="Distributed Consensus: Correctness"
+   width="65%" />
+&nbsp;
 
 We spent quite a bit of time understanding safety and liveness, but how
 do we apply those ideas of desirable and undesirable guidelines to a
@@ -817,7 +887,14 @@ what must happen for the system to be considered correct.
 Without the guarantee of termination, we have no guarantee that
 consensus will ever be achieved.
 
-![](images/image018.png){width="5.0in" height="2.8089884076990375in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 18. distributed consensus: correctness #2 --------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image018.jpg?raw=true"
+   alt="Distributed Consensus: Correctness #2"
+   width="65%" />
+&nbsp;
 
 By understanding these three essentials of a consensus algorithm, you
 now understand what is needed for any distributed system to come to
@@ -832,7 +909,14 @@ that any system must make.
 
 <h3>CAP Theorem</h3>
 
-![](images/image019.png){width="5.0in" height="2.811224846894138in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- 19. cap theorum: introduction --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image019.png?raw=true"
+   alt="CAP Theorem: Introduction"
+   width="65%" />
+&nbsp;
 
 This section hones in on a famous trilemma of distributed systems called
 the CAP Theorem.
@@ -851,7 +935,14 @@ previous section about safety, liveness, and consensus correctness.
 After defining these terms and proving the CAP Theorem, we'll delve into
 the implications.
 
-![](images/image020.png){width="5.0in" height="2.775974409448819in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- 20. cap theorem: consistency ---------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image020.jpg?raw=true"
+   alt="CAP Theorem: Consistency"
+   width="65%" />
+&nbsp;
 
 The "C" in CAP stands for Consistency.
 
@@ -867,7 +958,14 @@ to something that will never happen.
 Consistency in a system says that no two nodes will return a different
 state at any given time, and that no node will return an outdated state.
 
-![](images/image021.png){width="5.0in" height="2.8022867454068243in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- 21. cap theorem: availability --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image021.jpg?raw=true"
+   alt="CAP Theorem: Availability"
+   width="65%" />
+&nbsp;
 
 The "A" in CAP stands for Availability.
 
@@ -880,7 +978,14 @@ retrieve the state of the system without delay.
 This, then, is born from liveness: availability promises what must
 happen, which is the ability to read or write some state.
 
-![](images/image022.png){width="5.0in" height="2.822580927384077in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 22. cap theorem: partition tolerance (26) --------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image021.jpg?raw=true"
+   alt="CAP Theorem: Availability"
+   width="65%" />
+&nbsp;
 
 And last but not least the "P" in CAP stands for ***Partition
 Tolerance***.
@@ -903,7 +1008,13 @@ in line with safety, as it specifies what will not happen.
 Partition tolerance states that the network will not stop functioning
 even with partitions.
 
-![](images/image023.png){width="5.0in" height="2.8338757655293088in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 23. cap theorem: nothing is impossible (27) ------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image023.jpg?raw=true"
+   alt="CAP Theorem: Nothing is Impossible"
+   width="65%" />
 
 What is the CAP Theorem, truly?
 
@@ -926,14 +1037,28 @@ is true.
 
 In order to prove the CAP Theorem, let's run through some examples.
 
-![](images/image024.png){width="5.0in" height="2.7938812335958003in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- 24. cap theorem: proof (28) ----------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image024.jpg?raw=true"
+   alt="CAP Theorem: Proof"
+   width="65%" />
+&nbsp;
 
 In each example, we're going to give an example of a situation in which
 choosing two properties forces us to yield the third.
 
 Let's pretend this is a database which stores my favorite color.
 
-![](images/image025.png){width="5.0in" height="2.798386920384952in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 25. cap theorem: proof #2 (28) --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image025.jpg?raw=true"
+   alt="CAP Theorem: Proof #2"
+   width="65%" />
+&nbsp;
 
 In our first example, let's choose Partition Tolerance and Availability.
 
@@ -946,7 +1071,14 @@ Naturally, my favorite color will have to change from blue to red.
 
 I send the update to the system, and my message happens to go to Node 1.
 
-![](images/image026.png){width="5.0in" height="2.7993525809273843in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 26. cap theorem: proof #3 (29) --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image026.jpg?raw=true"
+   alt="CAP Theorem: Proof #3"
+   width="65%" />
+&nbsp;
 
 Node 1 relays the update to all other accessible nodes, which update
 their state.
@@ -972,15 +1104,36 @@ We'll see how that ends up sacrificing Availability.
 
 Same scenario,
 
-![](images/image027.png){width="5.0in" height="2.83413823272091in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 27. cap theorem: proof #4 (30) --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image027.jpg?raw=true"
+   alt="CAP Theorem: Proof #4"
+   width="65%" />
+&nbsp;
 
 I send the update to Node 1, which then sends the update to other nodes.
 
-![](images/image028.png){width="5.0in" height="2.82503937007874in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- 28. cap theorem: proof (30) ----------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image028.jpg?raw=true"
+   alt="CAP Theorem: Proof"
+   width="65%" />
+&nbsp;
 
 Nodes 2 and 4 are still ignorant of the update to red.
 
-![](images/image029.png){width="5.0in" height="2.7858300524934383in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- 29. cap theorem: proof (31) ----------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image029.jpg?raw=true"
+   alt="CAP Theorem: Proof"
+   width="65%" />
+&nbsp;
 
 Again, I query Node 2.
 
@@ -1000,13 +1153,27 @@ outdated information and refuse to return a value.
 We lose out on something in the last two examples, so let's see what
 happens when we choose Consistency and Availability.
 
-![](images/image030.png){width="5.0in" height="2.845528215223097in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- 30. cap theorem: proof (32) ----------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image030.jpg?raw=true"
+   alt="CAP Theorem: Proof"
+   width="65%" />
+&nbsp;
 
 I send an update to Node 1.
 
 Node 1 passes the information around.
 
-![](images/image031.png){width="5.0in" height="2.831715879265092in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- 31. cap theorem: proof (32) ----------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image031.jpg?raw=true"
+   alt="CAP Theorem: Proof"
+   width="65%" />
+&nbsp;
 
 I query Node 2, and it returns a value to me.
 
@@ -1024,7 +1191,14 @@ situations.
 And this proof demonstrates the spirit of the CAP Theorem, that a system
 must compromise.
 
-![](images/image032.png){width="5.0in" height="2.8200984251968504in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- 32. cap theorem: notes (33) ----------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image032.jpg?raw=true"
+   alt="CAP Theorem: Notes"
+   width="65%" />
+&nbsp;
 
 Now you understand the CAP Theorem.
 
@@ -1072,8 +1246,14 @@ design.
 
 <h3>Byzantine Fault Tolerance</h3>
 
-![](images/image033.png){width="4.0331780402449695in"
-height="2.305611329833771in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------- 33. byzantine fault tolerance: general's problem (34) ---------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image033.jpg?raw=true"
+   alt="Byzantine Fault Tolerance: General's Problem"
+   width="65%" />
+&nbsp;
 
 We've defined distributed systems, understood the definition of
 correctness in their context, and understood the various properties and
@@ -1164,7 +1344,14 @@ this to a general fraction.
 However, that doesn't mean it's not possible to make an algorithm for
 the remaining situations.
 
-![](images/image034.png){width="4.0in" height="2.270411198600175in"}
+<!------------------------------------------------------------------------------------------------>
+<!--------------------- 34. byzantine fault tolerance: fault tolerance (37) ---------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image034.png?raw=true"
+   alt="Byzantine Fault Tolerance: Fault Tolerance"
+   width="65%" />
+&nbsp;
 
 Practical Byzantine Fault Tolerance released in 1999 by Miguel Castro
 and Barbara Liskov gives an algorithm to allow nodes to come to
@@ -1185,7 +1372,14 @@ solve these kinds of problems. This kind of failure may be temporary or
 indefinite, but it will always be easier to handle than the second type
 of fault.
 
-![](images/image035.png){width="4.0in" height="2.254273840769904in"}
+<!------------------------------------------------------------------------------------------------>
+<!--------------------- 35. byzantine fault tolerance: in a blockchain (37) ---------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image035.png?raw=true"
+   alt="Byzantine Fault Tolerance: General's Problem"
+   width="65%" />
+&nbsp;
 
 A Byzantine fault, referring to the Byzantine Generals' Problem, is a
 fault that refers to any arbitrary deviance from the protocol. In other
@@ -1254,7 +1448,14 @@ systems of today.
 
 <h3>Paxos and Raft</h3>
 
-![](images/image036.png){width="4.0in" height="2.246865704286964in"}
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------- 36. paxos: overview (40) ------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image036.png?raw=true"
+   alt="Paxos: Overview"
+   width="65%" />
+&nbsp;
 
 So before we talk about our first consensus mechanisms, let's take a
 short break.
@@ -1300,9 +1501,16 @@ No one was willing to remain in the chambers all the time, and they
 didn't have secretaries either, so instead, each Paxon legislator
 maintained a ledger, where they'd record everything that happened.
 
-![](images/image037.png){width="4.0in" height="2.2562893700787403in"}
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------- 37. paxos: terminology (41) ---------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image037.png?raw=true"
+   alt="Paxos: Terminology"
+   width="65%" />
+&nbsp;
 
-So diving a bit more in depth, the paper specifies that within the Paxon
+Diving a bit more in depth, the paper specifies that within the Paxon
 parliament, there are three types of legislators: proposers, acceptors,
 and learners.
 
@@ -1323,7 +1531,14 @@ We'll see later on that the idea of quorums is also very important in
 other consensus algorithms, such as those that are considered federated
 consensus algorithms.
 
-![](images/image038.png){width="4.0in" height="2.2753991688538933in"}
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------- 38. paxos: main ideaa (42) ------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image038.png?raw=true"
+   alt="Paxos: Main Idea"
+   width="65%" />
+&nbsp;
 
 The protocol that the Paxon parliament uses proceeds over several
 rounds, until consensus is reached.
@@ -1352,9 +1567,16 @@ they'd all write it down on everyone's ledgers.
 After reaching consensus, the learners learn the result, and then let
 the entire island know what happened in parliament.
 
-![](images/image039.png){width="4.0in" height="2.28670384951881in"}
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 39. paxos: knowledge of the ancients (42) --------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image039.png?raw=true"
+   alt="Paxos: Knowledge of the Ancients"
+   width="65%" />
+&nbsp;
 
-So there's a very clear parallel between the Paxon parliament and
+There's a very clear parallel between the Paxon parliament and
 distributed consensus.
 
 As Lamport put it in his paper: "There's an obvious correspondence
@@ -1368,7 +1590,14 @@ action on the result.
 And the state of the distributed database is like the current law passed
 by the parliament.
 
-![](images/image040.png){width="4.0in" height="2.245962379702537in"}
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------- 40. paxos in practice (43) ---------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image040.png?raw=true"
+   alt="Paxos in Practice"
+   width="65%" />
+&nbsp;
 
 One major assumption that Paxos makes is that nodes aren't trying to
 subvert the protocol, and that messages are delivered without
@@ -1399,7 +1628,14 @@ further, with a follow up paper titled "Paxos Made Simple," it still
 caused mass confusion -- maybe because of the huge Paxon parliament
 story.
 
-![](images/image041.png){width="4.0in" height="2.2510695538057743in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------- 41. raft: overview (44) ------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image041.png?raw=true"
+   alt="Raft: Overview"
+   width="65%" />
+&nbsp;
 
 In 2014, an alternative to Paxos was proposed.
 
@@ -1418,7 +1654,14 @@ designed to be an enterprise version of Ethereum, swaps out the public
 Proof-of-Work algorithm that Ethereum uses for a faster Raft-based
 consensus.
 
-![](images/image042.png){width="4.0in" height="2.269737532808399in"}
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------- 42. raft: how it works (45) ---------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image042.png?raw=true"
+   alt="Raft: How it Works"
+   width="65%" />
+&nbsp;
 
 There's a really good Raft simulation that I'll link in the "Readings"
 section for this week, but here's a brief rundown of how Raft consensus
@@ -1464,7 +1707,14 @@ All credit and respect to the original author!
 
 <h3>Practical Byzantine Fault Tolerance</h3>
 
-![](images/image043.png){width="4.0in" height="2.2581200787401574in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------- 43. pbft: overview (46) ------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image043.png?raw=true"
+   alt="PBFT: Overview"
+   width="65%" />
+&nbsp;
 
 We'll end here with another famous consensus algorithm: Practical
 Byzantine Fault Tolerance, or PBFT. Published by Miguel Castro and
@@ -1487,7 +1737,14 @@ protocol developed by Sun Microsystems in 1984, the resulting BFT-NFS is
 only 3% slower, despite the fact that it can now withstand Byzantine
 faults.
 
-![](images/image044.png){width="4.0in" height="2.288768591426072in"}
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------- 44. pbft: by example (47) ----------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image044.png?raw=true"
+   alt="PBFT: By Example"
+   width="65%" />
+&nbsp;
 
 The main PBFT algorithm consists of three phases -- pre-prepare,
 prepare, and commit.
@@ -1498,19 +1755,40 @@ this should be familiar since it's a common design pattern. For example,
 remembering back to Paxos, the Proposer proposes new decrees to other
 legislators in the Paxon Parliament based on the requests of the people.
 
-![](images/image045.png){width="5.0in" height="2.8507010061242344in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------ 45. pbft: by example: request (47) ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image045.png?raw=true"
+   alt="PBFT: By Example: Request"
+   width="65%" />
+&nbsp;
 
 In this case, the primary node is Derrick. We have a total of 4 nodes,
 meaning that we should be able to withstand 1 fault, since ¼ is less
 than ⅓. So let's say one of our 4 nodes, Nadir, drops out due to a
 spotty internet connection.
 
-![](images/image046.png){width="5.0in" height="2.839032152230971in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------ 46. pbft: by exmple: request (48) ------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image046.png?raw=true"
+   alt="PBFT: By Example: Request"
+   width="65%" />
+&nbsp;
 
 Nadir might've dropped out, but the other 3 nodes might not know that
 yet, so they'll still send messages to him.
 
-![](images/image047.png){width="5.0in" height="2.85169072615923in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------ 47. pbft: by exmple: Pre-Prepare (47) --------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image047.png?raw=true"
+   alt="PBFT: By Example: Pre-Prepare"
+   width="65%" />
+&nbsp;
 
 The next step is pre-prepare, which is one of the three main phases --
 pre-prepare, prepare, and commit. In the pre-prepare phase, the primary
@@ -1521,7 +1799,14 @@ increasing numbers Proposers in Paxos assign to each of their decrees.
 They also contain signatures, and other useful metadata that lets nodes
 determine message validity.
 
-![](images/image048.png){width="5.0in" height="2.839032152230971in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------- 48. pbft: by example: prepare (49) ------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image048.png?raw=true"
+   alt="PBFT: By Example"
+   width="65%" />
+&nbsp;
 
 If a node accepts a pre-prepare message, it follows up by sending out a
 prepare message to everyone else. And prepare messages are accepted by
@@ -1532,20 +1817,41 @@ pre-prepared, and has seen 2f prepare messages that match its
 pre-prepare -- making for 2f + 1 prepares. Again, f is the number of
 Byzantine faults.
 
-![](images/image049.png){width="5.0in" height="2.82785542432196in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------- 49. pbft: by example: commit (50) -------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image049.png?raw=true"
+   alt="PBFT: By Example: Commit"
+   width="65%" />
+&nbsp;
 
 After nodes have prepared, they send out a commit message. If a node
 receives f + 1 valid commit messages, then they carry out the client
 request and then finally
 
-![](images/image050.png){width="5.0in" height="2.8085804899387576in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------ 50. pbft: by example: reply (50) -------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image050.png?raw=true"
+   alt="PBFT: By Example: Reply"
+   width="65%" />
+&nbsp;
 
 Send out the reply to the client. The client waits for f + 1 of the same
 reply. Since we allow for at most f faults, we need to wait for at least
 f + 1, and this ensures the response to be valid. After this point, the
 client gets the correct response.
 
-![](images/image051.png){width="5.0in" height="2.81122375328084in"}
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------- 51. pbft: normal case operation (51) ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image051.png?raw=true"
+   alt="PBFT: Normal Case Operation"
+   width="65%" />
+&nbsp;
 
 Here's a diagram from the PBFT whitepaper, which models exactly the
 scenario we just went over. The diagram has five processes, or nodes in
@@ -1882,7 +2188,14 @@ cryptography and economics.
 
 <h3>Proof-of-Stake Overview</h3>
 
-![](images/image052.png){width="5.0in" height="2.7975109361329835in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------- 52. proof of work vs proof of stake: differences (59) ---------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image052.png?raw=true"
+   alt="Proof-of-Work vs Proof-of-Stake: Differences"
+   width="65%" />
+&nbsp;
 
 As we mentioned in the Nakamoto consensus section, we can understand
 both Proof-of-Work and Proof-of-Stake by looking at what resources are
@@ -1971,7 +2284,14 @@ Proof-of-Work and Proof-of-Stake hybrid.
 
 <h3>Proof-of-Stake Implementations</h3>
 
-![](images/image053.png){width="5.0in" height="2.8092946194225723in"}
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------- 53. proof-of-stake: tendermint (61) ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image053.png?raw=true"
+   alt="Proof-of-Stake: Tendermint"
+   width="65%" />
+&nbsp;
 
 Tendermint was the first BFT-based Proof-of-Stake consensus mechanism,
 created by Jae Kwon and his team in 2014.
