@@ -8,7 +8,7 @@
 <!------------------------------- 01. Berkeley's Blockchain logo --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image001.png?raw=true"
+<img src="/images/cs198.2 logo.png?raw=true"
    alt="Blockchain at BerkeleyX logo"
    width="65%" />
 </p>
