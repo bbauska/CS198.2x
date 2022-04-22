@@ -156,7 +156,7 @@ is to read these books.
 <!----------------------------- 02. blockchain at berkeleyX logo --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/cs198.2x blockchain at berkeley logo.jpg?raw=true"
+<img src="/images/cs198.2x blockchain at berkeley logo.png?raw=true"
    alt="Blockchain at BerkeleyX logo"
    width="65%" >
 &nbsp;
@@ -233,11 +233,11 @@ blockchain enthusiasts from all educational and industrial backgrounds.
 <h2><b>Week 1: Trust Without Trust: Distributed Systems & Consensus</b></h2>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------- 03. blockchain at berkeleyX logo #2 ------------------------------>
+<!---------------------------- 01. blockchain at berkeleyX logo (7) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/cs198.2x blockchain at berkeley.png?raw=true"
-   alt="Blockchain at BerkeleyX logo #2"
+<img src="/images/image001.png?raw=true"
+   alt="Blockchain at BerkeleyX logo"
    width="65%" >
 &nbsp;
 
@@ -358,10 +358,10 @@ with my friends, we have to all agree on where to go first, and the
 process by which we reach agreement might be difficult.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------- 04. distributed systems: origins --------------------------------->
+<!--------------------------- 01a. distributed systems: origins (10) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image004.jpg?raw=true"
+<img src="/images/image001a.png?raw=true"
    alt="Distributed Systems: Origins"
    width="65%" />
 &nbsp;
@@ -374,10 +374,10 @@ This is no different from how a distributed system works, and is where
 we start building our intuition and context.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 05. distributed systems: digital avionics --------------------------->
+<!-------------------------- 02. distributed systems: digital avionics --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image005.jpg?raw=true"
+<img src="/images/image002.png?raw=true"
    alt="Distributed Systems: Digital Avionics"
    width="65%" />
 &nbsp;
@@ -422,10 +422,10 @@ How these computers coordinated amongst each other though was another
 challenge.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 06. distributed systems: early literature --------------------------->
+<!------------------------ 03. distributed systems: early literature (12) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image006.jpg?raw=true"
+<img src="/images/image003.png?raw=true"
    alt="Distributed Systems: Early Literature"
    width="65%" />
 &nbsp;
@@ -483,10 +483,10 @@ important to recognize that through the efforts of Lamport and other
 scientists, the formal study of distributed systems began to take shape.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------- 07. distributed systems: other problems ---------------------------->
+<!------------------------ 04. distributed systems: other problems (13) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image007.jpg?raw=true"
+<img src="/images/image004.png?raw=true"
    alt="Distributed Systems: Other Problems"
    width="65%" />
 &nbsp;
@@ -496,10 +496,10 @@ coordinate computers on commercial airliners is still studied today, for
 example on more high-tech jet planes.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------- 08. distributed systems: other problems #2 --------------------------->
+<!----------------------- 04b. distributed systems: other problems #2 (14) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image008.jpg?raw=true"
+<img src="/images/image004b.png?raw=true"
    alt="Distributed Systems: Other Problems #2"
    width="65%" />
 &nbsp;
@@ -517,10 +517,10 @@ calculations independently, and reboot automatically if errors are found
 after cross checking.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 09. distributed systems: other problems #3 -------------------------->
+<!------------------------ 05. distributed systems: other problems #3 (14) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image009.jpg?raw=true"
+<img src="/images/image005.png?raw=true"
    alt="Distributed Systems: Other Problems #3"
    width="65%" />
 &nbsp;
@@ -12961,5 +12961,5 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end...
 <p>
-4/20/2022 bbauska @ 8:06pm
+4/22/2022 bbauska @ 11:49am
 </p>
