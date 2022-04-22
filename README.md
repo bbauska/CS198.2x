@@ -8,7 +8,7 @@
 <!------------------------------- 01. Berkeley's Blockchain logo --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/CS198.2x logo.png?raw=true"
+<img src="/images/cs198.2x logo.png?raw=true"
    alt="Blockchain at BerkeleyX logo"
    width="65%" />
 </p>
@@ -156,7 +156,7 @@ is to read these books.
 <!----------------------------- 02. blockchain at berkeleyX logo --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image002.jpg?raw=true"
+<img src="/images/cs198.2x blockchain at berkeley logo.jpg?raw=true"
    alt="Blockchain at BerkeleyX logo"
    width="65%" >
 &nbsp;
@@ -236,7 +236,7 @@ blockchain enthusiasts from all educational and industrial backgrounds.
 <!----------------------------- 03. blockchain at berkeleyX logo #2 ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image003.png?raw=true"
+<img src="/images/cs198.2x blockchain at berkeley.png?raw=true"
    alt="Blockchain at BerkeleyX logo #2"
    width="65%" >
 &nbsp;
