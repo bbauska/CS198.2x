@@ -1443,9 +1443,6 @@ mechanisms and their impact.
 After, we'll see their evolution and how they inspired the blockchain
 systems of today.
 
-**[\
-]{.underline}**
-
 <h3>Paxos and Raft</h3>
 
 <!------------------------------------------------------------------------------------------------>
@@ -3006,7 +3003,7 @@ Federated consensus is powerful because of its decentralized control,
 low latency, and flexibility towards trust. Popular implementations of
 federated consensus include **Ripple** and **Stellar**. 
 
-**[Readings (Week 1)]{.underline}**
+<h3>Readings (Week 1)</h3>
 
 > [Short Overview of Alternatives to
 > PoW](https://www.coindesk.com/short-guide-blockchain-consensus-protocols/)
@@ -3066,8 +3063,7 @@ Video: 
 > [Casper the Friendly Finality
 > Gadget ](https://arxiv.org/pdf/1710.09437.pdf)
 
-**[Securing Incentives: Cryptoeconomics & Proof-of-Stake - Week
-2]{.underline}**
+<h2>Securing Incentives: Cryptoeconomics & Proof-of-Stake - Week 2</h2>
 
 Welcome to week 2 of CS198.2x, Blockchain Technology.
 
@@ -3090,7 +3086,7 @@ Through understanding cryptoeconomics, we can understand and prove
 qualities about a blockchain system's architecture without getting
 distracted by unnecessary details.
 
-**[Intro: Cryptoeconomics]{.underline}**
+<h3>Intro: Cryptoeconomics</h3>
 
 The world is full of decisions.
 
@@ -3136,7 +3132,7 @@ Cryptoeconomics is the analysis of virtual decision-making, from
 incentivizing actors to make the best decisions for a given goal from
 ensuring that the decisions' history is maintained honestly and forever.
 
-**[Cryptoeconomics]{.underline}**
+<h3>Cryptoeconomics</h3>
 
 ![](images/image055.png){width="5.0in" height="2.8356036745406823in"}
 
@@ -3212,7 +3208,7 @@ Before we talk about those things, however, we want to go over some
 basic cryptographic and economic "primitives," or building blocks, which
 we will then use to analyze and construct some examples of protocols.
 
-**[Intro: Cryptography]{.underline}**
+<h3>Intro: Cryptography</h3>
 
 Usually, when you hear the word cryptography, you think of hackers
 online disguising their identities and sending secret messages, or
@@ -3238,7 +3234,7 @@ In distributed systems with unknown, potentially adversarial actors like
 blockchain networks, cryptography is fundamentally important to ensuring
 that information is kept secret and safe whenever necessary.
 
-**[Origins of Cryptography]{.underline}**
+<h3>Origins of Cryptography</h3>
 
 ![](images/image056.png){width="5.0in" height="2.8482042869641293in"}
 
@@ -3530,7 +3526,7 @@ decided upon by some entity.
 We'll now go over some of the primitives in cryptography, which serve as
 building blocks for larger devices to accomplish this decision securing.
 
-**[Cryptographic Primitives]{.underline}**
+<h3>Cryptographic Primitives</h3>
 
 In the next few slides, we'll be presenting various cryptographic
 primitives that will be relevant in this lecture and in future ones, so
@@ -3642,8 +3638,7 @@ The value of n in the exponent is proportional to how much time it takes
 to decode, allowing us to easily adjust the functionality of this
 timelock to our specifications.
 
-**[Game Theory]{.underline}**
-
+<h3>Game Theory</h3>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 57.  --------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -3858,8 +3853,7 @@ what we're aiming for, to understand common blockchain protocols from
 this cryptoeconomics perspective. We'll leverage this frame of mind as
 we dive into the next section, Proof-of-Stake.
 
-**[Blacklisting]{.underline}**
-
+<h3>Blacklisting</h3>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 57.  --------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -3919,7 +3913,7 @@ what we're aiming for, to understand common blockchain protocols from
 this cryptoeconomics perspective. We'll leverage this frame of mind as
 we dive into the next section, Proof-of-Stake.
 
-**[Intro: Proof-of-Stake]{.underline}**
+<h3>Intro: Proof-of-Stake</h3>
 
 Now you understand how economics is used to incentivize good decisions
 and how cryptography is used to secure those decisions.
@@ -3945,7 +3939,7 @@ Through the cryptographic and economic primitives we learned in the
 previous sections, we'll break down Proof-of-Stake choices at an
 architectural level.
 
-**[Proof-of-Stake]{.underline}**
+<h3>Proof-of-Stake</h3>
 
 Up until now, the main consensus algorithm we've focused on is
 Proof-of-Work.
@@ -4085,7 +4079,7 @@ Outside of these drawbacks of Proof-of-Stake that were mentioned, there
 are also specific attacks that can be conducted in a Proof-of-Stake
 system that will be covered in the next section.
 
-[Intro: Attacks]{.underline}
+<h3>Intro: Attacks</h3>
 
 In this last section, we'll cover Proof-of-Stake attacks, again
 analyzing them from the perspective of cryptoeconomics.
@@ -4107,10 +4101,7 @@ Because the resource consumed is monetary value, bad actors need to
 receive an explicit monetary penalty with each attempted attack to keep
 the system in check.
 
-**[\
-]{.underline}**
-
-**[Attacks]{.underline}**
+<h3>Attacks</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 59.  --------------------------------->
@@ -4418,7 +4409,7 @@ pick the validator for the next round.
 Unless there is collusion within the majority, this strategy should
 work.
 
-**[Text: Week 2 Summary]{.underline}**
+<h3>Text: Week 2 Summary</h3>
 
 Written by Deven Navani and Nicholas Shen
 
@@ -4546,7 +4537,7 @@ offline for a long time; the node does not know which chain is the main
 chain; solution: introduce a \"revert limit\" - a rule that nodes must
 simply refuse to revert further back in time than the deposit length.
 
-**[Readings (Week 2)]{.underline}**
+<h3>Readings (Week 2)</h3>
 
 > [A Proof-of-Stake Design
 > Philosophy ](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
@@ -4577,8 +4568,7 @@ simply refuse to revert further back in time than the deposit length.
 > [EB105 - Vlad Zamfir: Bringing Ethereum Towards Proof-Of-Stake With
 > Casper ](https://www.youtube.com/watch?v=9nQPcNY32JQ)
 
-**[Real-World Applications: Enterprise Blockchain - Week
-3]{.underline}**
+<h3>Real-World Applications: Enterprise Blockchain - Week 3</h3>
 
 Welcome to Week 3 of CS198.2x, Blockchain Technology.
 
@@ -4613,7 +4603,7 @@ blockchain fits in (or doesn't).
 And finally, we'll take a step back and look at the culture,
 regulations, and caveats surrounding enterprise blockchains.
 
-**[Intro: Enterprise Blockchain Overview]{.underline}**
+<h3>Intro: Enterprise Blockchain Overview</h3>
 
 Before jumping straight into enterprise blockchain platforms and use
 cases, as always, we must first understand the architectural decisions
@@ -4636,7 +4626,7 @@ centralized enterprise blockchains.
 We'll then make a quick comparison between related technologies and
 distinguish different types of blockchains available for use.
 
-**[Enterprise Blockchain History (3:56)]{.underline}**
+<h3>Enterprise Blockchain History (3:56)</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 71.  --------------------------------->
@@ -4752,10 +4742,7 @@ Lastly, blockchain provides new decentralized models to work with
 alongside existing centralized ones, thus preventing the possibility of
 centralized corruption.
 
-**[\
-]{.underline}**
-
-**[Enterprise Blockchain Overview]{.underline}**
+<h3>Enterprise Blockchain Overview</h3>
 
 ![](images/image075.png){width="5.0in" height="2.8190627734033247in"}
 
@@ -5045,7 +5032,7 @@ blockchain's codebase.
 But nowadays, existing blockchain development frameworks have proven to
 be successful and secure.
 
-**[Intro: Enterprise Blockchain Platforms]{.underline}**
+<h3>Intro: Enterprise Blockchain Platforms</h3>
 
 Now that we have a clear working framework for categorizing and
 designing blockchain system architectures, we can start to see some of
@@ -5066,10 +5053,7 @@ We'll discuss various enterprise blockchain platforms and which use
 cases they're geared towards -- categorized primarily by their access
 type and consensus mechanisms.
 
-**[\
-]{.underline}**
-
-**[Enterprise Blockchain Platforms]{.underline}**
+<h3>Enterprise Blockchain Platforms</h3>
 
 ![](images/image085.png){width="5.0in" height="2.8442508748906388in"}
 
@@ -5449,7 +5433,7 @@ In the next section, we'll see the applications of these, as well as
 generalizations of enterprise blockchain use cases -- and also when not
 to use blockchain.
 
-**[Intro: Use Cases & Industries]{.underline}**
+<h3>Intro: Use Cases & Industries</h3>
 
 This section will focus on various industries around the world to give
 you a sense of what is currently being pursued to see into the minds of
@@ -5466,7 +5450,7 @@ goal is for you to apply your previous knowledge of blockchain's history
 and mechanisms to these use cases to evaluate for yourself the use case
 quality.
 
-**[Use Case: Auto & Mobility]{.underline}**
+<h3>Use Case: Auto & Mobility</h3>
 
 ![](images/image096.png){width="5.0in" height="2.8135050306211724in"}
 
@@ -5514,7 +5498,7 @@ industry.
 You'll find that these use cases revolve primarily around tokenization,
 disintermediated value transfer, privacy, and traceability.
 
-**[Use Case: Finance]{.underline}**
+<h3>Use Case: Finance</h3>
 
 ![](images/image099.png){width="5.0in" height="2.8530982064741908in"}
 
@@ -5572,7 +5556,7 @@ banks to use blockchain to help audit financial reports.
 The transparency and immutability afforded to blockchain-based systems
 is particularly enticing for accounting use cases.
 
-**[Use Case: Travel & Tourism]{.underline}**
+<h3>Use Case: Travel & Tourism</h3>
 
 ![](images/image102.png){width="5.0in" height="2.839806430446194in"}
 
@@ -5622,7 +5606,7 @@ in 2020.
 
 Next, we'll be talking about broader approaches to digital identity.
 
-**[Use Case: Digital Identity]{.underline}**
+<h3>Use Case: Digital Identity</h3>
 
 ![](images/image104.png){width="5.0in" height="2.789397419072616in"}
 
@@ -5675,7 +5659,7 @@ your identity but you.
 Next, we'll be talking about blockchain's applications in the healthcare
 industry.
 
-**[Use Case: Healthcare]{.underline}**
+<h3>Use Case: Healthcare</h3>
 
 ![](images/image106.png){width="5.0in" height="2.8617880577427823in"}
 
@@ -5723,7 +5707,7 @@ premiums.
 Insurance as an industry is also slated to be radically changed by the
 blockchain.
 
-**[Use Case: Insurance]{.underline}**
+<h3>Use Case: Insurance</h3>
 
 ![](images/image108.png){width="5.0in" height="2.849025590551181in"}
 
@@ -5770,7 +5754,7 @@ services.
 
 Next, we're going to look at how blockchain interacts with IoT.
 
-**[Use Case -- Supply Chain (2:27)]{.underline}**
+<h3>Use Case - Supply Chain (2:27)</h3>
 
 ![](images/image111.png){width="5.0in" height="2.802623578302712in"}
 
@@ -5839,7 +5823,7 @@ This endpoint verification problem, or, more informally, 'garbage in,
 garbage out', is one of largest barriers to large scale blockchain
 adoption today.
 
-**[Use Case:IoT (1:02)]{.underline}**
+<h3>Use Case:IoT (1:02)</h3>
 
 ![](images/image112.png){width="5.0in" height="2.84917760279965in"}
 
@@ -5868,7 +5852,7 @@ collected information from those devices to multiple sources.
 Next, we will talk about blockchain in supply chain, which leverages IoT
 as well.
 
-**[Use Case: Housing & Real Estate (1:39)]{.underline}**
+<h3>Use Case: Housing & Real Estate (1:39)</h3>
 
 ![](images/image113.png){width="5.0in" height="2.8607589676290464in"}
 
@@ -5920,10 +5904,7 @@ city in Vermont was launched earlier this year, and Zebi Data, an indian
 blockchain startup partnering with the states of Maharashtra and
 Telangana.
 
-**[\
-]{.underline}**
-
-**[Use Case: Foreign Aid (2:00)]{.underline}**
+<h3>Use Case: Foreign Aid (2:00)</h3>
 
 ![](images/image115.png){width="5.0in" height="2.7858300524934383in"}
 
@@ -5984,10 +5965,7 @@ This concludes the specific use case section of this lecture.
 We're now going to dive into generalizations that can be made between
 use cases.
 
-**[\
-]{.underline}**
-
-**[Use Case Generalizations (8:25)]{.underline}**
+<h3>Use Case Generalizations (8:25)</h3>
 
 Now that we've seen all these use cases, let's go ahead and finish off
 with some generalizations.
@@ -6267,7 +6245,7 @@ Mirages pop up all the time, but that doesn't make them the real deal.
 Be sure that you're able to justify why a blockchain works for your use
 case!
 
-**[Intro: ICO Schemes & Culture (1:04)]{.underline}**
+<h3>Intro: ICO Schemes & Culture (1:04)</h3>
 
 Now you're familiar with blockchain use cases and various examples from
 around the world.
@@ -6293,7 +6271,7 @@ which demonstrate the difference between theory and reality.
 Finally, we'll introduce some standards that have been suggested to help
 bring order to this ambiguous and uncertain space.
 
-**[ICO Schemes & Culture (12:57)]{.underline}**
+<h3>ICO Schemes & Culture (12:57)</h3>
 
 ![](images/image123.png){width="5.0in" height="2.8054669728783903in"}
 
@@ -6716,7 +6694,7 @@ the space is still new.
 Finance is second-largest, followed by communications, trading &
 investing, payments, and more.
 
-**[Intro: Regulations & Caveats (0:43)]{.underline}**
+<h3>Intro: Regulations & Caveats (0:43)</h3>
 
 To conclude on the possibilities of this decentralized technology, it's
 important to come back to fitting it into the reality of governments and
@@ -6732,7 +6710,7 @@ The perspective and regulations on blockchain technology are developing
 every day, but we're going to try to introduce to you the most accurate
 snapshot of present-day perception around the technology.
 
-**[Regulations & Caveats (9:28)]{.underline}**
+<h3>Regulations & Caveats (9:28)</h3>
 
 ![](images/image136.png){width="5.0in" height="2.8317147856517937in"}
 
@@ -7002,7 +6980,7 @@ essentially banning cryptocurrencies.
 India shut down an exchange known as BTCXIndia which, despite complying
 with AML/KYC regulations, still was deemed risky.
 
-**[Text: Week 3 Summary]{.underline}**
+<h3>Text: Week 3 Summary</h3>
 
 **I. Enterprise Blockchain Overview**
 
@@ -7148,7 +7126,7 @@ Vermont and Arizona have declared that portions of the information on a
 blockchain can be considered legal evidence in court, but some countries
 have taken steps to restricting access to cryptocurrencies.
 
-**[Readings (Week 3)]{.underline}**
+<h3>Readings (Week 3)</h3>
 
 > [Blockchain in Enterprise: How Companies are using Blockchain
 > Today](https://blockchainatberkeley.blog/a-snapshot-of-blockchain-in-enterprise-d140a511e5fd)
@@ -7168,10 +7146,7 @@ have taken steps to restricting access to cryptocurrencies.
 > [All You Need To Know About Initial Coin
 > Offerings ](https://gallery.mailchimp.com/65ae955d98e06dbd6fc737bf7/files/Initial_Coin_Offerings_Outlier_Ventures_Research.pdf)
 
-**[\
-]{.underline}**
-
-**[Welcome to Week 4]{.underline}**
+<h2>Welcome to Week 4</h2>
 
 Welcome to Week 4 of CS198.2x, Blockchain Technology.
 
@@ -7207,7 +7182,7 @@ We'll then learn from a naive scaling solution, and then take the
 lessons learned and apply them in analysis and design of new scaling
 solutions.
 
-**[Intro: Scaling Background (0:46)]{.underline}**
+<h3>Intro: Scaling Background (0:46)</h3>
 
 To fully understand what we want in our end goal for scalability is, we
 must -- as always -- analyze the problem at hand from the top down, and
@@ -7224,7 +7199,7 @@ blockchain system, in terms of transaction volume and block time.
 Then, we'll look at how we can achieve those properties by understanding
 fundamental systems scaling approaches and tradeoffs.
 
-**[Scaling Background (11:44)]{.underline}**
+<h3>Scaling Background (11:44)</h3>
 
 ![](images/image150.png){width="5.0in" height="2.822580927384077in"}
 
@@ -7538,12 +7513,9 @@ Going forward, we choose to organize blockchain scaling solutions as
 vertical and horizontal as well as layer 1 and layer 2, so knowing the
 distinctions are important in identifying solutions.
 
-**[\
-]{.underline}**
+<h3>Intro: Vertical Scaling On-Chain (0:32)</h3>
 
-**[Intro: Vertical Scaling On-Chain (0:32)]{.underline}**
-
-So now that we have an idea and overview of the basic scalability
+Now that we have an idea and overview of the basic scalability
 problem for blockchain, let's start by seeing if we can design a simple
 scaling solution.
 
@@ -7555,7 +7527,7 @@ our solutions, providing a baseline for comparison with other scaling
 categories and paving the way for more in depth analysis in current day
 scaling projects and active areas of research later on.
 
-**[Naïve Solution (2:45)]{.underline}**
+<h3>Naïve Solution (2:45)</h3>
 
 ![](images/image162.png){width="5.0in" height="2.8038932633420823in"}
 
@@ -7637,7 +7609,7 @@ theory and network attacks, but a malicious miner could take advantage
 of this situation and mine selfishly, and then there could be the
 potential for double spends.
 
-[Decrease Block Time]{.underline}
+<h3>Decrease Block Time</h3>
 
 ![](images/image166.png){width="5.0in" height="2.8306463254593175in"}
 
@@ -7718,10 +7690,7 @@ Bitcoin and Ethereum blockchains to add blocks, it's clear to see that
 40 confirmations in Ethereum might be more secure than 6 confirmations
 in Bitcoin.
 
-[\
-]{.underline}
-
-[Increase Block Time]{.underline}
+<h3>Increase Block Time</h3>
 
 ![](images/image170.png){width="5.0in" height="2.8676465441819774in"}
 
@@ -7787,8 +7756,9 @@ This might give the authoring miner -- the one who produced this block
 start, and others would have to wait the longer propagation time for the
 block to reach them.
 
-[Decrease Transaction Size]{.underline}
+<h3>Decrease Transaction Size</h3>
 
+<!--- (233)  --->
 ![](images/image173.png){width="5.0in" height="2.8190627734033247in"}
 
 Another alternative we mentioned earlier was that of decreasing the size
@@ -8099,7 +8069,7 @@ In the next section, we'll look at layer 2 solutions.
 
 Let's just not use the blockchain.
 
-[Intro: Vertical Scaling Off-Chain (1:09)]{.underline}
+<h3>Intro: Vertical Scaling Off-Chain (1:09)</h3>
 
 Having explored the options of how to scale up by tuning existing system
 parameters, let's look at some more drastic changes.
@@ -8125,10 +8095,7 @@ or net result of all off chain transactions?
 That's what we're going to be covering in this section on vertical
 scaling by thinking off chain.
 
-[\
-]{.underline}
-
-[Payment Channels]{.underline}
+<h3>Payment Channels</h3>
 
 ![](images/image188.png){width="5.0in" height="2.8145166229221346in"}
 
@@ -8381,7 +8348,7 @@ We could potentially set up a network of payment channels.
 As long as Alice is connected to Charlie somehow in the network, she can
 send him money.
 
-[Lightning & Raiden]{.underline}
+<h3>Lightning & Raiden</h3>
 
 ![](images/image197.png){width="5.0in" height="2.82785542432196in"}
 
@@ -8530,7 +8497,7 @@ The most basic differences to spot are that Raiden would be implemented
 as a smart contract, and Raiden nodes in the Ethereum network would
 allow for ERC20 compliant token transfers between users.
 
-**[Intro: Horizontal Scaling]{.underline}**
+<h3>Intro: Horizontal Scaling</h3>
 
 We've been discussing various vertical scaling techniques, where we
 increase the performance of individual nodes, but what about horizontal
@@ -8548,7 +8515,7 @@ current research, specifically sharding and side chains.
 Then, in the next section, we'll see how we can apply these horizontal
 scaling solutions in more ambitious diagonal scaling solutions.
 
-[Sharding & Sidechains]{.underline}
+<h3>Sharding & Sidechains</h3>
 
 ![](images/image202.png){width="5.0in" height="2.8207884951881015in"}
 
@@ -8732,7 +8699,7 @@ faster side chain, and send back the results to a main slow blockchain.
 Ideas like these extend into the realm of diagonal scaling, which is
 what we'll be looking into next.
 
-[Intro: Advanced Scaling & Generalizations]{.underline}
+<h3>Intro: Advanced Scaling & Generalizations</h3>
 
 Now that we've understood the basics of vertical and horizontal scaling,
 let's see how we can apply them both simultaneously in ambitious
@@ -8746,7 +8713,7 @@ From there, we'll see how they all compare in our ultimate goal of
 bringing cryptocurrencies and other blockchain applications to the
 masses.
 
-[Advanced Scaling]{.underline}
+<h3>Advanced Scaling</h3>
 
 ![](images/image207.png){width="5.0in" height="2.7729702537182854in"}
 
@@ -8907,7 +8874,7 @@ Hubs connect multiple zones together, and hubs and zones are all
 blockchains supporting their own applications, whether they be simple
 payment blockchains, or a full fledged port of Ethereum onto Tendermint.
 
-[Generalizations]{.underline}
+<h3>Generalizations</h3>
 
 ![](images/image216.png){width="5.0in" height="2.8177668416447945in"}
 
@@ -9112,7 +9079,7 @@ other modular blockchains, as well as in general novel alternative
 consensus mechanisms and the like, we realize that we can go back and
 scale blockchains vertically on chain once again.
 
-**[Text: Week 4 Summary]{.underline}**
+<h3>Text: Week 4 Summary</h3>
 
 <h3>I. Background</h3>
 
@@ -9320,7 +9287,7 @@ vertically or horizontally.
 solutions](images/image227.png){width="5.0in"
 height="1.727564523184602in"}
 
-**[Readings (Week 4)]{.underline}**
+<h3>Readings (Week 4)</h3>
 
 > [Blockchains don\'t scale. Not today at least. But there\'s
 > hope.](https://hackernoon.com/blockchains-dont-scale-not-today-at-least-but-there-s-hope-2cb43946551a)
@@ -9349,7 +9316,7 @@ height="1.727564523184602in"}
 > [Cosmos: A Network of Distributed
 > Ledgers ](https://cosmos.network/docs/resources/whitepaper.html)
 
-**[Welcome to Week 5]{.underline}**
+<h2>Welcome to Week 5</h2>
 
 A great advantage offered by cryptocurrencies over fiat money alongside
 censorship-resistance and decentralized control was the advantage of
@@ -9378,7 +9345,7 @@ This week, we'll be examining the benefits and costs of privacy, how we
 can achieve privacy through anonymity, along with how cryptocurrencies
 and blockchains can enhance privacy for their users.
 
-**[Announcements]{.underline}**
+<h3>Announcements</h3>
 
 Welcome back to week 5 of CS198.2x Blockchain Technology. This is the
 second-to-last week of this course. Besides the usual quick check and
@@ -9401,7 +9368,7 @@ defense mechanisms, scalability, security & privacy, decentralization).
 This will be due at course end, Nov. 9 at 0:00 UTC, to give you extra
 time to write. We advise you to start as soon as possible. 
 
-**[Intro: Anonymity Basics]{.underline}**
+<h3>Intro: Anonymity Basics</h3>
 
 Privacy has become a huge point of contention in recent days with tech
 organizations such as Google and Facebook, which make a great deal of
@@ -9425,7 +9392,7 @@ Hence, they can increase their privacy through anonymity, masking their
 identity, allowing them to gain access to some service while minimizing
 how much information they reveal about their real identity.
 
-**[Anonymity Basics]{.underline}**
+<h3>Anonymity Basics</h3>
 
 ![](images/image228.png){width="5.0in" height="2.7975109361329835in"}
 
@@ -9825,7 +9792,7 @@ decentralized.
 And once again, we can tie this back to the fundamental trilemma we saw
 in earlier lectures.
 
-**[Intro: Deanonymization]{.underline}**
+<h3>Intro: Deanonymization</h3>
 
 As anonymous as we think we are, there are tactics that can be used to
 deanonymize us.
@@ -9847,7 +9814,7 @@ conclusions.
 And in the following section, we'll be taking our understanding of
 deanonymization tactics to design resistances to enhance user privacy.
 
-**[Deanonymization]{.underline}**
+<h3>Deanonymization</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 244.  --------------------------------->
@@ -10060,7 +10027,7 @@ In this section, we'll see how we can combat deanonymization techniques
 to enhance user privacy and achieve anonymity through a strategy known
 as mixing.
 
-**[Mixing Basics]{.underline}**
+<h3>Mixing Basics</h3>
 
 First, a couple disclaimers need to be made.
 
@@ -10267,7 +10234,7 @@ identifiable information and follow KYC/AML laws as mentioned before,
 meaning that such activity may appear suspicious to exchanges,
 especially if done repeatedly.
 
-**[Decentralized Mixing]{.underline}**
+<h3>Decentralized Mixing</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 249.  --------------------------------->
@@ -10530,7 +10497,7 @@ attacks, facing a tradeoff between centralized servers such as in
 CoinJoin and anonymity such as in CoinShuffle, and the tradeoff between
 plausible deniability and security.
 
-**[Fair Exchange Mixers]{.underline}**
+<h3>Fair Exchange Mixers</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 250.  --------------------------------->
@@ -10638,7 +10605,7 @@ The drawbacks, however, are that they're difficult to build.
 TumbleBit only works with sufficient liquidity, XIM requires a few hours
 of computation, and BSC requires advances to Bitcoin Script.
 
-**[Intro: Anonymity Through Altcoins]{.underline}**
+<h3>Intro: Anonymity Through Altcoins</h3>
 
 Mixing is something that a user would consciously have to do.
 
@@ -10655,7 +10622,7 @@ integrated into the protocol.
 In this section, we'll cover some privacy focused altcoins and the
 technologies they are built upon to protect their users.
 
-**[Privacy Focused Altcoins]{.underline}**
+<h3>Privacy Focused Altcoins</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 251.  --------------------------------->
@@ -11053,7 +11020,7 @@ setup, but that's out of scope for this course.
 It is an interesting challenge in integrating such technologies into
 blockchain though, so it's definitely worth checking out.
 
-**[Intro: Advanced Anonymity & Generalizations]{.underline}**
+<h3>Intro: Advanced Anonymity & Generalizations</h3>
 
 Now that we've gone through all these anonymity techniques, separating
 them category by category, you're likely wondering what else is left to
@@ -11069,7 +11036,7 @@ Then, we'll bring back the contention between user experience and
 privacy, and discuss more in depth the trilemma that all blockchains
 face as a conclusion for the last three lectures.
 
-**[Advanced Anonymity & Generalizations]{.underline}**
+<h3>Advanced Anonymity & Generalizations</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 252.  --------------------------------->
@@ -11234,7 +11201,7 @@ Really, there is no perfect all around blockchain system.
 
 Instead, each is designed for its specific goal and use case.
 
-**[Text: Week 5 Summary]{.underline}**
+</h3>Text: Week 5 Summary</h3>
 
 **I. Anonymity Basics**
 
@@ -11422,7 +11389,7 @@ blockchain platforms, this brings us back to our trilemma \-- to enable
 the increase in privacy, there have to be sacrifices with regards to
 scalability and decentralization.
 
-**[Readings (Week 5)]{.underline}**
+<h3>Readings (Week 5)</h3>
 
 > [Is Bitcoin Anonymous? A Complete Beginner\'s
 > Guide](https://bitcoinmagazine.com/articles/is-bitcoin-anonymous-a-complete-beginner-s-guide-1447875283/)
@@ -11460,7 +11427,7 @@ scalability and decentralization.
 > [Introduction to MimbleWimble and
 > Grin ](https://github.com/ignopeverell/grin/blob/master/doc/intro.md)
 
-**[Welcome to Week 6]{.underline}**
+<h2>Welcome to Week 6</h2>
 
 We've made it 12 weeks into the Blockchain Fundamentals curriculum.
 
@@ -11481,7 +11448,7 @@ To end, we'll see what the future of the world might look like if
 blockchain technology garners widespread adoption, and how you can get
 involved in making that future a reality.
 
-**[Announcements]{.underline}**
+<h3>Announcements</h3>
 
 Welcome to the last week of CS198.2x Blockchain Technology, and of the
 Blockchain Fundamentals program! 
@@ -11499,7 +11466,7 @@ time. Please manage your time wisely. We are in the process of
 processing everyone\'s grades. Thank you in advance for your patience
 and understanding.
 
-**[Intro: Program Summary]{.underline}**
+<h3>Intro: Program Summary</h3>
 
 We've made it so far in the curriculum; now would be a good time to
 summarize all that we have learned.
@@ -11517,7 +11484,7 @@ have also taken the prerequisite course, Bitcoin and Cryptocurrencies.
 In the total Blockchain Fundamentals curriculum, this is week 12, and in
 this section we will review the culmination of all of our learning.
 
-**[CS198.1x Bitcoin and Cryptocurrencies]{.underline}**
+<h3>CS198.1x Bitcoin and Cryptocurrencies</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 255.  --------------------------------->
@@ -11935,7 +11902,7 @@ using a blockchain better than using a centralized database?
 
 That concluded the first half of the program.
 
-**[CS198.2x Blockchain Technology]{.underline}**
+<h3>CS198.2x Blockchain Technology</h3>
 
 ![](images/image256.png){width="5.0in" height="2.8336975065616796in"}
 
@@ -12328,7 +12295,7 @@ And now we\'ve made it all the way to the end this is the last lecture
 in the blockchain fundamentals program in which we talk about a
 blockchain powered future.
 
-**[Intro: People's Pick & FAQ]{.underline}**
+<h3>Intro: People's Pick & FAQ</h3>
 
 Throughout our offerings of both courses in the Blockchain Fundamentals
 program, we've received many questions about the material we teach, as
@@ -12344,7 +12311,7 @@ in the regular course.
 Serving as a teaser and motivation for what's to come if you choose to
 get involved in the blockchain space yourself.
 
-**[People's Pick: Cryptocurrency Mining]{.underline}**
+<h3>People's Pick: Cryptocurrency Mining</h3>
 
 ![](images/image257.png){width="5.0in" height="2.8177690288713912in"}
 
@@ -12509,7 +12476,7 @@ Please feel free to continue engaging in the discussion board; if we
 find another frequently asked question, we'll make another FAQ video to
 answer it.
 
-**[Frequently Asked Questions]{.underline}**
+<h3>Frequently Asked Questions</h3>
 
 Many frequently asked questions in our discussion board have been about
 the mechanics and theory of Bitcoin and cryptocurrency technologies.
@@ -12600,7 +12567,7 @@ commenting, etc. As a rough analogy to what we've learned throughout
 this course and last, the posts with the most "work" (upvotes, comments,
 activity) will be more likely to be addressed first.
 
-**[Intro: Thought Experiment]{.underline}**
+<h3>Intro: Thought Experiment</h3>
 
 Throughout our entire curriculum, we have focused on looking at problems
 from a top-down approach.
@@ -12628,7 +12595,7 @@ with fire?
 Let's look at the extremes of our pursuit of blockchain; at one end, a
 blockchain utopia, and at the other, a blockchain dystopia.
 
-**[Blockchain Thought Experiment]{.underline}**
+<h3>Blockchain Thought Experiment</h3>
 
 We're now diving into the two possible extremes of blockchain: the first
 being a blockchain utopia, and the second being a dystopia.
@@ -12810,7 +12777,7 @@ Everyone is reliant on Universal Basic Income and as this gets reduced
 over time, the people have no choice but to spend their lives being a
 slave to Amazon.
 
-**[Intro: Get Involved]{.underline}**
+<h3>Intro: Get Involved</h3>
 
 Blockchain Fundamentals was designed to give you a brief survey into the
 field of cryptocurrencies, blockchain and related technologies.
@@ -12831,7 +12798,7 @@ space.
 This section will be a quick roadmap explaining the opportunities in the
 field.
 
-**[Getting Involved]{.underline}**
+<h3>Getting Involved</h3>
 
 ![](images/image269.png){width="5.0in" height="2.807451881014873in"}
 
@@ -12884,7 +12851,7 @@ The blockchain space is constantly evolving, and joining a community of
 peers is perhaps the best way to keep up with the industry's rapid
 changes.
 
-**[Resources]{.underline}**
+<h3>Resources</h3>
 
 The most accessible resources for getting more involved in the
 blockchain space can be found right here in edX. The goal of both of our
@@ -12936,7 +12903,7 @@ other students. If you recently read, watched, experienced, etc.
 anything related to the blockchain space in general, please contribute
 to our course community and share in the discussion boards!
 
-**[Thank You]{.underline}**
+<h3>Thank You</h3>
 
 On behalf of all of our lovely course staff, I'd like to thank you, for
 taking CS198.2x, Blockchain Technology.
@@ -12961,5 +12928,5 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end...
 <p>
-4/22/2022 bbauska @ 11:49am
+4/22/2022 bbauska @ 2:13pm
 </p>
