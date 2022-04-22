@@ -3644,7 +3644,14 @@ timelock to our specifications.
 
 **[Game Theory]{.underline}**
 
-![](images/image057.png){width="5.0in" height="2.8152165354330707in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 57.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image057.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 In Game Theory, we aim to deduce how an actor will act in a given
 situation. There are a number of factors that will affect the actor's
@@ -3853,7 +3860,14 @@ we dive into the next section, Proof-of-Stake.
 
 **[Blacklisting]{.underline}**
 
-![](images/image058.png){width="5.0in" height="2.8212325021872267in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 57.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image058.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Now, some attacks review, with a particular focus on economic
 incentives.. These were covered in our first course, go back and take
@@ -4098,7 +4112,14 @@ the system in check.
 
 **[Attacks]{.underline}**
 
-![](images/image059.png){width="5.0in" height="2.8054669728783903in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 59.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image059.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Let's start looking at the most basic problem in Proof-of-Stake: the
 Nothing at Stake attack.
@@ -4111,7 +4132,14 @@ single correct chain.
 
 Anything that prevents this from happening should be discouraged.
 
-![](images/image060.png){width="5.0in" height="2.772435476815398in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 60.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image060.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 If ever the blockchain ends up in a situation which consensus is not
 desirable for individual actors, then there is an issue.
@@ -4121,7 +4149,14 @@ consensus!
 
 What is it about Proof-of-Stake that makes this an issue?
 
-![](images/image061.png){width="5.0in" height="2.828202099737533in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 61.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image061.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Take a look at the bottom image demonstrating Proof-of-Work.
 
@@ -4178,7 +4213,14 @@ Both forks will continue to grow indefinitely.
 
 Is there a way to solve this?
 
-![](images/image062.png){width="5.0in" height="2.8054669728783903in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 62.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image062.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Well, to discourage voting on voting on incorrect forks, let's introduce
 a penalty to do exactly that.
@@ -4211,13 +4253,27 @@ activity.
 Because all voting is virtual, even the penalties for malicious voting
 strategies need to be explicitly enforced.
 
-![](images/image063.png){width="5.0in" height="2.8125in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 63.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image063.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 As you can see in this example, we\'ve made it such that the best choice
 is to vote on fork A. This is because voting on fork B, or voting on
 both, now leads to penalties for the voter.
 
-![](images/image064.png){width="5.0in" height="2.8145166229221346in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 64.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image064.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 One major attack that can be conducted in a Proof-of-Stake network is a
 long range attack.
@@ -4226,7 +4282,14 @@ In this scenario, attackers essentially create a new chain of
 transactions starting from the Genesis block and then attempt to take
 over the main chain.
 
-![](images/image065.png){width="5.0in" height="2.840909886264217in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 65.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image065.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 There are two properties in Proof-of-Stake that allow this to happen:
 nothing-at-stake and weak subjectivity.
@@ -4246,7 +4309,14 @@ Weak subjectivity is a problem for both new nodes and nodes that come
 back online after being offline for long periods of time: neither of
 these nodes know which of the chains they are given is the main chain.
 
-![](images/image066.png){width="5.0in" height="2.7893897637795275in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 66.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image066.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 One preconception about blockchains in general is that the longest chain
 is the most trustworthy one.
@@ -4263,7 +4333,14 @@ long range attack can potentially be accepted as the main chain.
 
 To explain this clearly, we will step through an example.
 
-![](images/image067.png){width="5.0in" height="2.8317147856517937in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 67.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image067.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Suppose Gloria owns 1% of the tokens the moment the genesis block is
 created.
@@ -4281,7 +4358,14 @@ specific block.
 This is called a long range attack because it can be executed from any
 point of the chain, including the genesis block.
 
-![](images/image068.png){width="5.0in" height="2.8145166229221346in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 68.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image068.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Next, we'll take a look at the Stake Grinding attack.
 
@@ -4307,7 +4391,14 @@ getting chosen as a block validator.
 Attackers can choose from different block signatures by playing around
 with the block parameters to change the signature outcome.
 
-![](images/image069.png){width="5.0in" height="2.8155336832895888in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 69.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image069.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 There are a few ways that we can address this vulnerability.
 
@@ -4358,8 +4449,14 @@ example of encryption was the Roman Empire's use of the **Caesar
 Cipher**, in which messages are encrypted by shifting letters to the
 right by a previously set amount.
 
-![Caesar Cipher](images/image070.png){width="5.0in"
-height="2.440944881889764in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 70.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image070.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Be aware of various cryptographic primitives (review from previous
 course):
@@ -4541,7 +4638,14 @@ distinguish different types of blockchains available for use.
 
 **[Enterprise Blockchain History (3:56)]{.underline}**
 
-![](images/image071.png){width="5.0in" height="2.8304024496937883in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 71.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image071.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 As Bitcoin and blockchain grew increasingly popular, banks and large
 corporations began to take notice of the potential applications of this
@@ -4580,7 +4684,14 @@ At the same time, others encouraged the research into fundamental
 blockchain technologies, as they were more compliant and better suited
 for enterprise use than associated public blockchain systems.
 
-![](images/image072.png){width="5.0in" height="2.8432961504811898in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 72.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image072.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 While many use cases exist for enterprise blockchains, most problems
 that enterprise blockchain aims to solve fall within three broad
@@ -9447,12 +9558,25 @@ As mentioned earlier with the creation of Bitcoin and addresses, now in
 terms of anonymity:
 
 Most blockchains are not anonymous.
-
-![](images/image234.png){width="5.0in" height="2.820790682414698in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 234.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image234.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Instead, most blockchains are pseudonymous.
 
-![](images/image235.png){width="5.0in" height="2.7585476815398073in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 235.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image235.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 In most blockchains, we use a publicly viewable but arbitrary
 identifier, such as your Bitcoin address.
@@ -9483,7 +9607,14 @@ that that identity belongs to.
 
 Therefore, most blockchains, including Bitcoin, are pseudonymous.
 
-![](images/image236.png){width="5.0in" height="2.8034437882764656in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 236.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image236.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 In Bitcoin, and some other blockchain platforms, it's generally best
 practice not to reuse pseudonyms.
@@ -9510,7 +9641,14 @@ This does introduce the slight hitch that one would have to keep track
 of each of these identities, but that can be easily resolved using
 wallet software, which often performs this by default.
 
-![](images/image237.png){width="5.0in" height="2.821482939632546in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 237.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image237.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Just generate a new address every time you receive any cryptocurrency,
 or each time you use any sort of blockchain application!
@@ -9523,7 +9661,14 @@ And that's because Ethereum is account based, not UTXO based.
 In Bitcoin, you could just generate a new address per UTXO every time
 you receive Bitcoin.
 
-![](images/image238.png){width="5.0in" height="2.8051541994750657in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 238.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image238.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 It's much harder to do that in Ethereum and other account based
 blockchains.
@@ -9531,13 +9676,27 @@ blockchains.
 Unfortunately, it turns out that basic analysis renders this technique
 of regenerating pseudonyms ineffective.
 
-![](images/image239.png){width="5.0in" height="2.808021653543307in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 239.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image239.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Similar to a lock on a front door, generating new pseudonyms for every
 transaction does keep away naive attackers, but a determined opponent
 can probably find a way to link your activity together.
 
-![](images/image240.png){width="5.0in" height="2.8122976815398073in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 240.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image240.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 The term "linking" in the context of anonymity is the act of associating
 a real-world identity to a pseudonym.
@@ -9556,13 +9715,20 @@ Most of these blockchain technologies are fairly secure though for the
 most part, since linking as we'll see takes a nontrivial amount of
 effort.
 
-So as long as a user isn't reckless with how they manage their online
+As long as a user isn't reckless with how they manage their online
 identities, they can assume that most people aren't going to try to
 deanonymize them.
 
 But see, that's the catch.
 
-![](images/image241.png){width="5.0in" height="2.7975874890638672in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 241.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image241.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 The underlying technology might be anonymous or pseudonymous, but we
 still have to consider human factors.
@@ -9571,7 +9737,14 @@ People make mistakes -- especially your every day normal person, who
 isn't going out of their way to do all they can to possibly ensure their
 privacy.
 
-![](images/image242.png){width="5.0in" height="2.8074431321084865in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 242.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image242.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 What we like to say is that anonymity is not absolute -- not a clear yes
 or no.
@@ -9676,17 +9849,38 @@ deanonymization tactics to design resistances to enhance user privacy.
 
 **[Deanonymization]{.underline}**
 
-![](images/image244.png){width="5.0in" height="2.734174321959755in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 244.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image244.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 The big concern about decentralization that we look at in regards to
 deanonymization is that now, we can go back in the blockchain's history
 to reveal information about a particular pseudonym.
 
-![](images/image245.png){width="5.0in" height="2.7868153980752406in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 245.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image245.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 That's the goal of deanonymization, or linking
 
-![](images/image246.png){width="5.0in" height="2.8180544619422574in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 246.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image246.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 One way we can achieve this -- which we alluded to earlier -- is by
 transaction graph analysis, which is simply just inspecting the
@@ -9702,7 +9896,14 @@ From a transaction graph, you might be able to see some pseudonyms make
 transactions more than others, or are paid more than others, or perhaps
 make certain transactions with certain other pseudonyms.
 
-![](images/image247.png){width="5.0in" height="2.812668416447944in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 247.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image247.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 One way of analyzing the transaction graph is by clustering, or
 attributing a cluster of addresses or pseudonyms to the same real-world
@@ -9873,7 +10074,14 @@ This is simply an intellectual exercise to understand how it may be
 possible to anonymize your funds to make it more difficult for someone
 else to track your activity.
 
-![](images/image248.png){width="5.0in" height="2.8138353018372704in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 248.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image248.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 To better understand mixing's mechanics, we're going to examine a
 traditional scenario where money's origins are obfuscated: money
@@ -10061,7 +10269,14 @@ especially if done repeatedly.
 
 **[Decentralized Mixing]{.underline}**
 
-![](images/image249.png){width="5.0in" height="2.752975721784777in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 249.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image249.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Thus far, our proposed solutions have leveraged either a single
 centralized entity or several at a time. Is there a decentralized
@@ -10317,7 +10532,14 @@ plausible deniability and security.
 
 **[Fair Exchange Mixers]{.underline}**
 
-![](images/image250.png){width="5.0in" height="2.82380249343832in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 250.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image250.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Fair exchange mixers are a different category of mixer.
 
@@ -10435,7 +10657,14 @@ technologies they are built upon to protect their users.
 
 **[Privacy Focused Altcoins]{.underline}**
 
-![](images/image251.png){width="5.0in" height="2.7883902012248467in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 251.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image251.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 DASH, formerly known as DarkCoin, is a privacy focused cryptocurrency
 that uses a mixer called
@@ -10842,7 +11071,14 @@ face as a conclusion for the last three lectures.
 
 **[Advanced Anonymity & Generalizations]{.underline}**
 
-![](images/image252.png){width="5.0in" height="2.811224846894138in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 252.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image252.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 In traditional cypherpunk fashion, there was a proposal published in
 July of 2016.
@@ -11283,7 +11519,14 @@ this section we will review the culmination of all of our learning.
 
 **[CS198.1x Bitcoin and Cryptocurrencies]{.underline}**
 
-![](images/image255.png){width="5.0in" height="2.8252220034995625in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 255.  --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image255.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 You've done it!
 
