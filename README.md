@@ -22,7 +22,7 @@
 This course provides a wide overview of many of the topics relating to
 and building upon the foundation of Bitcoin and blockchain technology. 
 
-The course is divided into [6 modules]{.underline}: 1. Distributed
+The course is divided into 6 modules: 1. Distributed
 Systems & Consensus, 2. Cryptoeconomics & Proof-of-Stake, 3. Enterprise
 Blockchain, 4. Scalability, 5. Anonymity, and 6. A Blockchain Powered
 Future.
