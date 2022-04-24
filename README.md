@@ -5,7 +5,7 @@
 <h2 align="center">CS198.2x - University of California @ BerkeleyX</h2>
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 01. Berkeley's Blockchain logo --------------------------------->
+<!----------------------------- cs198.2x Berkeley's Blockchain logo ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/cs198.2x logo.png?raw=true"
@@ -153,7 +153,7 @@ is to read these books.
     Andreas Antonopoulos
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------- 02. blockchain at berkeleyX logo --------------------------------->
+<!------------------------------- blockchain at berkeleyX logo ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/cs198.2x blockchain at berkeley logo.png?raw=true"
@@ -534,10 +534,10 @@ called mutual exclusion -- thereby preventing potential corruption to
 important data.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 10. distributed systems origins: other problems ------------------------>
+<!----------------------- 06. distributed systems origins: other problems ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image010.jpg?raw=true"
+<img src="/images/image006.png?raw=true"
    alt="Distributed Systems Origins: Other Problems"
    width="65%" />
 &nbsp;
@@ -584,10 +584,10 @@ It's trust -- without trust.
 <h3>Distributed Systems Fundamentals</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------- 11. distributed systems: definition  ------------------------------>
+<!---------------------------- 07. distributed systems: definition  ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image011.jpg?raw=true"
+<img src="/images/image007.png?raw=true"
    alt="Distributed Systems: Definition"
    width="65%" />
 &nbsp;
@@ -609,10 +609,10 @@ ask, but the general "consensus" (no pun intended) is that distributed
 systems contain two particular categories of components.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------- 12. distributed systems: definition #2 ---------------------------->
+<!---------------------------- 08a. distributed systems: definition #2 ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image012.jpg?raw=true"
+<img src="/images/image008a.png?raw=true"
    alt="Distributed Systems: Definition #2"
    width="65%" />
 &nbsp;
@@ -626,10 +626,10 @@ as in Bitcoin, or just a separation of components, similar to the CPU
 cores in your laptop.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------- 13. distributed systems: definition #3 ---------------------------->
+<!---------------------------- 08. distributed systems: definition #3 ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image013.jpg?raw=true"
+<img src="/images/image008.png?raw=true"
    alt="Distributed Systems: Definition #3"
    width="65%" />
 &nbsp;
@@ -668,10 +668,10 @@ We can create protocols withstanding failure, giving us the power to be
 safe in the event of a crash.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------- 14. distributed systems: properties ------------------------------>
+<!----------------------------- 09. distributed systems: properties ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image014.jpg?raw=true"
+<img src="/images/image009.png?raw=true"
    alt="Distributed Systems: Properties"
    width="65%" />
 &nbsp;
@@ -712,7 +712,7 @@ distributed system from a faulty one.
 <!------------------------------ 15. distributed systems: example -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image014.jpg?raw=true"
+<img src="/images/image015.jpg?raw=true"
    alt="Distributed Systems: Example"
    width="65%" />
 &nbsp;
@@ -982,7 +982,7 @@ happen, which is the ability to read or write some state.
 <!-------------------------- 22. cap theorem: partition tolerance (26) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image021.jpg?raw=true"
+<img src="/images/image022.jpg?raw=true"
    alt="CAP Theorem: Availability"
    width="65%" />
 &nbsp;
@@ -4383,7 +4383,7 @@ Attackers can choose from different block signatures by playing around
 with the block parameters to change the signature outcome.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 69.  --------------------------------->
+<!------------------------------- 69. stake grinding: defense (114)  --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image069.png?raw=true"
@@ -4441,10 +4441,10 @@ Cipher**, in which messages are encrypted by shifting letters to the
 right by a previously set amount.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 70.  --------------------------------->
+<!------------------------------- 55.  --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image070.png?raw=true"
+<img src="/images/image055.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -4629,11 +4629,11 @@ distinguish different types of blockchains available for use.
 <h3>Enterprise Blockchain History (3:56)</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 71.  --------------------------------->
+<!------------------- 56. banks & blockchain: blockchain history review (120) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image071.png?raw=true"
-   alt=" "
+<img src="/images/image056.png?raw=true"
+   alt="Banks and Blockchain: Blockchain History Review"
    width="65%" />
 </p>
 
@@ -4688,6 +4688,9 @@ that enterprise blockchain aims to solve fall within three broad
 classifications: solving coordination failures, horizontally integrating
 systems, and creating self-sovereign decentralized networks.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------------- 73. scaling issues: blockchain history review (122) ------------------------>
+<!------------------------------------------------------------------------------------------------>
 ![](images/image073.png){width="5.0in" height="2.851372484689414in"}
 
 Although many enterprises now wish to take advantage of blockchain
@@ -4720,6 +4723,9 @@ and decentralized networks.
 
 Let's look back at the previous slide.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image074.png){width="5.0in" height="2.849025590551181in"}
 
 Coordination failures between multiple parties seeking to work together
@@ -4744,6 +4750,9 @@ centralized corruption.
 
 <h3>Enterprise Blockchain Overview</h3>
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image075.png){width="5.0in" height="2.8190627734033247in"}
 
 At its most basic level, a blockchain is merely a highly specialized
@@ -4790,6 +4799,9 @@ centralized or decentralized.
 To better understand this, let's go back to the form of databases most
 people are familiar with: centralized databases.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image076.png){width="5.0in" height="2.8109853455818024in"}
 
 Centralized databases, such as a single password server, are located,
@@ -4804,6 +4816,9 @@ they are prone to bottlenecks, lack simultaneous write access by
 multiple users to the same set of data, and act as a single point of
 failure.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image077.png){width="5.0in" height="2.8190627734033247in"}
 
 On the other hand, distributed databases consist of groups of nodes
@@ -4814,6 +4829,9 @@ Because there is no longer a single point of failure, the system is more
 fault-tolerant and can handle more demand by distributing load evenly
 across all nodes.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image078.png){width="5.0in" height="2.8559864391951004in"}
 
 However, distributed databases also introduce increased complexity,
@@ -4821,6 +4839,9 @@ cost, and redundancy as well as exposing more points of failure.
 
 That's just the overhead of being distributed.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image079.png){width="5.0in" height="2.8257327209098864in"}
 
 A specific type of distributed database is a distributed ledger, which
@@ -4831,6 +4852,9 @@ While many consensus mechanisms exist for distributed ledgers, those
 that specifically implement a chain of blocks in their record-keeping
 and consensus protocols are known as blockchains.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image080.png){width="5.0in" height="2.8373972003499563in"}
 
 Recall from our Bitcoin and Cryptocurrencies course that the fundamental
@@ -4847,6 +4871,9 @@ Compared to a traditional database, a blockchain system is uniquely able
 to remove the need for a centralized administrator and allow for
 non-trusting parties in the network to interact with each other.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image081.png){width="5.0in" height="2.8002132545931757in"}
 
 Blockchains can also be categorized based on their architecture and the
@@ -4910,6 +4937,9 @@ However, in an enterprise setting, permissioned blockchains might be
 used to solve a coordination problem amongst the loosely linked
 constituents.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image082.png){width="5.0in" height="2.80290791776028in"}
 
 While blockchain is still in its infancy, many tech powerhouses are
@@ -4946,6 +4976,9 @@ also institutions and governments that provides a standard framework for
 companies trying to build enterprise blockchain using Ethereum as their
 base layer.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image083.png){width="5.0in" height="2.8165583989501313in"}
 
 Despite enterprise movement towards blockchain, there's still differing
@@ -4984,6 +5017,9 @@ strengths and weaknesses of the applicability of blockchain technology.
 
 Blockchain can be cool, but only in very particular ways.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image084.png){width="5.0in" height="2.806451224846894in"}
 
 It's a misconception that enterprise blockchains are always useful.
@@ -5055,6 +5091,9 @@ type and consensus mechanisms.
 
 <h3>Enterprise Blockchain Platforms</h3>
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image085.png){width="5.0in" height="2.8442508748906388in"}
 
 In the early days of blockchain development, the most common projects
@@ -5108,6 +5147,9 @@ supporting or opposing any particular initiatives.
 We're simply sampling a variety of projects across multiple different
 facets of the enterprise blockchain space.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 86.  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image086.png){width="5.0in" height="2.8327919947506564in"}
 
 As the use of blockchain becomes more and more prevalent, the issue of
@@ -5143,6 +5185,9 @@ specific users.
 Thus, these blockchains still follow the scalability trilemma and
 exchange decentralization for scalability and security.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- .  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image087.png){width="5.0in" height="2.8170155293088364in"}
 
 Ethereum is the industry standard blockchain platform for public
@@ -5180,6 +5225,9 @@ ConsenSys is a startup founded by one of the Ethereum cofounders Joe
 Lubin, meant to develop and foster growth in the Ethereum ecosystem,
 helping popular initiatives such as MetaMask and Truffle.
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 88.  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image088.png){width="5.0in" height="2.796474190726159in"}
 
 Hyperledger, a project of the Linux Foundation, was one of the earliest
@@ -5221,7 +5269,9 @@ within the consortium.
 
 If you're interested in learning more about Hyperledger, feel free to
 check out their edX course.
-
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 89.  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![](images/image089.png){width="5.0in" height="2.783172572178478in"}
 
 Corda focuses on enabling banks to record, manage, synchronize, and
@@ -5247,6 +5297,9 @@ Upon being asked to notarise a transaction, a notary will either: (1)
 Sign the transaction if it has not already signed other transactions
 consuming any of the proposed transaction input states, or (2) Reject
 the transaction and flag that a end attempt has occurred otherwise.
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 90.  () --------------------------->
+<!------------------------------------------------------------------------------------------------>
 
 ![](images/image090.png){width="5.0in" height="2.8200962379702537in"}
 
@@ -12928,5 +12981,5 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end...
 <p>
-4/22/2022 bbauska @ 2:13pm
+4/23/2022 bbauska @ 11:06pm
 </p>
