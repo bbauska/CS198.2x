@@ -3134,7 +3134,14 @@ ensuring that the decisions' history is maintained honestly and forever.
 
 <h3>Cryptoeconomics</h3>
 
-![](images/image055.png){width="5.0in" height="2.8356036745406823in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------ 50. what is cryptoeconomics? virtual decision-making (82) ------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image050.png?raw=true"
+   alt="What is Cryptoeconomics? Virtual Decision-Making"
+   width="65%" />
+</p>
 
 Cryptoeconomics aims to understand virtual decision-making by unknown,
 untrusting peers.
@@ -3236,7 +3243,14 @@ that information is kept secret and safe whenever necessary.
 
 <h3>Origins of Cryptography</h3>
 
-![](images/image056.png){width="5.0in" height="2.8482042869641293in"}
+<!------------------------------------------------------------------------------------------------>
+<!------------------------ 51. origins of cryptography: encryption (84) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image051.png?raw=true"
+   alt="Origins of Cryptography: Encryption"
+   width="65%" />
+</p>
 
 Before we talk about the specifics of cryptography, let's go over some
 situations which gave birth to the field of cryptography.
@@ -3640,11 +3654,11 @@ timelock to our specifications.
 
 <h3>Game Theory</h3>
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 57.  --------------------------------->
+<!-------------------------------- 52. economic incentives (94) ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image057.png?raw=true"
-   alt=" "
+<img src="/images/image052.png?raw=true"
+   alt="Economic Incentives: Rewards and Penalties"
    width="65%" />
 </p>
 
@@ -3855,11 +3869,11 @@ we dive into the next section, Proof-of-Stake.
 
 <h3>Blacklisting</h3>
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 57.  --------------------------------->
+<!--------------------------- 53. blacklisting: feather forking (99) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image058.png?raw=true"
-   alt=" "
+<img src="/images/image053.png?raw=true"
+   alt="Blacklisting: Feather Forking"
    width="65%" />
 </p>
 
@@ -12853,7 +12867,14 @@ field.
 
 <h3>Getting Involved</h3>
 
-![](images/image269.png){width="5.0in" height="2.807451881014873in"}
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------- 269.  (xxx) ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image269.png?raw=true"
+   alt=" "
+   width="65%" >
+&nbsp;
 
 About getting involved in the blockchain space.
 
@@ -12981,5 +13002,5 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end...
 <p>
-4/23/2022 saturday @ 11:06pm
+5/4/2022 Wed @ 10:34pm
 </p>
