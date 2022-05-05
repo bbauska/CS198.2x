@@ -709,10 +709,10 @@ In the next section, we're going to look at how we distinguish a working
 distributed system from a faulty one.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ 15. distributed systems: example -------------------------------->
+<!------------------------------ 10. distributed systems: example -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image015.jpg?raw=true"
+<img src="/images/image010.png?raw=true"
    alt="Distributed Systems: Example"
    width="65%" />
 &nbsp;
@@ -745,10 +745,10 @@ What constitutes a correct answer?
 We're about to answer those questions right now.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------ 16. distributed systems: properties of multiprocess programs ---------------->
+<!------------------ 11. distributed systems: properties of multiprocess programs ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image016.jpg?raw=true"
+<img src="/images/image011.png?raw=true"
    alt="Distributed Systems: Properties of Multiprocess Programs"
    width="65%" />
 &nbsp;
@@ -803,10 +803,10 @@ You need some of both, but not too much, to define a sense of what your
 program can and should do.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------- 17. distributed consensus: correctness ----------------------------->
+<!--------------------------- 12. distributed consensus: correctness ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image017.jpg?raw=true"
+<img src="/images/image012.png?raw=true"
    alt="Distributed Consensus: Correctness"
    width="65%" />
 &nbsp;
@@ -888,10 +888,10 @@ Without the guarantee of termination, we have no guarantee that
 consensus will ever be achieved.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 18. distributed consensus: correctness #2 --------------------------->
+<!-------------------------- 13. distributed consensus: correctness #2 --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image018.jpg?raw=true"
+<img src="/images/image013.png?raw=true"
    alt="Distributed Consensus: Correctness #2"
    width="65%" />
 &nbsp;
@@ -910,10 +910,10 @@ that any system must make.
 <h3>CAP Theorem</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------- 19. cap theorum: introduction --------------------------------->
+<!-------------------------------- 14. cap theorum: introduction --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image019.png?raw=true"
+<img src="/images/image014.png?raw=true"
    alt="CAP Theorem: Introduction"
    width="65%" />
 &nbsp;
@@ -936,10 +936,10 @@ After defining these terms and proving the CAP Theorem, we'll delve into
 the implications.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------- 20. cap theorem: consistency ---------------------------------->
+<!-------------------------------- 15. cap theorem: consistency ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image020.jpg?raw=true"
+<img src="/images/image015.png?raw=true"
    alt="CAP Theorem: Consistency"
    width="65%" />
 &nbsp;
@@ -959,10 +959,10 @@ Consistency in a system says that no two nodes will return a different
 state at any given time, and that no node will return an outdated state.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------- 21. cap theorem: availability --------------------------------->
+<!-------------------------------- 16. cap theorem: availability --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image021.jpg?raw=true"
+<img src="/images/image016.png?raw=true"
    alt="CAP Theorem: Availability"
    width="65%" />
 &nbsp;
@@ -979,10 +979,10 @@ This, then, is born from liveness: availability promises what must
 happen, which is the ability to read or write some state.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 22. cap theorem: partition tolerance (26) --------------------------->
+<!-------------------------- 17. cap theorem: partition tolerance (26) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image022.jpg?raw=true"
+<img src="/images/image017.png?raw=true"
    alt="CAP Theorem: Availability"
    width="65%" />
 &nbsp;
@@ -1009,10 +1009,10 @@ Partition tolerance states that the network will not stop functioning
 even with partitions.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 23. cap theorem: nothing is impossible (27) ------------------------->
+<!-------------------------- 18. cap theorem: nothing is impossible (27) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image023.jpg?raw=true"
+<img src="/images/image018.png?raw=true"
    alt="CAP Theorem: Nothing is Impossible"
    width="65%" />
 
@@ -1038,10 +1038,10 @@ is true.
 In order to prove the CAP Theorem, let's run through some examples.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------- 24. cap theorem: proof (28) ----------------------------------->
+<!-------------------------------- 19. cap theorem: proof (28) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image024.jpg?raw=true"
+<img src="/images/image019.png?raw=true"
    alt="CAP Theorem: Proof"
    width="65%" />
 &nbsp;
@@ -1052,10 +1052,10 @@ choosing two properties forces us to yield the third.
 Let's pretend this is a database which stores my favorite color.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 25. cap theorem: proof #2 (28) --------------------------------->
+<!------------------------------- 20. cap theorem: proof #2 (28) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image025.jpg?raw=true"
+<img src="/images/image020.png?raw=true"
    alt="CAP Theorem: Proof #2"
    width="65%" />
 &nbsp;
@@ -1072,10 +1072,10 @@ Naturally, my favorite color will have to change from blue to red.
 I send the update to the system, and my message happens to go to Node 1.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 26. cap theorem: proof #3 (29) --------------------------------->
+<!------------------------------- 21. cap theorem: proof #3 (29) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image026.jpg?raw=true"
+<img src="/images/image021.png?raw=true"
    alt="CAP Theorem: Proof #3"
    width="65%" />
 &nbsp;
@@ -1105,10 +1105,10 @@ We'll see how that ends up sacrificing Availability.
 Same scenario,
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 27. cap theorem: proof #4 (30) --------------------------------->
+<!------------------------------- 22. cap theorem: proof #4 (30) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image027.jpg?raw=true"
+<img src="/images/image022.png?raw=true"
    alt="CAP Theorem: Proof #4"
    width="65%" />
 &nbsp;
@@ -1116,10 +1116,10 @@ Same scenario,
 I send the update to Node 1, which then sends the update to other nodes.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------- 28. cap theorem: proof (30) ----------------------------------->
+<!-------------------------------- 23. cap theorem: proof (30) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image028.jpg?raw=true"
+<img src="/images/image023.png?raw=true"
    alt="CAP Theorem: Proof"
    width="65%" />
 &nbsp;
@@ -1127,10 +1127,10 @@ I send the update to Node 1, which then sends the update to other nodes.
 Nodes 2 and 4 are still ignorant of the update to red.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------- 29. cap theorem: proof (31) ----------------------------------->
+<!-------------------------------- 24. cap theorem: proof (31) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image029.jpg?raw=true"
+<img src="/images/image024.png?raw=true"
    alt="CAP Theorem: Proof"
    width="65%" />
 &nbsp;
@@ -1154,10 +1154,10 @@ We lose out on something in the last two examples, so let's see what
 happens when we choose Consistency and Availability.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------- 30. cap theorem: proof (32) ----------------------------------->
+<!-------------------------------- 25. cap theorem: proof (32) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image030.jpg?raw=true"
+<img src="/images/image025.png?raw=true"
    alt="CAP Theorem: Proof"
    width="65%" />
 &nbsp;
@@ -1167,10 +1167,10 @@ I send an update to Node 1.
 Node 1 passes the information around.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------- 31. cap theorem: proof (32) ----------------------------------->
+<!-------------------------------- 26. cap theorem: proof (32) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image031.jpg?raw=true"
+<img src="/images/image026.png?raw=true"
    alt="CAP Theorem: Proof"
    width="65%" />
 &nbsp;
@@ -1192,10 +1192,10 @@ And this proof demonstrates the spirit of the CAP Theorem, that a system
 must compromise.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------- 32. cap theorem: notes (33) ----------------------------------->
+<!-------------------------------- 27. cap theorem: notes (33) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image032.jpg?raw=true"
+<img src="/images/image027.png?raw=true"
    alt="CAP Theorem: Notes"
    width="65%" />
 &nbsp;
@@ -1247,10 +1247,10 @@ design.
 <h3>Byzantine Fault Tolerance</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------- 33. byzantine fault tolerance: general's problem (34) ---------------------->
+<!------------------- 28. byzantine fault tolerance: general's problem (34) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image033.jpg?raw=true"
+<img src="/images/image028.PNG?raw=true"
    alt="Byzantine Fault Tolerance: General's Problem"
    width="65%" />
 &nbsp;
@@ -1345,10 +1345,10 @@ However, that doesn't mean it's not possible to make an algorithm for
 the remaining situations.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------- 34. byzantine fault tolerance: fault tolerance (37) ---------------------->
+<!--------------------- 29. byzantine fault tolerance: fault tolerance (37) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image034.png?raw=true"
+<img src="/images/image029.png?raw=true"
    alt="Byzantine Fault Tolerance: Fault Tolerance"
    width="65%" />
 &nbsp;
@@ -1373,10 +1373,10 @@ indefinite, but it will always be easier to handle than the second type
 of fault.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------- 35. byzantine fault tolerance: in a blockchain (37) ---------------------->
+<!--------------------- 30. byzantine fault tolerance: in a blockchain (37) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image035.png?raw=true"
+<img src="/images/image030.png?raw=true"
    alt="Byzantine Fault Tolerance: General's Problem"
    width="65%" />
 &nbsp;
@@ -1446,10 +1446,10 @@ systems of today.
 <h3>Paxos and Raft</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------- 36. paxos: overview (40) ------------------------------------>
+<!---------------------------------- 31. paxos: overview (40) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image036.png?raw=true"
+<img src="/images/image031.png?raw=true"
    alt="Paxos: Overview"
    width="65%" />
 &nbsp;
@@ -1499,10 +1499,10 @@ didn't have secretaries either, so instead, each Paxon legislator
 maintained a ledger, where they'd record everything that happened.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------------- 37. paxos: terminology (41) ---------------------------------->
+<!--------------------------------- 32. paxos: terminology (41) ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image037.png?raw=true"
+<img src="/images/image032.png?raw=true"
    alt="Paxos: Terminology"
    width="65%" />
 &nbsp;
@@ -1529,10 +1529,10 @@ other consensus algorithms, such as those that are considered federated
 consensus algorithms.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------- 38. paxos: main ideaa (42) ------------------------------------>
+<!---------------------------------- 33. paxos: main ideaa (42) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image038.png?raw=true"
+<img src="/images/image033.png?raw=true"
    alt="Paxos: Main Idea"
    width="65%" />
 &nbsp;
@@ -1565,10 +1565,10 @@ After reaching consensus, the learners learn the result, and then let
 the entire island know what happened in parliament.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 39. paxos: knowledge of the ancients (42) --------------------------->
+<!-------------------------- 34. paxos: knowledge of the ancients (42) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image039.png?raw=true"
+<img src="/images/image034.png?raw=true"
    alt="Paxos: Knowledge of the Ancients"
    width="65%" />
 &nbsp;
@@ -1588,10 +1588,10 @@ And the state of the distributed database is like the current law passed
 by the parliament.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------- 40. paxos in practice (43) ---------------------------------->
+<!---------------------------------- 35. paxos in practice (43) ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image040.png?raw=true"
+<img src="/images/image035.png?raw=true"
    alt="Paxos in Practice"
    width="65%" />
 &nbsp;
@@ -1626,10 +1626,10 @@ caused mass confusion -- maybe because of the huge Paxon parliament
 story.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------------- 41. raft: overview (44) ------------------------------------>
+<!----------------------------------- 36. raft: overview (44) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image041.png?raw=true"
+<img src="/images/image036.png?raw=true"
    alt="Raft: Overview"
    width="65%" />
 &nbsp;
@@ -1652,10 +1652,10 @@ Proof-of-Work algorithm that Ethereum uses for a faster Raft-based
 consensus.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------------- 42. raft: how it works (45) ---------------------------------->
+<!--------------------------------- 37. raft: how it works (45) ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image042.png?raw=true"
+<img src="/images/image037.png?raw=true"
    alt="Raft: How it Works"
    width="65%" />
 &nbsp;
@@ -1705,10 +1705,10 @@ All credit and respect to the original author!
 <h3>Practical Byzantine Fault Tolerance</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------------- 43. pbft: overview (46) ------------------------------------>
+<!----------------------------------- 38. pbft: overview (46) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image043.png?raw=true"
+<img src="/images/image038.png?raw=true"
    alt="PBFT: Overview"
    width="65%" />
 &nbsp;
@@ -1735,10 +1735,10 @@ only 3% slower, despite the fact that it can now withstand Byzantine
 faults.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------- 44. pbft: by example (47) ----------------------------------->
+<!---------------------------------- 39. pbft: by example (47) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image044.png?raw=true"
+<img src="/images/image039.png?raw=true"
    alt="PBFT: By Example"
    width="65%" />
 &nbsp;
@@ -1753,10 +1753,10 @@ remembering back to Paxos, the Proposer proposes new decrees to other
 legislators in the Paxon Parliament based on the requests of the people.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ 45. pbft: by example: request (47) ------------------------------>
+<!------------------------------ 40. pbft: by example: request (47) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image045.png?raw=true"
+<img src="/images/image040.png?raw=true"
    alt="PBFT: By Example: Request"
    width="65%" />
 &nbsp;
@@ -1767,10 +1767,10 @@ than ⅓. So let's say one of our 4 nodes, Nadir, drops out due to a
 spotty internet connection.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ 46. pbft: by exmple: request (48) ------------------------------->
+<!------------------------------ 41. pbft: by exmple: request (48) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image046.png?raw=true"
+<img src="/images/image041.png?raw=true"
    alt="PBFT: By Example: Request"
    width="65%" />
 &nbsp;
@@ -1779,10 +1779,10 @@ Nadir might've dropped out, but the other 3 nodes might not know that
 yet, so they'll still send messages to him.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ 47. pbft: by exmple: Pre-Prepare (47) --------------------------->
+<!------------------------------ 42. pbft: by exmple: Pre-Prepare (47) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image047.png?raw=true"
+<img src="/images/image042.png?raw=true"
    alt="PBFT: By Example: Pre-Prepare"
    width="65%" />
 &nbsp;
@@ -1797,10 +1797,10 @@ They also contain signatures, and other useful metadata that lets nodes
 determine message validity.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------- 48. pbft: by example: prepare (49) ------------------------------->
+<!----------------------------- 43. pbft: by example: prepare (49) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image048.png?raw=true"
+<img src="/images/image043.png?raw=true"
    alt="PBFT: By Example"
    width="65%" />
 &nbsp;
@@ -1815,10 +1815,10 @@ pre-prepare -- making for 2f + 1 prepares. Again, f is the number of
 Byzantine faults.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------- 49. pbft: by example: commit (50) -------------------------------->
+<!----------------------------- 44. pbft: by example: commit (50) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image049.png?raw=true"
+<img src="/images/image044.png?raw=true"
    alt="PBFT: By Example: Commit"
    width="65%" />
 &nbsp;
@@ -1828,10 +1828,10 @@ receives f + 1 valid commit messages, then they carry out the client
 request and then finally
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ 50. pbft: by example: reply (50) -------------------------------->
+<!------------------------------ 45. pbft: by example: reply (50) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image050.png?raw=true"
+<img src="/images/image045.png?raw=true"
    alt="PBFT: By Example: Reply"
    width="65%" />
 &nbsp;
@@ -1842,10 +1842,10 @@ f + 1, and this ensures the response to be valid. After this point, the
 client gets the correct response.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------- 51. pbft: normal case operation (51) ------------------------------>
+<!---------------------------- 46. pbft: normal case operation (51) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image051.png?raw=true"
+<img src="/images/image046.png?raw=true"
    alt="PBFT: Normal Case Operation"
    width="65%" />
 &nbsp;
@@ -2186,10 +2186,10 @@ cryptography and economics.
 <h3>Proof-of-Stake Overview</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------- 52. proof of work vs proof of stake: differences (59) ---------------------->
+<!------------------- 47. proof of work vs proof of stake: differences (59) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image052.png?raw=true"
+<img src="/images/image047.png?raw=true"
    alt="Proof-of-Work vs Proof-of-Stake: Differences"
    width="65%" />
 &nbsp;
@@ -2282,10 +2282,10 @@ Proof-of-Work and Proof-of-Stake hybrid.
 <h3>Proof-of-Stake Implementations</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------- 53. proof-of-stake: tendermint (61) ------------------------------>
+<!----------------------------- 48. proof-of-stake: tendermint (61) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image053.png?raw=true"
+<img src="/images/image048.png?raw=true"
    alt="Proof-of-Stake: Tendermint"
    width="65%" />
 &nbsp;
@@ -2337,7 +2337,7 @@ left we have our little demo network. If you've taken the first course
 in the Blockchain Fundamentals program, Bitcoin and Cryptocurrencies,
 then this diagram should be pretty familiar to you.
 
-So here's how things work: at each new block height, a validator is
+Here's how things work: at each new block height, a validator is
 chosen to propose a new block.
 
 We've circled this in red. If we were using Tendermint for
@@ -2376,7 +2376,7 @@ The next phase is to prevote. Since we have 5 validators, we need at
 least 4 of us to prevote the block that he proposed in order to reach
 the greater than ⅔ threshold.
 
-So we wait for a bit of time for all the prevotes to come in. Remember
+We wait for a bit of time for all the prevotes to come in. Remember
 that Tendermint is partially synchronous, so we stop waiting after the
 timeout time has passed, and just take whatever prevotes we have so far,
 and assume the rest are prevote nil.
@@ -2390,13 +2390,13 @@ Alright, so now we're on the next phase, which is precommit. Everyone
 who originally voted prevote block in the last phase should be voting
 precommit block this time around.
 
-So let's see what happens.
+Let's see what happens.
 
 Uh-oh! Looks like there was a network partition, and both Nadir, myself,
 and Nick are separated from the rest of the network. Maybe my computer
 crashed and Nick's neighborhood had a blackout.
 
-So everyone precommits, and Derrick, Gloria, and Rustie all precommit
+Everyone precommits, and Derrick, Gloria, and Rustie all precommit
 the block. Meanwhile, since no one's heard from neither Nick nor myself
 yet, and it's past the timeout time, we count those votes as precommit
 nil.
@@ -2413,7 +2413,7 @@ also proportional based on the amount of voting power we have, so let's
 say Derrick staked the second highest amount after Rustie, so he's the
 next to be able to propose a block.
 
-So that's the yellow block on top of his name here.
+That's the yellow block on top of his name here.
 
 And let's say that I managed to reboot my crashed computer, and I'm back
 online as a validator. This time around, if everyone prevotes and
@@ -2832,6 +2832,15 @@ Availability with the letters CA, Consistency and Partition Tolerance
 with the letters CP, and Availability and Partition Tolerances with the
 letters AP.](images/image054.png){width="4.0in"
 height="3.816783683289589in"}
+
+<!------------------------------------------------------------------------------------------------>
+<!---------- 49. three circles: consistency, availability & partition tolerance (75) ------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image049.png?raw=true"
+   alt="Consistency, Availabilty and Partition Tolerance"
+   width="40%" />
+</p>
 
 The CAP Theorem states that any distributed system can only achieve 2 of
 the following 3 properties at any given time:
