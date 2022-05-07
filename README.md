@@ -4147,11 +4147,11 @@ single correct chain.
 Anything that prevents this from happening should be discouraged.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------ 54b. nothing at stake: undesirable path (106) ------------------------->
+<!---------------------- 54b. nothing at stake: undesirable path #2 (106) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image054b.png?raw=true"
-   alt=" "
+   alt="Nothing at Stake: Undesirable Path #2"
    width="65%" />
 </p>
 
@@ -4164,11 +4164,11 @@ consensus!
 What is it about Proof-of-Stake that makes this an issue?
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 55.  --------------------------------->
+<!----------------------------- 54c. nothing at stake: attack (107) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image061.png?raw=true"
-   alt=" "
+<img src="/images/image054c.png?raw=true"
+   alt="Nothing at Stake: Attack"
    width="65%" />
 </p>
 
@@ -4228,11 +4228,11 @@ Both forks will continue to grow indefinitely.
 Is there a way to solve this?
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 62.  --------------------------------->
+<!---------------------------- 54d. nothing at stake: defense (109) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image062.png?raw=true"
-   alt=" "
+<img src="/images/image054d.png?raw=true"
+   alt="Nothing at Stake: Defense"
    width="65%" />
 </p>
 
@@ -4268,11 +4268,11 @@ Because all voting is virtual, even the penalties for malicious voting
 strategies need to be explicitly enforced.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 63.  --------------------------------->
+<!--------------------------- 54e. nothing at stake: defense #2 (110) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image063.png?raw=true"
-   alt=" "
+<img src="/images/image054e.png?raw=true"
+   alt="Nothing at Stake: Defense #2"
    width="65%" />
 </p>
 
@@ -4281,11 +4281,11 @@ is to vote on fork A. This is because voting on fork B, or voting on
 both, now leads to penalties for the voter.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 64.  --------------------------------->
+<!---------------------------- 54f. long range attack: attack (110) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image064.png?raw=true"
-   alt=" "
+<img src="/images/image054f.png?raw=true"
+   alt="Long Range Attack: Attack"
    width="65%" />
 </p>
 
@@ -4297,11 +4297,11 @@ transactions starting from the Genesis block and then attempt to take
 over the main chain.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 65.  --------------------------------->
+<!--------------------------- 54g.  long range attack: attack #2 (111) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image065.png?raw=true"
-   alt=" "
+<img src="/images/image054g.png?raw=true"
+   alt="Long Range Attack: Attack #2"
    width="65%" />
 </p>
 
@@ -4324,10 +4324,10 @@ back online after being offline for long periods of time: neither of
 these nodes know which of the chains they are given is the main chain.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 66.  --------------------------------->
+<!---------------------------- 54h. long range attack: attack #3 (112) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image066.png?raw=true"
+<img src="/images/image054h.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -4348,11 +4348,11 @@ long range attack can potentially be accepted as the main chain.
 To explain this clearly, we will step through an example.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 67.  --------------------------------->
+<!---------------------------- 54i. long range attack: example (113) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image067.png?raw=true"
-   alt=" "
+<img src="/images/image054i.png?raw=true"
+   alt="Long Range Attack: Example"
    width="65%" />
 </p>
 
@@ -4373,11 +4373,11 @@ This is called a long range attack because it can be executed from any
 point of the chain, including the genesis block.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 68.  --------------------------------->
+<!----------------------------- 54j. stake grinding: attack (113) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image068.png?raw=true"
-   alt=" "
+<img src="/images/image054j.png?raw=true"
+   alt="Stake Grinding: Attack"
    width="65%" />
 </p>
 
@@ -4406,11 +4406,12 @@ Attackers can choose from different block signatures by playing around
 with the block parameters to change the signature outcome.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 69. stake grinding: defense (114)  --------------------------------->
+<!----------------------------- 54k. stake grinding: defense (114) ------------------------------->
+<!----------------------------- 54k. stake grinding: defense (114) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image069.png?raw=true"
-   alt=" "
+<img src="/images/image054k.png?raw=true"
+   alt="Stake Grinding: Defense"
    width="65%" />
 </p>
 
@@ -4464,11 +4465,11 @@ Cipher**, in which messages are encrypted by shifting letters to the
 right by a previously set amount.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 55.  --------------------------------->
+<!----------------------------- 55. caesar cipher encryption (116) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image055.png?raw=true"
-   alt=" "
+   alt="Caesar Cipher Encryption"
    width="65%" />
 </p>
 
@@ -5633,8 +5634,14 @@ The transparency and immutability afforded to blockchain-based systems
 is particularly enticing for accounting use cases.
 
 <h3>Use Case: Travel & Tourism</h3>
-
-![](images/image102.png){width="5.0in" height="2.839806430446194in"}
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------- 65. Services: Travel and Tourism (154) ----------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image065.png?raw=true"
+   alt="Services: Travel and Tourism"
+   width="65%" />
+</p>
 
 Blockchain is also making waves in the travel industry, allowing people
 to keep track of their luggage, get better rates on extra rooms,
@@ -5653,7 +5660,14 @@ Trippki is creating a decentralized rewards ecosystem with travelers and
 hotels, making rewards transferable while still allowing hotels the
 flexibility to make specialized offers.
 
-![](images/image103.png){width="5.0in" height="2.8387095363079613in"}
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------- 66. Identity: Travel and Tourism (155) ----------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image066.png?raw=true"
+   alt="Services: Travel and Tourism"
+   width="65%" />
+</p>
 
 Definitely one of the largest problems facing the travel industry today
 is identity management.
@@ -5683,8 +5697,14 @@ in 2020.
 Next, we'll be talking about broader approaches to digital identity.
 
 <h3>Use Case: Digital Identity</h3>
-
-![](images/image104.png){width="5.0in" height="2.789397419072616in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- 67. self-sovereignty: digital identity (156) --------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image067.png?raw=true"
+   alt="Self-Sovereignty: Digital Identity"
+   width="65%" />
+</p>
 
 Companies focusing on decentralized digital identity are focusing
 heavily on a concept known as self-sovereignty of identity, which is the
@@ -5699,7 +5719,14 @@ should need to provide is the answer to "Are you allowed to come in".
 Self-sovereignty of identity tries to make that distinction clear by
 decoupling that information.
 
-![](images/image105.png){width="5.0in" height="2.7813517060367454in"}
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- 68. industry players: digital identity (156) --------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image068.png?raw=true"
+   alt="Industry Players: Digital Identity"
+   width="65%" />
+</p>
 
 One of the companies working on self sovereign identity (SSI) is Vetri,
 formerly VALID.
@@ -5736,6 +5763,14 @@ Next, we'll be talking about blockchain's applications in the healthcare
 industry.
 
 <h3>Use Case: Healthcare</h3>
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------- 69. medical data: healthchare (158) ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image069.png?raw=true"
+   alt="Medical Data: Healthcare"
+   width="65%" />
+</p>
 
 ![](images/image106.png){width="5.0in" height="2.8617880577427823in"}
 
@@ -13011,5 +13046,5 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end...
 <p>
-5/4/2022 Wed @ 10:34pm
+5/6/2022 Fri @ 5:59pm
 </p>
