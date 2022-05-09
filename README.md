@@ -157,7 +157,7 @@ is to read these books.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/cs198.2x blockchain at berkeley logo.png?raw=true"
-   alt="Blockchain at Berkeley logo"
+   alt="Berkeley's Hub for Blockchain Innovation logo"
    width="65%" />
 </p>
 
@@ -235,7 +235,14 @@ blockchain enthusiasts from all educational and industrial backgrounds.
 
 **Week 1: Trust Without Trust: Distributed Systems & Consensus**
 
-<img src="./images/image03.png" style="width:5in;height:3.37483in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 01. cs198.2x Berkeley's Blockchain logo (07) ------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image001.png?raw=true"
+   alt="Blockchain at BerkeleyX logo"
+   width="65%" />
+</p>
 
 Welcome to the first module of Blockchain Technology, the second course
 in the Blockchain Fundamentals program.
@@ -353,7 +360,14 @@ I can always agree with myself on where to have lunch, but when I go out
 with my friends, we have to all agree on where to go first, and the
 process by which we reach agreement might be difficult.
 
-<img src="./images/image004.png" style="width:5in;height:2.80096in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------- 01a. distributed systems origins: why study consensus? (10) ------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image001a.png?raw=true"
+   alt="Distributed Systems Origins: Why Study Consensus?"
+   width="65%" />
+</p>
 
 In this example, my group of friends had to come to consensus on a
 common choice of action – what to get for lunch – before we were able to
@@ -362,7 +376,14 @@ move forward – to actually get lunch.
 This is no different from how a distributed system works, and is where
 we start building our intuition and context.
 
-<img src="./images/image005.png" style="width:5in;height:2.81906in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------------- 02. distributed systems origins: digital avionics (11) --------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image002.png?raw=true"
+   alt="Distributed Systems Origins: Digital Avionics"
+   width="65%" />
+</p>
 
 Consensus has been studied for ages in fields such as biophysics,
 ethics, and philosophy, but the formal study of consensus in computer
@@ -11831,7 +11852,14 @@ mining rig as well.
 
 It doesn’t need to look pretty, it just needs to get you paid.
 
-<img src="./images/image261.png" style="width:5in;height:2.8282in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- 261. software - nicehash, multipoolminer (381) ------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image261.png?raw=true"
+   alt="Sofware Options: Nicehash, MultiPoolMiner"
+   width="65%" />
+</p>
 
 Now onto software ==== In terms of software for mining, some common
 options are Nicehash and MultiPoolMiner.
@@ -11857,7 +11885,14 @@ We would not recommend for anyone new to the game.
 Return on Investment == As we alluded to earlier, break even time is
 generally a good metric to measuring successful cryptocurrency mining.
 
-<img src="./images/image262.png" style="width:5in;height:2.82927in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------- 262. roi and break-even time (382) ------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image262.png?raw=true"
+   alt="ROI and Break-Even Time"
+   width="65%" />
+</p>
 
 Ideally, every business endeavor wants to minimize the time until
 break-even, and maximize the profit multiplier of their investment.
@@ -12011,8 +12046,14 @@ This is just an imaginative venture for fun, so please don’t take it too
 seriously or concern yourself with details.
 
 Let’s start with the utopia.
-
-<img src="./images/image263.png" style="width:5in;height:2.80844in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 263. utopian blockchain world: #1 (386) ----------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image263.png?raw=true"
+   alt="Utopian Blockchain World"
+   width="65%" />
+</p>
 
 You leave the apartment where you spent the night, and as you leave,
 sensors detect your departure and Slock.it’s smart contract pays back
@@ -12026,8 +12067,14 @@ network.
 
 Since it’s all secure and doesn’t cost you any money anyway, you decide
 to extend your payment channel for another 20 years.
-
-<img src="./images/image264.png" style="width:5in;height:2.75807in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 264. utopian blockchain world: #2 (387) ----------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image264.png?raw=true"
+   alt="Utopian Blockchain World #2"
+   width="65%" />
+</p>
 
 You call ‘your’ car, but it’s not really yours; it’s plugged into an
 autonomous ad hoc swarm of electric vehicles readily available for use.
@@ -12037,7 +12084,14 @@ The cars have no owner and instead run entirely on smart contracts.
 Using their collective income, they pay for recharging themselves,
 maintenance and insurance.
 
-<img src="./images/image265.png" style="width:5in;height:2.80998in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 265. utopian blockchain world: #3 (387) ----------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image265.png?raw=true"
+   alt="Utopian Blockchain World #3"
+   width="65%" />
+</p>
 
 Accidents are rare, but when they do happen, the insurance agency
 analyzes video footage via a machine-learning trained bot and
@@ -12057,8 +12111,14 @@ Except your work isn’t really work - it’s all voluntary because the
 blockchain ensures a universal basic income for everyone, and you’re a
 climate scientist primarily because you want to help push the boundaries
 of human knowledge.
-
-<img src="./images/image266.png" style="width:5in;height:2.78135in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 266. utopian blockchain world: #4 (388) ----------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image266.png?raw=true"
+   alt="Utopian Blockchain World #4"
+   width="65%" />
+</p>
 
 Your company isn’t really a company either - it’s a decentralized
 autonomous organization consisting of individuals from around the world
@@ -12068,8 +12128,14 @@ worldwide oracle network, and who can exit their contract at any time.
 
 Your company itself receives revenue over time as measured by the net
 benefit to society your research brings.
-
-<img src="./images/image267.png" style="width:5in;height:2.80998in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 267. utopian blockchain world: #5 (389) ----------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image267.png?raw=true"
+   alt="Utopian Blockchain World #5"
+   width="65%" />
+</p>
 
 Your latest research provides strong evidence that the efforts to reduce
 climate change have not been drastic enough, and that we are heading
@@ -12083,8 +12149,14 @@ of their published research on the blockchain.
 A global democratic DAO decides this issue is important enough to
 provide further incentives for countries to meet their new carbon
 emission targets.
-
-<img src="./images/image268.png" style="width:5in;height:2.76816in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 268. utopian blockchain world: #6 (390) ----------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image268.png?raw=true"
+   alt="Utopian Blockchain World #6"
+   width="65%" />
+</p>
 
 Thanks to the fair democracy enabled by the DAO, the planet is saved and
 we can all continue with a stable and secure future.
@@ -12206,8 +12278,14 @@ This section will be a quick roadmap explaining the opportunities in the
 field.
 
 **Getting Involved**
-
-<img src="./images/image269.png" style="width:5in;height:2.80745in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------- 269. getting involved in blockchain: jobs, jobs, jobs (393) ------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image269.png?raw=true"
+   alt="Getting Involved in Blockchain: Jobs, Jobs, Jobs!"
+   width="65%" />
+</p>
 
 About getting involved in the blockchain space.
 
@@ -12335,4 +12413,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-8-2022 2:24pm last updated.
+5-9-2022 1:00pm last updated.
