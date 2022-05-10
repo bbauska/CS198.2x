@@ -804,6 +804,10 @@ get into serious trouble.
 You need some of both, but not too much, to define a sense of what your
 program can and should do.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 17.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image017.png" style="width:5in;height:2.81199in" />
 
 We spent quite a bit of time understanding safety and liveness, but how
@@ -881,7 +885,10 @@ what must happen for the system to be considered correct.
 
 Without the guarantee of termination, we have no guarantee that
 consensus will ever be achieved.
-
+<!------------------------------------------------------------------------------------------------>
+<!------------- 18.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image018.png" style="width:5in;height:2.80899in" />
 
 By understanding these three essentials of a consensus algorithm, you
@@ -897,6 +904,10 @@ that any system must make.
 
 <h3>CAP Theorem</h3>
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 19.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image019.png" style="width:5in;height:2.81122in" />
 
 This section hones in on a famous trilemma of distributed systems called
@@ -916,6 +927,10 @@ previous section about safety, liveness, and consensus correctness.
 After defining these terms and proving the CAP Theorem, we’ll delve into
 the implications.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 20.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image020.png" style="width:5in;height:2.77597in" />
 
 The “C” in CAP stands for Consistency.
@@ -931,7 +946,10 @@ to something that will never happen.
 
 Consistency in a system says that no two nodes will return a different
 state at any given time, and that no node will return an outdated state.
-
+<!------------------------------------------------------------------------------------------------>
+<!------------- 21.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image021.png" style="width:5in;height:2.80229in" />
 
 The “A” in CAP stands for Availability.
@@ -945,6 +963,10 @@ retrieve the state of the system without delay.
 This, then, is born from liveness: availability promises what must
 happen, which is the ability to read or write some state.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 22.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image022.png" style="width:5in;height:2.82258in" />
 
 And last but not least the “P” in CAP stands for ***Partition
@@ -968,6 +990,10 @@ in line with safety, as it specifies what will not happen.
 Partition tolerance states that the network will not stop functioning
 even with partitions.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 23.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image023.png" style="width:5in;height:2.83388in" />
 
 What is the CAP Theorem, truly?
@@ -991,6 +1017,10 @@ is true.
 
 In order to prove the CAP Theorem, let’s run through some examples.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 24.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image024.png" style="width:5in;height:2.79388in" />
 
 In each example, we’re going to give an example of a situation in which
@@ -998,6 +1028,10 @@ choosing two properties forces us to yield the third.
 
 Let’s pretend this is a database which stores my favorite color.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 25.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image025.png" style="width:5in;height:2.79839in" />
 
 In our first example, let’s choose Partition Tolerance and Availability.
