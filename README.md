@@ -634,7 +634,6 @@ cores in your laptop.
    alt="Distributed Systems: Definition #3"
    width="65%" />
 </p>
-<img src="./images/image013.png" style="width:5in;height:2.82504in" />
 
 The second category is referred to as “message passing.”
 
@@ -805,10 +804,10 @@ You need some of both, but not too much, to define a sense of what your
 program can and should do.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 17.  (xx) ---------------->
+<!------------- 12. distributed consensus: correctness (23) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image017.png" style="width:5in;height:2.81199in" />
+<img src="./images/image012.png" style="width:5in;height:2.81199in" />
 
 We spent quite a bit of time understanding safety and liveness, but how
 do we apply those ideas of desirable and undesirable guidelines to a
@@ -886,10 +885,10 @@ what must happen for the system to be considered correct.
 Without the guarantee of termination, we have no guarantee that
 consensus will ever be achieved.
 <!------------------------------------------------------------------------------------------------>
-<!------------- 18.  (xx) ---------------->
+<!------------- 13. distributed consensus: correctness #2 (25) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image018.png" style="width:5in;height:2.80899in" />
+<img src="./images/image013.png" style="width:5in;height:2.80899in" />
 
 By understanding these three essentials of a consensus algorithm, you
 now understand what is needed for any distributed system to come to
@@ -905,10 +904,10 @@ that any system must make.
 <h3>CAP Theorem</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 19.  (xx) ---------------->
+<!------------- 14. cap theorem: introduction (25) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image019.png" style="width:5in;height:2.81122in" />
+<img src="./images/image014.png" style="width:5in;height:2.81122in" />
 
 This section hones in on a famous trilemma of distributed systems called
 the CAP Theorem.
@@ -928,10 +927,10 @@ After defining these terms and proving the CAP Theorem, we’ll delve into
 the implications.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 20.  (xx) ---------------->
+<!------------- 15. cap theorem: consistency 'c' in cap (26) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image020.png" style="width:5in;height:2.77597in" />
+<img src="./images/image015.png" style="width:5in;height:2.77597in" />
 
 The “C” in CAP stands for Consistency.
 
@@ -947,10 +946,10 @@ to something that will never happen.
 Consistency in a system says that no two nodes will return a different
 state at any given time, and that no node will return an outdated state.
 <!------------------------------------------------------------------------------------------------>
-<!------------- 21.  (xx) ---------------->
+<!------------- 16. cap theorem: availability 'a' in cap (27) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image021.png" style="width:5in;height:2.80229in" />
+<img src="./images/image016.png" style="width:5in;height:2.80229in" />
 
 The “A” in CAP stands for Availability.
 
@@ -964,10 +963,10 @@ This, then, is born from liveness: availability promises what must
 happen, which is the ability to read or write some state.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 22.  (xx) ---------------->
+<!------------- 17. cap theorem: partition tolerance (28) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image022.png" style="width:5in;height:2.82258in" />
+<img src="./images/image017.png" style="width:5in;height:2.82258in" />
 
 And last but not least the “P” in CAP stands for ***Partition
 Tolerance***.
@@ -991,10 +990,10 @@ Partition tolerance states that the network will not stop functioning
 even with partitions.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 23.  (xx) ---------------->
+<!------------- 18. cap theorem: nothing is impossible (29) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image023.png" style="width:5in;height:2.83388in" />
+<img src="./images/image018.png" style="width:5in;height:2.83388in" />
 
 What is the CAP Theorem, truly?
 
@@ -1018,10 +1017,10 @@ is true.
 In order to prove the CAP Theorem, let’s run through some examples.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 24.  (xx) ---------------->
+<!------------- 19. cap theorem: proof (30) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image024.png" style="width:5in;height:2.79388in" />
+<img src="./images/image019.png" style="width:5in;height:2.79388in" />
 
 In each example, we’re going to give an example of a situation in which
 choosing two properties forces us to yield the third.
@@ -1029,10 +1028,10 @@ choosing two properties forces us to yield the third.
 Let’s pretend this is a database which stores my favorite color.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 25.  (xx) ---------------->
+<!------------- 20. cap theorem: proof #2 (30) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image025.png" style="width:5in;height:2.79839in" />
+<img src="./images/image020.png" style="width:5in;height:2.79839in" />
 
 In our first example, let’s choose Partition Tolerance and Availability.
 
@@ -1046,10 +1045,10 @@ Naturally, my favorite color will have to change from blue to red.
 I send the update to the system, and my message happens to go to Node 1.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 26.  (xx) ---------------->
+<!------------- 21. cap theorem: proof #3 (31) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image026.png" style="width:5in;height:2.79935in" />
+<img src="./images/image021.png" style="width:5in;height:2.79935in" />
 
 Node 1 relays the update to all other accessible nodes, which update
 their state.
@@ -1076,26 +1075,26 @@ We’ll see how that ends up sacrificing Availability.
 Same scenario,
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 27.  (xx) ---------------->
+<!------------- 22. cap theorem: proof #4 (32) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image027.png" style="width:5in;height:2.83414in" />
+<img src="./images/image022.png" style="width:5in;height:2.83414in" />
 
 I send the update to Node 1, which then sends the update to other nodes.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 28.  (xx) ---------------->
+<!------------- 23. cap theorem: proof #5 (32) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image028.png" style="width:5in;height:2.82504in" />
+<img src="./images/image023.png" style="width:5in;height:2.82504in" />
 
 Nodes 2 and 4 are still ignorant of the update to red.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 29.  (xx) ---------------->
+<!------------- 24. cap theorem: proof #6 (33) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image029.png" style="width:5in;height:2.78583in" />
+<img src="./images/image024.png" style="width:5in;height:2.78583in" />
 
 Again, I query Node 2.
 
@@ -1116,20 +1115,20 @@ We lose out on something in the last two examples, so let’s see what
 happens when we choose Consistency and Availability.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 30.  (xx) ---------------->
+<!------------- 25. cap theorem: proof #7 (34) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image030.png" style="width:5in;height:2.84553in" />
+<img src="./images/image025.png" style="width:5in;height:2.84553in" />
 
 I send an update to Node 1.
 
 Node 1 passes the information around.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 31.  (xx) ---------------->
+<!------------- 26. cap theorem: proof #8 (34) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image031.png" style="width:5in;height:2.83172in" />
+<img src="./images/image026.png" style="width:5in;height:2.83172in" />
 
 I query Node 2, and it returns a value to me.
 
@@ -1148,10 +1147,10 @@ And this proof demonstrates the spirit of the CAP Theorem, that a system
 must compromise.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 32.  (xx) ---------------->
+<!------------- 27. cap theorem: notes (36) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image032.png" style="width:5in;height:2.8201in" />
+<img src="./images/image027.png" style="width:5in;height:2.8201in" />
 
 Now you understand the CAP Theorem.
 
@@ -1200,10 +1199,10 @@ design.
 <h3>Byzantine Fault Tolerance</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 33.  (xx) ---------------->
+<!------------- 28. byzantine fault tolerance: generals' problem (36) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image033.png"
+<img src="./images/image028.png"
 style="width:4.03318in;height:2.30561in" />
 
 We’ve defined distributed systems, understood the definition of
