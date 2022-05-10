@@ -1045,6 +1045,10 @@ Naturally, my favorite color will have to change from blue to red.
 
 I send the update to the system, and my message happens to go to Node 1.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 26.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image026.png" style="width:5in;height:2.79935in" />
 
 Node 1 relays the update to all other accessible nodes, which update
@@ -1071,14 +1075,26 @@ We’ll see how that ends up sacrificing Availability.
 
 Same scenario,
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 27.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image027.png" style="width:5in;height:2.83414in" />
 
 I send the update to Node 1, which then sends the update to other nodes.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 28.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image028.png" style="width:5in;height:2.82504in" />
 
 Nodes 2 and 4 are still ignorant of the update to red.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 29.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image029.png" style="width:5in;height:2.78583in" />
 
 Again, I query Node 2.
@@ -1099,12 +1115,20 @@ outdated information and refuse to return a value.
 We lose out on something in the last two examples, so let’s see what
 happens when we choose Consistency and Availability.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 30.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image030.png" style="width:5in;height:2.84553in" />
 
 I send an update to Node 1.
 
 Node 1 passes the information around.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 31.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image031.png" style="width:5in;height:2.83172in" />
 
 I query Node 2, and it returns a value to me.
@@ -1123,6 +1147,10 @@ situations.
 And this proof demonstrates the spirit of the CAP Theorem, that a system
 must compromise.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 32.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image032.png" style="width:5in;height:2.8201in" />
 
 Now you understand the CAP Theorem.
@@ -1171,6 +1199,10 @@ design.
 
 <h3>Byzantine Fault Tolerance</h3>
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 33.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image033.png"
 style="width:4.03318in;height:2.30561in" />
 
@@ -1263,6 +1295,10 @@ this to a general fraction.
 However, that doesn’t mean it’s not possible to make an algorithm for
 the remaining situations.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 34.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image034.png" style="width:4in;height:2.27041in" />
 
 Practical Byzantine Fault Tolerance released in 1999 by Miguel Castro
@@ -1284,6 +1320,10 @@ solve these kinds of problems. This kind of failure may be temporary or
 indefinite, but it will always be easier to handle than the second type
 of fault.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 35.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image035.png" style="width:4in;height:2.25427in" />
 
 A Byzantine fault, referring to the Byzantine Generals’ Problem, is a
@@ -1353,6 +1393,10 @@ systems of today.
 
 <h3>Paxos and Raft</h3>
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 36.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image036.png" style="width:4in;height:2.24687in" />
 
 Before we talk about our first consensus mechanisms, let’s take a short
@@ -1399,6 +1443,10 @@ No one was willing to remain in the chambers all the time, and they
 didn’t have secretaries either, so instead, each Paxon legislator
 maintained a ledger, where they’d record everything that happened.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 37.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image037.png" style="width:4in;height:2.25629in" />
 
 Diving a bit more in depth, the paper specifies that within the Paxon
@@ -1451,9 +1499,13 @@ they’d all write it down on everyone’s ledgers.
 After reaching consensus, the learners learn the result, and then let
 the entire island know what happened in parliament.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 39.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image039.png" style="width:4in;height:2.2867in" />
 
-So, there’s a very clear parallel between the Paxon parliament and
+There’s a very clear parallel between the Paxon parliament and
 distributed consensus.
 
 As Lamport put it in his paper: “There’s an obvious correspondence
@@ -1467,6 +1519,10 @@ action on the result.
 And the state of the distributed database is like the current law passed
 by the parliament.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 40.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image040.png" style="width:4in;height:2.24596in" />
 
 One major assumption that Paxos makes is that nodes aren’t trying to
@@ -1498,6 +1554,10 @@ further, with a follow up paper titled “Paxos Made Simple,” it still
 caused mass confusion – maybe because of the huge Paxon parliament
 story.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 41.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image041.png" style="width:4in;height:2.25107in" />
 
 In 2014, an alternative to Paxos was proposed.
@@ -1517,6 +1577,10 @@ designed to be an enterprise version of Ethereum, swaps out the public
 Proof-of-Work algorithm that Ethereum uses for a faster Raft-based
 consensus.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 42.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image042.png" style="width:4in;height:2.26974in" />
 
 There’s a really good Raft simulation that I’ll link in the “Readings”
@@ -1563,6 +1627,10 @@ All credit and respect to the original author!
 
 <h3>Practical Byzantine Fault Tolerance</h3>
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 43.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image043.png" style="width:4in;height:2.25812in" />
 
 We’ll end here with another famous consensus algorithm: Practical
@@ -1586,6 +1654,10 @@ protocol developed by Sun Microsystems in 1984, the resulting BFT-NFS is
 only 3% slower, despite the fact that it can now withstand Byzantine
 faults.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 44.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image044.png" style="width:4in;height:2.28877in" />
 
 The main PBFT algorithm consists of three phases – pre-prepare, prepare,
@@ -1597,6 +1669,10 @@ this should be familiar since it’s a common design pattern. For example,
 remembering back to Paxos, the Proposer proposes new decrees to other
 legislators in the Paxon Parliament based on the requests of the people.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 45.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image045.png" style="width:5in;height:2.8507in" />
 
 In this case, the primary node is Derrick. We have a total of 4 nodes,
@@ -1604,11 +1680,19 @@ meaning that we should be able to withstand 1 fault, since ¼ is less
 than ⅓. So, let’s say one of our 4 nodes, Nadir, drops out due to a
 spotty internet connection.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 46.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image046.png" style="width:5in;height:2.83903in" />
 
 Nadir might’ve dropped out, but the other 3 nodes might not know that
 yet, so they’ll still send messages to him.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 47.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image047.png" style="width:5in;height:2.85169in" />
 
 The next step is pre-prepare, which is one of the three main phases –
@@ -1620,6 +1704,10 @@ increasing numbers Proposers in Paxos assign to each of their decrees.
 They also contain signatures, and other useful metadata that lets nodes
 determine message validity.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 48.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image048.png" style="width:5in;height:2.83903in" />
 
 If a node accepts a pre-prepare message, it follows up by sending out a
@@ -1631,12 +1719,20 @@ pre-prepared, and has seen 2f prepare messages that match its
 pre-prepare – making for 2f + 1 prepares. Again, f is the number of
 Byzantine faults.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 49.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image049.png" style="width:5in;height:2.82786in" />
 
 After nodes have prepared, they send out a commit message. If a node
 receives f + 1 valid commit messages, then they carry out the client
 request and then finally
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 50.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image050.png" style="width:5in;height:2.80858in" />
 
 Send out the reply to the client. The client waits for f + 1 of the same
@@ -1644,6 +1740,10 @@ reply. Since we allow for at most f faults, we need to wait for at least
 f + 1, and this ensures the response to be valid. After this point, the
 client gets the correct response.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 51.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image051.png" style="width:5in;height:2.81122in" />
 
 Here’s a diagram from the PBFT whitepaper, which models exactly the
@@ -1981,6 +2081,10 @@ cryptography and economics.
 
 <h3>Proof-of-Stake Overview</h3>
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 52.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image052.png" style="width:5in;height:2.79751in" />
 
 As we mentioned in the Nakamoto consensus section, we can understand
@@ -2070,6 +2174,10 @@ Proof-of-Work and Proof-of-Stake hybrid.
 
 <h3>Proof-of-Stake Implementations</h3>
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 53.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image053.png" style="width:5in;height:2.80929in" />
 
 Tendermint was the first BFT-based Proof-of-Stake consensus mechanism,
@@ -2912,6 +3020,10 @@ ensuring that the decisions’ history is maintained honestly and forever.
 
 **Cryptoeconomics**
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 55.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image055.png" style="width:5in;height:2.8356in" />
 
 Cryptoeconomics aims to understand virtual decision-making by unknown,
@@ -3014,6 +3126,10 @@ that information is kept secret and safe whenever necessary.
 
 **Origins of Cryptography**
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 56.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image056.png" style="width:5in;height:2.8482in" />
 
 Before we talk about the specifics of cryptography, let’s go over some
@@ -3418,6 +3534,10 @@ timelock to our specifications.
 
 **Game Theory**
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 57.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image057.png" style="width:5in;height:2.81522in" />
 
 In Game Theory, we aim to deduce how an actor will act in a given
@@ -3625,6 +3745,10 @@ we dive into the next section, Proof-of-Stake.
 
 **Blacklisting**
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 58.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image058.png" style="width:5in;height:2.82123in" />
 
 Now, some attacks review, with a particular focus on economic
@@ -3870,6 +3994,10 @@ the system in check.
 
 **Attacks**
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 59.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image059.png" style="width:5in;height:2.80547in" />
 
 Let’s start looking at the most basic problem in Proof-of-Stake: the
@@ -3883,6 +4011,10 @@ single correct chain.
 
 Anything that prevents this from happening should be discouraged.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 60.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image060.png" style="width:5in;height:2.77244in" />
 
 If ever the blockchain ends up in a situation which consensus is not
@@ -3893,6 +4025,10 @@ consensus!
 
 What is it about Proof-of-Stake that makes this an issue?
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 61.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image061.png" style="width:5in;height:2.8282in" />
 
 Take a look at the bottom image demonstrating Proof-of-Work.
@@ -3950,6 +4086,10 @@ Both forks will continue to grow indefinitely.
 
 Is there a way to solve this?
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 62.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image062.png" style="width:5in;height:2.80547in" />
 
 Well, to discourage voting on voting on incorrect forks, let’s introduce
@@ -3983,12 +4123,20 @@ activity.
 Because all voting is virtual, even the penalties for malicious voting
 strategies need to be explicitly enforced.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 63.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image063.png" style="width:5in;height:2.8125in" />
 
 As you can see in this example, we've made it such that the best choice
 is to vote on fork A. This is because voting on fork B, or voting on
 both, now leads to penalties for the voter.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 64.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image064.png" style="width:5in;height:2.81452in" />
 
 One major attack that can be conducted in a Proof-of-Stake network is a
@@ -3998,6 +4146,10 @@ In this scenario, attackers essentially create a new chain of
 transactions starting from the Genesis block and then attempt to take
 over the main chain.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 65.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image065.png" style="width:5in;height:2.84091in" />
 
 There are two properties in Proof-of-Stake that allow this to happen:
@@ -4018,6 +4170,10 @@ Weak subjectivity is a problem for both new nodes and nodes that come
 back online after being offline for long periods of time: neither of
 these nodes know which of the chains they are given is the main chain.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 66.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image066.png" style="width:5in;height:2.78939in" />
 
 One preconception about blockchains in general is that the longest chain
@@ -4035,6 +4191,10 @@ long range attack can potentially be accepted as the main chain.
 
 To explain this clearly, we will step through an example.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 67.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image067.png" style="width:5in;height:2.83171in" />
 
 Suppose Gloria owns 1% of the tokens the moment the genesis block is
@@ -4053,6 +4213,10 @@ specific block.
 This is called a long range attack because it can be executed from any
 point of the chain, including the genesis block.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 68.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image068.png" style="width:5in;height:2.81452in" />
 
 Next, we’ll take a look at the Stake Grinding attack.
@@ -4079,6 +4243,10 @@ getting chosen as a block validator.
 Attackers can choose from different block signatures by playing around
 with the block parameters to change the signature outcome.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 69.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image069.png" style="width:5in;height:2.81553in" />
 
 There are a few ways that we can address this vulnerability.
@@ -4130,6 +4298,10 @@ example of encryption was the Roman Empire’s use of the **Caesar
 Cipher**, in which messages are encrypted by shifting letters to the
 right by a previously set amount.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 70.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image070.png" style="width:5in;height:2.44094in"
 alt="Caesar Cipher" />
 
@@ -4312,6 +4484,10 @@ distinguish different types of blockchains available for use.
 
 **Enterprise Blockchain History (3:56)**
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 71.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image071.png" style="width:5in;height:2.8304in" />
 
 As Bitcoin and blockchain grew increasingly popular, banks and large
@@ -4351,6 +4527,10 @@ At the same time, others encouraged the research into fundamental
 blockchain technologies, as they were more compliant and better suited
 for enterprise use than associated public blockchain systems.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 72.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image072.png" style="width:5in;height:2.8433in" />
 
 While many use cases exist for enterprise blockchains, most problems
@@ -4358,6 +4538,10 @@ that enterprise blockchain aims to solve fall within three broad
 classifications: solving coordination failures, horizontally integrating
 systems, and creating self-sovereign decentralized networks.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 73.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image073.png" style="width:5in;height:2.85137in" />
 
 Although many enterprises now wish to take advantage of blockchain
@@ -4390,6 +4574,10 @@ and decentralized networks.
 
 Let’s look back at the previous slide.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 74.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image074.png" style="width:5in;height:2.84903in" />
 
 Coordination failures between multiple parties seeking to work together
@@ -4417,6 +4605,10 @@ centralized corruption.
 
 **Enterprise Blockchain Overview**
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 75.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image075.png" style="width:5in;height:2.81906in" />
 
 At its most basic level, a blockchain is merely a highly specialized
@@ -4463,6 +4655,10 @@ centralized or decentralized.
 To better understand this, let’s go back to the form of databases most
 people are familiar with: centralized databases.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 76.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image076.png" style="width:5in;height:2.81099in" />
 
 Centralized databases, such as a single password server, are located,
@@ -4477,6 +4673,10 @@ they are prone to bottlenecks, lack simultaneous write access by
 multiple users to the same set of data, and act as a single point of
 failure.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 77.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image077.png" style="width:5in;height:2.81906in" />
 
 On the other hand, distributed databases consist of groups of nodes
@@ -4487,6 +4687,10 @@ Because there is no longer a single point of failure, the system is more
 fault-tolerant and can handle more demand by distributing load evenly
 across all nodes.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 78.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image078.png" style="width:5in;height:2.85599in" />
 
 However, distributed databases also introduce increased complexity,
@@ -4494,6 +4698,10 @@ cost, and redundancy as well as exposing more points of failure.
 
 That’s just the overhead of being distributed.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 79.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image079.png" style="width:5in;height:2.82573in" />
 
 A specific type of distributed database is a distributed ledger, which
@@ -4504,6 +4712,10 @@ While many consensus mechanisms exist for distributed ledgers, those
 that specifically implement a chain of blocks in their record-keeping
 and consensus protocols are known as blockchains.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 80.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image080.png" style="width:5in;height:2.8374in" />
 
 Recall from our Bitcoin and Cryptocurrencies course that the fundamental
@@ -4520,6 +4732,10 @@ Compared to a traditional database, a blockchain system is uniquely able
 to remove the need for a centralized administrator and allow for
 non-trusting parties in the network to interact with each other.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 81.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image081.png" style="width:5in;height:2.80021in" />
 
 Blockchains can also be categorized based on their architecture and the
@@ -4583,6 +4799,10 @@ However, in an enterprise setting, permissioned blockchains might be
 used to solve a coordination problem amongst the loosely linked
 constituents.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 82.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image082.png" style="width:5in;height:2.80291in" />
 
 While blockchain is still in its infancy, many tech powerhouses are
@@ -4619,6 +4839,10 @@ also institutions and governments that provides a standard framework for
 companies trying to build enterprise blockchain using Ethereum as their
 base layer.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 83.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image083.png" style="width:5in;height:2.81656in" />
 
 Despite enterprise movement towards blockchain, there’s still differing
@@ -4657,6 +4881,10 @@ strengths and weaknesses of the applicability of blockchain technology.
 
 Blockchain can be cool, but only in very particular ways.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 84.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image084.png" style="width:5in;height:2.80645in" />
 
 It’s a misconception that enterprise blockchains are always useful.
@@ -4731,6 +4959,10 @@ type and consensus mechanisms.
 
 **Enterprise Blockchain Platforms**
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 85.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image085.png" style="width:5in;height:2.84425in" />
 
 In the early days of blockchain development, the most common projects
@@ -4784,6 +5016,10 @@ supporting or opposing any particular initiatives.
 We’re simply sampling a variety of projects across multiple different
 facets of the enterprise blockchain space.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 86.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image086.png" style="width:5in;height:2.83279in" />
 
 As the use of blockchain becomes more and more prevalent, the issue of
@@ -4819,6 +5055,10 @@ specific users.
 Thus, these blockchains still follow the scalability trilemma and
 exchange decentralization for scalability and security.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 87.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image087.png" style="width:5in;height:2.81702in" />
 
 Ethereum is the industry standard blockchain platform for public
@@ -4856,6 +5096,10 @@ ConsenSys is a startup founded by one of the Ethereum cofounders Joe
 Lubin, meant to develop and foster growth in the Ethereum ecosystem,
 helping popular initiatives such as MetaMask and Truffle.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 88.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image088.png" style="width:5in;height:2.79647in" />
 
 Hyperledger, a project of the Linux Foundation, was one of the earliest
@@ -4898,6 +5142,10 @@ within the consortium.
 If you’re interested in learning more about Hyperledger, feel free to
 check out their edX course.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 89.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image089.png" style="width:5in;height:2.78317in" />
 
 Corda focuses on enabling banks to record, manage, synchronize, and
@@ -4924,6 +5172,10 @@ Sign the transaction if it has not already signed other transactions
 consuming any of the proposed transaction input states, or (2) Reject
 the transaction and flag that a end attempt has occurred otherwise.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 90.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image090.png" style="width:5in;height:2.8201in" />
 
 Chain is another blockchain platform also aimed at financial services.
@@ -4944,6 +5196,10 @@ Private keys are kept in the hands of the entities using the network,
 while Sequence hosts the blockchain on behalf of the users, meaning that
 Sequence cannot produce transactions on any other users’ behalf.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 91.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image091.png" style="width:5in;height:2.85366in" />
 
 Ripple is another enterprise blockchain platform focusing on creating a
@@ -4981,6 +5237,10 @@ demand liquidity, and sending global payments.
 
 These are called xCurrent, xRapid, and xVia, respectively.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 92.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image092.png" style="width:5in;height:2.77419in" />
 
 Rootstock, a Bitcoin sidechain, aims integrate smart contracts with the
@@ -5004,6 +5264,10 @@ interacting with the Bitcoin network but also to increase scalability,
 using blockchain sharding techniques and creating blocks every ten
 seconds instead of every ten minutes.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 93.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image093.png" style="width:5in;height:2.81452in" />
 
 Quorum is a lightweight fork of Ethereum, built for enterprise, with a
@@ -5040,6 +5304,10 @@ to others.
 Quorum also supports pluggable Istanbul BFT and Raft-based consensus
 mechanisms.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 94.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image094.png" style="width:5in;height:2.82787in" />
 
 Cosmos is an initiative to connect blockchains together.
@@ -5072,6 +5340,10 @@ enterprise blockchain networks as well.
 We’ll be focusing more on the specifics of Cosmos and Tendermint come
 the Scalability lecture.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 95.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image095.png" style="width:5in;height:2.83279in" />
 
 As a short summary of all the enterprise blockchain platforms we’ve seen
@@ -5128,6 +5400,10 @@ quality.
 
 **Use Case: Auto & Mobility**
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 96.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image096.png" style="width:5in;height:2.81351in" />
 
 Mobility use cases combine blockchain, autonomous cars, and IoT.
@@ -5139,6 +5415,10 @@ affordable, safe, and free of congestion.
 Fun fact, MOBI was co-founded by a Blockchain at Berkeley alumnus,
 Ashley Lannquist, doing a lot of exploration of the industry.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 97.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image097.png" style="width:5in;height:2.79839in" />
 
 One of their major use cases revolves around collecting a car’s data,
@@ -5151,6 +5431,10 @@ micropayments.
 
 This concept is also being explored by Toyota and Jaguar/Land Rover.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 98.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image098.png" style="width:5in;height:2.81301in" />
 
 As far as other use cases, there’s supply chain and provenance, so
@@ -5176,6 +5460,10 @@ disintermediated value transfer, privacy, and traceability.
 
 **Use Case: Finance**
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 98.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image099.png" style="width:5in;height:2.8531in" />
 
 The finance industry is particularly well-situated for the blockchain
@@ -5191,6 +5479,10 @@ turn an illiquid asset into a tradeable one.
 Many large banks are also just investing in cryptocurrencies, notably
 Goldman Sachs.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------- 100.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="./images/image100.png" style="width:5in;height:2.7983in" />
 
 Blockchains and their associated assets are also allowing assets to pass
