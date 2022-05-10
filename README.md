@@ -1295,10 +1295,10 @@ However, that doesn’t mean it’s not possible to make an algorithm for
 the remaining situations.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 34.  (xx) ---------------->
+<!------------- 29.  (xx) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image034.png" style="width:4in;height:2.27041in" />
+<img src="./images/image029.png" style="width:4in;height:2.27041in" />
 
 Practical Byzantine Fault Tolerance released in 1999 by Miguel Castro
 and Barbara Liskov gives an algorithm to allow nodes to come to
@@ -1320,10 +1320,10 @@ indefinite, but it will always be easier to handle than the second type
 of fault.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 35.  (xx) ---------------->
+<!------------- 30.  (xx) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image035.png" style="width:4in;height:2.25427in" />
+<img src="./images/image030.png" style="width:4in;height:2.25427in" />
 
 A Byzantine fault, referring to the Byzantine Generals’ Problem, is a
 fault that refers to any arbitrary deviance from the protocol. In other
@@ -1393,10 +1393,10 @@ systems of today.
 <h3>Paxos and Raft</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 36.  (xx) ---------------->
+<!------------- 31.  (xx) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image036.png" style="width:4in;height:2.24687in" />
+<img src="./images/image031.png" style="width:4in;height:2.24687in" />
 
 Before we talk about our first consensus mechanisms, let’s take a short
 break.
@@ -1443,10 +1443,10 @@ didn’t have secretaries either, so instead, each Paxon legislator
 maintained a ledger, where they’d record everything that happened.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 37.  (xx) ---------------->
+<!------------- 32.  (xx) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image037.png" style="width:4in;height:2.25629in" />
+<img src="./images/image032.png" style="width:4in;height:2.25629in" />
 
 Diving a bit more in depth, the paper specifies that within the Paxon
 parliament, there are three types of legislators: proposers, acceptors,
@@ -1469,7 +1469,11 @@ We’ll see later on that the idea of quorums is also very important in
 other consensus algorithms, such as those that are considered federated
 consensus algorithms.
 
-<img src="./images/image038.png" style="width:4in;height:2.2754in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------- 33.  (xx) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="./images/image033.png" style="width:4in;height:2.2754in" />
 
 The protocol that the Paxon parliament uses proceeds over several
 rounds, until consensus is reached.
@@ -1499,10 +1503,10 @@ After reaching consensus, the learners learn the result, and then let
 the entire island know what happened in parliament.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 39.  (xx) ---------------->
+<!------------- 34.  (xx) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image039.png" style="width:4in;height:2.2867in" />
+<img src="./images/image034.png" style="width:4in;height:2.2867in" />
 
 There’s a very clear parallel between the Paxon parliament and
 distributed consensus.
@@ -1519,10 +1523,10 @@ And the state of the distributed database is like the current law passed
 by the parliament.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 40.  (xx) ---------------->
+<!------------- 35.  (xx) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image040.png" style="width:4in;height:2.24596in" />
+<img src="./images/image035.png" style="width:4in;height:2.24596in" />
 
 One major assumption that Paxos makes is that nodes aren’t trying to
 subvert the protocol, and that messages are delivered without
@@ -12829,4 +12833,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-9-2022 8:57pm last updated.
+5-10-2022 1:08am last updated.
