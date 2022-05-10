@@ -312,7 +312,7 @@ The 1st week, we cover:
 
 -   Federated Consensus
 
-## 1.1 Intro: Distributed Systems
+<h2 id="ch1">1.1 Intro: Distributed Systems</h2>
 
 Let’s take a step back and think about the design and architecture of
 what we’re trying to achieve with blockchain.
@@ -343,7 +343,7 @@ studied for decades by mathematicians and computer scientists.
 It’s by studying this traditional literature and design formalisms that
 we can start designing blockchain systems from the ground up.
 
-### Distributed Systems Origins
+<h3>Distributed Systems Origins</h3>
 
 Before we explain what a distributed system actually is, let’s define a
 fundamental, age-old problem that pervades not only computer science and
@@ -424,7 +424,14 @@ distribute the points of failure.
 How these computers coordinated amongst each other though was another
 challenge.
 
-<img src="./images/image006.png" style="width:5in;height:2.77868in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------------- 03. distributed systems origins: early literature (12) --------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image003.png?raw=true"
+   alt="Distributed Systems Origins: Early Literature"
+   width="65%" />
+</p>
 
 Early literature had focused on enabling coordination of processes –
 where these processes could be processes on a CPU, or computers in a
@@ -477,13 +484,27 @@ While this is at a depth that is out of scope for this course, it’s
 important to recognize that through the efforts of Lamport and other
 scientists, the formal study of distributed systems began to take shape.
 
-<img src="./images/image007.png" style="width:5in;height:2.75534in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------- 04. distributed systems origins: other problems (14) ---------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image004.png?raw=true"
+   alt="Distributed Systems Origins: Other Problems"
+   width="65%" />
+</p>
 
 And as it turns out, the same problem that was originally studied to
 coordinate computers on commercial airliners is still studied today, for
 example on more high-tech jet planes.
 
-<img src="./images/image008.png" style="width:5in;height:2.7706in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------------- 04b. distributed systems origins: other problems #2 (14) ------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image004b.png?raw=true"
+   alt="Distributed Systems Origins: Other Problems #2"
+   width="65%" />
+</p>
 
 And more recently, on various spacecraft, such as SpaceX’s famous Falcon
 9 or Dragon spacecraft.
@@ -496,8 +517,14 @@ which side of Earth they’re on, and also solar radiation.
 SpaceX Dragon specifically uses three flight computers, which perform
 calculations independently, and reboot automatically if errors are found
 after cross checking.
-
-<img src="./images/image009.png" style="width:5in;height:2.76886in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------------- 05. distributed systems origins: other problems #3 (15) -------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image005.png?raw=true"
+   alt="Distributed Systems Origins: Other Problems #3"
+   width="65%" />
+</p>
 
 Distributed systems and consensus is also studied in the context of big
 enterprise operations as well.
@@ -507,7 +534,14 @@ read or write to the same piece of data at the same time – a problem
 called mutual exclusion – thereby preventing potential corruption to
 important data.
 
-<img src="./images/image010.png" style="width:5in;height:2.83522in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------------- 06. distributed systems origins: other problems #4 (15) -------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image006.png?raw=true"
+   alt="Distributed Systems Origins: Other Problems #4"
+   width="65%" />
+</p>
 
 And finally, of course – the main focus of this course – the blockchain
 and distributed ledger revolution.
@@ -548,9 +582,16 @@ it.
 
 It’s trust – without trust.
 
-### Distributed Systems Fundamentals
+<h3>Distributed Systems Fundamentals</h3>
 
-<img src="./images/image011.png" style="width:5in;height:2.74272in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 07. distributed systems: definition (17) ---------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image007.png?raw=true"
+   alt="Distributed Systems: Definition"
+   width="65%" />
+</p>
 
 In order to understand blockchain technology like a pro, knowing its ins
 and outs, we need to delve into the heart of what blockchain looks like
@@ -568,7 +609,14 @@ The definition for a distributed system changes depending on who you
 ask, but the general “consensus” (no pun intended) is that distributed
 systems contain two particular categories of components.
 
-<img src="./images/image012.png" style="width:5in;height:2.79388in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------------------- 08a. distributed systems: definition #2 (18) ------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image008a.png?raw=true"
+   alt="Distributed Systems: Definition #2"
+   width="65%" />
+</p>
 
 The first category is referred to as “nodes.”
 
@@ -578,6 +626,14 @@ This separation manifests in the real-world as physical distance, such
 as in Bitcoin, or just a separation of components, similar to the CPU
 cores in your laptop.
 
+<!------------------------------------------------------------------------------------------------>
+<!------------------------- 08. distributed systems: definition #3 (18) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image008.png?raw=true"
+   alt="Distributed Systems: Definition #3"
+   width="65%" />
+</p>
 <img src="./images/image013.png" style="width:5in;height:2.82504in" />
 
 The second category is referred to as “message passing.”
@@ -613,7 +669,14 @@ machine shuts down or misbehaves, it’s not the end of the world.
 We can create protocols withstanding failure, giving us the power to be
 safe in the event of a crash.
 
-<img src="./images/image014.png" style="width:5in;height:2.81452in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------- 09. distributed systems: properties (19) ---------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image009.png?raw=true"
+   alt="Distributed Systems: Properties"
+   width="65%" />
+</p>
 
 Let’s discuss the properties of a distributed system keeping in mind the
 two main two components to understand exactly what we’re working with.
@@ -647,7 +710,14 @@ understanding the role of nodes and edges in this system.
 In the next section, we’re going to look at how we distinguish a working
 distributed system from a faulty one.
 
-<img src="./images/image015.png" style="width:5in;height:2.83279in" />
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------- 10. distributed systems: example (20) ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image010.png?raw=true"
+   alt="Distributed Systems: Example"
+   width="65%" />
+</p>
 
 This graph shows a classic example problem from distributed systems.
 
@@ -676,7 +746,14 @@ What constitutes a correct answer?
 
 We’re about to answer those questions right now.
 
-<img src="./images/image016.png" style="width:5in;height:2.80945in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------- 11. distributed systems: properties of multiprocess programs (21) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image011.png?raw=true"
+   alt="Distributed Systems: Properties of Multiprocess Programs"
+   width="65%" />
+</p>
 
 Leslie Lamport, distributed systems researcher and superhero, designed a
 scheme by which we can formally prove the correctness of a distributed
@@ -818,7 +895,7 @@ Before we get into examples of consensus algorithms, however, we need to
 understand more of the caveats of distributed systems, and the tradeoffs
 that any system must make.
 
-### CAP Theorem
+<h3>CAP Theorem</h3>
 
 <img src="./images/image019.png" style="width:5in;height:2.81122in" />
 
@@ -1058,7 +1135,7 @@ incorrectly fixate on the black-and-white implications of the CAP
 Theorem rather than using it as another lens to view the system’s
 design.
 
-### Byzantine Fault Tolerance
+<h3>Byzantine Fault Tolerance</h3>
 
 <img src="./images/image033.png"
 style="width:4.03318in;height:2.30561in" />
@@ -1211,7 +1288,7 @@ block or the valid chain of transaction history is the same as coming to
 agreement on whether to attack or retreat. It’s the same concepts with
 different names.
 
-### Intro: Voting Based Consensus
+<h3>Intro: Voting Based Consensus</h3>
 
 Now that we have an understanding of the fundamentals of distributed
 systems and distributed consensus, our main focus for the next section
@@ -1240,7 +1317,7 @@ systems of today.
 **<u>  
 </u>**
 
-### Paxos and Raft
+<h3>Paxos and Raft</h3>
 
 <img src="./images/image036.png" style="width:4in;height:2.24687in" />
 
@@ -1450,7 +1527,7 @@ example.
 
 All credit and respect to the original author!
 
-### Practical Byzantine Fault Tolerance
+<h3>Practical Byzantine Fault Tolerance</h3>
 
 <img src="./images/image043.png" style="width:4in;height:2.25812in" />
 
@@ -1554,7 +1631,7 @@ After acknowledging everyone’s presence, we all send the commit message.
 After hearing sufficient amount of commits, we respond directly to the
 client.
 
-### Intro: Nakamoto Consensus
+<h3>Intro: Nakamoto Consensus</h3>
 
 Now that we’ve traversed the landscape of classical voting-based
 consensus mechanisms, we now arrive in modern times.
@@ -1590,7 +1667,7 @@ mechanism, it isn’t the only style of Nakamoto Consensus.
 
 That’s what we’re going to be covering in this section.
 
-### Nakamoto Consensus
+<h3>Nakamoto Consensus</h3>
 
 In general, Nakamoto consensus delivers a few key properties.
 
@@ -1849,7 +1926,7 @@ There is a question mark because this follows the paradigm of
 politically centralized systems, with a few actors making decisions for
 the rest of the network.
 
-## Intro: Proof-of-Stake
+<h3>Intro: Proof-of-Stake</h3>
 
 Proof-of-Stake is a pretty important consensus mechanism – so much so
 that we have this entire section on it.
@@ -1868,7 +1945,7 @@ space are driving blockchain research from a cryptoeconomics standpoint,
 which aims to formalize all its claims about blockchain through
 cryptography and economics.
 
-### Proof-of-Stake Overview
+<h3>Proof-of-Stake Overview</h3>
 
 <img src="./images/image052.png" style="width:5in;height:2.79751in" />
 
@@ -1957,7 +2034,7 @@ designed from scratch based on the same safety proof.
 The second is Casper the Friendly Finality Gadget, which is a
 Proof-of-Work and Proof-of-Stake hybrid.
 
-### Proof-of-Stake Implementations
+<h3>Proof-of-Stake Implementations</h3>
 
 <img src="./images/image053.png" style="width:5in;height:2.80929in" />
 
@@ -2217,7 +2294,7 @@ finality and absolute finality and the differences between how the two
 types of Casper achieve finality are the most important takeaways for
 this particular section.
 
-### Intro: Federated Consensus
+<h3>Intro: Federated Consensus</h3>
 
 We’ve discussed voting consensus algorithms as solutions to traditional
 distributed systems problems and Nakamoto consensus algorithms as
@@ -2243,7 +2320,7 @@ subjected to Sybil attacks?
 
 One way to achieve this is Federated Consensus.
 
-### Federated Consensus Overview
+<h3>Federated Consensus Overview</h3>
 
 Before diving into federated consensus, we’re going to refresh ourselves
 with the definitions of all the terminology we’ve picked up thus far.
@@ -2376,7 +2453,7 @@ The intersections are the most crucial parts, as those ensure that
 decisions made within individual quorums propagate to the other parts of
 the network.
 
-### Federated Consensus Implementations
+<h3>Federated Consensus Implementations</h3>
 
 Because of the way that Federated Byzantine Agreement functions, it
 offers a few nice properties.
@@ -2442,9 +2519,9 @@ decision on what they want to have for lunch.
 If interested in exploring Stellar, check out the Adventures in Galactic
 Consensus comic strips.
 
-## Text: Week 1 Summary
+<h2 id="ch1">Text: Week 1 Summary</h2>
 
-### I. Distributed Systems
+<h3>I. Distributed Systems</h3>
 
 Bitcoin transactions are recorded on the blockchain, a ledger that is
 maintained by a **distributed system**, or a network of
@@ -2495,7 +2572,7 @@ requirements of any correct consensus algorithm:
 Notice that validity and agreement are safety properties while
 termination is a liveness property.
 
-### II. CAP Theorem
+<h3>II. CAP Theorem</h3>
 
 <img src="./images/image054.png" style="width:4in;height:3.81678in"
 alt="CAP Theorem Venn diagram highlighting intersections of Consistency and Availability with the letters CA, Consistency and Partition Tolerance with the letters CP, and Availability and Partition Tolerances with the letters AP." />
@@ -2516,7 +2593,7 @@ the following 3 properties at any given time:
 It is important to understand there aren’t black and white tradeoffs
 between these three properties -- compromises can be made. 
 
-### III. Byzantine Fault Tolerance
+<h3>III. Byzantine Fault Tolerance</h3>
 
 **Byzantine nodes** may act maliciously or arbitrarily. Achieving
 consensus when ⅓ or more of the nodes are Byzantine nodes is impossible.
@@ -2530,7 +2607,7 @@ nodes, where faults are deviants from protocol:
     incorrect/corrupted values; all deviations from protocol fall under
     this category
 
-### IV. Voting Based Consensus Mechanisms
+<h3>IV. Voting Based Consensus Mechanisms</h3>
 
 These mechanisms allow nodes to come to consensus when no more than ⅓ of
 the nodes are Byzantine nodes.
@@ -2584,7 +2661,7 @@ Operates using 3 phases: 
     > we allow for at most F faults, we need to wait for at least F + 1,
     > and this ensures the response to be valid.
 
-### V. Nakamoto Consensus
+<h3>V. Nakamoto Consensus</h3>
 
 Used in Bitcoin and other cryptocurrencies. Whereas the voting based
 consensus mechanisms covered above use explicit voting, Nakamoto
@@ -2629,7 +2706,7 @@ Multiple forms of Nakamoto Consensus:
 -   **Proof of Burn** - like Proof-of-Stake, except staked coins are
     > burned
 
-### VI. Proof-of-Stake
+<h3>VI. Proof-of-Stake</h3>
 
 With proof-of-stake, **validators** are stakeholders with voting power
 proportional to the **economic stake** they have locked up. The
@@ -2653,7 +2730,7 @@ Tolerant PoS** chooses consistency.
     -   If the larger players grow past 33% of network, poses a threat
         > to validity
 
-### VII. Federated Consensus
+<h3>VII. Federated Consensus</h3>
 
 Federated consensus allows us to achieve explicit voting and censorship
 resistance, so that we can allow anyone to join but also protect the
@@ -8646,7 +8723,7 @@ scale blockchains vertically on chain once again.
 
 **<u>Text: Week 4 Summary</u>**
 
-### I. Background
+<h3>I. Background</h3>
 
 Modern day public blockchains have been victims of their own success.
 Bitcoin and Ethereum especially are having scalability issues in that
@@ -8685,7 +8762,7 @@ These parameters are all built into a blockchain system itself, and
 tuning these parameters directly constitute as layer 1 scaling
 solutions.
 
-### II.I. Decrease Block Time
+<h3>II.I. Decrease Block Time</h3>
 
 We can’t simply decrease the block time of a blockchain system, since
 that would result in a higher rate of naturally occurring forks,
@@ -8703,7 +8780,7 @@ rather the chain with the most “weight”, where weight is a value
 calculated by both a chain’s length and the number of uncle blocks it
 has. 
 
-### II.II. Increase Block Size
+<h3>II.II. Increase Block Size
 
 Increasing block size would improve a blockchain’s TPS. Since a block
 can now contain more transactions, it would also lower transaction fees.
@@ -8717,7 +8794,7 @@ size is most likely not a one-time fix, since the scalability boost is
 only linear. The block size might need to be increased in the future
 again, leading to a “slippery slope” type of debate.
 
-### II.III. Decrease Transaction Size
+<h3>II.III. Decrease Transaction Size</h3>
 
 Segregated Witness (SegWit) was an upgrade to Bitcoin that move
 transaction signatures from within the transaction to a separate
@@ -8744,7 +8821,7 @@ verify proofs within milliseconds. However, currently, a trusted
 environment setup is required in order to produce these style of proofs.
 And proof generation in practice is very costly.
 
-### III. Vertical Scaling Off-Chain
+<h3>III. Vertical Scaling Off-Chain</h3>
 
 Given that the speed of a blockchain limits its scalability, we can
 consider entirely removing the more costly operations off the chain and
@@ -8784,7 +8861,7 @@ Some problems include having to lock up capital in order to initiate a
 payment channel, and centralization concerns of payment channel networks
 converging to hub-and-spoke topologies.
 
-### IV. Horizontal Scaling
+<h3>IV. Horizontal Scaling</h3>
 
 Sharding is database scaling strategy that breaks up a monolithic
 database into “shards”, each a separate database that contains data from
@@ -8816,7 +8893,7 @@ Source: [https://blockstream.com/technology/ ](https://blockstream.com/technol
 
 ### 
 
-### V. Advanced Scaling & Generalizations
+<h3>V. Advanced Scaling & Generalizations</h3>
 
 Ethereum’s Plasma can be seen as a diagonal scaling solution, since it
 enables horizontal scaling by implementing side chains and vertical
@@ -9488,7 +9565,7 @@ tokens to a bunch of random addresses.
 
 However, by design of taint analysis, that won’t work at all.
 
-### Intro: Anonymity Through Mixing 
+<h3>Intro: Anonymity Through Mixing</h3>
 
 One of the biggest issues with anonymity in public and traceable
 blockchains such as Bitcoin is that they are not anonymous at all in
@@ -10700,7 +10777,7 @@ associated activity throughout the network (**taint** is the percentages
 of funds received by an address that can be traced back to another
 address).
 
-### III. Anonymity Through Mixing
+<h3>III. Anonymity Through Mixing</h3>
 
 An **anonymity set** is the set of pseudonyms between which an entity
 cannot be distinguished from their counterparts. The goal
@@ -10921,7 +10998,14 @@ this section we will review the culmination of all of our learning.
 
 **CS198.1x Bitcoin and Cryptocurrencies**
 
-<img src="./images/image255.png" style="width:5in;height:2.82522in" />
+<!------------------------------------------------------------------------------------------------>
+<!--------------- 255. bitcoin protocol & consensus: a high-level overview (356) ----------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image255.png?raw=true"
+   alt="Bitcoin Protocol & Consensus: A High-Level Overview"
+   width="65%" />
+</p>
 
 You’ve done it!
 
@@ -11332,7 +11416,14 @@ That concluded the first half of the program.
 
 **CS198.2x Blockchain Technology**
 
-<img src="./images/image256.png" style="width:5in;height:2.8337in" />
+<!------------------------------------------------------------------------------------------------>
+<!--------------- 256. trust without trust: distributed systems & consensus (366) ---------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image256.png?raw=true"
+   alt="Trust Without Trust: Distributed Systems & Consensus"
+   width="65%" />
+</p>
 
 In our second course CS198.2x we decided to take a huge step back to
 look at some of the big problems in the blockchain space.
@@ -12413,4 +12504,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-9-2022 1:00pm last updated.
+5-9-2022 8:57pm last updated.
