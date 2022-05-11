@@ -5583,7 +5583,7 @@ disintermediated value transfer, privacy, and traceability.
 **Use Case: Finance**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 98.  (xx) ---------------->
+<!------------- 99.  (xx) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="./images/image099.png" style="width:5in;height:2.8531in" />
@@ -5627,6 +5627,14 @@ SWIFT, the current go-to for global financial transfer, is also heavily
 invested in the space - their test project launched on Hyperledger
 Fabric and yielded positive results earlier this year.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image101.png" style="width:5in;height:2.80262in" />
 
 Lastly, many finance giants are using blockchain to facilitate
@@ -5648,6 +5656,14 @@ is particularly enticing for accounting use cases.
 
 **Use Case: Travel & Tourism**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image102.png" style="width:5in;height:2.83981in" />
 
 Blockchain is also making waves in the travel industry, allowing people
@@ -5667,6 +5683,14 @@ Trippki is creating a decentralized rewards ecosystem with travelers and
 hotels, making rewards transferable while still allowing hotels the
 flexibility to make specialized offers.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image103.png" style="width:5in;height:2.83871in" />
 
 Definitely one of the largest problems facing the travel industry today
@@ -5698,6 +5722,14 @@ Next, we’ll be talking about broader approaches to digital identity.
 
 **Use Case: Digital Identity**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image104.png" style="width:5in;height:2.7894in" />
 
 Companies focusing on decentralized digital identity are focusing
@@ -5713,6 +5745,14 @@ should need to provide is the answer to “Are you allowed to come in”.
 Self-sovereignty of identity tries to make that distinction clear by
 decoupling that information.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image105.png" style="width:5in;height:2.78135in" />
 
 One of the companies working on self sovereign identity (SSI) is Vetri,
@@ -5751,6 +5791,14 @@ industry.
 
 **Use Case: Healthcare**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image106.png" style="width:5in;height:2.86179in" />
 
 In the healthcare industry, blockchain can provide utility by
@@ -5773,6 +5821,14 @@ Taipei Medical University Hospital, and, surprisingly, Wal-mart, whose
 product will allow EMTs to view the medical record of unresponsive
 patients.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image107.png" style="width:5in;height:2.86753in" />
 
 Blockchain is also particularly useful for providing financial
@@ -5799,6 +5855,14 @@ blockchain.
 
 **Use Case: Insurance**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image108.png" style="width:5in;height:2.84903in" />
 
 At the most basic level, insurance is something of a prediction market -
@@ -5814,6 +5878,14 @@ provide such trust.
 Accenture reports that 46 percent of insurers expect to integrate
 blockchain within 2 years.<img src="./images/image109.png" />
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image110.png" style="width:5in;height:2.81906in" />
 
 A blockchain solution would allow the insured party to log their claim
@@ -5844,6 +5916,14 @@ Next, we’re going to look at how blockchain interacts with IoT.
 
 **Use Case – Supply Chain (2:27)**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image111.png" style="width:5in;height:2.80262in" />
 
 With the rise of supply chains, many massive corporations have attempted
@@ -5913,6 +5993,14 @@ adoption today.
 
 **Use Case:IoT (1:02)**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image112.png" style="width:5in;height:2.84918in" />
 
 IoT devices collect and push data, and blockchains verify and codify it.
@@ -5942,6 +6030,14 @@ as well.
 
 **Use Case: Housing & Real Estate (1:39)**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image113.png" style="width:5in;height:2.86076in" />
 
 Real estate is another industry being revolutionized by blockchain,
@@ -5964,6 +6060,14 @@ property rights as they exist today in many countries.
 What good is a land title if you can’t be confident that it is
 available, persistent, and valid?
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image114.png" style="width:5in;height:2.8433in" />
 
 The blockchain solution is to create a hash of every land registry and
@@ -5994,6 +6098,14 @@ Telangana.
 
 **Use Case: Foreign Aid (2:00)**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image115.png" style="width:5in;height:2.78583in" />
 
 Last but certainly not least, blockchain can improve the efficiency and
@@ -6021,6 +6133,14 @@ For the most part, however, aid disbursement is heading in the direction
 of cash aid, since it is more versatile and, thanks to blockchain, can
 now be traced from sender to recipient.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image116.png" style="width:5in;height:2.82114in" />
 
 The problems of fraud and accountability are more severe for providers
@@ -6075,6 +6195,14 @@ enterprise blockchain use cases.
 Keep in mind everything you’ve learned up to this point, and see how
 they fit into the generalizations.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image117.png" style="width:5in;height:2.85251in" />
 
 To start off, let’s talk about the scenarios where a blockchain will
@@ -6113,6 +6241,14 @@ technology that goes into making a blockchain.
 While blockchains will solve any of these individual requirements,
 they’re over-engineered solutions to these problems.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image118.png" style="width:5in;height:2.78317in" />
 
 As mentioned in several of the use cases, blockchains allow us to solve
@@ -6146,6 +6282,14 @@ Instead of bringing in lawyers to settle matters when things don’t
 according to plan, we’re now able to rely on a smart contract to execute
 as intended, giving us the ability to believe in this code as law.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image119.png" style="width:5in;height:2.78583in" />
 
 Blockchains create a standardized platform for access and interaction.
@@ -6189,6 +6333,14 @@ platform.
 In this way, individuals are supporting the rest of the community while
 benefiting themselves as well.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image120.png" style="width:5in;height:2.79032in" />
 
 Finally, the most abstract yet fundamental property of a good blockchain
@@ -6228,6 +6380,14 @@ community to support them, unlike businesses or government projects.
 Through blockchain, we can support globally recognized ownership,
 persisting across nations.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image121.png" style="width:5in;height:2.82258in" />
 
 Now that we’ve finished talking about all the meaningful properties of
@@ -6314,6 +6474,14 @@ single outcome.
 If you do integrate centralization with a blockchain solution, you lose
 out on most of the benefits of decentralization.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image122.png" style="width:5in;height:2.79221in" />
 
 The main takeaway is that there are advantages to both centralized and
@@ -6361,6 +6529,14 @@ bring order to this ambiguous and uncertain space.
 
 **ICO Schemes & Culture (12:57)**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image123.png" style="width:5in;height:2.80547in" />
 
 An Initial Coin Offering, or “ICO,” is a novel, unregulated means of
@@ -6407,6 +6583,14 @@ network, raising 257 million in USD.
 
 We’ll see in a bit how much each industry has raised through ICOs.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image124.png" style="width:5in;height:2.84553in" />
 
 Let’s take a deeper look at how ICOs innovate on previous fundraising
@@ -6443,6 +6627,14 @@ However, as we’ll see, this is not the case today.
 
 Let’s take a look at how ICOs might incentivize open-source development.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image125.png" style="width:5in;height:2.82258in" />
 
 Open-source development is typically led by foundations, such as the
@@ -6473,6 +6665,14 @@ representation of the value of their platform.
 Additionally, as others build on top of that platform, the token will
 further increase in value.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image126.png" style="width:5in;height:2.8201in" />
 
 What does the lifecycle of an ICO look like?
@@ -6565,6 +6765,14 @@ project.
 If that all works out, then you’ll get funding for your revolutionary
 blockchain project!
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image127.png" style="width:5in;height:2.80744in" />
 
 Legal uncertainty, as expected from so new a space, also permeates ICOs.
@@ -6599,6 +6807,14 @@ Instead, they simply serve as a way to access services, such as how
 Kickstarter donations provide the user with access to early or special
 goods from the team.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image128.png" style="width:5in;height:2.81656in" />
 
 Another caveat to consider is the reluctance or even inability of
@@ -6618,6 +6834,14 @@ In 2017, investors in ICO pre-sales tended to sell right away, gaining 4
 to 5 times returns on their investment instead of waiting for the long
 term.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image129.png" style="width:5in;height:2.81906in" />
 
 One proposed solution was for funds to be held in escrow, released only
@@ -6631,6 +6855,14 @@ paid out arises as well.
 
 This solution is not popularly used in ICOs.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image130.png" style="width:5in;height:2.79743in" />
 
 Recall, the purpose of an ICO is to remove regulatory bodies from the
@@ -6672,6 +6904,14 @@ fill their pockets.
 With the benefits of deregulation, such as larger freedom and
 accessibility to a larger set of investors, also come the consequences.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image131.png" style="width:5in;height:2.79032in" />
 
 The new paradigm of ICOs don’t just have drawbacks for investors.
@@ -6697,6 +6937,14 @@ ICOs, on the other hand, are nothing more than lumps of money.
 
 They do not come with the support that a VC can provide.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image132.png" style="width:5in;height:2.79579in" />
 
 This model of funding comes with many further drawbacks.
@@ -6739,6 +6987,14 @@ private, to focus only on the few large investors.
 Though ICOs provide tremendous access to funding, you know what they
 say: “be careful what you wish for.”
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image133.png" style="width:5in;height:2.8003in" />
 
 In 2017, we saw ICOs overtake VCs as the most popular form of funding
@@ -6774,6 +7030,14 @@ deal from 2017.
 Since ICOs seem not to provide long-term returns and have lost credit as
 a funding mechanism, VC funding is starting to surge.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image135.png" style="width:5in;height:2.7982in" />
 
 You’ll see in this slide the distribution of funding.
@@ -6842,6 +7106,14 @@ Kraken, and Bitstamp.
 A good number of exchanges are not compliant given that a good amount of
 the blockchain community diverges from regulation as much as possible.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image137.png" style="width:5in;height:2.78768in" />
 
 Know your Customer regulations are another kind of regulation imposed
@@ -6884,6 +7156,14 @@ qualities into businesses is socially difficult, though exchanges like
 Coinbase will comply with these restrictions in order to be able to
 serve audiences as large as possible.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image138.png" style="width:5in;height:2.79388in" />
 
 Entities which deal with money transfer services or payment instruments
@@ -6908,6 +7188,14 @@ This depth of regulation is meant to protect consumers from businesses
 mishandling their money, but it consequently makes performing these
 services enormously difficult.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image139.png" style="width:5in;height:2.79935in" />
 
 If that weren’t enough, New York has a separate license exclusively for
@@ -6929,6 +7217,14 @@ An exchange known as Circle was the first to obtain a BitLicense.
 Coinbase also followed later, and Square is the most recent company to
 obtain a BitLicense, being the 9th.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image140.png" style="width:5in;height:2.79483in" />
 
 For a bit more perspective, let’s delve into some regulatory history.
@@ -6954,6 +7250,14 @@ One might say this rejection is not entirely bad.
 After all, the entire purpose of Bitcoin is to be beyond regulation –
 this ruling confirms that.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image141.png" style="width:5in;height:2.79751in" />
 
 This slide demonstrates key arguments against proposed ETFs and Mutual
@@ -6969,6 +7273,14 @@ Until Bitcoin receives a reputation for low risk investments, if it ever
 will, it’s unlikely to reach widespread acceptance by the US government
 as an underlying asset for financial products.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image142.png" style="width:5in;height:2.8374in" />
 
 Now that we’ve given some examples of regulation about cryptocurrencies,
@@ -7004,6 +7316,14 @@ It’s fascinating to think that technology just reaching a decade in age
 has already become powerful and popular enough to make its way into
 legislation.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image143.png" style="width:5in;height:2.81553in" />
 
 To put cryptocurrencies and blockchain further into perspective, let’s
@@ -7055,6 +7375,14 @@ blockchain.
 Here’s a few examples of countries pushing against cryptocurrencies and
 blockchain.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image144.png" style="width:5in;height:2.78739in" />
 
 In Bangladesh, it’s claimed that a lack of regulation by a central bank
@@ -7100,12 +7428,28 @@ Primarily, enterprise blockchains of the time were used to solve issues
 in **coordination failures**, boost **horizontal integration**, and
 create **self-sovereign** decentralized networks. 
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image145.png" style="width:3in;height:3.075in"
 alt="There are two main catogories of databases: Centralized Databases and Distributed Databases. Within Distributed Databases, there is Distributed ledgers. Within Distributed ledgers, there is Blockchain" />
 
 **Centralized databases** are run by a single entity (e.g. a company)
 that handles all requests and data processing.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image146.png" style="width:2in;height:3.33712in"
 alt="Central Database" />
 
@@ -7114,6 +7458,14 @@ connected to each other and work to maintain a consistent overall view
 of the entire system. Nodes are able to fully trust each other in some
 systems (hence the solid lines connecting storage nodes.)
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image147.png" style="width:3in;height:2.86768in"
 alt="Distributed Database" />
 
@@ -7124,6 +7476,14 @@ other (hence the dotted lines in the diagram below). Instead, they must
 implement some form of consensus protocol to have a consistent view of
 the system.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image148.png" style="width:3in;height:2.95906in"
 alt="Distributed Ledger" />
 
@@ -7202,6 +7562,14 @@ diligence. Additionally, many ICOs raise so much money that they have no
 incentive to actually finish up the project, leading to incentive
 misalignments.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image149.png" style="width:3in;height:4.49199in"
 alt="Miroskii" />
 
@@ -7304,6 +7672,14 @@ fundamental systems scaling approaches and tradeoffs.
 
 **Scaling Background (11:44)**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image150.png" style="width:5in;height:2.82258in" />
 
 One property we look for when gauging the scalability of a blockchain
@@ -7319,6 +7695,14 @@ Being able to handle a greater volume of transactions per second means
 that our blockchain system would be able to handle more transactions
 with a higher velocity.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image151.png" style="width:5in;height:2.83981in" />
 
 Another property we’re looking for is the speed with which we can update
@@ -7341,6 +7725,14 @@ our transaction has gone through and has been finalized.
 This isn’t scalable though, at least in the sense that I don’t want to
 wait an hour every morning to get my coffee.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image152.png" style="width:5in;height:2.80998in" />
 
 And one side note: as we know, blockchain is a decentralized system.
@@ -7383,6 +7775,14 @@ In order to make it easier for nodes to join the network in the future,
 whether they be run by dedicated or casual users, we must design
 blockchain systems keeping into account storage size.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image153.png" style="width:5in;height:2.80193in" />
 
 Fundamentally, there’s a scalability trilemma here.
@@ -7424,6 +7824,14 @@ blocks means more orphaned blocks; and perhaps if someone has the right
 amount of resources, they could tilt the system in their favor and so
 decentralization would take a hit.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image154.png" style="width:5in;height:2.84202in" />
 
 To understand all of that more, let’s look at further detail and do a
@@ -7437,6 +7845,14 @@ The graph is a bit outdated, but the scalability concerns still apply.
 We can see that on average, Bitcoin transactions have a size of around
 546 bytes.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image155.png" style="width:5in;height:2.79579in" />
 
 And here, we have a similar graph, but for Bitcoin block size.
@@ -7444,6 +7860,14 @@ And here, we have a similar graph, but for Bitcoin block size.
 The system was designed for 1 megabyte blocks, and we can see that
 reflected in the graph.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image156.png" style="width:5in;height:2.83171in" />
 
 Here’s a quick calculation based on the numbers we’ve collected so far
@@ -7465,6 +7889,14 @@ final value of 3.2 transactions per second.
 
 That’s not too hot.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image157.png" style="width:5in;height:2.80645in" />
 
 Compared with some other traditional payment systems, Bitcoin is way
@@ -7486,6 +7918,14 @@ is definitely quite drastic.
 
 That was the situation at hand.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image158.png" style="width:5in;height:2.80844in" />
 
 Suppose we now want to make our transaction rate comparable to that of
@@ -7520,6 +7960,14 @@ There are definitely drawbacks and considerations for each of these
 approaches, so that’s what we’re going to be looking into in later
 sections.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image159.png" style="width:5in;height:2.84441in" />
 
 In terms of different techniques with which we can scale, there are two
@@ -7573,6 +8021,14 @@ another useful model to view scaling solutions, which is in layers.
 
 Yep that’s right –– blockchains have layers.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image160.png" style="width:5in;height:2.81553in" />
 
 We’ll cover this part pretty quickly since it’s more insightful to see
@@ -7592,6 +8048,14 @@ that Casper the Friendly GHOST, Correct by Construction, is a layer 1
 scaling solution, since it would fundamentally change the infrastructure
 and operation of the Ethereum blockchain.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image161.png" style="width:5in;height:2.82363in" />
 
 On the other hand, we have layer 2 scaling solutions, which push
@@ -7635,6 +8099,14 @@ scaling projects and active areas of research later on.
 
 **Naïve Solution (2:45)**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image162.png" style="width:5in;height:2.80389in" />
 
 The first idea we have for a naive scaling solution is to increase the
@@ -7653,6 +8125,14 @@ Or something insanely fast?
 After all, decreasing block time is one of the methods of scaling that
 we looked at earlier, right?
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image163.png" style="width:5in;height:2.80645in" />
 
 The main issue we have here if we decrease the difficulty of the
@@ -7672,6 +8152,14 @@ to half of the network, and around 12 to 13 seconds to send a block to
 
 Let’s say that we halve the block time.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image164.png" style="width:5in;height:2.82609in" />
 
 Firstly, decreasing block time means that the blockchain will grow
@@ -7683,6 +8171,14 @@ it has size 5 gigabytes after 2 years.
 If we halve the block time, then it would only take 1 year to make it
 the same size, since we’re producing blocks twice as fast now.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image165.png" style="width:5in;height:2.79483in" />
 
 Now, with the decreased block time, it’s also more likely that different
@@ -7717,6 +8213,14 @@ potential for double spends.
 
 **Decrease Block Time**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image166.png" style="width:5in;height:2.83065in" />
 
 What we were trying to do with our naive scaling solution was to
@@ -7730,6 +8234,14 @@ We’ll look at this problem later.
 But what are some other outcomes of this naive solution that we can take
 a look at with a more constructive outlook?
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image167.png" style="width:5in;height:2.81452in" />
 
 Recall that another problem with the naive solution was that there were
@@ -7749,6 +8261,14 @@ time?
 
 How do we avoid wasting all of this work?
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image168.png" style="width:5in;height:2.79675in" />
 
 Instead of just increasing the speed of blocks and doing nothing else,
@@ -7782,6 +8302,14 @@ first new block on top of the longest chain.
 Since block times are so fast, sufficiently fast miners would want to
 reduce the overhead of communicating with pools anyways.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image169.png" style="width:5in;height:2.77419in" />
 
 Ethereum had a period when it had 17 second block times, but now it’s
@@ -7798,6 +8326,14 @@ in Bitcoin.
 
 **Increase Block Time**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image170.png" style="width:5in;height:2.86765in" />
 
 Another vertical scaling alternative we can achieve by adjusting system
@@ -7829,6 +8365,14 @@ This is kind of a double-edged sword here, but lessened transaction fees
 would not be good if you’re a miner, since that means you get to collect
 less reward.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image171.png" style="width:5in;height:2.83522in" />
 
 Another issue that might come up after implementing block size increase
@@ -7848,6 +8392,14 @@ Doubling the block size would only get us to around 6.4 transactions per
 second – and that’s not even accounting for the other cons of increasing
 block size.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image172.png" style="width:5in;height:2.82504in" />
 
 Yet another con is that of longer propagation times.
@@ -7864,6 +8416,14 @@ block to reach them.
 
 **Decrease Transaction Size**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image173.png" style="width:5in;height:2.81906in" />
 
 Another alternative we mentioned earlier was that of decreasing the size
@@ -7882,6 +8442,14 @@ This solution is currently a bit more popular with people in general,
 and we’ll be going over two main ways we can decrease transaction size,
 which are SegWit and recursive SNARKs.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image174.png" style="width:5in;height:2.79221in" />
 
 SegWit is short for Segregated Witness, and was originally created to
@@ -7912,6 +8480,14 @@ let’s just remove all the signatures from the transaction data.
 From previous sections, we saw that transaction size is on average about
 546 bytes, so if we can decrease that size, that would be awesome.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image175.png" style="width:5in;height:2.82258in" />
 
 The idea for SegWit was to move the signatures to a separate add-on
@@ -7948,12 +8524,28 @@ and new segwit-enabled nodes, the transaction was seen as valid.
 
 SegWit is compatible as a soft fork.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image177.png" style="width:5in;height:2.80193in" />
 
 One issue now though is that because we segregated signatures from other
 transaction data, the blockchain doesn’t have any evidence that the
 correct signatures were included in their respective transactions!
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image178.png" style="width:5in;height:2.8125in" />
 
 To fix this, Segwit also comes with a change to the regular merkle tree
@@ -7968,6 +8560,14 @@ This way, we have information about transactions and their segregated
 witnesses all contained within the block header, giving us back all the
 beautiful properties of tamper evidence.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image179.png" style="width:5in;height:2.81351in" />
 
 The pros and cons of SegWit.
@@ -8021,6 +8621,14 @@ Smaller transactions means that it’s less for miners to parse through.
 And we also have a smaller blockchain size for the amount of
 transactions we want to represent.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image180.png" style="width:5in;height:2.81099in" />
 
 As for cons, we know that SegWit is only a one time linear capacity
@@ -8049,6 +8657,14 @@ Bitcoin user.
 
 And finally, SegWit isn’t the only way to fix transaction malleability.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image181.png" style="width:5in;height:2.78135in" />
 
 So as the Bitcoin scalability debate reached its climax, Bitcoin split
@@ -8058,6 +8674,14 @@ Witness.
 
 This was on August 1st, 2017, at block number 478,558.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image182.png" style="width:5in;height:2.83981in" />
 
 The next on-chain vertical scalability topic we’ll cover hinges on the
@@ -8076,6 +8700,14 @@ If the website stored your actual password, that would be a horrible
 security practice, since all it takes now is one data leak and now all
 your user’s identities are compromised.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image183.png" style="width:5in;height:2.84219in" />
 
 Instead, websites usually store a hash of your password instead.
@@ -8107,6 +8739,14 @@ any machine in the network can verify the proof in milliseconds.
 
 That’s the main idea of zk-SNARKS
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image184.png" style="width:5in;height:2.81351in" />
 
 And it gets better; we can introduce a recursive structure!
@@ -8131,6 +8771,14 @@ this with the average proof size, which is 288 bytes.
 
 For some closing thoughts, let’s look back at our previous slide.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image185.png" style="width:5in;height:2.81553in" />
 
 Back to Alice and Bob, Alice generates a proof that she can send a valid
@@ -8140,6 +8788,14 @@ She includes this proof and any changes to a balance sheet instead of
 including a transaction, and any machine in the network can verify the
 proof in milliseconds.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image186.png" style="width:5in;height:2.79647in" />
 
 However, there do exist some pretty big drawbacks.
@@ -8158,6 +8814,14 @@ scalability benefits we saw earlier, with the reduced data size, and,
 the trusted setup violates the trust assumptions especially in public
 blockchains.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image187.png" style="width:5in;height:2.79483in" />
 
 We’ve been playing with a bunch of parameters, such as block size, size
@@ -8202,6 +8866,14 @@ scaling by thinking off chain.
 
 **Payment Channels**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image188.png" style="width:5in;height:2.81452in" />
 
 We’ve been referring back to Bitcoin a lot since it’s one of the oldest
@@ -8216,6 +8888,14 @@ On average, 6 confirmations on a transaction will take 1 hour.
 Transaction fees are also pretty inconsistent – historically during
 winter 2018, becoming insanely high.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image189.png" style="width:5in;height:2.80744in" />
 
 Here’s a graph of the daily transaction fees in US dollars per
@@ -8249,6 +8929,14 @@ month’s worth of transactions for example would be pretty good.
 We could call this a private payment channel – just between two users,
 Alice and Bob.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image190.png" style="width:5in;height:2.79483in" />
 
 How would we actually implement a private payment channel between Alice
@@ -8274,6 +8962,14 @@ they’d consult the blockchain then.
 This way, they could avoid having to undergo the high fees and long
 confirmation times of regular on chain transactions.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image191.png" style="width:5in;height:2.81656in" />
 
 This is how Alice and Bob’s payment channel would look like.
@@ -8297,6 +8993,14 @@ written in Bitcoin script.
 This way, we can encode the proper functionality so that neither party
 in a payment channel can cheat the other.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image192.png" style="width:5in;height:2.84903in" />
 
 In blockchain, we call them payment channels, but we generally also mean
@@ -8319,6 +9023,14 @@ that both parties in a payment channel can pay each other with the
 guarantees of a contract governing all actions – including incentives
 for not cheating.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image193.png" style="width:5in;height:2.79388in" />
 
 Let’s walk through a short little demo for a payment on a payment
@@ -8345,6 +9057,14 @@ attempt to exit out of their payment channel.
 What they need for this is to get both parties to agree, or to wait a
 large number of blocks, say 1000 blocks.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image194.png" style="width:5in;height:2.82714in" />
 
 Say Alice pays Bob 3 bitcoins.
@@ -8376,6 +9096,14 @@ And at any time, Bob can see that Alice is trying to cheat him out of
 his money, and then claim all the funds in channel – an incentive to
 prevent cheating.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image195.png" style="width:5in;height:2.80645in" />
 
 Now some key observations from our payment channel demo, and of payment
@@ -8415,6 +9143,14 @@ transact, the scalability could be pretty high.
 
 There remain some issues though.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image196.png" style="width:5in;height:2.80744in" />
 
 Firstly, both participants Alice and Bob need to have capital locked up
@@ -8467,6 +9203,14 @@ What we could do instead is set up a network of payment channels.
 As long as Alice is connected to Charlie somehow in the network, then
 she can send him money.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image198.png" style="width:5in;height:2.81803in" />
 
 This is an example of what a payment channel network would look like.
@@ -8476,6 +9220,14 @@ Charlie on the right side of the network through this hypothetical
 payment channel network, where her payment goes first to Bob, then to
 Eve, then finally to Charlie.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image199.png" style="width:5in;height:2.7982in" />
 
 The main problem we have to address here is that of security.
@@ -8544,6 +9296,14 @@ overhead, and that’s not really an issue since it’s very fast.
 Instead of 3 tps, or 6 or 10 with incremental changes, we could
 literally have tens of thousands of tps with the Lightning Network.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image200.png" style="width:5in;height:2.81805in" />
 
 As great as the Lightning Network sounds, of course we have some
@@ -8589,6 +9349,14 @@ is probably not so good for the politically minded.
 Of course, the idea of payment channel networks isn’t limited to just
 the Lightning Network for Bitcoin.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image201.png" style="width:5in;height:2.84742in" />
 
 There’s also a comparable technology for Ethereum, called Raiden.
@@ -8621,6 +9389,14 @@ scaling solutions in more ambitious diagonal scaling solutions.
 
 <u>Sharding & Sidechains</u>
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image202.png" style="width:5in;height:2.82079in" />
 
 One way databases have traditionally been horizontally scaled is through
@@ -8670,6 +9446,14 @@ transactions.
 What we notice is that since every node has to process everything, it
 creates a scalability bottleneck.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image203.png" style="width:5in;height:2.79759in" />
 
 In the case of blockchain, sharding could be used to eliminate the
@@ -8706,6 +9490,14 @@ As with some of the other scalability solutions we’ve talked about, as
 well as the ones yet to come in the following sections, sharding is
 currently actively being researched.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image204.png" style="width:5in;height:2.82079in" />
 
 Especially within the Ethereum research community, there’ve been efforts
@@ -8738,6 +9530,14 @@ For example, there’s the issue of how we can share information correctly
 and succinctly between shards, and also the issue of how we can maintain
 correct operation if a single shard has been taken over.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image205.png" style="width:5in;height:2.82251in" />
 
 On a similar note, there’s also the idea of creating side chains.
@@ -8763,6 +9563,14 @@ power, that’s a prime target for large mining pools.
 And if this is the case, there also needs to be countermeasures against
 a compromised chain.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image206.png" style="width:5in;height:2.74148in" />
 
 And here’s an idea of how sidechain networks would look like.
@@ -8819,6 +9627,14 @@ masses.
 
 <u>Advanced Scaling</u>
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image207.png" style="width:5in;height:2.77297in" />
 
 Having discussed both vertical and horizontal scaling solutions, let’s
@@ -8836,6 +9652,14 @@ chain.
 The root chain is the main source of truth within the system, and acts
 as an arbiter in the case of dispute.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image208.png" style="width:5in;height:2.83505in" />
 
 A user’s interaction with Plasma might be as follows.
@@ -8866,6 +9690,14 @@ If nothing is wrong, then the exit is finalized.
 In either case, the result is posted on the root chain, which serves as
 the source of truth.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image209.png" style="width:5in;height:2.78802in" />
 
 Plasma is being developed by Blockchain at Berkeley’s FourthState Labs.
@@ -8886,6 +9718,14 @@ The Fourth State team had a clear vision of interoperability in their
 Plasma implementation, and chose to build their child chain
 implementation on Cosmos.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image210.png" style="width:5in;height:2.82689in" />
 
 Here’s a picture of our team getting a well deserved shoutout at the 4th
@@ -8899,6 +9739,14 @@ to extend Ethereum’s functionality.
 And this is especially the case if you view Plasma with a particular
 sense of modularity.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image211.png" style="width:5in;height:2.85282in" />
 
 Plasma is one component of the larger scalability ecosystem.
@@ -8908,6 +9756,14 @@ We saw this back with Vitalik’s hopes of Plasma plus sharding.
 And with the Fourth State team’s implementation of Plasma on Cosmos, it
 especially opens up the door for interoperability.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image212.png" style="width:5in;height:2.80692in" />
 
 Before introducing Cosmos from the scalability perspective, it’s nice to
@@ -8939,6 +9795,14 @@ that required increasingly specialized architectures, distinguishing
 themselves from Bitcoin’s standard UTXOs, Proof-of-Work, scripting
 language, etc.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image213.png" style="width:5in;height:2.78365in" />
 
 Then, with the advent of Ethereum, writing blockchain applications
@@ -8956,6 +9820,14 @@ blockchain middleware that provides networking and consensus layers.
 This allows arbitrary applications to be built on top of Tendermint,
 with the ABCI, or application blockchain interface.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image214.png" style="width:5in;height:2.84742in" />
 
 An advantage of this modular design is that of flexibility, which lends
@@ -8968,6 +9840,14 @@ We can achieve vertical scaling by the speed of Tendermint BFT
 consensus, and horizontal scaling by the interoperability of the Cosmos
 network itself.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image215.png" style="width:5in;height:2.82423in" />
 
 We won’t dive too in depth here, but the general topology of the Cosmos
@@ -9000,6 +9880,14 @@ trust or security tradeoffs.
 It’s hard to tell at this point, so as an aside, as always, please do
 your own research in this.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image217.png" style="width:5in;height:2.83715in" />
 
 Let’s take a moment to reflect on what we’ve learned this week.
@@ -9060,6 +9948,14 @@ blockchains want to scale up at all.
 A trilemma we brought up towards the beginning of this week’s material
 stated that scalability is just one aspect of blockchain functionality.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image219.png" style="width:5in;height:2.82079in" />
 
 Perhaps a blockchain would rather focus on security or decentralization,
@@ -9071,6 +9967,14 @@ want to scale up so much – in fact, through most of the latter
 scalability solutions, there was usually some change in the regular
 blockchain trust structures.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image220.png" style="width:5in;height:2.86226in" />
 
 Again to summarize what we’ve learned, let’s tie back to the two main
@@ -9084,6 +9988,14 @@ being a combination of the two.
 
 Let’s step through all of the scaling solutions we learned.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image221.png" style="width:5in;height:2.80391in" />
 
 First, we tried tuning on-chain parameters for vertical scaling.
@@ -9176,6 +10088,14 @@ and flexibility.
 In Cosmos, hub and spoke blockchains create a network of interoperable
 blockchains.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image222.png" style="width:5in;height:2.8123in" />
 
 And finally, with Tendermint’s integration within the Cosmos network and
@@ -9205,6 +10125,14 @@ there are the blockchain-specific scaling classifications: layer 1
 
 II\. Vertical Scaling
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image223.png"
 style="width:3.12639in;height:0.62083in" alt="TPS calculation" />
 
@@ -9231,6 +10159,14 @@ that would result in a higher rate of naturally occurring forks,
 reducing system security. This is because while block time decreases,
 the time to propagate a block remains the same.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image224.png"
 style="width:5.20694in;height:1.19514in"
 alt="Time to broadcast block fixed while block creation time decreases" />
@@ -9302,6 +10238,14 @@ and Bob’s initial and end balances. 
 The idea behind the Bitcoin Lightning Network is to create a network of
 payment channels
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image225.png" style="width:4in;height:1.23606in"
 alt="Payment Channel Network. Alice to Bob to Eve to Charlie" />
 
@@ -9348,12 +10292,18 @@ security concerns.
 
 Here is an example of a sidechain setup:
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image226.png" style="width:4in;height:1.99467in"
 alt="Side chains" />
 
 Source: [https://blockstream.com/technology/ ](https://blockstream.com/technology/ )
-
-### 
 
 <h3>V. Advanced Scaling & Generalizations</h3>
 
@@ -9388,6 +10338,14 @@ categorized by 2 different methods. Layer 1 and Layer 2 specify whether
 solutions are built on-chain or off-chain. Solutions can also scale
 vertically or horizontally.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image227.png" style="width:5in;height:1.72756in"
 alt="Vertical and Horizontal, Layer 1 and Layer 2 scaling solutions" />
 
@@ -9498,6 +10456,14 @@ how much information they reveal about their real identity.
 
 **<u>Anonymity Basics</u>**
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image228.png" style="width:5in;height:2.79751in" />
 
 When thinking of anonymity, your mind might jump to secret
@@ -9522,6 +10488,14 @@ the average person.
 
 Imagine it’s just any other day.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image229.png" style="width:5in;height:2.78405in" />
 
 You’re with your friend at McDonald’s ordering food, and it’s time to
@@ -9558,6 +10532,14 @@ When vendors refuse to accept one unit of cryptocurrency over another,
 it reduces the fungibility of the currency and makes life harder for you
 too.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image230.png" style="width:5in;height:2.87876in" />
 
 Now let’s consider a more drastic example.
@@ -9573,6 +10555,14 @@ Pretty scary huh?
 Even though you did nothing wrong, the exposure of the information about
 your transaction history and financial standing put you in danger.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image231.png" style="width:5in;height:2.81267in" />
 
 Taking a step back, we can look at the origin of Bitcoin and blockchain
@@ -9594,6 +10584,14 @@ else.
 
 They allowed anyone to store the blockchain.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image232.png" style="width:5in;height:2.81948in" />
 
 What this means though is that everyone has everyone’s data.
@@ -9606,6 +10604,14 @@ obfuscate their digital identity and activities with additional
 protection, it’s easy to see how their transaction history and balance
 can be exposed to their detriment.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image233.png" style="width:5in;height:2.81948in" />
 
 It’s clear that blockchains are not anonymous by default.
@@ -9630,10 +10636,26 @@ terms of anonymity:
 
 Most blockchains are not anonymous.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image234.png" style="width:5in;height:2.82079in" />
 
 Instead, most blockchains are pseudonymous.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image235.png" style="width:5in;height:2.75855in" />
 
 In most blockchains, we use a publicly viewable but arbitrary
@@ -9665,6 +10687,14 @@ that that identity belongs to.
 
 Therefore, most blockchains, including Bitcoin, are pseudonymous.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image236.png" style="width:5in;height:2.80344in" />
 
 In Bitcoin, and some other blockchain platforms, it’s generally best
@@ -9692,6 +10722,14 @@ This does introduce the slight hitch that one would have to keep track
 of each of these identities, but that can be easily resolved using
 wallet software, which often performs this by default.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image237.png" style="width:5in;height:2.82148in" />
 
 Just generate a new address every time you receive any cryptocurrency,
@@ -9705,6 +10743,14 @@ And that’s because Ethereum is account based, not UTXO based.
 In Bitcoin, you could just generate a new address per UTXO every time
 you receive Bitcoin.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image238.png" style="width:5in;height:2.80515in" />
 
 It’s much harder to do that in Ethereum and other account based
@@ -9713,12 +10759,28 @@ blockchains.
 Unfortunately, it turns out that basic analysis renders this technique
 of regenerating pseudonyms ineffective.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image239.png" style="width:5in;height:2.80802in" />
 
 Similar to a lock on a front door, generating new pseudonyms for every
 transaction does keep away naive attackers, but a determined opponent
 can probably find a way to link your activity together.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image240.png" style="width:5in;height:2.8123in" />
 
 The term “linking” in the context of anonymity is the act of associating
@@ -9744,6 +10806,14 @@ deanonymize them.
 
 But see, that’s the catch.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image241.png" style="width:5in;height:2.79759in" />
 
 The underlying technology might be anonymous or pseudonymous, but we
@@ -9753,6 +10823,14 @@ People make mistakes – especially your every day normal person, who
 isn’t going out of their way to do all they can to possibly ensure their
 privacy.
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image242.png" style="width:5in;height:2.80744in" />
 
 What we like to say is that anonymity is not absolute – not a clear yes
@@ -9769,6 +10847,14 @@ achieved privacy.
 
 But again, why do we care about having a higher degree of anonymity?
 
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image###.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 <img src="./images/image238.png" style="width:5in;height:2.80515in" />
 
 To deal with the question again of how anonymous cryptocurrencies can
@@ -10089,7 +11175,7 @@ possible to anonymize your funds to make it more difficult for someone
 else to track your activity.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 248. mixing: money laundering basics  (319) --------------------->
+<!------------------------- 248. mixing: money laundering basics  (319) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image248.png?raw=true"
@@ -13075,4 +14161,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-10-2022 4:12pm last updated.
+5-10-2022 11:02pm last updated.
