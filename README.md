@@ -1350,7 +1350,7 @@ the remaining situations.
 <p align="center" width="100%">
 <img src="/images/image029.png?raw=true"
    alt="Practical Byzantine Fault Tolerance"
-   width="40%" />
+   width="65%" />
 </p>
 
 Practical Byzantine Fault Tolerance released in 1999 by Miguel Castro
@@ -1378,7 +1378,7 @@ of fault.
 <p align="center" width="100%">
 <img src="/images/image030.png?raw=true"
    alt="Byzantine Fault Tolerancein Blockchain"
-   width="40%" />
+   width="65%" />
 </p>
 
 A Byzantine fault, referring to the Byzantine Generals’ Problem, is a
@@ -1454,7 +1454,7 @@ systems of today.
 <p align="center" width="100%">
 <img src="/images/image031.png?raw=true"
    alt="PAXOS Overview"
-   width="40%" />
+   width="65%" />
 </p>
 
 Before we talk about our first consensus mechanisms, let’s take a short
@@ -1507,7 +1507,7 @@ maintained a ledger, where they’d record everything that happened.
 <p align="center" width="100%">
 <img src="/images/image032.png?raw=true"
    alt="PAXOS Terminology"
-   width="40%" />
+   width="65%" />
 </p>
 
 Diving a bit more in depth, the paper specifies that within the Paxon
@@ -1537,7 +1537,7 @@ consensus algorithms.
 <p align="center" width="100%">
 <img src="/images/image033.png?raw=true"
    alt="PAXOS Main Idea"
-   width="40%" />
+   width="65%" />
 </p>
 
 The protocol that the Paxon parliament uses proceeds over several
@@ -1573,7 +1573,7 @@ the entire island know what happened in parliament.
 <p align="center" width="100%">
 <img src="/images/image034.png?raw=true"
    alt="PAXOS Knowledge of the Ancients"
-   width="40%" />
+   width="65%" />
 </p>
 
 There’s a very clear parallel between the Paxon parliament and
@@ -1596,7 +1596,7 @@ by the parliament.
 <p align="center" width="100%">
 <img src="/images/image035.png?raw=true"
    alt="PAXOS in Practice: Assumptions & Real-World Use"
-   width="40%" />
+   width="65%" />
 </p>
 
 One major assumption that Paxos makes is that nodes aren’t trying to
@@ -1634,7 +1634,7 @@ story.
 <p align="center" width="100%">
 <img src="/images/image036.png?raw=true"
    alt="Raft Overview"
-   width="40%" />
+   width="65%" />
 </p>
 
 In 2014, an alternative to Paxos was proposed.
@@ -1660,7 +1660,7 @@ consensus.
 <p align="center" width="100%">
 <img src="/images/image037.png?raw=true"
    alt="Raft How it Works"
-   width="40%" />
+   width="65%" />
 </p>
 
 There’s a really good Raft simulation that I’ll link in the “Readings”
@@ -1713,7 +1713,7 @@ All credit and respect to the original author!
 <p align="center" width="100%">
 <img src="/images/image038.png?raw=true"
    alt="PBFT Overview"
-   width="40%" />
+   width="65%" />
 </p>
 
 We’ll end here with another famous consensus algorithm: Practical
@@ -1743,7 +1743,7 @@ faults.
 <p align="center" width="100%">
 <img src="/images/image039.png?raw=true"
    alt="PBFT By Example"
-   width="40%" />
+   width="65%" />
 </p>
 
 The main PBFT algorithm consists of three phases – pre-prepare, prepare,
@@ -2834,7 +2834,7 @@ termination is a liveness property.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image049.png?raw=true"
-   width="65%" />
+   width="35%"
    alt="CAP Theorem Venn diagram highlighting intersections of Consistency and Availability with the letters CA, Consistency and Partition Tolerance with the letters CP, and Availability and Partition Tolerances with the letters AP." />
 </p>
 
@@ -3249,10 +3249,13 @@ that information is kept secret and safe whenever necessary.
 **Origins of Cryptography**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 56.  (xx) ---------------->
+<!------------------------------ 51. origins of cryptography (88) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image056.png" style="width:5in;height:2.8482in" />
+<img src="/images/image051.png?raw=true"
+   alt="Origins of Cryptography"
+   width="65%" />
+</p>
 
 Before we talk about the specifics of cryptography, let’s go over some
 situations which gave birth to the field of cryptography.
@@ -3657,10 +3660,13 @@ timelock to our specifications.
 **Game Theory**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 57.  (xx) ---------------->
+<!--------------------- 52. economic incentives: rewards and penalties (98) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image057.png" style="width:5in;height:2.81522in" />
+<img src="/images/image052.png?raw=true"
+   alt="Economic Incentives: Rewards and Penalties"
+   width="65%" />
+</p>
 
 In Game Theory, we aim to deduce how an actor will act in a given
 situation. There are a number of factors that will affect the actor’s
@@ -3868,10 +3874,13 @@ we dive into the next section, Proof-of-Stake.
 **Blacklisting**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 58.  (xx) ---------------->
+<!--------------------------- 53. blacklisting: feather forking (103) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image058.png" style="width:5in;height:2.82123in" />
+<img src="/images/image053.png?raw=true"
+   alt="Blacklisting: Feather Forking"
+   width="65%" />
+</p>
 
 Now, some attacks review, with a particular focus on economic
 incentives.. These were covered in our first course, go back and take
@@ -4117,10 +4126,13 @@ the system in check.
 **Attacks**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 59.  (xx) ---------------->
+<!------------------------ 54. nothing at stake: undesirable path (110) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image059.png" style="width:5in;height:2.80547in" />
+<img src="/images/image054.png?raw=true"
+   alt="Nothing at Stake: Undesirable Path"
+   width="65%" />
+</p>
 
 Let’s start looking at the most basic problem in Proof-of-Stake: the
 Nothing at Stake attack.
@@ -4134,10 +4146,13 @@ single correct chain.
 Anything that prevents this from happening should be discouraged.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 60.  (xx) ---------------->
+<!---------------------- 54b. nothing at stake: undesirable path #2 (111) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image060.png" style="width:5in;height:2.77244in" />
+<img src="/images/image054b.png?raw=true"
+   alt="Nothing at Stake: Undesirable Path"
+   width="65%" />
+</p>
 
 If ever the blockchain ends up in a situation which consensus is not
 desirable for individual actors, then there is an issue.
@@ -4148,10 +4163,13 @@ consensus!
 What is it about Proof-of-Stake that makes this an issue?
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 61.  (xx) ---------------->
+<!----------------------------- 54c. nothing at stake: attack (111) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image061.png" style="width:5in;height:2.8282in" />
+<img src="/images/image054c.png?raw=true"
+   alt="Nothing at Stake: Attack"
+   width="65%" />
+</p>
 
 Take a look at the bottom image demonstrating Proof-of-Work.
 
@@ -4209,10 +4227,13 @@ Both forks will continue to grow indefinitely.
 Is there a way to solve this?
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 62.  (xx) ---------------->
+<!----------------------------- 54d. nothing at stake: defense (113) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image062.png" style="width:5in;height:2.80547in" />
+<img src="/images/image054d.png?raw=true"
+   alt="Nothing at Stake: Defense"
+   width="65%" />
+</p>
 
 Well, to discourage voting on voting on incorrect forks, let’s introduce
 a penalty to do exactly that.
@@ -4246,20 +4267,26 @@ Because all voting is virtual, even the penalties for malicious voting
 strategies need to be explicitly enforced.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 63.  (xx) ---------------->
+<!----------------------------- 54e. nothing at stake: defense #2 (114) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image063.png" style="width:5in;height:2.8125in" />
+<img src="/images/image054e.png?raw=true"
+   alt="Nothing at Stake: Defense #2"
+   width="65%" />
+</p>
 
 As you can see in this example, we've made it such that the best choice
 is to vote on fork A. This is because voting on fork B, or voting on
 both, now leads to penalties for the voter.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 64.  (xx) ---------------->
+<!----------------------------- 54f. long range attack: attack (115) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image064.png" style="width:5in;height:2.81452in" />
+<img src="/images/image054f.png?raw=true"
+   alt="Long Range Attack: Attack"
+   width="65%" />
+</p>
 
 One major attack that can be conducted in a Proof-of-Stake network is a
 long-range attack.
@@ -4269,10 +4296,13 @@ transactions starting from the Genesis block and then attempt to take
 over the main chain.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 65.  (xx) ---------------->
+<!--------------------------- 54g. long range attack: attack #2 (115) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image065.png" style="width:5in;height:2.84091in" />
+<img src="/images/image054g.png?raw=true"
+   alt="Long Range Attack: Attack #2"
+   width="65%" />
+</p>
 
 There are two properties in Proof-of-Stake that allow this to happen:
 nothing-at-stake and weak subjectivity.
@@ -4293,10 +4323,12 @@ back online after being offline for long periods of time: neither of
 these nodes know which of the chains they are given is the main chain.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 66.  (xx) ---------------->
+<!--------------------------- 54h. long range attack: attack #3 (116) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image066.png" style="width:5in;height:2.78939in" />
+<img src="/images/image054h.png?raw=true"
+   alt="Long Range Attack: Attack #3"
+   width="65%" />
 
 One preconception about blockchains in general is that the longest chain
 is the most trustworthy one.
@@ -4314,10 +4346,13 @@ long range attack can potentially be accepted as the main chain.
 To explain this clearly, we will step through an example.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 67.  (xx) ---------------->
+<!---------------------------- 54i. long range attack: example (117) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image067.png" style="width:5in;height:2.83171in" />
+<img src="/images/image054i.png?raw=true"
+   alt="Long Range Attack: Attack #2"
+   width="65%" />
+</p>
 
 Suppose Gloria owns 1% of the tokens the moment the genesis block is
 created.
@@ -4336,10 +4371,13 @@ This is called a long range attack because it can be executed from any
 point of the chain, including the genesis block.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 68.  (xx) ---------------->
+<!------------------------------ 54k. stake grinding: attack (118) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image068.png" style="width:5in;height:2.81452in" />
+<img src="/images/image054j.png?raw=true"
+   alt="Stake Grinding: Attack"
+   width="65%" />
+</p>
 
 Next, we’ll take a look at the Stake Grinding attack.
 
@@ -4366,10 +4404,13 @@ Attackers can choose from different block signatures by playing around
 with the block parameters to change the signature outcome.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 69.  (xx) ---------------->
+<!----------------------------- 54k. stake grinding: defense (119) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image069.png" style="width:5in;height:2.81553in" />
+<img src="/images/image054k.png?raw=true"
+   alt="Stake Grinding: Defense"
+   width="65%" />
+</p>
 
 There are a few ways that we can address this vulnerability.
 
@@ -4421,11 +4462,13 @@ Cipher**, in which messages are encrypted by shifting letters to the
 right by a previously set amount.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 70.  (xx) ---------------->
+<!---------------------------------- 55. caesar cipher (120) ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image070.png" style="width:5in;height:2.44094in"
-alt="Caesar Cipher" />
+<img src="/images/image055.png?raw=true"
+   alt="Caesar Cipher"
+   width="65%" />
+</p>
 
 Be aware of various cryptographic primitives (review from previous
 course):
@@ -4607,10 +4650,13 @@ distinguish different types of blockchains available for use.
 **Enterprise Blockchain History (3:56)**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 71.  (xx) ---------------->
+<!----------------------- 56. banks and blockchain: history review (125) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image071.png" style="width:5in;height:2.8304in" />
+<img src="/images/image056.png?raw=true"
+   alt="Banks and Blockchain: Blockchain History Review"
+   width="65%" />
+</p>
 
 As Bitcoin and blockchain grew increasingly popular, banks and large
 corporations began to take notice of the potential applications of this
@@ -4728,10 +4774,13 @@ centralized corruption.
 **Enterprise Blockchain Overview**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 75.  (xx) ---------------->
+<!-------------------- 57. blockchain vs databases: high-level overview (129) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image075.png" style="width:5in;height:2.81906in" />
+<img src="/images/image057.png?raw=true"
+   alt="Blockchain vs. Databases: High-Level Overview"
+   width="65%" />
+</p>
 
 At its most basic level, a blockchain is merely a highly specialized
 type of database.
@@ -5082,10 +5131,13 @@ type and consensus mechanisms.
 **Enterprise Blockchain Platforms**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 85.  (xx) ---------------->
+<!----------------- 58. things to look for: enterprise blockchain platforms (141) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image085.png" style="width:5in;height:2.84425in" />
+<img src="/images/image058.png?raw=true"
+   alt="Things to Look For: Enterprise Blockchain Platforms"
+   width="65%" />
+</p>
 
 In the early days of blockchain development, the most common projects
 forked the original Bitcoin codebase to modify small but significant
@@ -5523,10 +5575,13 @@ quality.
 **Use Case: Auto & Mobility**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 96.  (xx) ---------------->
+<!------------------------------ 59. mobi: auto and mobility (154) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image096.png" style="width:5in;height:2.81351in" />
+<img src="/images/image059.png?raw=true"
+   alt="MOBI: Auto and Mobility"
+   width="65%" />
+</p>
 
 Mobility use cases combine blockchain, autonomous cars, and IoT.
 
@@ -5538,10 +5593,13 @@ Fun fact, MOBI was co-founded by a Blockchain at Berkeley alumnus,
 Ashley Lannquist, doing a lot of exploration of the industry.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 97.  (xx) ---------------->
+<!----------------- 60. vehicle data sharing & exchange: auto & mobility (155) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image097.png" style="width:5in;height:2.79839in" />
+<img src="/images/image060.png?raw=true"
+   alt="Vehicle Data Sharing & Exchange: Auto & Mobility"
+   width="65%" />
+</p>
 
 One of their major use cases revolves around collecting a car’s data,
 the obvious stuff like miles driven, MPG, but also more micro datapoints
@@ -5554,10 +5612,13 @@ micropayments.
 This concept is also being explored by Toyota and Jaguar/Land Rover.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 98.  (xx) ---------------->
+<!---------------------- 61. additional use casese: auto & mobility (155) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image098.png" style="width:5in;height:2.81301in" />
+<img src="/images/image061.png?raw=true"
+   alt="Additional Use Cases: Auto & Mobility"
+   width="65%" />
+</p>
 
 As far as other use cases, there’s supply chain and provenance, so
 tracking car parts, or an immutable ‘Carfax’-style used car database.
@@ -5583,10 +5644,13 @@ disintermediated value transfer, privacy, and traceability.
 **Use Case: Finance**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 99.  (xx) ---------------->
+<!----------------- 62. digitizing assets: banks & financial institutions (156) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image099.png" style="width:5in;height:2.8531in" />
+<img src="/images/image062.png?raw=true"
+   alt=""
+   width="65%" />
+</p>
 
 The finance industry is particularly well-situated for the blockchain
 revolution since a lot of the assets banks deal with are not necessarily
@@ -5602,10 +5666,13 @@ Many large banks are also just investing in cryptocurrencies, notably
 Goldman Sachs.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 100.  (xx) ---------------->
+<!------------- 63. disintermediated transfer: banks & financial institutions (157) -------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image100.png" style="width:5in;height:2.7983in" />
+<img src="/images/image063.png?raw=true"
+   alt="Disintermediated Transfer: Banks & Financial Institutions"
+   width="65%" />
+</p>
 
 Blockchains and their associated assets are also allowing assets to pass
 across borders and jurisdictions largely unencumbered by regulation and
@@ -5628,14 +5695,13 @@ invested in the space - their test project launched on Hyperledger
 Fabric and yielded positive results earlier this year.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------- 64. privacy & traceability: banks & financial institutions (158) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image064.png?raw=true"
+   alt="Privacy & Traceability: Banks & Financial Institutions"
    width="65%" />
 </p>
-<img src="./images/image101.png" style="width:5in;height:2.80262in" />
 
 Lastly, many finance giants are using blockchain to facilitate
 traceability and/or privacy.
@@ -5657,14 +5723,13 @@ is particularly enticing for accounting use cases.
 **Use Case: Travel & Tourism**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------------- 65. services: travel & tourism (159) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image065.png?raw=true"
+   alt="Services: Travel & Tourism"
    width="65%" />
 </p>
-<img src="./images/image102.png" style="width:5in;height:2.83981in" />
 
 Blockchain is also making waves in the travel industry, allowing people
 to keep track of their luggage, get better rates on extra rooms,
@@ -5684,14 +5749,13 @@ hotels, making rewards transferable while still allowing hotels the
 flexibility to make specialized offers.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------------- 66. identity: travel & tourism (160) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image066.png?raw=true"
+   alt="Identity: Travel & Tourism"
    width="65%" />
 </p>
-<img src="./images/image103.png" style="width:5in;height:2.83871in" />
 
 Definitely one of the largest problems facing the travel industry today
 is identity management.
@@ -5723,14 +5787,13 @@ Next, we’ll be talking about broader approaches to digital identity.
 **Use Case: Digital Identity**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------ 67. self-sovereignty: digital identity (161) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image067.png?raw=true"
+   alt="Self-Sovereignty: Digital Identity"
    width="65%" />
 </p>
-<img src="./images/image104.png" style="width:5in;height:2.7894in" />
 
 Companies focusing on decentralized digital identity are focusing
 heavily on a concept known as self-sovereignty of identity, which is the
@@ -5746,14 +5809,13 @@ Self-sovereignty of identity tries to make that distinction clear by
 decoupling that information.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 68. industry players: digital identity (162) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image068.png?raw=true"
+   alt="Industry Players: Digital Identity"
    width="65%" />
 </p>
-<img src="./images/image105.png" style="width:5in;height:2.78135in" />
 
 One of the companies working on self sovereign identity (SSI) is Vetri,
 formerly VALID.
@@ -14131,4 +14193,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-10-2022 11:02pm last updated.
+5-11-2022 2:26pm last updated.
