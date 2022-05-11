@@ -804,10 +804,13 @@ You need some of both, but not too much, to define a sense of what your
 program can and should do.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 12. distributed consensus: correctness (23) ---------------->
+<!------------------------- 12. distributed consensus: correctness (23) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image012.png" style="width:5in;height:2.81199in" />
+<img src="/images/image012.png?raw=true"
+   alt="Distributed Consensus: Correctness"
+   width="65%" />
+</p>
 
 We spent quite a bit of time understanding safety and liveness, but how
 do we apply those ideas of desirable and undesirable guidelines to a
@@ -888,7 +891,10 @@ consensus will ever be achieved.
 <!----------------------- 13. distributed consensus: correctness #2 (25) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image013.png" style="width:5in;height:2.80899in" />
+<img src="/images/image013.png?raw=true"
+   alt="Distributed Consensus: Correctness #2"
+   width="65%" />
+</p>
 
 By understanding these three essentials of a consensus algorithm, you
 now understand what is needed for any distributed system to come to
@@ -907,7 +913,10 @@ that any system must make.
 <!----------------------------- 14. cap theorem: introduction (25) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image014.png" style="width:5in;height:2.81122in" />
+<img src="/images/image014.png?raw=true"
+   alt="CAP Theorem: Introduction"
+   width="65%" />
+</p>
 
 This section hones in on a famous trilemma of distributed systems called
 the CAP Theorem.
@@ -930,7 +939,10 @@ the implications.
 <!------------------------ 15. cap theorem: consistency 'c' in cap (26) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image015.png" style="width:5in;height:2.77597in" />
+<img src="/images/image015.png?raw=true"
+   alt="CAP Theorem: Consistency 'c' in cap"
+   width="65%" />
+</p>
 
 The “C” in CAP stands for Consistency.
 
@@ -949,7 +961,10 @@ state at any given time, and that no node will return an outdated state.
 <!------------------------ 16. cap theorem: availability 'a' in cap (27) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image016.png" style="width:5in;height:2.80229in" />
+<img src="/images/image016.png?raw=true"
+   alt="CAP Theorem: Availability 'A' in cap"
+   width="65%" />
+</p>
 
 The “A” in CAP stands for Availability.
 
@@ -966,7 +981,10 @@ happen, which is the ability to read or write some state.
 <!-------------------------- 17. cap theorem: partition tolerance (28) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image017.png" style="width:5in;height:2.82258in" />
+<img src="/images/image017.png?raw=true"
+   alt="CAP Theorem: Partition Tolerance 'P' in cap"
+   width="65%" />
+</p>
 
 And last but not least the “P” in CAP stands for ***Partition
 Tolerance***.
@@ -993,7 +1011,10 @@ even with partitions.
 <!------------------------ 18. cap theorem: nothing is impossible (29) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image018.png" style="width:5in;height:2.83388in" />
+<img src="/images/image018.png?raw=true"
+   alt="CAP Theorem: Nothing is Important"
+   width="65%" />
+</p>
 
 What is the CAP Theorem, truly?
 
@@ -1020,7 +1041,10 @@ In order to prove the CAP Theorem, let’s run through some examples.
 <!-------------------------------- 19. cap theorem: proof (30) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image019.png" style="width:5in;height:2.79388in" />
+<img src="/images/image019.png?raw=true"
+   alt="CAP Theorem: Proof"
+   width="65%" />
+</p>
 
 In each example, we’re going to give an example of a situation in which
 choosing two properties forces us to yield the third.
@@ -1031,7 +1055,10 @@ Let’s pretend this is a database which stores my favorite color.
 <!------------------------------- 20. cap theorem: proof #2 (30) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image020.png" style="width:5in;height:2.79839in" />
+<img src="/images/image020.png?raw=true"
+   alt="CAP Theorem: Proof #2"
+   width="65%" />
+</p>
 
 In our first example, let’s choose Partition Tolerance and Availability.
 
@@ -1048,7 +1075,10 @@ I send the update to the system, and my message happens to go to Node 1.
 <!------------------------------- 21. cap theorem: proof #3 (31) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image021.png" style="width:5in;height:2.79935in" />
+<img src="/images/image021.png?raw=true"
+   alt="CAP Theorem: Proof #3"
+   width="65%" />
+</p>
 
 Node 1 relays the update to all other accessible nodes, which update
 their state.
@@ -1078,7 +1108,10 @@ Same scenario,
 <!------------------------------- 22. cap theorem: proof #4 (32) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image022.png" style="width:5in;height:2.83414in" />
+<img src="/images/image022.png?raw=true"
+   alt="CAP Theorem: Proof #4"
+   width="65%" />
+</p>
 
 I send the update to Node 1, which then sends the update to other nodes.
 
@@ -1086,7 +1119,10 @@ I send the update to Node 1, which then sends the update to other nodes.
 <!------------------------------- 23. cap theorem: proof #5 (32) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image023.png" style="width:5in;height:2.82504in" />
+<img src="/images/image023.png?raw=true"
+   alt="CAP Theorem: Proof #5"
+   width="65%" />
+</p>
 
 Nodes 2 and 4 are still ignorant of the update to red.
 
@@ -1094,7 +1130,10 @@ Nodes 2 and 4 are still ignorant of the update to red.
 <!------------------------------- 24. cap theorem: proof #6 (33) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image024.png" style="width:5in;height:2.78583in" />
+<img src="/images/image024.png?raw=true"
+   alt="CAP Theorem: Proof #6"
+   width="65%" />
+</p>
 
 Again, I query Node 2.
 
@@ -1118,7 +1157,10 @@ happens when we choose Consistency and Availability.
 <!-------------------------------- 25. cap theorem: proof #7 (34) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image025.png" style="width:5in;height:2.84553in" />
+<img src="/images/image025.png?raw=true"
+   alt="CAP Theorem: Proof #7"
+   width="65%" />
+</p>
 
 I send an update to Node 1.
 
@@ -1128,7 +1170,10 @@ Node 1 passes the information around.
 <!------------------------------- 26. cap theorem: proof #8 (34) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image026.png" style="width:5in;height:2.83172in" />
+<img src="/images/image026.png?raw=true"
+   alt="CAP Theorem: Proof #8"
+   width="65%" />
+</p>
 
 I query Node 2, and it returns a value to me.
 
@@ -1150,7 +1195,10 @@ must compromise.
 <!--------------------------------- 27. cap theorem: notes (36) ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image027.png" style="width:5in;height:2.8201in" />
+<img src="/images/image027.png?raw=true"
+   alt="CAP Theorem: Notes"
+   width="65%" />
+</p>
 
 Now you understand the CAP Theorem.
 
@@ -1202,8 +1250,10 @@ design.
 <!-------------------- 28. byzantine fault tolerance: generals' problem (36) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image028.png"
-style="width:4.03318in;height:2.30561in" />
+<img src="/images/image028.png?raw=true"
+   alt="Byzantine Fault Tolerance: Generals' Problem"
+   width="65%" />
+</p>
 
 We’ve defined distributed systems, understood the definition of
 correctness in their context, and understood the various properties and
@@ -1298,7 +1348,10 @@ the remaining situations.
 <!------------------------- 29. practical byzantine fault tolerance (39) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image029.png" style="width:4in;height:2.27041in" />
+<img src="/images/image029.png?raw=true"
+   alt="Practical Byzantine Fault Tolerance"
+   width="40%" />
+</p>
 
 Practical Byzantine Fault Tolerance released in 1999 by Miguel Castro
 and Barbara Liskov gives an algorithm to allow nodes to come to
@@ -1323,7 +1376,10 @@ of fault.
 <!---------------------- 30. byzantine fault tolerance in blockchain (40) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image030.png" style="width:4in;height:2.25427in" />
+<img src="/images/image030.png?raw=true"
+   alt="Byzantine Fault Tolerancein Blockchain"
+   width="40%" />
+</p>
 
 A Byzantine fault, referring to the Byzantine Generals’ Problem, is a
 fault that refers to any arbitrary deviance from the protocol. In other
@@ -1396,7 +1452,10 @@ systems of today.
 <!-------------------------------------- 31. paxos overview (42) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image031.png" style="width:4in;height:2.24687in" />
+<img src="/images/image031.png?raw=true"
+   alt="PAXOS Overview"
+   width="40%" />
+</p>
 
 Before we talk about our first consensus mechanisms, let’s take a short
 break.
@@ -1446,7 +1505,10 @@ maintained a ledger, where they’d record everything that happened.
 <!--------------------------------- 32. paxos terminology (43) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image032.png" style="width:4in;height:2.25629in" />
+<img src="/images/image032.png?raw=true"
+   alt="PAXOS Terminology"
+   width="40%" />
+</p>
 
 Diving a bit more in depth, the paper specifies that within the Paxon
 parliament, there are three types of legislators: proposers, acceptors,
@@ -1473,7 +1535,10 @@ consensus algorithms.
 <!---------------------------------- 33. paxos main idea (44) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image033.png" style="width:4in;height:2.2754in" />
+<img src="/images/image033.png?raw=true"
+   alt="PAXOS Main Idea"
+   width="40%" />
+</p>
 
 The protocol that the Paxon parliament uses proceeds over several
 rounds, until consensus is reached.
@@ -1506,7 +1571,10 @@ the entire island know what happened in parliament.
 <!-------------------------- 34. paxos knowledge of the ancients (45) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image034.png" style="width:4in;height:2.2867in" />
+<img src="/images/image034.png?raw=true"
+   alt="PAXOS Knowledge of the Ancients"
+   width="40%" />
+</p>
 
 There’s a very clear parallel between the Paxon parliament and
 distributed consensus.
@@ -1526,7 +1594,10 @@ by the parliament.
 <!----------------- 35. paxos in practice - assumptions & real-world use (46) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image035.png" style="width:4in;height:2.24596in" />
+<img src="/images/image035.png?raw=true"
+   alt="PAXOS in Practice: Assumptions & Real-World Use"
+   width="40%" />
+</p>
 
 One major assumption that Paxos makes is that nodes aren’t trying to
 subvert the protocol, and that messages are delivered without
@@ -1561,7 +1632,10 @@ story.
 <!----------------------------------- 36. raft overview (47) ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image036.png" style="width:4in;height:2.25107in" />
+<img src="/images/image036.png?raw=true"
+   alt="Raft Overview"
+   width="40%" />
+</p>
 
 In 2014, an alternative to Paxos was proposed.
 
@@ -1584,7 +1658,10 @@ consensus.
 <!--------------------------------- 37. raft how it works (47) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image037.png" style="width:4in;height:2.26974in" />
+<img src="/images/image037.png?raw=true"
+   alt="Raft How it Works"
+   width="40%" />
+</p>
 
 There’s a really good Raft simulation that I’ll link in the “Readings”
 section for this week, but here’s a brief rundown of how Raft consensus
@@ -1634,7 +1711,10 @@ All credit and respect to the original author!
 <!----------------------------------- 38. pbft overview (49) ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image038.png" style="width:4in;height:2.25812in" />
+<img src="/images/image038.png?raw=true"
+   alt="PBFT Overview"
+   width="40%" />
+</p>
 
 We’ll end here with another famous consensus algorithm: Practical
 Byzantine Fault Tolerance, or PBFT. Published by Miguel Castro and
@@ -1661,7 +1741,10 @@ faults.
 <!---------------------------------- 39. pbft by example (50) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image039.png" style="width:4in;height:2.28877in" />
+<img src="/images/image039.png?raw=true"
+   alt="PBFT By Example"
+   width="40%" />
+</p>
 
 The main PBFT algorithm consists of three phases – pre-prepare, prepare,
 and commit.
@@ -1676,7 +1759,10 @@ legislators in the Paxon Parliament based on the requests of the people.
 <!------------------------------ 40. pbft by example request (50) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image040.png" style="width:5in;height:2.8507in" />
+<img src="/images/image031.png?raw=true"
+   alt="PBFT by Example Request"
+   width="65%" />
+</p>
 
 In this case, the primary node is Derrick. We have a total of 4 nodes,
 meaning that we should be able to withstand 1 fault, since ¼ is less
@@ -1687,7 +1773,10 @@ spotty internet connection.
 <!----------------------------- 41. pbft by example request #2 (51) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image041.png" style="width:5in;height:2.83903in" />
+<img src="/images/image041.png?raw=true"
+   alt="PBFT by Example Request #2"
+   width="65%" />
+</p>
 
 Nadir might’ve dropped out, but the other 3 nodes might not know that
 yet, so they’ll still send messages to him.
@@ -1696,7 +1785,10 @@ yet, so they’ll still send messages to him.
 <!---------------------------- 42. pbft by example: pre-prepare (51) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image042.png" style="width:5in;height:2.85169in" />
+<img src="/images/image042.png?raw=true"
+   alt="PBFT by Example: Pre-Prepare"
+   width="65%" />
+</p>
 
 The next step is pre-prepare, which is one of the three main phases –
 pre-prepare, prepare, and commit. In the pre-prepare phase, the primary
@@ -1711,7 +1803,10 @@ determine message validity.
 <!----------------------------- 43. pbft by example: prepare (52) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image043.png" style="width:5in;height:2.83903in" />
+<img src="/images/image043.png?raw=true"
+   alt="PBFT by Example: Prepare"
+   width="65%" />
+</p>
 
 If a node accepts a pre-prepare message, it follows up by sending out a
 prepare message to everyone else. And prepare messages are accepted by
@@ -1726,7 +1821,10 @@ Byzantine faults.
 <!------------------------------ 44. pbft by example: commit (52) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image044.png" style="width:5in;height:2.82786in" />
+<img src="/images/image044.png?raw=true"
+   alt="PBFT by Example: Commit"
+   width="65%" />
+</p>
 
 After nodes have prepared, they send out a commit message. If a node
 receives f + 1 valid commit messages, then they carry out the client
@@ -1736,7 +1834,10 @@ request and then finally
 <!------------------------------ 45. pbft by example: reply (53) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image045.png" style="width:5in;height:2.80858in" />
+<img src="/images/image045.png?raw=true"
+   alt="PBFT by Example: Reply"
+   width="65%" />
+</p>
 
 Send out the reply to the client. The client waits for f + 1 of the same
 reply. Since we allow for at most f faults, we need to wait for at least
@@ -1747,7 +1848,10 @@ client gets the correct response.
 <!----------------------------- 46. pbft normal case operation (53) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image046.png" style="width:5in;height:2.81122in" />
+<img src="/images/image046.png?raw=true"
+   alt="PBFT Normal Case Operation"
+   width="65%" />
+</p>
 
 Here’s a diagram from the PBFT whitepaper, which models exactly the
 scenario we just went over. The diagram has five processes, or nodes in
@@ -2088,7 +2192,10 @@ cryptography and economics.
 <!------------------------------ 47. pow vs pos? differences (62) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image047.png" style="width:5in;height:2.79751in" />
+<img src="/images/image047.png?raw=true"
+   alt="POW vs POS? Differences"
+   width="65%" />
+</p>
 
 As we mentioned in the Nakamoto consensus section, we can understand
 both Proof-of-Work and Proof-of-Stake by looking at what resources are
@@ -2181,7 +2288,10 @@ Proof-of-Work and Proof-of-Stake hybrid.
 <!----------------------------- 48. proof of stake: tendermint  (64) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image048.png" style="width:5in;height:2.80929in" />
+<img src="/images/image048.png?raw=true"
+   alt="Proof-of-Stake: Tendermint"
+   width="65%" />
+</p>
 
 Tendermint was the first BFT-based Proof-of-Stake consensus mechanism,
 created by Jae Kwon and his team in 2014.
@@ -2723,8 +2833,10 @@ termination is a liveness property.
 <!----------------------------- 49. cap theorem venn diagram (78) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image049.png" style="width:4in;height:3.81678in"
-alt="CAP Theorem Venn diagram highlighting intersections of Consistency and Availability with the letters CA, Consistency and Partition Tolerance with the letters CP, and Availability and Partition Tolerances with the letters AP." />
+<img src="/images/image049.png?raw=true"
+   width="65%" />
+   alt="CAP Theorem Venn diagram highlighting intersections of Consistency and Availability with the letters CA, Consistency and Partition Tolerance with the letters CP, and Availability and Partition Tolerances with the letters AP." />
+</p>
 
 The CAP Theorem states that any distributed system can only achieve 2 of
 the following 3 properties at any given time:
@@ -3028,10 +3140,13 @@ ensuring that the decisions’ history is maintained honestly and forever.
 **Cryptoeconomics**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 50.  (85) ---------------->
+<!----------------- 50. what is cryptoeconomics: Virtual Decision making (85) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image050.png" style="width:5in;height:2.8356in" />
+<img src="/images/image050.png?raw=true"
+   alt="What is Cryptoeconomics: Virtual Decision Making"
+   width="65%" />
+</p>
 
 Cryptoeconomics aims to understand virtual decision-making by unknown,
 untrusting peers.
@@ -12837,4 +12952,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-10-2022 6:01am last updated.
+5-10-2022 4:12pm last updated.
