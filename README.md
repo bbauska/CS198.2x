@@ -6750,7 +6750,14 @@ startups through ICOs, over 25% of which was raised in December alone.
 Compare this to approximately just over half a million raised through
 VC.
 
-<img src="./images/image134.png" style="width:5in;height:2.82609in" />
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------- 96. ico statistics (198) ------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image096.png?raw=true"
+   alt="ICO Statistics"
+   width="65%" />
+</p>
 
 In 2018, we saw even more raised through ICOs, totaling 20 billion
 dollars before the end of September.
@@ -6800,7 +6807,14 @@ snapshot of present-day perception around the technology.
 
 **Regulations & Caveats (9:28)**
 
-<img src="./images/image136.png" style="width:5in;height:2.83171in" />
+<!------------------------------------------------------------------------------------------------>
+<!--------------------- 97. anti-money laundering: law & regulations (199) ----------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image097.png?raw=true"
+   alt="PAXOS in Practice: Assumptions & Real-World Use"
+   width="65%" />
+</p>
 
 With handling money come several significant measures to prevent illegal
 activity.
