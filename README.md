@@ -5809,7 +5809,7 @@ Self-sovereignty of identity tries to make that distinction clear by
 decoupling that information.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 68. industry players: digital identity (162) -------------------------->
+<!------------------------ 68. industry players: digital identity (162) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image068.png?raw=true"
@@ -5854,14 +5854,13 @@ industry.
 **Use Case: Healthcare**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------------ 69. medical data: healthcare (163) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image069.png?raw=true"
+   alt="Medical Data: Healthcare"
    width="65%" />
 </p>
-<img src="./images/image106.png" style="width:5in;height:2.86179in" />
 
 In the healthcare industry, blockchain can provide utility by
 guaranteeing data persistence and availability.
@@ -5884,14 +5883,13 @@ product will allow EMTs to view the medical record of unresponsive
 patients.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------------- 70. incentivization: healthcare (164) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image070.png?raw=true"
+   alt="Incentivization: Healthcare"
    width="65%" />
 </p>
-<img src="./images/image107.png" style="width:5in;height:2.86753in" />
 
 Blockchain is also particularly useful for providing financial
 incentives for good behavior, which, interestingly enough, could have a
@@ -5918,14 +5916,13 @@ blockchain.
 **Use Case: Insurance**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------------- 71. industry trands: insurance (165) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image071.png?raw=true"
+   alt="Industry Trends: Insurance"
    width="65%" />
 </p>
-<img src="./images/image108.png" style="width:5in;height:2.84903in" />
 
 At the most basic level, insurance is something of a prediction market -
 you’re placing bets based on the likelihood of some future outcome.
@@ -5941,14 +5938,13 @@ Accenture reports that 46 percent of insurers expect to integrate
 blockchain within 2 years.<img src="./images/image109.png" />
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###. industry projects: insurance (166) -------------------------->
+<!--------------------------- 73. industry projects: insurance (166) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image073.png?raw=true"
+   alt="Industry Projects: Insurance"
    width="65%" />
 </p>
-<img src="./images/image110.png" style="width:5in;height:2.81906in" />
 
 A blockchain solution would allow the insured party to log their claim
 and their evidence immutably on the chain and have it be validated by
@@ -5979,14 +5975,13 @@ Next, we’re going to look at how blockchain interacts with IoT.
 **Use Case – Supply Chain (2:27)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###. walmart and alibaba: supply chain (167) -------------------------->
+<!------------------------- 74. walmart and alibaba: supply chain (167) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image074.png?raw=true"
+   alt="Wal-Mart & Alibaba: Supply Chain"
    width="65%" />
 </p>
-<img src="./images/image111.png" style="width:5in;height:2.80262in" />
 
 With the rise of supply chains, many massive corporations have attempted
 to incorporate blockchains into their own business models.
@@ -6056,14 +6051,13 @@ adoption today.
 **Use Case:IoT (1:02)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###. Security: IoT (169) -------------------------->
+<!----------------------------------- 75. Security: IoT (169) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image075.png?raw=true"
+   alt="Security: IoT"
    width="65%" />
 </p>
-<img src="./images/image112.png" style="width:5in;height:2.84918in" />
 
 IoT devices collect and push data, and blockchains verify and codify it.
 
@@ -6093,11 +6087,11 @@ as well.
 **Use Case: Housing & Real Estate (1:39)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###. current issues: real estate (170) -------------------------->
+<!--------------------------- 76. current issues: real estate (170) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image076.png?raw=true"
+   alt="Current Issues: Real Estate"
    width="65%" />
 </p>
 <img src="./images/image113.png" style="width:5in;height:2.86076in" />
@@ -6123,14 +6117,13 @@ What good is a land title if you can’t be confident that it is
 available, persistent, and valid?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###. solutions: real estate (171) -------------------------->
+<!------------------------------ 77. solutions: real estate (171) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image077.png?raw=true"
+   alt="Solutions: Real Estate"
    width="65%" />
 </p>
-<img src="./images/image114.png" style="width:5in;height:2.8433in" />
 
 The blockchain solution is to create a hash of every land registry and
 store that hash on-chain.
@@ -6161,11 +6154,11 @@ Telangana.
 **Use Case: Foreign Aid (2:00)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###. non-cash aid: foreign aid (172) -------------------------->
+<!----------------------- 78. non-cash aid: foreign aid (172) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image078.png?raw=true"
+   alt="Non-Cash Aid: Foreign Aid"
    width="65%" />
 </p>
 <img src="./images/image115.png" style="width:5in;height:2.78583in" />
@@ -6196,14 +6189,13 @@ of cash aid, since it is more versatile and, thanks to blockchain, can
 now be traced from sender to recipient.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###. cash aid: foreign aid (173) -------------------------->
+<!------------------------------ 79. cash aid: foreign aid (173) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image079.png?raw=true"
+   alt="Cash Aid: Foreign Aid"
    width="65%" />
 </p>
-<img src="./images/image116.png" style="width:5in;height:2.82114in" />
 
 The problems of fraud and accountability are more severe for providers
 of cash aid, since vouchers like UNWFPs aren’t necessarily going to be
@@ -6258,14 +6250,13 @@ Keep in mind everything you’ve learned up to this point, and see how
 they fit into the generalizations.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------- 80. Blockchain Generalizations: Essential Properties (175) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image080.png?raw=true"
+   alt="Blockchain Generalizations: Essential Properties"
    width="65%" />
 </p>
-<img src="./images/image117.png" style="width:5in;height:2.85251in" />
 
 To start off, let’s talk about the scenarios where a blockchain will
 work, but is not necessary.
@@ -6304,14 +6295,13 @@ While blockchains will solve any of these individual requirements,
 they’re over-engineered solutions to these problems.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------- 81. Blockchain Generalizations: Essential Properties #2 (176) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image081.png?raw=true"
+   alt="Blockchain Generalizations: Essential Properties #2"
    width="65%" />
 </p>
-<img src="./images/image118.png" style="width:5in;height:2.78317in" />
 
 As mentioned in several of the use cases, blockchains allow us to solve
 coordination failures.
@@ -6345,14 +6335,13 @@ according to plan, we’re now able to rely on a smart contract to execute
 as intended, giving us the ability to believe in this code as law.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------- 82. Blockchain Generalizations: Essential Properties #3 (177) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image082.png?raw=true"
+   alt="Blockchain Generalizations: Essential Properties #3"
    width="65%" />
 </p>
-<img src="./images/image119.png" style="width:5in;height:2.78583in" />
 
 Blockchains create a standardized platform for access and interaction.
 
@@ -6396,14 +6385,13 @@ In this way, individuals are supporting the rest of the community while
 benefiting themselves as well.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------- 83. Blockchain Generalizations: Essential Properties #4 (178) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image083.png?raw=true"
+   alt="Blockchain Generalizations: Essential Properties #4"
    width="65%" />
 </p>
-<img src="./images/image120.png" style="width:5in;height:2.79032in" />
 
 Finally, the most abstract yet fundamental property of a good blockchain
 use case is pure decentralization.
@@ -6443,14 +6431,13 @@ Through blockchain, we can support globally recognized ownership,
 persisting across nations.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------- 84. Blockchain Generalizations: Essential Properties #5 (180) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image084.png?raw=true"
+   alt="Blockchain Generalizations: Essential Properties #5"
    width="65%" />
 </p>
-<img src="./images/image121.png" style="width:5in;height:2.82258in" />
 
 Now that we’ve finished talking about all the meaningful properties of
 decentralized solutions, it wouldn’t be complete if we didn’t go over
@@ -6537,14 +6524,13 @@ If you do integrate centralization with a blockchain solution, you lose
 out on most of the benefits of decentralization.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------- 85. Blockchain Generalizations: Essential Properties #6 (182) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image085.png?raw=true"
+   alt="Blockchain Generalizations: Essential Properties #6"
    width="65%" />
 </p>
-<img src="./images/image122.png" style="width:5in;height:2.79221in" />
 
 The main takeaway is that there are advantages to both centralized and
 decentralized solutions.
@@ -6592,14 +6578,13 @@ bring order to this ambiguous and uncertain space.
 **ICO Schemes & Culture (12:57)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------- 86. initial coin offerings: ico schemas and culture (184) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image086.png?raw=true"
+   alt="Initial Coin Offerings: ICO Schemas and Culture"
    width="65%" />
 </p>
-<img src="./images/image123.png" style="width:5in;height:2.80547in" />
 
 An Initial Coin Offering, or “ICO,” is a novel, unregulated means of
 raising funds for a blockchain startup.
@@ -6646,14 +6631,13 @@ network, raising 257 million in USD.
 We’ll see in a bit how much each industry has raised through ICOs.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------- 87. what is an ico? ico schemas and culture (184) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image086.png?raw=true"
+   alt="What is an ICO? ICO Schemas and Culture"
    width="65%" />
 </p>
-<img src="./images/image124.png" style="width:5in;height:2.84553in" />
 
 Let’s take a deeper look at how ICOs innovate on previous fundraising
 mentalities.
@@ -6690,14 +6674,13 @@ However, as we’ll see, this is not the case today.
 Let’s take a look at how ICOs might incentivize open-source development.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 88. aligning incentives: what's your incentive? (186) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image088.png?raw=true"
+   alt="Aligning Incentives: What's Your Incentive?"
    width="65%" />
 </p>
-<img src="./images/image125.png" style="width:5in;height:2.82258in" />
 
 Open-source development is typically led by foundations, such as the
 Mozilla Foundation and Apache Foundation.
@@ -6728,14 +6711,13 @@ Additionally, as others build on top of that platform, the token will
 further increase in value.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 89. ico schemas: what's your incentive? (187) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image089.png?raw=true"
+   alt="ICO Schemas: What's Your Incentive?"
    width="65%" />
 </p>
-<img src="./images/image126.png" style="width:5in;height:2.8201in" />
 
 What does the lifecycle of an ICO look like?
 
@@ -6828,14 +6810,13 @@ If that all works out, then you’ll get funding for your revolutionary
 blockchain project!
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------- 90. Legal Uncertainty: ICO Schemas & Culture (190) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image090.png?raw=true"
+   alt="Legal Uncertainty: ICO Schemas & Culture"
    width="65%" />
 </p>
-<img src="./images/image127.png" style="width:5in;height:2.80744in" />
 
 Legal uncertainty, as expected from so new a space, also permeates ICOs.
 
@@ -6870,14 +6851,13 @@ Kickstarter donations provide the user with access to early or special
 goods from the team.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------- 91. aligning incentives: incentive misalignment (191) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image091.png?raw=true"
+   alt="Aligning Incentives: Incentive Misalignment"
    width="65%" />
 </p>
-<img src="./images/image128.png" style="width:5in;height:2.81656in" />
 
 Another caveat to consider is the reluctance or even inability of
 project teams to keep their promise after an ICO.
@@ -6897,14 +6877,13 @@ to 5 times returns on their investment instead of waiting for the long
 term.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------------- 91b. aligning incentives: solutions (192) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image091b.png?raw=true"
+   alt="Aligning Incentives: Solutions"
    width="65%" />
 </p>
-<img src="./images/image129.png" style="width:5in;height:2.81906in" />
 
 One proposed solution was for funds to be held in escrow, released only
 when the team hits particular milestones, to incentivize them to build
@@ -6918,14 +6897,13 @@ paid out arises as well.
 This solution is not popularly used in ICOs.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------- 92. ico's: a double edged sword: ico schemas & culture (193) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image092.png?raw=true"
+   alt="ICO's A Double Edged Sword: ICO Schemas & Culture"
    width="65%" />
 </p>
-<img src="./images/image130.png" style="width:5in;height:2.79743in" />
 
 Recall, the purpose of an ICO is to remove regulatory bodies from the
 picture.
@@ -6967,14 +6945,13 @@ With the benefits of deregulation, such as larger freedom and
 accessibility to a larger set of investors, also come the consequences.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------- 93. limitatios of ico's: ico schemas & culture  (194) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image093.png?raw=true"
+   alt="limitatios of ico's: ico schemas & culture"
    width="65%" />
 </p>
-<img src="./images/image131.png" style="width:5in;height:2.79032in" />
 
 The new paradigm of ICOs don’t just have drawbacks for investors.
 
@@ -7000,14 +6977,13 @@ ICOs, on the other hand, are nothing more than lumps of money.
 They do not come with the support that a VC can provide.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------- 94. limitatios of ico's: ico schemas & culture #2 (195) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image094.png?raw=true"
+   alt="limitatios of ico's: ico schemas & culture #2"
    width="65%" />
 </p>
-<img src="./images/image132.png" style="width:5in;height:2.79579in" />
 
 This model of funding comes with many further drawbacks.
 
@@ -14193,4 +14169,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-11-2022 2:26pm last updated.
+5-11-2022 3:30pm last updated.
