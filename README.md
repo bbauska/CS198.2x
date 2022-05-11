@@ -1759,7 +1759,7 @@ legislators in the Paxon Parliament based on the requests of the people.
 <!------------------------------ 40. pbft by example request (50) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image031.png?raw=true"
+<img src="/images/image040.png?raw=true"
    alt="PBFT by Example Request"
    width="65%" />
 </p>
@@ -10602,7 +10602,14 @@ technologies they are built upon to protect their users.
 
 **<u>Privacy Focused Altcoins</u>**
 
-<img src="./images/image251.png" style="width:5in;height:2.78839in" />
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------- 251. coinjoin dash (334) ------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image251.png?raw=true"
+   alt="Mimblewimble"
+   width="65%" />
+</p>
 
 DASH, formerly known as DarkCoin, is a privacy focused cryptocurrency
 that uses a mixer called
@@ -11009,7 +11016,14 @@ face as a conclusion for the last three lectures.
 
 **Advanced Anonymity & Generalizations**
 
-<img src="./images/image252.png" style="width:5in;height:2.81122in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------- 252. mimblewimble (345) ------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image252.png?raw=true"
+   alt="Mimblewimble"
+   width="65%" />
+</p>
 
 In traditional cypherpunk fashion, there was a proposal published in
 July of 2016.
@@ -11202,8 +11216,14 @@ One technique is **Transaction Graph Analysis**, the process of
 constructing a **transaction graph** (pictured below) where each node is
 a pseudonym and each edge is a transaction conducted between pseudonyms.
 
-<img src="./images/image253.jpeg" style="width:5in;height:3.90652in"
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- 253. crypto transactions in the network (350) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image253.jpeg?raw=true"
 alt="The transaction graph shows the crypto transactions in the network. Satoshi, Mt Gox and silk road are nodes where most edges are connected to." />
+   width="65%" />
+</p>
 
 This graph can be analyzed by **clustering**, or attributing a group of
 pseudonyms to the same real-world entity. The first part of clustering,
@@ -11242,8 +11262,14 @@ with real-world identities.
     coins unless there are enough clean coins being cycled through the
     slush fund.
 
-<img src="./images/image254.png" style="width:6.5in;height:2.22326in"
-alt="Alice dirty input 1 BTC into the centralized mixing service. And the Mixer sends cleaned funds after random waiting period. So Alice will get 0.9 BTC as the output(0.1 is the &quot;cleanning fee&quot;)" />
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------- 254. centralized mixing service (351) ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image254.png?raw=true"
+   alt="Alice dirty input 1 BTC into the centralized mixing service. And the Mixer sends cleaned funds after random waiting period. So Alice will get 0.9 BTC as the output(0.1 is the &quot;cleanning fee&quot;)"
+   width="100%" />
+</p>
 
 -   **Altcoin exchange mixing**, which works by sending dirty funds
     through several layers of altcoin ⇔ altcoin exchanges to obfuscate
@@ -12280,7 +12306,14 @@ get involved in the blockchain space yourself.
 
 **People’s Pick: Cryptocurrency Mining**
 
-<img src="./images/image257.png" style="width:5in;height:2.81777in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------- 257. scratching the itch (377) --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image257.png?raw=true"
+   alt="Scratching the Itch"
+   width="65%" />
+</p>
 
 Throughout our offerings of both courses in the Blockchain Fundamentals
 program, we’ve received many questions about mining bitcoin in real
@@ -12295,7 +12328,14 @@ Mining cryptocurrency at first may sound like printing money, or money
 growing from digital trees, but there are some things that need to be
 considered.
 
-<img src="./images/image258.png" style="width:5in;height:2.82573in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------ 258. scratching the itch #2 (377) ------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image258.png?raw=true"
+   alt="Scratching the Itch #2"
+   width="65%" />
+</p>
 
 First of all, one ought to choose profitable hardware; the older stuff
 won’t cut it.
@@ -12335,7 +12375,14 @@ Optimizing hardware costs == The goal of the average cryptocurrency
 miner is similar to that of a traditional business man: to minimize time
 to break even, and maximize return on investment.
 
-<img src="./images/image259.png" style="width:5in;height:2.83414in" />
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------- 259. optimizing hardware costs (379) ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image259.png?raw=true"
+   alt="Optimizing Hardware Costs"
+   width="65%" />
+</p>
 
 One of the ways to do this is to optimize hardware costs on the assets
 that maximize rewards; for mining, this consists of GPUs, PSUs, and fans
@@ -12367,7 +12414,14 @@ Overheated components perform poorly, and pose as risks as fire hazards.
 
 Hence, it’s crucial to keep your cards cool.
 
-<img src="./images/image260.png" style="width:5in;height:2.83279in" />
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------- 260. optimizing hardware costs (380) ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image260.png?raw=true"
+   alt="Optimizing Hardware Costs"
+   width="65%" />
+</p>
 
 The non-essentials of a mining rig are all the components that are not
 keeping you safe, nor bringing in the money.
