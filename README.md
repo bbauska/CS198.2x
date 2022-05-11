@@ -17,7 +17,7 @@
 	
 <!----------------- ## [Table of Contents](#table-of-contents) ------->
 
-**Course Syllabus**
+<b>Course Syllabus</b>
 
 This course provides a wide overview of many of the topics relating to
 and building upon the foundation of Bitcoin and blockchain technology. 
@@ -9794,7 +9794,14 @@ reporters in oppressive regimes.
 
 We leave further contemplation for you to do yourself.
 
-<img src="./images/image243.png" style="width:5in;height:2.77938in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- 243. anonymity basics: a slight paradox (311) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image243.png?raw=true"
+   alt="Deanonymization: A Slight Paradox"
+   width="65%" />
+</p>
 
 To round out our brief introduction as to why we might want anonymity in
 cryptocurrencies, we contrast our goals of anonymity, privacy, and
@@ -9843,17 +9850,37 @@ deanonymization tactics to design resistances to enhance user privacy.
 
 **<u>Deanonymization</u>**
 
-<img src="./images/image244.png" style="width:5in;height:2.73417in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------- 244. anonymity basics: blockchain fundamentals (313) ---------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image244.png?raw=true"
+   alt="Deanonymization: Transaction Graph Analysis"
+   width="65%" />
+</p>
 
 The big concern about decentralization that we look at in regards to
 deanonymization is that now, we can go back in the blockchain’s history
 to reveal information about a particular pseudonym.
 
-<img src="./images/image245.png" style="width:5in;height:2.78682in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------- 245. deanonymization: transaction graph analysis (313) -------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image245.png?raw=true"
+   alt="Deanonymization: Transaction Graph Analysis"
+   width="65%" />
+</p>
 
 That’s the goal of deanonymization, or linking
-
-<img src="./images/image246.png" style="width:5in;height:2.81805in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------- 246. deanonymization: transaction graph analysis (314) -------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image246.png?raw=true"
+   alt="Deanonymization: Transaction Graph Analysis"
+   width="65%" />
+</p>
 
 One way we can achieve this – which we alluded to earlier – is by
 transaction graph analysis, which is simply just inspecting the
@@ -9869,7 +9896,14 @@ From a transaction graph, you might be able to see some pseudonyms make
 transactions more than others, or are paid more than others, or perhaps
 make certain transactions with certain other pseudonyms.
 
-<img src="./images/image247.png" style="width:5in;height:2.81267in" />
+<!------------------------------------------------------------------------------------------------>
+<!-------------------- 247. deanonymization: transaction graph analysis (315) -------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image247.png?raw=true"
+   alt="Deanonymization: Transaction Graph Analysis"
+   width="65%" />
+</p>
 
 One way of analyzing the transaction graph is by clustering, or
 attributing a cluster of addresses or pseudonyms to the same real-world
@@ -10040,7 +10074,14 @@ This is simply an intellectual exercise to understand how it may be
 possible to anonymize your funds to make it more difficult for someone
 else to track your activity.
 
-<img src="./images/image248.png" style="width:5in;height:2.81384in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- 248. mixing: money laundering basics  (319) --------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image248.png?raw=true"
+   alt="Mixing: Money Laundering Basics"
+   width="65%" />
+</p>
 
 To better understand mixing’s mechanics, we’re going to examine a
 traditional scenario where money’s origins are obfuscated: money
@@ -10228,7 +10269,14 @@ especially if done repeatedly.
 
 **<u>Decentralized Mixing</u>**
 
-<img src="./images/image249.png" style="width:5in;height:2.75298in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- 249. decentralized mining: can this be done? (324) --------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image249.png?raw=true"
+   alt="Decentralized mining: Can this be done?"
+   width="65%" />
+</p>
 
 Thus far, our proposed solutions have leveraged either a single
 centralized entity or several at a time. Is there a decentralized
@@ -10484,7 +10532,14 @@ plausible deniability and security.
 
 **<u>Fair Exchange Mixers</u>**
 
-<img src="./images/image250.png" style="width:5in;height:2.8238in" />
+<!------------------------------------------------------------------------------------------------>
+<!------------------ 250. fair exchange mixers - blockchain fundamentsls (331) ------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image250.png?raw=true"
+   alt="Fair Exchange Mixers: Blockchain Fundamentals"
+   width="65%" />
+</p>
 
 Fair exchange mixers are a different category of mixer.
 
