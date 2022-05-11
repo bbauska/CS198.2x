@@ -5879,7 +5879,7 @@ Accenture reports that 46 percent of insurers expect to integrate
 blockchain within 2 years.<img src="./images/image109.png" />
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- ###. industry projects: insurance (166) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -5917,7 +5917,7 @@ Next, we’re going to look at how blockchain interacts with IoT.
 **Use Case – Supply Chain (2:27)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- ###. walmart and alibaba: supply chain (167) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -5994,7 +5994,7 @@ adoption today.
 **Use Case:IoT (1:02)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- ###. Security: IoT (169) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -6031,7 +6031,7 @@ as well.
 **Use Case: Housing & Real Estate (1:39)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- ###. current issues: real estate (170) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -6061,7 +6061,7 @@ What good is a land title if you can’t be confident that it is
 available, persistent, and valid?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- ###. solutions: real estate (171) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -6099,7 +6099,7 @@ Telangana.
 **Use Case: Foreign Aid (2:00)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- ###. non-cash aid: foreign aid (172) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -6134,7 +6134,7 @@ of cash aid, since it is more versatile and, thanks to blockchain, can
 now be traced from sender to recipient.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- ###. cash aid: foreign aid (173) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -8622,7 +8622,7 @@ And we also have a smaller blockchain size for the amount of
 transactions we want to represent.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- ###. segwit witness: pros and cons (246) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -8658,7 +8658,7 @@ Bitcoin user.
 And finally, SegWit isn’t the only way to fix transaction malleability.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- ###. bitcoin scalability (247) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -8675,7 +8675,7 @@ Witness.
 This was on August 1st, 2017, at block number 478,558.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------- ###. recursive snarks scalabilty: blockchain fundamentals (247) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -8701,7 +8701,7 @@ security practice, since all it takes now is one data leak and now all
 your user’s identities are compromised.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------ ###. recursive snarks scalabilty: idea (248) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -8740,7 +8740,7 @@ any machine in the network can verify the proof in milliseconds.
 That’s the main idea of zk-SNARKS
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------- ###. recursive snarks scalabilty: improvements (249) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -8772,7 +8772,7 @@ this with the average proof size, which is 288 bytes.
 For some closing thoughts, let’s look back at our previous slide.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------- ###. recursive snarks scalabilty: drawbacks (250) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
@@ -9949,14 +9949,13 @@ A trilemma we brought up towards the beginning of this week’s material
 stated that scalability is just one aspect of blockchain functionality.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------- 219. scalability trilemma: revisited (284) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image219.png?raw=true"
+   alt="Scalability Trilemma, revisited"
    width="65%" />
 </p>
-<img src="./images/image219.png" style="width:5in;height:2.82079in" />
 
 Perhaps a blockchain would rather focus on security or decentralization,
 rather than scalability.
@@ -9968,10 +9967,10 @@ scalability solutions, there was usually some change in the regular
 blockchain trust structures.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 220. scalability summary: quick categorization (286) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image220.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -9989,14 +9988,13 @@ being a combination of the two.
 Let’s step through all of the scaling solutions we learned.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------- 221. scalability summary: quick categorization #2 (286) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image221.png?raw=true"
+   alt="Scalability Summary: Quick Categorization #2"
    width="65%" />
 </p>
-<img src="./images/image221.png" style="width:5in;height:2.80391in" />
 
 First, we tried tuning on-chain parameters for vertical scaling.
 
@@ -10089,14 +10087,13 @@ In Cosmos, hub and spoke blockchains create a network of interoperable
 blockchains.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------- 222. scalability summary: quick categorization #3 (289) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image222.png?raw=true"
+   alt="Scalability Summary: Quick Categorization #3"
    width="65%" />
 </p>
-<img src="./images/image222.png" style="width:5in;height:2.8123in" />
 
 And finally, with Tendermint’s integration within the Cosmos network and
 other modular blockchains, as well as in general novel alternative
@@ -10126,15 +10123,13 @@ there are the blockchain-specific scaling classifications: layer 1
 II\. Vertical Scaling
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------------- 223. tps calculation equation (290) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image223.png?raw=true"
+   alt="TPS Calculation Equations"
    width="65%" />
 </p>
-<img src="./images/image223.png"
-style="width:3.12639in;height:0.62083in" alt="TPS calculation" />
 
 Bitcoin processes less than 10 transactions per second, and without any
 scalability upgrades, it’s bound to stay at low TPS. Looking at how we
@@ -10160,16 +10155,13 @@ reducing system security. This is because while block time decreases,
 the time to propagate a block remains the same.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------------- 224. time to create block (290) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image224.png?raw=true"
+   alt="Time to broadcast block fixed while block creation time decreases"
    width="65%" />
 </p>
-<img src="./images/image224.png"
-style="width:5.20694in;height:1.19514in"
-alt="Time to broadcast block fixed while block creation time decreases" />
 
 Ethereum has dealt with this problem historically by employing the GHOST
 (Greedy Heaviest Observed SubTree) protocol. With the GHOST protocol,
@@ -10178,7 +10170,7 @@ rather the chain with the most “weight”, where weight is a value
 calculated by both a chain’s length and the number of uncle blocks it
 has. 
 
-<h3>II.II. Increase Block Size
+<h3>II.II. Increase Block Size</h3>
 
 Increasing block size would improve a blockchain’s TPS. Since a block
 can now contain more transactions, it would also lower transaction fees.
@@ -10239,15 +10231,13 @@ The idea behind the Bitcoin Lightning Network is to create a network of
 payment channels
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------- 225. diagram (292) --------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image225.png?raw=true"
+   alt="Payment Channel Network. Alice to Bob to Eve to Charlie"
    width="65%" />
 </p>
-<img src="./images/image225.png" style="width:4in;height:1.23606in"
-alt="Payment Channel Network. Alice to Bob to Eve to Charlie" />
 
 In the diagram above, Alice can pay Charlie without having a payment
 channel to Charlie directly, so long as there is a path from Alice to
@@ -10293,15 +10283,13 @@ security concerns.
 Here is an example of a sidechain setup:
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------------ 226. example sidechain setup (294) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image###.png?raw=true"
-   alt=" "
+   alt="Sidechains"
    width="65%" />
 </p>
-<img src="./images/image226.png" style="width:4in;height:1.99467in"
-alt="Side chains" />
 
 Source: [https://blockstream.com/technology/ ](https://blockstream.com/technology/ )
 
@@ -10339,15 +10327,13 @@ solutions are built on-chain or off-chain. Solutions can also scale
 vertically or horizontally.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------- 227. vertical and horizontal, layer 1 and layer 2 scaling solutions (295) ----------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image227.png?raw=true"
+   alt="Vertical and Horizontal, Layer 1 and Layer 2 scaling solutions"
    width="65%" />
 </p>
-<img src="./images/image227.png" style="width:5in;height:1.72756in"
-alt="Vertical and Horizontal, Layer 1 and Layer 2 scaling solutions" />
 
 **<u>Readings (Week 4)</u>**
 
@@ -10457,14 +10443,13 @@ how much information they reveal about their real identity.
 **<u>Anonymity Basics</u>**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 228. anonymity basics: blockchain fundamentals (298) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image228.png?raw=true"
+   alt="Anonymity Basics: Blockchain Fundamentals"
    width="65%" />
 </p>
-<img src="./images/image228.png" style="width:5in;height:2.79751in" />
 
 When thinking of anonymity, your mind might jump to secret
 organizations, such as the hacker group Anonymous or the inventor of
@@ -10489,14 +10474,13 @@ the average person.
 Imagine it’s just any other day.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------ 229. is anonymity only for drugs? splitting the bill (299) ------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image229.png?raw=true"
+   alt="Is Anonymity Only for Drugs? Splitting the Bill"
    width="65%" />
 </p>
-<img src="./images/image229.png" style="width:5in;height:2.78405in" />
 
 You’re with your friend at McDonald’s ordering food, and it’s time to
 pay.
@@ -10533,14 +10517,13 @@ it reduces the fungibility of the currency and makes life harder for you
 too.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------- 230. is anonymity only for drugs? blockchain fundamentals (300) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image230.png?raw=true"
+   alt="Is Anonymity Only for Drugs?  Blockchain Fundamentals"
    width="65%" />
 </p>
-<img src="./images/image230.png" style="width:5in;height:2.87876in" />
 
 Now let’s consider a more drastic example.
 
@@ -10556,14 +10539,13 @@ Even though you did nothing wrong, the exposure of the information about
 your transaction history and financial standing put you in danger.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------- 231. cypherpunk movement: bitcoin's genesis (301) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image231.png?raw=true"
+   alt="Cypherpunk Movement: Bitcoin's Genesis"
    width="65%" />
 </p>
-<img src="./images/image231.png" style="width:5in;height:2.81267in" />
 
 Taking a step back, we can look at the origin of Bitcoin and blockchain
 to gain some perspective.
@@ -10585,14 +10567,13 @@ else.
 They allowed anyone to store the blockchain.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 232. recordkeeping: everyone's the bank (302) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image232.png?raw=true"
+   alt="Recordkeeping: Everyone's the Bank"
    width="65%" />
 </p>
-<img src="./images/image232.png" style="width:5in;height:2.81948in" />
 
 What this means though is that everyone has everyone’s data.
 
@@ -10605,14 +10586,13 @@ protection, it’s easy to see how their transaction history and balance
 can be exposed to their detriment.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 233. anonymity basics: blockchains are not anonymous  (302) --------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image233.png?raw=true"
+   alt="Anonymity Basics: Blockchains are Not Anonymous"
    width="65%" />
 </p>
-<img src="./images/image233.png" style="width:5in;height:2.81948in" />
 
 It’s clear that blockchains are not anonymous by default.
 
@@ -10637,26 +10617,24 @@ terms of anonymity:
 Most blockchains are not anonymous.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 234. anonymity basics: blockchain fundamentals (303) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image234.png?raw=true"
+   alt="Anonymity Basics: Blockchain Fundamentals"
    width="65%" />
 </p>
-<img src="./images/image234.png" style="width:5in;height:2.82079in" />
 
 Instead, most blockchains are pseudonymous.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------ 235. anonymity basics: blockchain are not anonymous (304) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image235.png?raw=true"
+   alt="Anonymity Basics: Blockchain and Not Anonymous"
    width="65%" />
 </p>
-<img src="./images/image235.png" style="width:5in;height:2.75855in" />
 
 In most blockchains, we use a publicly viewable but arbitrary
 identifier, such as your Bitcoin address.
@@ -10688,14 +10666,13 @@ that that identity belongs to.
 Therefore, most blockchains, including Bitcoin, are pseudonymous.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------------- 236. anonymity basics: linking (305) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image236.png?raw=true"
+   alt="Anonymity Basics: Linking"
    width="65%" />
 </p>
-<img src="./images/image236.png" style="width:5in;height:2.80344in" />
 
 In Bitcoin, and some other blockchain platforms, it’s generally best
 practice not to reuse pseudonyms.
@@ -10723,14 +10700,13 @@ of each of these identities, but that can be easily resolved using
 wallet software, which often performs this by default.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------------- 237. anonymity basics: linking #2 (306) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image237.png?raw=true"
+   alt="Anonymity Basics: Linking #2"
    width="65%" />
 </p>
-<img src="./images/image237.png" style="width:5in;height:2.82148in" />
 
 Just generate a new address every time you receive any cryptocurrency,
 or each time you use any sort of blockchain application!
@@ -10744,14 +10720,13 @@ In Bitcoin, you could just generate a new address per UTXO every time
 you receive Bitcoin.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 238. anonymity and ethics: why anonymity? (307) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image238.png?raw=true"
+   alt="Anonymity and Ethics: Why Anonymity?"
    width="65%" />
 </p>
-<img src="./images/image238.png" style="width:5in;height:2.80515in" />
 
 It’s much harder to do that in Ethereum and other account based
 blockchains.
@@ -10760,28 +10735,26 @@ Unfortunately, it turns out that basic analysis renders this technique
 of regenerating pseudonyms ineffective.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------------- 239. anonymity basics: linking (307) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image238.png?raw=true"
+   alt="Anonumity Basics: Linking"
    width="65%" />
 </p>
-<img src="./images/image239.png" style="width:5in;height:2.80802in" />
 
 Similar to a lock on a front door, generating new pseudonyms for every
 transaction does keep away naive attackers, but a determined opponent
 can probably find a way to link your activity together.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------------- 240. anonymity basics: linking #2 (308) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image240.png?raw=true"
+   alt="Anonumity Basics: Linking #2"
    width="65%" />
 </p>
-<img src="./images/image240.png" style="width:5in;height:2.8123in" />
 
 The term “linking” in the context of anonymity is the act of associating
 a real-world identity to a pseudonym.
@@ -10807,14 +10780,13 @@ deanonymize them.
 But see, that’s the catch.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 241. anonymity basics: blockchain fundamentals (309) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image241.png?raw=true"
+   alt="Anonymity Basics: Blockchain Fundamentals"
    width="65%" />
 </p>
-<img src="./images/image241.png" style="width:5in;height:2.79759in" />
 
 The underlying technology might be anonymous or pseudonymous, but we
 still have to consider human factors.
@@ -10824,14 +10796,13 @@ isn’t going out of their way to do all they can to possibly ensure their
 privacy.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------- 242. anonymity and ethics: levels of anonymity? (309) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image242.png?raw=true"
+   alt="Anonymity and Ethics: Levels of Anonymity"
    width="65%" />
 </p>
-<img src="./images/image242.png" style="width:5in;height:2.80744in" />
 
 What we like to say is that anonymity is not absolute – not a clear yes
 or no.
@@ -10848,14 +10819,13 @@ achieved privacy.
 But again, why do we care about having a higher degree of anonymity?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 242b. anonymity and ethics: why anonymity? (310) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image242b.png?raw=true"
+   alt="Anonymity and Ethics: Why Anonymity?"
    width="65%" />
 </p>
-<img src="./images/image238.png" style="width:5in;height:2.80515in" />
 
 To deal with the question again of how anonymous cryptocurrencies can
 indeed be used for money laundering and online drug purchases: we can
@@ -10955,7 +10925,7 @@ deanonymization tactics to design resistances to enhance user privacy.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image244.png?raw=true"
-   alt="Deanonymization: Transaction Graph Analysis"
+   alt="Anonymity Basics: Blockchain Fundamentals"
    width="65%" />
 </p>
 
@@ -10974,11 +10944,11 @@ to reveal information about a particular pseudonym.
 
 That’s the goal of deanonymization, or linking
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 246. deanonymization: transaction graph analysis (314) -------------------->
+<!-------------------- 246. deanonymization: transaction graph analysis @2 (314) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image246.png?raw=true"
-   alt="Deanonymization: Transaction Graph Analysis"
+   alt="Deanonymization: Transaction Graph Analysis #2"
    width="65%" />
 </p>
 
@@ -11001,7 +10971,7 @@ make certain transactions with certain other pseudonyms.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image247.png?raw=true"
-   alt="Deanonymization: Transaction Graph Analysis"
+   alt="Deanonymization: Transaction Graph Analysis #3"
    width="65%" />
 </p>
 
