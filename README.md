@@ -7498,7 +7498,7 @@ create **self-sovereign** decentralized networks. 
 <p align="center" width="100%">
 <img src="/images/image106.png?raw=true"
    alt="There are two main catogories of databases: Centralized Databases and Distributed Databases. Within Distributed Databases, there is Distributed ledgers. Within Distributed ledgers, there is Blockchain"
-   width="65%" />
+   width="35%" />
 </p>
 
 **Centralized databases** are run by a single entity (e.g. a company)
@@ -7510,7 +7510,7 @@ that handles all requests and data processing.
 <p align="center" width="100%">
 <img src="/images/image107.png?raw=true"
    alt="Incoming to Central Database"
-   width="65%" />
+   width="35%" />
 </p>
 
 **Distributed databases** are run by a group of storage nodes that are
@@ -7524,7 +7524,7 @@ systems (hence the solid lines connecting storage nodes.)
 <p align="center" width="100%">
 <img src="/images/image108.png?raw=true"
    alt="Incoming to Distributed Databases"
-   width="65%" />
+   width="35%" />
 </p>
 
 **Distributed ledgers** are a specific type of distributed database in
@@ -7535,15 +7535,13 @@ implement some form of consensus protocol to have a consistent view of
 the system.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------- 109. Incoming request: consistent shared view (210) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image109.png?raw=true"
-   alt=" "
-   width="65%" />
+   alt="Incoming to Distributed Databases"
+   width="35%" />
 </p>
-<img src="./images/image148.png" style="width:3in;height:2.95906in"
-alt="Distributed Ledger" />
 
 Distributed ledgers that specifically implement a chain of blocks in
 their protocol are known as **blockchains**.
@@ -7626,7 +7624,7 @@ misalignments.
 <p align="center" width="100%">
 <img src="/images/image110.png?raw=true"
    alt="Ryan Gosling, Fake Currency, Miroskii"
-   width="65%" />
+   width="35%" />
 </p>
 
 Ryan Gosling, famed actor, also alleged graphic designer! Image used for
@@ -7726,14 +7724,14 @@ blockchain system, in terms of transaction volume and block time.
 Then, we’ll look at how we can achieve those properties by understanding
 fundamental systems scaling approaches and tradeoffs.
 
-**Scaling Background (11:44)**
+<h3>Scaling Background (11:44)</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 111. what is the scalability problem? (217) -------------------------->
+<!-------=----- 111. what is the scalability problem? scalability definition (217) --------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image111.png?raw=true"
-   alt=" "
+   alt="What is the Scalability Problem? Scalability Definition"
    width="65%" />
 </p>
 
@@ -7751,11 +7749,11 @@ that our blockchain system would be able to handle more transactions
 with a higher velocity.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 112. what is the scalability problem? #2 (218) ------------------------->
+<!------------------------ 112. what is the scalability problem? #2 (218) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image112.png?raw=true"
-   alt=" "
+   alt="What is the Scalability Problem? #2"
    width="65%" />
 </p>
 
@@ -7780,11 +7778,11 @@ This isn’t scalable though, at least in the sense that I don’t want to
 wait an hour every morning to get my coffee.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------- 113. what is the scalability problem? #3 (219) -------------------------->
+<!-------------- 113. what is the scalability problem? another consideration (219) --------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image113.png?raw=true"
-   alt=" "
+   alt="What is the Scalability Problem? Another Consideration"
    width="65%" />
 </p>
 
@@ -7829,7 +7827,7 @@ whether they be run by dedicated or casual users, we must design
 blockchain systems keeping into account storage size.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 114. scalability: trilemma (220) -------------------------->
+<!------------------------------ 114. scalability: trilemma (220) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image114.png?raw=true"
@@ -7877,14 +7875,13 @@ amount of resources, they could tilt the system in their favor and so
 decentralization would take a hit.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 115. transaction size: blockchain fundamentals (221) -------------------------->
+<!-------------------- 115. transaction size: blockchain fundamentals (221) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image115.png?raw=true"
-   alt=" "
+   alt="Transaction Size: Blockchain Fundamentals"
    width="65%" />
 </p>
-<img src="./images/image154.png" style="width:5in;height:2.84202in" />
 
 To understand all of that more, let’s look at further detail and do a
 bit of math.
@@ -7898,7 +7895,7 @@ We can see that on average, Bitcoin transactions have a size of around
 546 bytes.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------- 116. max transactions per second (222) ----------------------------->
+<!---------------------------- 116. max transactions per second (222) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image116.png?raw=true"
@@ -7912,11 +7909,11 @@ The system was designed for 1 megabyte blocks, and we can see that
 reflected in the graph.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------- 117. max transactions per second #2 (223) ---------------------------->
+<!-------------------------- 117. max transactions per second #2 (223) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image117.png?raw=true"
-   alt="Max Transactions Per Second"
+   alt="Max Transactions Per Second #2"
    width="65%" />
 </p>
 
@@ -7940,11 +7937,11 @@ final value of 3.2 transactions per second.
 That’s not too hot.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 118.  (224) -------------------------->
+<!------------------ 118. tps comparisons: bitcoin vs modern payments  (224) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image118.png?raw=true"
-   alt=" "
+   alt="TPS Comparisons: Bitcoin vs Modern Payments"
    width="65%" />
 </p>
 
@@ -7968,7 +7965,7 @@ is definitely quite drastic.
 That was the situation at hand.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------- 119. current scalability: blockchain fundamentals (225) ---------------------->
+<!------------------ 119. current scalability: blockchain fundamentals (225) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image119.png?raw=true"
@@ -8009,11 +8006,11 @@ approaches, so that’s what we’re going to be looking into in later
 sections.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 120.  (226) -------------------------->
+<!----------------------- 120. scaling techniques: how do we scale? (226) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image120.png?raw=true"
-   alt=" "
+   alt="Scaling Techniques: How Do We Scale?"
    width="65%" />
 </p>
 
@@ -8069,7 +8066,7 @@ another useful model to view scaling solutions, which is in layers.
 Yep that’s right –– blockchains have layers.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 121.  (228) -------------------------->
+<!-------------------- 121. layers of scaling: blockchans have layers (228) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image121.png?raw=true"
@@ -8095,11 +8092,11 @@ scaling solution, since it would fundamentally change the infrastructure
 and operation of the Ethereum blockchain.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 122.  (###) -------------------------->
+<!----------------- 122. layers of scaling: blockchains have layers (222) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image122.png?raw=true"
-   alt=" "
+   alt="Layers of Scaling: Blockchains have Layers"
    width="65%" />
 </p>
 
@@ -8170,7 +8167,7 @@ After all, decreasing block time is one of the methods of scaling that
 we looked at earlier, right?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 124.  (###) -------------------------->
+<!----------------------- 124. naive solution: idea (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image124.png?raw=true"
@@ -8196,11 +8193,11 @@ to half of the network, and around 12 to 13 seconds to send a block to
 Let’s say that we halve the block time.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 125.  (###) -------------------------->
+<!----------------------------- 125. naive solution: idea #2 (231) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image125.png?raw=true"
-   alt=" "
+   alt="Naive Solution: Idea #2"
    width="65%" />
 </p>
 
@@ -8214,7 +8211,7 @@ If we halve the block time, then it would only take 1 year to make it
 the same size, since we’re producing blocks twice as fast now.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 126.  (###) -------------------------->
+<!----------------------- 126. naive solution: cons. natural forks (232) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image126.png?raw=true"
@@ -14150,4 +14147,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-12-2022 12:46pm last updated.
+5-12-2022 12:14am last updated.
