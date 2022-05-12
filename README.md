@@ -8956,7 +8956,7 @@ Alice and Bob.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image152.png?raw=true"
-   alt=" "
+   alt="payment channel buildup: private channels"
    width="65%" />
 </p>
 
@@ -8984,11 +8984,11 @@ This way, they could avoid having to undergo the high fees and long
 confirmation times of regular on chain transactions.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 153. payment channel buildup: private channels #2 (257) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image191.png?raw=true"
-   alt=" "
+<img src="/images/image153.png?raw=true"
+   alt="payment channel buildup: private channels #2"
    width="65%" />
 </p>
 
@@ -9014,11 +9014,11 @@ This way, we can encode the proper functionality so that neither party
 in a payment channel can cheat the other.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 154. payment channel buildup: idea (258) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image192.png?raw=true"
-   alt=" "
+<img src="/images/image154.png?raw=true"
+   alt="payment channel buildup: idea"
    width="65%" />
 </p>
 
@@ -9043,11 +9043,11 @@ guarantees of a contract governing all actions – including incentives
 for not cheating.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------- 155. payment channel payments: blockchain fundamentals (258) ------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image193.png?raw=true"
-   alt=" "
+<img src="/images/image155.png?raw=true"
+   alt="payment channel payments: blockchain fundamentals"
    width="65%" />
 </p>
 
@@ -9076,11 +9076,11 @@ What they need for this is to get both parties to agree, or to wait a
 large number of blocks, say 1000 blocks.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------- 156. payment channel payments: blockchain fundamentals (260) ------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image194.png?raw=true"
-   alt=" "
+<img src="/images/image156.png?raw=true"
+   alt="Payment Channel Payments: Blockchain Fundamentals"
    width="65%" />
 </p>
 
@@ -9114,11 +9114,11 @@ his money, and then claim all the funds in channel – an incentive to
 prevent cheating.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------- 157. payment channel conclusions: goals reached (260) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image195.png?raw=true"
-   alt=" "
+<img src="/images/image157.png?raw=true"
+   alt="Payment Channel Conclusions: Goals Reached"
    width="65%" />
 </p>
 
@@ -9160,11 +9160,11 @@ transact, the scalability could be pretty high.
 There remain some issues though.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 158. payment channel conclusions: issues (262) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image196.png?raw=true"
-   alt=" "
+<img src="/images/image158.png?raw=true"
+   alt="payment channel conclusions: issues"
    width="65%" />
 </p>
 
@@ -9206,11 +9206,11 @@ send him money.
 **Lightning & Raiden**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 158. payment channel conclusions: issues #2 (263) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image197.png?raw=true"
-   alt=" "
+<img src="/images/image158.png?raw=true"
+   alt="payment channel conclusions: issues #2"
    width="65%" />
 </p>
 
@@ -9226,11 +9226,11 @@ As long as Alice is connected to Charlie somehow in the network, then
 she can send him money.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 160. lightning network: blockchain fundamentals (265) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image198.png?raw=true"
-   alt=" "
+<img src="/images/image160.png?raw=true"
+   alt="lightning network: blockchain fundamentals"
    width="65%" />
 </p>
 
@@ -9242,10 +9242,10 @@ payment channel network, where her payment goes first to Bob, then to
 Eve, then finally to Charlie.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------- 161. lightning network scalability: blockchain fundamentals (267) -------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image199.png?raw=true"
+<img src="/images/image161.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -9317,10 +9317,10 @@ Instead of 3 tps, or 6 or 10 with incremental changes, we could
 literally have tens of thousands of tps with the Lightning Network.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------- 162. lighning network scalability: blockchain fundamentals (267) --------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image200.png?raw=true"
+<img src="/images/image162.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -9369,10 +9369,10 @@ Of course, the idea of payment channel networks isn’t limited to just
 the Lightning Network for Bitcoin.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------- 163. raiden network scalability: blockchain fundamentals (268) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image201.png?raw=true"
+<img src="/images/image163.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -9408,10 +9408,10 @@ scaling solutions in more ambitious diagonal scaling solutions.
 <u>Sharding & Sidechains</u>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 164. sharding: idea (269) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image202.png?raw=true"
+<img src="/images/image164.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -9464,10 +9464,10 @@ What we notice is that since every node has to process everything, it
 creates a scalability bottleneck.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 165. sharding: idea #2 (271) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image203.png?raw=true"
+<img src="/images/image165.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -9507,10 +9507,10 @@ well as the ones yet to come in the following sections, sharding is
 currently actively being researched.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 166. sharding: idea #3 (272) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image204.png?raw=true"
+<img src="/images/image166.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -9546,10 +9546,10 @@ and succinctly between shards, and also the issue of how we can maintain
 correct operation if a single shard has been taken over.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 167. sidechains: bitcoin sidechains (273) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image205.png?raw=true"
+<img src="/images/image167.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -9578,7 +9578,7 @@ And if this is the case, there also needs to be countermeasures against
 a compromised chain.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 168. sidechains: blockchain fundamentals (274) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image206.png?raw=true"
@@ -14147,4 +14147,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-12-2022 2:10pm last updated.
+5-12-2022 4:35pm last updated.
