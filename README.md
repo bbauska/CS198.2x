@@ -5226,7 +5226,7 @@ We’re simply sampling a variety of projects across multiple different
 facets of the enterprise blockchain space.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ 114. scalability: trilemma (142) --------------------------------->
+<!------------------------------ 114. scalability: trilemma (142) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image114.png?raw=true"
@@ -6132,7 +6132,6 @@ as well.
    alt="Current Issues: Real Estate"
    width="65%" />
 </p>
-<img src="./images/image113.png" style="width:5in;height:2.86076in" />
 
 Real estate is another industry being revolutionized by blockchain,
 primarily when it comes to land rights.
@@ -6192,14 +6191,13 @@ Telangana.
 **Use Case: Foreign Aid (2:00)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 78. non-cash aid: foreign aid (172) -------------------------->
+<!----------------------------- 78. non-cash aid: foreign aid (172) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image078.png?raw=true"
    alt="Non-Cash Aid: Foreign Aid"
    width="65%" />
 </p>
-<img src="./images/image115.png" style="width:5in;height:2.78583in" />
 
 Last but certainly not least, blockchain can improve the efficiency and
 effectiveness of foreign aid.
@@ -7237,7 +7235,6 @@ serve audiences as large as possible.
    alt="Money Transmitter License"
    width="65%" />
 </p>
-<img src="./images/image138.png" style="width:5in;height:2.79388in" />
 
 Entities which deal with money transfer services or payment instruments
 are known as money transmitters.
@@ -7541,7 +7538,7 @@ the system.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image109.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -7908,7 +7905,6 @@ We can see that on average, Bitcoin transactions have a size of around
    alt="Max Transactions Per Second"
    width="65%" />
 </p>
-<img src="./images/image155.png" style="width:5in;height:2.79579in" />
 
 And here, we have a similar graph, but for Bitcoin block size.
 
@@ -8106,7 +8102,6 @@ and operation of the Ethereum blockchain.
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image161.png" style="width:5in;height:2.82363in" />
 
 On the other hand, we have layer 2 scaling solutions, which push
 expensive computation off the blockchain.
@@ -8157,7 +8152,6 @@ scaling projects and active areas of research later on.
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image162.png" style="width:5in;height:2.80389in" />
 
 The first idea we have for a naive scaling solution is to increase the
 speed of blocks, thereby decreasing the blocktime.
@@ -8209,7 +8203,6 @@ Let’s say that we halve the block time.
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image164.png" style="width:5in;height:2.82609in" />
 
 Firstly, decreasing block time means that the blockchain will grow
 faster as well.
@@ -8228,7 +8221,6 @@ the same size, since we’re producing blocks twice as fast now.
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image165.png" style="width:5in;height:2.79483in" />
 
 Now, with the decreased block time, it’s also more likely that different
 blocks at the same height be produced by different miners in the
@@ -8270,7 +8262,6 @@ potential for double spends.
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image166.png" style="width:5in;height:2.83065in" />
 
 What we were trying to do with our naive scaling solution was to
 decrease the block creation time.
@@ -8291,7 +8282,6 @@ a look at with a more constructive outlook?
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image167.png" style="width:5in;height:2.81452in" />
 
 Recall that another problem with the naive solution was that there were
 a lot of naturally occurring forks.
@@ -8318,7 +8308,6 @@ How do we avoid wasting all of this work?
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image168.png" style="width:5in;height:2.79675in" />
 
 Instead of just increasing the speed of blocks and doing nothing else,
 the observant on here is that we can increase the speed of blocks by
@@ -8359,7 +8348,6 @@ reduce the overhead of communicating with pools anyways.
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image169.png" style="width:5in;height:2.77419in" />
 
 Ethereum had a period when it had 17 second block times, but now it’s
 been more around 13, 14, 15.
@@ -8547,7 +8535,14 @@ signatures.
 
 Assuming the signatures are valid, then the transaction is valid.
 
-<img src="./images/image176.png" style="width:5in;height:2.80998in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image176.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Old nodes on the other hand would find these new scriptPubKeys and think
 that whoever created the transactions are crazy.
