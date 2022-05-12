@@ -5610,7 +5610,7 @@ goal is for you to apply your previous knowledge of blockchain’s history
 and mechanisms to these use cases to evaluate for yourself the use case
 quality.
 
-**Use Case: Auto & Mobility**
+<h3>Use Case: Auto & Mobility</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 59. mobi: auto and mobility (154) ------------------------------->
@@ -5679,7 +5679,7 @@ industry.
 You’ll find that these use cases revolve primarily around tokenization,
 disintermediated value transfer, privacy, and traceability.
 
-**Use Case: Finance**
+<h3>Use Case: Finance</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 62. digitizing assets: banks & financial institutions (156) ------------------->
@@ -5758,7 +5758,7 @@ banks to use blockchain to help audit financial reports.
 The transparency and immutability afforded to blockchain-based systems
 is particularly enticing for accounting use cases.
 
-**Use Case: Travel & Tourism**
+<h3>Use Case: Travel & Tourism</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 65. services: travel & tourism (159) ------------------------------->
@@ -5822,7 +5822,7 @@ in 2020.
 
 Next, we’ll be talking about broader approaches to digital identity.
 
-**Use Case: Digital Identity**
+<h3>Use Case: Digital Identity</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------ 67. self-sovereignty: digital identity (161) -------------------------->
@@ -5889,7 +5889,7 @@ your identity but you.
 Next, we’ll be talking about blockchain’s applications in the healthcare
 industry.
 
-**Use Case: Healthcare**
+<h3>Use Case: Healthcare</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 69. medical data: healthcare (163) ------------------------------>
@@ -5951,7 +5951,7 @@ premiums.
 Insurance as an industry is also slated to be radically changed by the
 blockchain.
 
-**Use Case: Insurance**
+<h3>Use Case: Insurance</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 71. industry trands: insurance (165) ----------------------------->
@@ -6010,7 +6010,7 @@ services.
 
 Next, we’re going to look at how blockchain interacts with IoT.
 
-**Use Case – Supply Chain (2:27)**
+<h3>Use Case – Supply Chain (2:27)</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------- 74. walmart and alibaba: supply chain (167) -------------------------->
@@ -6086,7 +6086,7 @@ This endpoint verification problem, or, more informally, ‘garbage in,
 garbage out’, is one of largest barriers to large scale blockchain
 adoption today.
 
-**Use Case:IoT (1:02)**
+<h3>Use Case:IoT (1:02)</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- 75. Security: IoT (169) ------------------------------------>
@@ -6122,7 +6122,7 @@ collected information from those devices to multiple sources.
 Next, we will talk about blockchain in supply chain, which leverages IoT
 as well.
 
-**Use Case: Housing & Real Estate (1:39)**
+<h3>Use Case: Housing & Real Estate (1:39)</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 76. current issues: real estate (170) ------------------------------>
@@ -6188,7 +6188,7 @@ city in Vermont was launched earlier this year, and Zebi Data, an indian
 blockchain startup partnering with the states of Maharashtra and
 Telangana.
 
-**Use Case: Foreign Aid (2:00)**
+<h3>Use Case: Foreign Aid (2:00)</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 78. non-cash aid: foreign aid (172) ------------------------------>
@@ -6263,7 +6263,7 @@ This concludes the specific use case section of this lecture.
 We’re now going to dive into generalizations that can be made between
 use cases.
 
-**Use Case Generalizations (8:25)**
+<h3>Use Case Generalizations (8:25)</h3>
 
 Now that we’ve seen all these use cases, let’s go ahead and finish off
 with some generalizations.
@@ -6611,7 +6611,7 @@ which demonstrate the difference between theory and reality.
 Finally, we’ll introduce some standards that have been suggested to help
 bring order to this ambiguous and uncertain space.
 
-**ICO Schemes & Culture (12:57)**
+<h3>ICO Schemes & Culture (12:57)</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 86. initial coin offerings: ico schemas and culture (184) -------------------->
@@ -7125,7 +7125,7 @@ the space is still new.
 Finance is second-largest, followed by communications, trading &
 investing, payments, and more.
 
-**Intro: Regulations & Caveats (0:43)**
+<h3>Intro: Regulations & Caveats (0:43)</h3>
 
 To conclude on the possibilities of this decentralized technology, it’s
 important to come back to fitting it into the reality of governments and
@@ -7141,7 +7141,7 @@ The perspective and regulations on blockchain technology are developing
 every day, but we’re going to try to introduce to you the most accurate
 snapshot of present-day perception around the technology.
 
-**Regulations & Caveats (9:28)**
+<h3>Regulations & Caveats (9:28)</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!--------------------- 97. anti-money laundering: law & regulations (199) ----------------------->
@@ -7474,9 +7474,9 @@ essentially banning cryptocurrencies.
 India shut down an exchange known as BTCXIndia which, despite complying
 with AML/KYC regulations, still was deemed risky.
 
-**Text: Week 3 Summary**
+<h3>Text: Week 3 Summary</h3>
 
-**I. Enterprise Blockchain Overview**
+<h3>I. Enterprise Blockchain Overview</h3>
 
 As Bitcoin and blockchain technology matured, banks and corporations
 took interest in developing what are now known
@@ -7552,7 +7552,7 @@ and private blockchains are known as permissioned ledgers, since they
 require some level of permission granted – as opposed to openly readable
 and writable public blockchains.
 
-**II. Enterprise Blockchain Platforms**
+<h3>II. Enterprise Blockchain Platforms</h3>
 
 There exist many enterprise blockchain platforms today – too many to
 mention in detail in this summary. The key things to look for when
@@ -7570,7 +7570,7 @@ for a particular use case are:
 3.  These properties are affected by the underlying consensus
     mechanism(s) an enterprise blockchain platform supports
 
-**III. Use Cases & Industries**
+<h3>III. Use Cases & Industries</h3>
 
 Enterprise blockchains are being used today in a number of different use
 cases, including: auto/mobility, finance, travel/tourism, digital
@@ -7599,7 +7599,7 @@ Always keep in mind the advantages of centralized database solutions,
 and think of whether they, or a subset of blockchain technology, could
 be used to solve your business need – rather than an entire blockchain.
 
-**IV. ICO Schemas & Culture**
+<h3>IV. ICO Schemas & Culture</h3>
 
 An** initial coin offering (ICO)** is a novel, “unregulated” means of
 raising funds for a blockchain startup.
@@ -7630,7 +7630,7 @@ misalignments.
 Ryan Gosling, famed actor, also alleged graphic designer! Image used for
 ICO team of MIROSKII, fake cryptocurrency project
 
-**V. Regulations & Caveats**
+<h3>V. Regulations & Caveats</h3>
 
 As the world has never seen anything like blockchain before, there are
 still few regulations to specifically handle cryptocurrency and
@@ -7648,7 +7648,7 @@ Vermont and Arizona have declared that portions of the information on a
 blockchain can be considered legal evidence in court, but some countries
 have taken steps to restricting access to cryptocurrencies.
 
-**Readings (Week 3)**
+<h3>Readings (Week 3)</h3>
 
 > [Blockchain in Enterprise: How Companies are using Blockchain
 > Today](https://blockchainatberkeley.blog/a-snapshot-of-blockchain-in-enterprise-d140a511e5fd)
@@ -7671,7 +7671,7 @@ have taken steps to restricting access to cryptocurrencies.
 **<u>  
 </u>**
 
-**Welcome to Week 4**
+<h3>Welcome to Week 4</h3>
 
 Welcome to Week 4 of CS198.2x, Blockchain Technology.
 
@@ -7707,7 +7707,7 @@ We’ll then learn from a naive scaling solution, and then take the
 lessons learned and apply them in analysis and design of new scaling
 solutions.
 
-**Intro: Scaling Background (0:46)**
+<h3>Intro: Scaling Background (0:46)</h3>
 
 To fully understand what we want in our end goal for scalability is, we
 must – as always – analyze the problem at hand from the top down, and
@@ -8070,7 +8070,7 @@ Yep that’s right –– blockchains have layers.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image121.png?raw=true"
-   alt=" "
+   alt="Layers of Scaling: Blockchains have Layers"
    width="65%" />
 </p>
 
@@ -8092,7 +8092,7 @@ scaling solution, since it would fundamentally change the infrastructure
 and operation of the Ethereum blockchain.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------- 122. layers of scaling: blockchains have layers (222) ------------------------>
+<!--------------- 122. layers of scaling: blockchains have layers #2 (222) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image122.png?raw=true"
@@ -8125,7 +8125,7 @@ distinctions are important in identifying solutions.
 **<u>  
 </u>**
 
-**Intro: Vertical Scaling On-Chain (0:32)**
+<h3>Intro: Vertical Scaling On-Chain (0:32)</h3>
 
 So now that we have an idea and overview of the basic scalability
 problem for blockchain, let’s start by seeing if we can design a simple
@@ -8139,14 +8139,14 @@ our solutions, providing a baseline for comparison with other scaling
 categories and paving the way for more in depth analysis in current day
 scaling projects and active areas of research later on.
 
-**Naïve Solution (2:45)**
+<h3>Naïve Solution (2:45)</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 123.  (###) -------------------------->
+<!------------------------------ 123. naive solution: idea (230) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image123.png?raw=true"
-   alt=" "
+   alt="Naive Solution: Idea"
    width="65%" />
 </p>
 
@@ -8167,11 +8167,11 @@ After all, decreasing block time is one of the methods of scaling that
 we looked at earlier, right?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 124. naive solution: idea (###) -------------------------->
+<!----------------------------- 124. naive solution: idea #2 (231) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image124.png?raw=true"
-   alt=" "
+   alt="Naive Solution: Idea #2"
    width="65%" />
 </p>
 
@@ -8249,14 +8249,14 @@ theory and network attacks, but a malicious miner could take advantage
 of this situation and mine selfishly, and then there could be the
 potential for double spends.
 
-**Decrease Block Time**
+<h3>Decrease Block Time</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 127.  (###) -------------------------->
+<!----------------------- 127. naive solution revisited: cons size (234) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image127.png?raw=true"
-   alt=" "
+   alt="Naive Solution Revisited: Cons Size"
    width="65%" />
 </p>
 
@@ -8272,7 +8272,7 @@ But what are some other outcomes of this naive solution that we can take
 a look at with a more constructive outlook?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 128.  (###) -------------------------->
+<!------------------ 128. naive solution revisited: cons natural forks (234) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image128.png?raw=true"
@@ -8298,11 +8298,11 @@ time?
 How do we avoid wasting all of this work?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 129.  (###) -------------------------->
+<!----------------------------------- 129. ghost: idea (235) ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image129.png?raw=true"
-   alt=" "
+   alt="Ghost: Idea"
    width="65%" />
 </p>
 
@@ -8338,11 +8338,11 @@ Since block times are so fast, sufficiently fast miners would want to
 reduce the overhead of communicating with pools anyways.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 130.  (###) -------------------------->
+<!----------------------- 130. ghost: ethereum average block time (236) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image130.png?raw=true"
-   alt=" "
+   alt="Ghost: Ethereum Average Block Time"
    width="65%" />
 </p>
 
@@ -8358,14 +8358,14 @@ Bitcoin and Ethereum blockchains to add blocks, it’s clear to see that
 40 confirmations in Ethereum might be more secure than 6 confirmations
 in Bitcoin.
 
-**Increase Block Time**
+<h3>Increase Block Time</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------------- 131. blocksize increate: idea (237) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image170.png?raw=true"
-   alt=" "
+<img src="/images/image131.png?raw=true"
+   alt="Blocksize Increase: Idea"
    width="65%" />
 </p>
 
@@ -8399,11 +8399,11 @@ would not be good if you’re a miner, since that means you get to collect
 less reward.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------------- 132. blocksize increase: cons (238) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image171.png?raw=true"
-   alt=" "
+<img src="/images/image132.png?raw=true"
+   alt="Blocksize Increase: Cons"
    width="65%" />
 </p>
 
@@ -8425,11 +8425,11 @@ second – and that’s not even accounting for the other cons of increasing
 block size.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------------- 133.  blocksize increase: cons #2 (239) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image172.png?raw=true"
-   alt=" "
+<img src="/images/image133.png?raw=true"
+   alt="Blocksize Increase: Cons #2"
    width="65%" />
 </p>
 
@@ -8448,11 +8448,11 @@ block to reach them.
 **Decrease Transaction Size**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------- 134. decrease transaction size: idea (240) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image173.png?raw=true"
-   alt=" "
+<img src="/images/image134.png?raw=true"
+   alt="Decrease Transaction Size: Idea"
    width="65%" />
 </p>
 
@@ -8473,11 +8473,11 @@ and we’ll be going over two main ways we can decrease transaction size,
 which are SegWit and recursive SNARKs.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------------- 135. segregated witness: idea (241) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image174.png?raw=true"
-   alt=" "
+<img src="/images/image135.png?raw=true"
+   alt="Segregated Witness: Idea"
    width="65%" />
 </p>
 
@@ -8510,11 +8510,11 @@ From previous sections, we saw that transaction size is on average about
 546 bytes, so if we can decrease that size, that would be awesome.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------------- 136. seg witness: avoid hard fork (242) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image175.png?raw=true"
-   alt=" "
+   alt="Segregated Witness: Avoid Hard Fork"
    width="65%" />
 </p>
 
@@ -8533,11 +8533,11 @@ signatures.
 Assuming the signatures are valid, then the transaction is valid.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 137. seg witness: avoid hard fork #2 (242) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image176.png?raw=true"
-   alt=" "
+<img src="/images/image137.png?raw=true"
+   alt="Segregated Witness: Avoid Hard Fork #2"
    width="65%" />
 </p>
 
@@ -8560,11 +8560,11 @@ and new segwit-enabled nodes, the transaction was seen as valid.
 SegWit is compatible as a soft fork.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 138. seg witness: mirror signature tree (243) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image177.png?raw=true"
-   alt=" "
+<img src="/images/image138.png?raw=true"
+   alt="Segregated Witness: Mirror Signature Tree"
    width="65%" />
 </p>
 
@@ -8573,11 +8573,11 @@ transaction data, the blockchain doesn’t have any evidence that the
 correct signatures were included in their respective transactions!
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------- 139. seg witness: mirror signature tree #2 (244) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image178.png?raw=true"
-   alt=" "
+<img src="/images/image139.png?raw=true"
+   alt="Segregated Witness: Mirrow Signature Tree #2"
    width="65%" />
 </p>
 
@@ -8594,11 +8594,11 @@ witnesses all contained within the block header, giving us back all the
 beautiful properties of tamper evidence.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------------- 140. seg witness: pros and cons (244) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image179.png?raw=true"
-   alt=" "
+<img src="/images/image140.png?raw=true"
+   alt="Segregated Witness: Pros and Cons"
    width="65%" />
 </p>
 
@@ -8654,11 +8654,11 @@ And we also have a smaller blockchain size for the amount of
 transactions we want to represent.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###. segwit witness: pros and cons (246) -------------------------->
+<!------------------------- 141. segwit witness: pros and cons #2 (246) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image180.png?raw=true"
-   alt=" "
+<img src="/images/image141.png?raw=true"
+   alt="Segregated Witness: Pros and Cons #2"
    width="65%" />
 </p>
 
@@ -8689,11 +8689,11 @@ Bitcoin user.
 And finally, SegWit isn’t the only way to fix transaction malleability.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###. bitcoin scalability (247) -------------------------->
+<!---------------------------- 143. bitcoin and bitcoin cash (247) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image181.png?raw=true"
-   alt=" "
+<img src="/images/image143.png?raw=true"
+   alt="Bitcoin and Bitcoin Cash"
    width="65%" />
 </p>
 
@@ -8705,11 +8705,11 @@ Witness.
 This was on August 1st, 2017, at block number 478,558.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------- 182. recursive snarks scalabilty: blockchain fundamentals (247) ---------------->
+<!--------------- 144. recursive snarks scalabilty: blockchain fundamentals (247) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image182.png?raw=true"
-   alt=" "
+<img src="/images/image144.png?raw=true"
+   alt="Recursize Snarks Scalability: Blockchain Fundamentals"
    width="65%" />
 </p>
 
@@ -8730,11 +8730,11 @@ security practice, since all it takes now is one data leak and now all
 your user’s identities are compromised.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------ ###. recursive snarks scalabilty: idea (248) -------------------------->
+<!------------------------ 145. recursive snarks scalabilty: idea (248) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image183.png?raw=true"
-   alt=" "
+<img src="/images/image145.png?raw=true"
+   alt="Recursize Snarks Scalability: Idea"
    width="65%" />
 </p>
 
@@ -8768,11 +8768,11 @@ any machine in the network can verify the proof in milliseconds.
 That’s the main idea of zk-SNARKS
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------- ###. recursive snarks scalabilty: improvements (249) --------------------->
+<!--------------------- 146. recursive snarks scalabilty: improvements (249) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image184.png?raw=true"
-   alt=" "
+<img src="/images/image146.png?raw=true"
+   alt="Recursize Snarks Scalability: Improvements"
    width="65%" />
 </p>
 
@@ -8799,11 +8799,11 @@ this with the average proof size, which is 288 bytes.
 For some closing thoughts, let’s look back at our previous slide.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------- ###. recursive snarks scalabilty: drawbacks (250) ------------------------>
+<!--------------------- 147. recursive snarks scalabilty: drawbacks (250) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image185.png?raw=true"
-   alt=" "
+<img src="/images/image147.png?raw=true"
+   alt="Recursize Snarks Scalability: Drawbacks"
    width="65%" />
 </p>
 
@@ -8815,11 +8815,11 @@ including a transaction, and any machine in the network can verify the
 proof in milliseconds.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 148. resursive snarks scalability: drawbacks #2 (251) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image186.png?raw=true"
-   alt=" "
+<img src="/images/image148.png?raw=true"
+   alt="Recursize Snarks Scalability: Drawbacks #2"
    width="65%" />
 </p>
 
@@ -8840,11 +8840,11 @@ the trusted setup violates the trust assumptions especially in public
 blockchains.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 149. now what: blockchain fundamentals (252) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image187.png?raw=true"
-   alt=" "
+<img src="/images/image149.png?raw=true"
+   alt="Now What? Blockchain Fundamentals"
    width="65%" />
 </p>
 
@@ -8862,7 +8862,7 @@ In the next section, we’ll look at layer 2 solutions.
 
 Let’s just not use the blockchain.
 
-**Intro: Vertical Scaling Off-Chain (1:09)**
+<h3>Intro: Vertical Scaling Off-Chain (1:09)</h3>
 
 Having explored the options of how to scale up by tuning existing system
 parameters, let’s look at some more drastic changes.
@@ -8888,14 +8888,14 @@ or net result of all off chain transactions?
 That’s what we’re going to be covering in this section on vertical
 scaling by thinking off chain.
 
-**Payment Channels**
+<h3>Payment Channels</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------- 150. recall: bitcoin transactions: issue with bitcoin payments (253) ------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image188.png?raw=true"
-   alt=" "
+<img src="/images/image150.png?raw=true"
+   alt="Recall Bitcoin Transactions: Issue with Bitcoin Payments"
    width="65%" />
 </p>
 
@@ -8912,11 +8912,11 @@ Transaction fees are also pretty inconsistent – historically during
 winter 2018, becoming insanely high.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------- 151. recall: bitcoin transactions: issue with bitcoin payments (254) ------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image189.png?raw=true"
-   alt=" "
+<img src="/images/image151.png?raw=true"
+   alt="Recall Bitcoin Transactions: Issue with Bitcoin Payments #2"
    width="65%" />
 </p>
 
@@ -8952,10 +8952,10 @@ We could call this a private payment channel – just between two users,
 Alice and Bob.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 152. payment channel buildup: private channels (255) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image190.png?raw=true"
+<img src="/images/image152.png?raw=true"
    alt=" "
    width="65%" />
 </p>
