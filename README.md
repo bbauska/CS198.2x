@@ -4696,21 +4696,26 @@ blockchain technologies, as they were more compliant and better suited
 for enterprise use than associated public blockchain systems.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 72.  (xx) ---------------->
+<!----------- 72b. enterprise blockchain use cases: blockchain history review (126) -------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image072.png" style="width:5in;height:2.8433in" />
-
+<img src="/images/image072b.png?raw=true"
+   alt="Banks and Blockchain: Blockchain History Review"
+   width="65%" />
+</p>
 While many use cases exist for enterprise blockchains, most problems
 that enterprise blockchain aims to solve fall within three broad
 classifications: solving coordination failures, horizontally integrating
 systems, and creating self-sovereign decentralized networks.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 73.  (xx) ---------------->
+<!------------- 73b. scaling issues: blockchain history review (127) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image073.png" style="width:5in;height:2.85137in" />
+<img src="/images/image073b.png?raw=true"
+   alt="Scaling Issues: Blockchain History Review"
+   width="65%" />
+</p>
 
 Although many enterprises now wish to take advantage of blockchain
 technology, true enterprise blockchain solutions are typically very
@@ -4743,10 +4748,13 @@ and decentralized networks.
 Let’s look back at the previous slide.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 74.  (xx) ---------------->
+<!----------- 72b. enterprise blockchain use cases: blockchain history review (126) -------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image074.png" style="width:5in;height:2.84903in" />
+<img src="/images/image072b.png?raw=true"
+   alt="Banks and Blockchain: Blockchain History Review"
+   width="65%" />
+</p>
 
 Coordination failures between multiple parties seeking to work together
 often exist due to trust issues.
@@ -4827,10 +4835,13 @@ To better understand this, let’s go back to the form of databases most
 people are familiar with: centralized databases.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 76.  (xx) ---------------->
+<!------------------ 76b. centralized database: blockchain vs databases (130) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image076.png" style="width:5in;height:2.81099in" />
+<img src="/images/image076b.png?raw=true"
+   alt="Cenralized Database: Blockchain vs Databases"
+   width="65%" />
+</p>
 
 Centralized databases, such as a single password server, are located,
 stored, and maintained in one location, with one central entity handling
@@ -4845,10 +4856,13 @@ multiple users to the same set of data, and act as a single point of
 failure.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 77.  (xx) ---------------->
+<!---------------- 77b. centralized database: blockchain vs databases #2 (131) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image077.png" style="width:5in;height:2.81906in" />
+<img src="/images/image077b.png?raw=true"
+   alt="Cenralized Database: Blockchain vs Databases #2"
+   width="65%" />
+</p>
 
 On the other hand, distributed databases consist of groups of nodes
 which trust each other and cooperate to maintain a consistent view of
@@ -4859,10 +4873,13 @@ fault-tolerant and can handle more demand by distributing load evenly
 across all nodes.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 78.  (xx) ---------------->
+<!---------------- 78b. centralized database: blockchain vs databases #3 (131) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image078.png" style="width:5in;height:2.85599in" />
+<img src="/images/image078b.png?raw=true"
+   alt="Cenralized Database: Blockchain vs Databases #3"
+   width="65%" />
+</p>
 
 However, distributed databases also introduce increased complexity,
 cost, and redundancy as well as exposing more points of failure.
@@ -4870,10 +4887,13 @@ cost, and redundancy as well as exposing more points of failure.
 That’s just the overhead of being distributed.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 79.  (xx) ---------------->
+<!---------------- 79b. centralized database: blockchain vs databases #4 (132) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image079.png" style="width:5in;height:2.82573in" />
+<img src="/images/image079b.png?raw=true"
+   alt="Cenralized Database: Blockchain vs Databases #4"
+   width="65%" />
+</p>
 
 A specific type of distributed database is a distributed ledger, which
 contains nodes operated by different entities that may or may not trust
@@ -4884,10 +4904,13 @@ that specifically implement a chain of blocks in their record-keeping
 and consensus protocols are known as blockchains.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 80.  (xx) ---------------->
+<!---------------- 80b. centralized database: blockchain vs databases #3 (133) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image080.png" style="width:5in;height:2.8374in" />
+<img src="/images/image080b.png?raw=true"
+   alt="Cenralized Database: Blockchain vs Databases #3"
+   width="65%" />
+</p>
 
 Recall from our Bitcoin and Cryptocurrencies course that the fundamental
 innovation of blockchain was not to enable distributed information
@@ -4904,10 +4927,13 @@ to remove the need for a centralized administrator and allow for
 non-trusting parties in the network to interact with each other.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 81.  (xx) ---------------->
+<!---------------- 81b. centralized database: blockchain vs databases #3 (134) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image081.png" style="width:5in;height:2.80021in" />
+<img src="/images/image081b.png?raw=true"
+   alt="Cenralized Database: Blockchain vs Databases #5"
+   width="65%" />
+</p>
 
 Blockchains can also be categorized based on their architecture and the
 trust and access permissions that a typical user possesses.
@@ -4971,10 +4997,13 @@ used to solve a coordination problem amongst the loosely linked
 constituents.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 82.  (xx) ---------------->
+<!---------------------- 82b. tech company involvement: big names (136) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image082.png" style="width:5in;height:2.80291in" />
+<img src="/images/image082b.png?raw=true"
+   alt="Tech Company Involvement: Big Names"
+   width="65%" />
+</p>
 
 While blockchain is still in its infancy, many tech powerhouses are
 already starting to show interest.
@@ -5011,10 +5040,13 @@ companies trying to build enterprise blockchain using Ethereum as their
 base layer.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 83.  (xx) ---------------->
+<!---------------- 83b. perspectives: how do you feel about blockchain? (137) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image083.png" style="width:5in;height:2.81656in" />
+<img src="/images/image083b.png?raw=true"
+   alt="Perspectives: How Do You Feel About Blockchain?"
+   width="65%" />
+</p>
 
 Despite enterprise movement towards blockchain, there’s still differing
 perspectives and sentiment about blockchain technology as a whole – and
@@ -5053,10 +5085,13 @@ strengths and weaknesses of the applicability of blockchain technology.
 Blockchain can be cool, but only in very particular ways.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 84.  (xx) ---------------->
+<!------------------- 84b. misconceptions: not always what you'd expect (138) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image084.png" style="width:5in;height:2.80645in" />
+<img src="/images/image084b.png?raw=true"
+   alt="Misconceptions: Not Always What You'd Expect"
+   width="65%" />
+</p>
 
 It’s a misconception that enterprise blockchains are always useful.
 
@@ -5191,10 +5226,13 @@ We’re simply sampling a variety of projects across multiple different
 facets of the enterprise blockchain space.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 86.  (xx) ---------------->
+<!------------------------------ 86. scalability: trilemma (142) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image086.png" style="width:5in;height:2.83279in" />
+<img src="/images/image086.png?raw=true"
+   alt="Scalability: Trilemma"
+   width="65%" />
+</p>
 
 As the use of blockchain becomes more and more prevalent, the issue of
 scalability also grows.
@@ -6949,7 +6987,7 @@ accessibility to a larger set of investors, also come the consequences.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image093.png?raw=true"
-   alt="limitatios of ico's: ico schemas & culture"
+   alt="Limitatios of ICO's: ICO Schemas & Culture"
    width="65%" />
 </p>
 
@@ -6981,7 +7019,7 @@ They do not come with the support that a VC can provide.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image094.png?raw=true"
-   alt="limitatios of ico's: ico schemas & culture #2"
+   alt="Limitatios of ICO's: ICO Schemas & Culture #2"
    width="65%" />
 </p>
 
@@ -7026,14 +7064,13 @@ Though ICOs provide tremendous access to funding, you know what they
 say: “be careful what you wish for.”
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------------------- 95. ico statistics (197) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image095.png?raw=true"
+   alt="ICO Statistics"
    width="65%" />
 </p>
-<img src="./images/image133.png" style="width:5in;height:2.8003in" />
 
 In 2017, we saw ICOs overtake VCs as the most popular form of funding
 for blockchain startups.
@@ -7069,14 +7106,13 @@ Since ICOs seem not to provide long-term returns and have lost credit as
 a funding mechanism, VC funding is starting to surge.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------------------- 97. ico statistics (198) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image097.png?raw=true"
+   alt="ICO Statistics"
    width="65%" />
 </p>
-<img src="./images/image135.png" style="width:5in;height:2.7982in" />
 
 You’ll see in this slide the distribution of funding.
 
@@ -7145,14 +7181,13 @@ A good number of exchanges are not compliant given that a good amount of
 the blockchain community diverges from regulation as much as possible.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------------ 98 Know your customer(kyc) (200) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image098.png?raw=true"
+   alt="Know Your Customer"
    width="65%" />
 </p>
-<img src="./images/image137.png" style="width:5in;height:2.78768in" />
 
 Know your Customer regulations are another kind of regulation imposed
 upon financial institutions to prevent knowingly or unknowingly enabling
@@ -7195,11 +7230,11 @@ Coinbase will comply with these restrictions in order to be able to
 serve audiences as large as possible.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------------- 99. money transmitter license (202) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image099.png?raw=true"
+   alt="Money Transmitter License"
    width="65%" />
 </p>
 <img src="./images/image138.png" style="width:5in;height:2.79388in" />
@@ -7227,14 +7262,13 @@ mishandling their money, but it consequently makes performing these
 services enormously difficult.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------------- 100. bitlicense: issued by nysdfs (203) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image100.png?raw=true"
+   alt="Bitlicense: Issued by NYSDFS"
    width="65%" />
 </p>
-<img src="./images/image139.png" style="width:5in;height:2.79935in" />
 
 If that weren’t enough, New York has a separate license exclusively for
 cryptocurrencies, which apply to anyone performing any one of five acts:
@@ -7256,14 +7290,13 @@ Coinbase also followed later, and Square is the most recent company to
 obtain a BitLicense, being the 9th.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------ 101. bitcoin etf: a noteworthy rulling (204) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image101.png?raw=true"
+   alt="Bitcoin ETF: A Noteworthy Ruling"
    width="65%" />
 </p>
-<img src="./images/image140.png" style="width:5in;height:2.79483in" />
 
 For a bit more perspective, let’s delve into some regulatory history.
 
@@ -7289,14 +7322,13 @@ After all, the entire purpose of Bitcoin is to be beyond regulation –
 this ruling confirms that.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------- 102. bitcoin etf: a noteworthy rulling #2 (205) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image102.png?raw=true"
+   alt="Bitcoin ETF: A Noteworthy Ruling #2"
    width="65%" />
 </p>
-<img src="./images/image141.png" style="width:5in;height:2.79751in" />
 
 This slide demonstrates key arguments against proposed ETFs and Mutual
 Funds intended for cryptocurrencies.
@@ -7312,14 +7344,13 @@ will, it’s unlikely to reach widespread acceptance by the US government
 as an underlying asset for financial products.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------------- 103. perspectives: states (206) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image103.png?raw=true"
+   alt="Perspectives: States"
    width="65%" />
 </p>
-<img src="./images/image142.png" style="width:5in;height:2.8374in" />
 
 Now that we’ve given some examples of regulation about cryptocurrencies,
 let’s dive into some perspectives that can be offered by states within
@@ -7355,14 +7386,13 @@ has already become powerful and popular enough to make its way into
 legislation.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------------- 104. perspectives: global (good) (207) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image104.png?raw=true"
+   alt="Perspectives: Global (good)"
    width="65%" />
 </p>
-<img src="./images/image143.png" style="width:5in;height:2.81553in" />
 
 To put cryptocurrencies and blockchain further into perspective, let’s
 take a look around the world at some of the popular responses to this
@@ -7414,14 +7444,13 @@ Here’s a few examples of countries pushing against cryptocurrencies and
 blockchain.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------------- 105. perspectives: global (bad) (208) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image105.png?raw=true"
+   alt="Perspectives: Global (bad)"
    width="65%" />
 </p>
-<img src="./images/image144.png" style="width:5in;height:2.78739in" />
 
 In Bangladesh, it’s claimed that a lack of regulation by a central bank
 makes cryptocurrencies dangerous.
@@ -7467,29 +7496,25 @@ in **coordination failures**, boost **horizontal integration**, and
 create **self-sovereign** decentralized networks. 
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 106. centralized & distributed databases (210) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image106.png?raw=true"
+   alt="There are two main catogories of databases: Centralized Databases and Distributed Databases. Within Distributed Databases, there is Distributed ledgers. Within Distributed ledgers, there is Blockchain"
    width="65%" />
 </p>
-<img src="./images/image145.png" style="width:3in;height:3.075in"
-alt="There are two main catogories of databases: Centralized Databases and Distributed Databases. Within Distributed Databases, there is Distributed ledgers. Within Distributed ledgers, there is Blockchain" />
 
 **Centralized databases** are run by a single entity (e.g. a company)
 that handles all requests and data processing.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------------- 107. incoming to central database (210) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image107.png?raw=true"
+   alt="Incoming to Central Database"
    width="65%" />
 </p>
-<img src="./images/image146.png" style="width:2in;height:3.33712in"
-alt="Central Database" />
 
 **Distributed databases** are run by a group of storage nodes that are
 connected to each other and work to maintain a consistent overall view
@@ -7497,15 +7522,13 @@ of the entire system. Nodes are able to fully trust each other in some
 systems (hence the solid lines connecting storage nodes.)
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------- 108. incoming to distributed database (210) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image108.png?raw=true"
+   alt="Incoming to Distributed Databases"
    width="65%" />
 </p>
-<img src="./images/image147.png" style="width:3in;height:2.86768in"
-alt="Distributed Database" />
 
 **Distributed ledgers** are a specific type of distributed database in
 which the information is organized chronologically, mimicking a
@@ -10972,7 +10995,7 @@ deanonymization is that now, we can go back in the blockchain’s history
 to reveal information about a particular pseudonym.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 245. deanonymization: transaction graph analysis (313) -------------------->
+<!------------------- 245. deanonymization: transaction graph analysis (313) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image245.png?raw=true"
@@ -10982,7 +11005,7 @@ to reveal information about a particular pseudonym.
 
 That’s the goal of deanonymization, or linking
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 246. deanonymization: transaction graph analysis @2 (314) -------------------->
+<!------------------ 246. deanonymization: transaction graph analysis @2 (314) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image246.png?raw=true"
@@ -11005,7 +11028,7 @@ transactions more than others, or are paid more than others, or perhaps
 make certain transactions with certain other pseudonyms.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 247. deanonymization: transaction graph analysis (315) -------------------->
+<!------------------- 247. deanonymization: transaction graph analysis (315) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image247.png?raw=true"
@@ -11378,11 +11401,11 @@ especially if done repeatedly.
 **<u>Decentralized Mixing</u>**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 249. decentralized mining: can this be done? (324) --------------------->
+<!--------------------- 249. decentralized mining: can this be done? (324) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image249.png?raw=true"
-   alt="Decentralized mining: Can this be done?"
+   alt="Decentralized Mining: Can This be Done?"
    width="65%" />
 </p>
 
@@ -11770,7 +11793,7 @@ technologies they are built upon to protect their users.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image251.png?raw=true"
-   alt="Mimblewimble"
+   alt="CoinJoin Dash: Privacy Focused AltCoins"
    width="65%" />
 </p>
 
@@ -12184,7 +12207,7 @@ face as a conclusion for the last three lectures.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image252.png?raw=true"
-   alt="Mimblewimble"
+   alt="Mimblewimble: Another  Pseudonymous Proposal"
    width="65%" />
 </p>
 
@@ -12384,7 +12407,7 @@ a pseudonym and each edge is a transaction conducted between pseudonyms.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image253.jpeg?raw=true"
-alt="The transaction graph shows the crypto transactions in the network. Satoshi, Mt Gox and silk road are nodes where most edges are connected to." />
+   alt="The transaction graph shows the crypto transactions in the network. Satoshi, Mt Gox and silk road are nodes where most edges are connected to."
    width="65%" />
 </p>
 
@@ -14169,4 +14192,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-11-2022 3:30pm last updated.
+5-11-2022 9:30pm last updated.
