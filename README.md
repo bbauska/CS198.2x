@@ -5226,10 +5226,10 @@ We’re simply sampling a variety of projects across multiple different
 facets of the enterprise blockchain space.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ 86. scalability: trilemma (142) --------------------------------->
+<!------------------------------ 114. scalability: trilemma (142) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image086.png?raw=true"
+<img src="/images/image114.png?raw=true"
    alt="Scalability: Trilemma"
    width="65%" />
 </p>
@@ -14133,7 +14133,7 @@ course community and share in the discussion boards!
 **Thank You**
 
 On behalf of all of our lovely course staff, I’d like to thank you, for
-taking CS198.2x, Blockchain Technology.
+taking CS198.2x, Blockchain Technology.df
 
 This formally marks the end of the Blockchain Fundamentals curriculum.
 
