@@ -7080,10 +7080,10 @@ Compare this to approximately just over half a million raised through
 VC.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------- 96. ico statistics (198) ------------------------------------>
+<!---------------------------------- 95b. ico statistics (197) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image096.png?raw=true"
+<img src="/images/image095b.png?raw=true"
    alt="ICO Statistics"
    width="65%" />
 </p>
@@ -7104,10 +7104,10 @@ Since ICOs seem not to provide long-term returns and have lost credit as
 a funding mechanism, VC funding is starting to surge.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------- 97. ico statistics (198) ------------------------------------>
+<!---------------------------------- 96. ico statistics (198) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image097.png?raw=true"
+<img src="/images/image096.png?raw=true"
    alt="ICO Statistics"
    width="65%" />
 </p>
@@ -14150,4 +14150,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-12-2022 12:14am last updated.
+5-12-2022 12:46pm last updated.
