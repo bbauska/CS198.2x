@@ -83,7 +83,7 @@ Future.
 > blockchain-based future thought experiment and explain the avenues for
 > the student's potential involvement.
 
-**Notes from Rustie**
+<h4>Notes from Rustie</h4>
 
 Since Fall, 2016, Blockchain at Berkeley has been offering a course on
 the fundamental concepts of cryptocurrencies and blockchain on UC
@@ -130,7 +130,7 @@ We hope you enjoy the course! 
 
 Rustie Lin
 
-**Resources**
+<h4>Resources</h4>
 
 CS198.1x Bitcoin and Cryptocurrencies is a prerequisite for this course.
 If you haven't already taken it, the course material is free for review
@@ -198,7 +198,7 @@ Fundamentals, who have not already been featured on the previous page.
 Max Fang, Philip Hayes, Sunny Aggarwal, Aparna Krishnan, Gloria Zhao,
 Gillian Chu, and Brian Ho.
 
-# FAQ
+<h4>FAQ</h4>
 
 Q: Are there any prerequisites to this course?
 
@@ -233,7 +233,7 @@ blockchain enthusiasts from all educational and industrial backgrounds.
 **<u>  
 </u>**
 
-**Week 1: Trust Without Trust: Distributed Systems & Consensus**
+<h2>Week 1: Trust Without Trust: Distributed Systems & Consensus</h2>
 
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- 01. cs198.2x Berkeley's Blockchain logo (07) ------------------------>
@@ -289,7 +289,7 @@ of consensus.
 After this lecture, you’ll be able to think about blockchain within the
 much larger scope of distributed systems and consensus.
 
-**Week 1 Announcements**
+<h3>Week 1 Announcements</h3>
 
 Welcome to Week 1. Here's a quick breakdown of what to expect every
 week:
@@ -2978,7 +2978,7 @@ stake.
 **Chain-based PoS** chooses availability while **Byzantine Fault
 Tolerant PoS** chooses consistency.
 
-**Weaknesses of PoS versus PoW: **
+<h4>Weaknesses of PoS versus PoW:</h4>
 
 -   PoS is susceptible to corruption if over 33% of the network are
     > malicious actors, whereas PoW requires over 50% malicious actors
@@ -3008,7 +3008,7 @@ Federated consensus is powerful because of its decentralized control,
 low latency, and flexibility towards trust. Popular implementations of
 federated consensus include **Ripple** and **Stellar**. 
 
-**Readings (Week 1)**
+<h3>Readings (Week 1)</h3>
 
 > [Short Overview of Alternatives to
 > PoW](https://www.coindesk.com/short-guide-blockchain-consensus-protocols/)
@@ -3068,7 +3068,7 @@ Video: 
 > [Casper the Friendly Finality
 > Gadget ](https://arxiv.org/pdf/1710.09437.pdf)
 
-**Securing Incentives: Cryptoeconomics & Proof-of-Stake - Week 2**
+<h2>Securing Incentives: Cryptoeconomics & Proof-of-Stake - Week 2</h2>
 
 Welcome to week 2 of CS198.2x, Blockchain Technology.
 
@@ -3091,7 +3091,7 @@ Through understanding cryptoeconomics, we can understand and prove
 qualities about a blockchain system’s architecture without getting
 distracted by unnecessary details.
 
-**Intro: Cryptoeconomics**
+<h3>Intro: Cryptoeconomics</h3>
 
 The world is full of decisions.
 
@@ -3137,7 +3137,7 @@ Cryptoeconomics is the analysis of virtual decision-making, from
 incentivizing actors to make the best decisions for a given goal from
 ensuring that the decisions’ history is maintained honestly and forever.
 
-**Cryptoeconomics**
+<h3>Cryptoeconomics</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 50. what is cryptoeconomics: Virtual Decision making (85) -------------------->
@@ -3220,7 +3220,7 @@ Before we talk about those things, however, we want to go over some
 basic cryptographic and economic “primitives,” or building blocks, which
 we will then use to analyze and construct some examples of protocols.
 
-**Intro: Cryptography**
+<h3>Intro: Cryptography</h3>
 
 Usually, when you hear the word cryptography, you think of hackers
 online disguising their identities and sending secret messages, or
@@ -3246,7 +3246,7 @@ In distributed systems with unknown, potentially adversarial actors like
 blockchain networks, cryptography is fundamentally important to ensuring
 that information is kept secret and safe whenever necessary.
 
-**Origins of Cryptography**
+<h3>Origins of Cryptography</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 51. origins of cryptography (88) -------------------------------->
@@ -3545,7 +3545,7 @@ decided upon by some entity.
 We’ll now go over some of the primitives in cryptography, which serve as
 building blocks for larger devices to accomplish this decision securing.
 
-**Cryptographic Primitives**
+<h3>Cryptographic Primitives</h3>
 
 In the next few slides, we’ll be presenting various cryptographic
 primitives that will be relevant in this lecture and in future ones, so
@@ -3657,7 +3657,7 @@ The value of n in the exponent is proportional to how much time it takes
 to decode, allowing us to easily adjust the functionality of this
 timelock to our specifications.
 
-**Game Theory**
+<h3>Game Theory</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!--------------------- 52. economic incentives: rewards and penalties (98) ---------------------->
@@ -3871,7 +3871,7 @@ what we’re aiming for, to understand common blockchain protocols from
 this cryptoeconomics perspective. We’ll leverage this frame of mind as
 we dive into the next section, Proof-of-Stake.
 
-**Blacklisting**
+<h3>Blacklisting</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 53. blacklisting: feather forking (103) ---------------------------->
@@ -3932,7 +3932,7 @@ what we’re aiming for, to understand common blockchain protocols from
 this cryptoeconomics perspective. We’ll leverage this frame of mind as
 we dive into the next section, Proof-of-Stake.
 
-**Intro: Proof-of-Stake**
+<h3>Intro: Proof-of-Stake</h3>
 
 Now you understand how economics is used to incentivize good decisions
 and how cryptography is used to secure those decisions.
@@ -3958,7 +3958,7 @@ Through the cryptographic and economic primitives, we learned in the
 previous sections, we’ll break down Proof-of-Stake choices at an
 architectural level.
 
-**Proof-of-Stake**
+<h3>Proof-of-Stake</h3>
 
 Up until now, the main consensus algorithm we’ve focused on is
 Proof-of-Work.
@@ -4098,7 +4098,7 @@ Outside of these drawbacks of Proof-of-Stake that were mentioned, there
 are also specific attacks that can be conducted in a Proof-of-Stake
 system that will be covered in the next section.
 
-**Intro: Attacks**
+<h3>Intro: Attacks</h3>
 
 In this last section, we’ll cover Proof-of-Stake attacks, again
 analyzing them from the perspective of cryptoeconomics.
@@ -4123,7 +4123,7 @@ the system in check.
 **<u>  
 </u>**
 
-**Attacks**
+<h3>Attacks</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------ 54. nothing at stake: undesirable path (110) -------------------------->
@@ -4267,7 +4267,7 @@ Because all voting is virtual, even the penalties for malicious voting
 strategies need to be explicitly enforced.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------- 54e. nothing at stake: defense #2 (114) ------------------------------>
+<!--------------------------- 54e. nothing at stake: defense #2 (114) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image054e.png?raw=true"
@@ -4350,7 +4350,7 @@ To explain this clearly, we will step through an example.
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image054i.png?raw=true"
-   alt="Long Range Attack: Attack #2"
+   alt="Long Range Attack: Example"
    width="65%" />
 </p>
 
@@ -4371,7 +4371,7 @@ This is called a long range attack because it can be executed from any
 point of the chain, including the genesis block.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ 54k. stake grinding: attack (118) ------------------------------->
+<!------------------------------ 54j. stake grinding: attack (118) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image054j.png?raw=true"
@@ -4430,11 +4430,11 @@ pick the validator for the next round.
 Unless there is collusion within the majority, this strategy should
 work.
 
-**Text: Week 2 Summary**
+<h3>Text: Week 2 Summary</h3>
 
 Written by Deven Navani and Nicholas Shen
 
-**I. Cryptoeconomics**
+<h3>I. Cryptoeconomics</h3>
 
 Economic principles help us to design a system so that actors are
 incentivized to make decisions in line with the goals of the greater
@@ -4445,7 +4445,7 @@ Cryptography allows us to **secure the past** and ensure our decisions
 cannot be manipulated by observers (e.g. cryptographic signatures for
 authentication and hashes for immutability)
 
-**II. Cryptography**
+<h3>II. Cryptography</h3>
 
 **Cryptography** aims to secure the integrity and confidentiality of
 information.
@@ -4484,7 +4484,7 @@ course):
 -   **Timelocks** allow for a message to be easily encrypted but take a
     longer amount of time to decrypt.
 
-**III. Economics**
+<h3>III. Economics</h3>
 
 Economics boils down to a fundamental question: how do you determine the
 best choice to make with your limited resources in order to maximize
@@ -4502,7 +4502,7 @@ privileges miners can charge for. The assumption here is that the
 underlying objective for actors in a blockchain network is to maximize
 their profit, which equals their revenues minus their costs.
 
-**IV. Proof of Stake**
+<h3>IV. Proof of Stake</h3>
 
 Proof-of-Stake is a particular type of consensus mechanism that assumes
 all voting power is tied to financial resources. Fundamentally, the idea
@@ -4524,7 +4524,7 @@ Major PoS implementations:
     Proof-of-Stake hybrid; another upgrade proposed for the Ethereum
     network
 
-**V. Attacks**
+<h3>V. Attacks</h3>
 
 Each proof of stake attack represents a scenario in which the incentives
 of an individual are not aligned with the incentives of a group, i.e.
@@ -4558,7 +4558,7 @@ offline for a long time; the node does not know which chain is the main
 chain; solution: introduce a "revert limit" - a rule that nodes must
 simply refuse to revert further back in time than the deposit length.
 
-**Readings (Week 2)**
+<h3>Readings (Week 2)</h3>
 
 > [A Proof-of-Stake Design
 > Philosophy ](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
@@ -4589,7 +4589,7 @@ simply refuse to revert further back in time than the deposit length.
 > [EB105 - Vlad Zamfir: Bringing Ethereum Towards Proof-Of-Stake With
 > Casper ](https://www.youtube.com/watch?v=9nQPcNY32JQ)
 
-**Real-World Applications: Enterprise Blockchain - Week 3**
+<h2>Real-World Applications: Enterprise Blockchain - Week 3</h2>
 
 Welcome to Week 3 of CS198.2x, Blockchain Technology.
 
@@ -4624,7 +4624,7 @@ blockchain fits in (or doesn’t).
 And finally, we’ll take a step back and look at the culture,
 regulations, and caveats surrounding enterprise blockchains.
 
-**Intro: Enterprise Blockchain Overview**
+<h3>Intro: Enterprise Blockchain Overview</h3>
 
 Before jumping straight into enterprise blockchain platforms and use
 cases, as always, we must first understand the architectural decisions
@@ -4647,7 +4647,7 @@ centralized enterprise blockchains.
 We’ll then make a quick comparison between related technologies and
 distinguish different types of blockchains available for use.
 
-**Enterprise Blockchain History (3:56)**
+<h3>Enterprise Blockchain History (3:56)</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- 56. banks and blockchain: history review (125) ------------------------->
@@ -4709,7 +4709,7 @@ classifications: solving coordination failures, horizontally integrating
 systems, and creating self-sovereign decentralized networks.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 73b. scaling issues: blockchain history review (127) ---------------->
+<!------------------- 73b. scaling issues: blockchain history review (127) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image073b.png?raw=true"
@@ -4779,7 +4779,7 @@ centralized corruption.
 **<u>  
 </u>**
 
-**Enterprise Blockchain Overview**
+<h3>Enterprise Blockchain Overview</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!-------------------- 57. blockchain vs databases: high-level overview (129) -------------------->
@@ -5139,7 +5139,7 @@ blockchain’s codebase.
 But nowadays, existing blockchain development frameworks have proven to
 be successful and secure.
 
-**Intro: Enterprise Blockchain Platforms**
+<h3>Intro: Enterprise Blockchain Platforms</h3>
 
 Now that we have a clear working framework for categorizing and
 designing blockchain system architectures, we can start to see some of
@@ -5163,7 +5163,7 @@ type and consensus mechanisms.
 **<u>  
 </u>**
 
-**Enterprise Blockchain Platforms**
+<h3>Enterprise Blockchain Platforms</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 58. things to look for: enterprise blockchain platforms (141) ---------------->
@@ -13771,7 +13771,7 @@ with fire?
 Let’s look at the extremes of our pursuit of blockchain; at one end, a
 blockchain utopia, and at the other, a blockchain dystopia.
 
-**Blockchain Thought Experiment**
+<h3>Blockchain Thought Experiment</h3>
 
 We’re now diving into the two possible extremes of blockchain: the first
 being a blockchain utopia, and the second being a dystopia.
@@ -13990,7 +13990,7 @@ Everyone is reliant on Universal Basic Income and as this gets reduced
 over time, the people have no choice but to spend their lives being a
 slave to Amazon.
 
-**Intro: Get Involved**
+Intro: Get Involved</h3>
 
 Blockchain Fundamentals was designed to give you a brief survey into the
 field of cryptocurrencies, blockchain and related technologies.
@@ -14011,7 +14011,7 @@ space.
 This section will be a quick roadmap explaining the opportunities in the
 field.
 
-**Getting Involved**
+<h3>Getting Involved</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 269. getting involved in blockchain: jobs, jobs, jobs (393) ------------------>
 <!------------------------------------------------------------------------------------------------>
@@ -14147,4 +14147,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-12-2022 12:14am last updated.
+5-12-2022 2:10pm last updated.
