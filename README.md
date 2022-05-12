@@ -7624,15 +7624,13 @@ incentive to actually finish up the project, leading to incentive
 misalignments.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------- 110. ryan gosling, fake currency, miroskii (214) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image110.png?raw=true"
+   alt="Ryan Gosling, Fake Currency, Miroskii"
    width="65%" />
 </p>
-<img src="./images/image149.png" style="width:3in;height:4.49199in"
-alt="Miroskii" />
 
 Ryan Gosling, famed actor, also alleged graphic designer! Image used for
 ICO team of MIROSKII, fake cryptocurrency project
@@ -7734,14 +7732,13 @@ fundamental systems scaling approaches and tradeoffs.
 **Scaling Background (11:44)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 111. what is the scalability problem? (217) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image111.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image150.png" style="width:5in;height:2.82258in" />
 
 One property we look for when gauging the scalability of a blockchain
 system is its ability to deal with an increased transaction volume.
@@ -7757,14 +7754,13 @@ that our blockchain system would be able to handle more transactions
 with a higher velocity.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 112. what is the scalability problem? #2 (218) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image112.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image151.png" style="width:5in;height:2.83981in" />
 
 Another property we’re looking for is the speed with which we can update
 our distributed ledger – and in the case of blockchain, we call this the
@@ -7787,14 +7783,13 @@ This isn’t scalable though, at least in the sense that I don’t want to
 wait an hour every morning to get my coffee.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------- 113. what is the scalability problem? #3 (219) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image113.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image152.png" style="width:5in;height:2.80998in" />
 
 And one side note: as we know, blockchain is a decentralized system.
 
@@ -7837,14 +7832,13 @@ whether they be run by dedicated or casual users, we must design
 blockchain systems keeping into account storage size.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 114. scalability: trilemma (220) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image114.png?raw=true"
+   alt="Scalability: Trilemma"
    width="65%" />
 </p>
-<img src="./images/image153.png" style="width:5in;height:2.80193in" />
 
 Fundamentally, there’s a scalability trilemma here.
 
@@ -7886,10 +7880,10 @@ amount of resources, they could tilt the system in their favor and so
 decentralization would take a hit.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 115. transaction size: blockchain fundamentals (221) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image115.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -7907,11 +7901,11 @@ We can see that on average, Bitcoin transactions have a size of around
 546 bytes.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!--------------------------- 116. max transactions per second (222) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image116.png?raw=true"
+   alt="Max Transactions Per Second"
    width="65%" />
 </p>
 <img src="./images/image155.png" style="width:5in;height:2.79579in" />
@@ -7922,14 +7916,13 @@ The system was designed for 1 megabyte blocks, and we can see that
 reflected in the graph.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------------- 117. max transactions per second #2 (223) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image117.png?raw=true"
+   alt="Max Transactions Per Second"
    width="65%" />
 </p>
-<img src="./images/image156.png" style="width:5in;height:2.83171in" />
 
 Here’s a quick calculation based on the numbers we’ve collected so far
 for Bitcoin.
@@ -7951,14 +7944,13 @@ final value of 3.2 transactions per second.
 That’s not too hot.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 118.  (224) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image118.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image157.png" style="width:5in;height:2.80645in" />
 
 Compared with some other traditional payment systems, Bitcoin is way
 behind in terms of speed.
@@ -7980,14 +7972,13 @@ is definitely quite drastic.
 That was the situation at hand.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------- 119. current scalability: blockchain fundamentals (225) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
-   alt=" "
+<img src="/images/image119.png?raw=true"
+   alt="Current Scalability: Blockchain Fundamentals"
    width="65%" />
 </p>
-<img src="./images/image158.png" style="width:5in;height:2.80844in" />
 
 Suppose we now want to make our transaction rate comparable to that of
 VISA, so we can finally realize our dream of using Bitcoin to buy coffee
@@ -8022,14 +8013,13 @@ approaches, so that’s what we’re going to be looking into in later
 sections.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 120.  (226) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image120.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image159.png" style="width:5in;height:2.84441in" />
 
 In terms of different techniques with which we can scale, there are two
 fundamental options.
@@ -8083,14 +8073,13 @@ another useful model to view scaling solutions, which is in layers.
 Yep that’s right –– blockchains have layers.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 121.  (228) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image121.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image160.png" style="width:5in;height:2.81553in" />
 
 We’ll cover this part pretty quickly since it’s more insightful to see
 examples of these solutions, but here’s a quick rundown.
@@ -8110,10 +8099,10 @@ scaling solution, since it would fundamentally change the infrastructure
 and operation of the Ethereum blockchain.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 122.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image122.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -8161,10 +8150,10 @@ scaling projects and active areas of research later on.
 **Naïve Solution (2:45)**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 123.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image123.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -8187,14 +8176,13 @@ After all, decreasing block time is one of the methods of scaling that
 we looked at earlier, right?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 124.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image124.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image163.png" style="width:5in;height:2.80645in" />
 
 The main issue we have here if we decrease the difficulty of the
 Proof-of-Work problem, and thus the block time, is that the block
@@ -8214,10 +8202,10 @@ to half of the network, and around 12 to 13 seconds to send a block to
 Let’s say that we halve the block time.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 125.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image125.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -8233,10 +8221,10 @@ If we halve the block time, then it would only take 1 year to make it
 the same size, since we’re producing blocks twice as fast now.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 126.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image126.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -8275,10 +8263,10 @@ potential for double spends.
 **Decrease Block Time**
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 127.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image127.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -8296,10 +8284,10 @@ But what are some other outcomes of this naive solution that we can take
 a look at with a more constructive outlook?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 128.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image128.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -8323,10 +8311,10 @@ time?
 How do we avoid wasting all of this work?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 129.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image129.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -8364,10 +8352,10 @@ Since block times are so fast, sufficiently fast miners would want to
 reduce the overhead of communicating with pools anyways.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 130.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image130.png?raw=true"
    alt=" "
    width="65%" />
 </p>
@@ -8391,11 +8379,10 @@ in Bitcoin.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image170.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image170.png" style="width:5in;height:2.86765in" />
 
 Another vertical scaling alternative we can achieve by adjusting system
 parameters is by increasing block size.
@@ -8430,11 +8417,10 @@ less reward.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image171.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image171.png" style="width:5in;height:2.83522in" />
 
 Another issue that might come up after implementing block size increase
 would be that of deciding when block size increase should end.
@@ -8457,11 +8443,10 @@ block size.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image172.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image172.png" style="width:5in;height:2.82504in" />
 
 Yet another con is that of longer propagation times.
 
@@ -8481,11 +8466,10 @@ block to reach them.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image173.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image173.png" style="width:5in;height:2.81906in" />
 
 Another alternative we mentioned earlier was that of decreasing the size
 of transactions themselves.
@@ -8507,11 +8491,10 @@ which are SegWit and recursive SNARKs.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image174.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image174.png" style="width:5in;height:2.79221in" />
 
 SegWit is short for Segregated Witness, and was originally created to
 solve an issue in Bitcoin called transaction malleability, which we’ll
@@ -8545,11 +8528,10 @@ From previous sections, we saw that transaction size is on average about
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image175.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image175.png" style="width:5in;height:2.82258in" />
 
 The idea for SegWit was to move the signatures to a separate add-on
 structure outside of the scriptPubKey – to what’s called a segregated
@@ -8589,11 +8571,10 @@ SegWit is compatible as a soft fork.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image177.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image177.png" style="width:5in;height:2.80193in" />
 
 One issue now though is that because we segregated signatures from other
 transaction data, the blockchain doesn’t have any evidence that the
@@ -8603,11 +8584,10 @@ correct signatures were included in their respective transactions!
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image178.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image178.png" style="width:5in;height:2.8125in" />
 
 To fix this, Segwit also comes with a change to the regular merkle tree
 structure of Bitcoin.
@@ -8625,11 +8605,10 @@ beautiful properties of tamper evidence.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image179.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image179.png" style="width:5in;height:2.81351in" />
 
 The pros and cons of SegWit.
 
@@ -8686,11 +8665,10 @@ transactions we want to represent.
 <!----------------------- ###. segwit witness: pros and cons (246) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image180.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image180.png" style="width:5in;height:2.81099in" />
 
 As for cons, we know that SegWit is only a one time linear capacity
 increase.
@@ -8722,11 +8700,10 @@ And finally, SegWit isn’t the only way to fix transaction malleability.
 <!----------------------- ###. bitcoin scalability (247) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image181.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image181.png" style="width:5in;height:2.78135in" />
 
 So as the Bitcoin scalability debate reached its climax, Bitcoin split
 into Bitcoin Cash, which increased the block size to 8 megabytes, and
@@ -8736,14 +8713,13 @@ Witness.
 This was on August 1st, 2017, at block number 478,558.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------- ###. recursive snarks scalabilty: blockchain fundamentals (247) ---------------->
+<!--------------- 182. recursive snarks scalabilty: blockchain fundamentals (247) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image182.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image182.png" style="width:5in;height:2.83981in" />
 
 The next on-chain vertical scalability topic we’ll cover hinges on the
 concept of zero knowledge proofs, an advanced topic in cryptography.
@@ -8765,11 +8741,10 @@ your user’s identities are compromised.
 <!------------------------ ###. recursive snarks scalabilty: idea (248) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image183.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image183.png" style="width:5in;height:2.84219in" />
 
 Instead, websites usually store a hash of your password instead.
 
@@ -8804,11 +8779,10 @@ That’s the main idea of zk-SNARKS
 <!--------------------- ###. recursive snarks scalabilty: improvements (249) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image184.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image184.png" style="width:5in;height:2.81351in" />
 
 And it gets better; we can introduce a recursive structure!
 
@@ -8836,11 +8810,10 @@ For some closing thoughts, let’s look back at our previous slide.
 <!--------------------- ###. recursive snarks scalabilty: drawbacks (250) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image185.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image185.png" style="width:5in;height:2.81553in" />
 
 Back to Alice and Bob, Alice generates a proof that she can send a valid
 transaction to Bob.
@@ -8853,11 +8826,10 @@ proof in milliseconds.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image186.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image186.png" style="width:5in;height:2.79647in" />
 
 However, there do exist some pretty big drawbacks.
 
@@ -8879,11 +8851,10 @@ blockchains.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image187.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image187.png" style="width:5in;height:2.79483in" />
 
 We’ve been playing with a bunch of parameters, such as block size, size
 of transactions, and block rate, but we haven’t really been able to
@@ -8931,11 +8902,10 @@ scaling by thinking off chain.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image188.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image188.png" style="width:5in;height:2.81452in" />
 
 We’ve been referring back to Bitcoin a lot since it’s one of the oldest
 and most popular blockchain systems, so it’s subject to a lot of talk
@@ -8953,11 +8923,10 @@ winter 2018, becoming insanely high.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image189.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image189.png" style="width:5in;height:2.80744in" />
 
 Here’s a graph of the daily transaction fees in US dollars per
 transaction.
@@ -8994,11 +8963,10 @@ Alice and Bob.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image190.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image190.png" style="width:5in;height:2.79483in" />
 
 How would we actually implement a private payment channel between Alice
 and Bob?
@@ -9027,11 +8995,10 @@ confirmation times of regular on chain transactions.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image191.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image191.png" style="width:5in;height:2.81656in" />
 
 This is how Alice and Bob’s payment channel would look like.
 
@@ -9058,11 +9025,10 @@ in a payment channel can cheat the other.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image192.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image192.png" style="width:5in;height:2.84903in" />
 
 In blockchain, we call them payment channels, but we generally also mean
 to specify the technical mechanism by which we achieve payment channel
@@ -9088,11 +9054,10 @@ for not cheating.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image193.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image193.png" style="width:5in;height:2.79388in" />
 
 Let’s walk through a short little demo for a payment on a payment
 channel.
@@ -9122,11 +9087,10 @@ large number of blocks, say 1000 blocks.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image194.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image194.png" style="width:5in;height:2.82714in" />
 
 Say Alice pays Bob 3 bitcoins.
 
@@ -9161,11 +9125,10 @@ prevent cheating.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image195.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image195.png" style="width:5in;height:2.80645in" />
 
 Now some key observations from our payment channel demo, and of payment
 channels in general.
@@ -9208,11 +9171,10 @@ There remain some issues though.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image196.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image196.png" style="width:5in;height:2.80744in" />
 
 Firstly, both participants Alice and Bob need to have capital locked up
 in the HTLC before they can send money to each other.
@@ -9251,7 +9213,14 @@ send him money.
 
 **Lightning & Raiden**
 
-<img src="./images/image197.png" style="width:5in;height:2.82786in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image197.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 In the last video, we saw that if Alice and Bob have a payment channel,
 it only makes it easier for them to send money between themselves.
@@ -9268,11 +9237,10 @@ she can send him money.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image198.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image198.png" style="width:5in;height:2.81803in" />
 
 This is an example of what a payment channel network would look like.
 
@@ -9285,11 +9253,10 @@ Eve, then finally to Charlie.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image199.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image199.png" style="width:5in;height:2.7982in" />
 
 The main problem we have to address here is that of security.
 
@@ -9361,11 +9328,10 @@ literally have tens of thousands of tps with the Lightning Network.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image200.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image200.png" style="width:5in;height:2.81805in" />
 
 As great as the Lightning Network sounds, of course we have some
 immediate issues we have to consider.
@@ -9414,11 +9380,10 @@ the Lightning Network for Bitcoin.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image201.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image201.png" style="width:5in;height:2.84742in" />
 
 There’s also a comparable technology for Ethereum, called Raiden.
 
@@ -9454,11 +9419,10 @@ scaling solutions in more ambitious diagonal scaling solutions.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image202.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image202.png" style="width:5in;height:2.82079in" />
 
 One way databases have traditionally been horizontally scaled is through
 a strategy called sharding.
@@ -9511,11 +9475,10 @@ creates a scalability bottleneck.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image203.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image203.png" style="width:5in;height:2.79759in" />
 
 In the case of blockchain, sharding could be used to eliminate the
 requirement that every validators or miner be working on every single
@@ -9555,11 +9518,10 @@ currently actively being researched.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image204.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image204.png" style="width:5in;height:2.82079in" />
 
 Especially within the Ethereum research community, there’ve been efforts
 to implement blockchain sharding.
@@ -9595,11 +9557,10 @@ correct operation if a single shard has been taken over.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image205.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image205.png" style="width:5in;height:2.82251in" />
 
 On a similar note, there’s also the idea of creating side chains.
 
@@ -9628,11 +9589,10 @@ a compromised chain.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image206.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image206.png" style="width:5in;height:2.74148in" />
 
 And here’s an idea of how sidechain networks would look like.
 
@@ -9692,11 +9652,10 @@ masses.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image207.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image207.png" style="width:5in;height:2.77297in" />
 
 Having discussed both vertical and horizontal scaling solutions, let’s
 look at their combination: diagonal scaling.
@@ -9717,11 +9676,10 @@ as an arbiter in the case of dispute.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image208.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image208.png" style="width:5in;height:2.83505in" />
 
 A user’s interaction with Plasma might be as follows.
 
@@ -9755,11 +9713,10 @@ the source of truth.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image209.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image209.png" style="width:5in;height:2.78802in" />
 
 Plasma is being developed by Blockchain at Berkeley’s FourthState Labs.
 
@@ -9783,11 +9740,10 @@ implementation on Cosmos.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image210.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image210.png" style="width:5in;height:2.82689in" />
 
 Here’s a picture of our team getting a well deserved shoutout at the 4th
 Global Blockchain Summit 2018.
@@ -9804,11 +9760,10 @@ sense of modularity.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image211.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image211.png" style="width:5in;height:2.85282in" />
 
 Plasma is one component of the larger scalability ecosystem.
 
@@ -9821,11 +9776,10 @@ especially opens up the door for interoperability.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image212.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image212.png" style="width:5in;height:2.80692in" />
 
 Before introducing Cosmos from the scalability perspective, it’s nice to
 take a step back and understand the primitives upon which it functions.
@@ -9860,11 +9814,10 @@ language, etc.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image213.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image213.png" style="width:5in;height:2.78365in" />
 
 Then, with the advent of Ethereum, writing blockchain applications
 became simpler than ever, since you could now just write your smart
@@ -9885,11 +9838,10 @@ with the ABCI, or application blockchain interface.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image214.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image214.png" style="width:5in;height:2.84742in" />
 
 An advantage of this modular design is that of flexibility, which lends
 itself quite naturally to the idea of the Cosmos Network an idea to
@@ -9905,11 +9857,10 @@ network itself.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image215.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image215.png" style="width:5in;height:2.82423in" />
 
 We won’t dive too in depth here, but the general topology of the Cosmos
 network consists of hubs and zones, each either running Tendermint or
@@ -9921,7 +9872,14 @@ payment blockchains, or a full fledged port of Ethereum onto Tendermint.
 
 <u>Generalizations</u>
 
-<img src="./images/image216.png" style="width:5in;height:2.81777in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image216.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 With consideration of blockchain ecosystem rearchitecting, such as with
 Tendermint and Cosmos, it’s a good segue now to mention the topic of
@@ -9945,11 +9903,10 @@ your own research in this.
 <!----------------------- ###.  (###) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image217.png?raw=true"
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image217.png" style="width:5in;height:2.83715in" />
 
 Let’s take a moment to reflect on what we’ve learned this week.
 
@@ -9965,7 +9922,14 @@ There’ve been many scalability proposals, but beyond scalability alone,
 there’s also other issues of security and trust and decentralization,
 all factors in community adoption – the ultimate goal, really.
 
-<img src="./images/image218.png" style="width:5in;height:2.77754in" />
+<!------------------------------------------------------------------------------------------------>
+<!----------------------- ###.  (###) -------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image218.png?raw=true"
+   alt=" "
+   width="65%" />
+</p>
 
 Upon understanding the scaling problem, we saw some fundamental ways to
 scale blockchains.
@@ -10035,7 +9999,6 @@ blockchain trust structures.
    alt=" "
    width="65%" />
 </p>
-<img src="./images/image220.png" style="width:5in;height:2.86226in" />
 
 Again to summarize what we’ve learned, let’s tie back to the two main
 ways of quickly categorizing scaling solutions.
