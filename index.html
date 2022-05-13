@@ -51,7 +51,7 @@ var mybutton = document.getElementById("myBtn");
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5) {
+  if (document.body.scrollTop > 3 || document.documentElement.scrollTop > 3) {
     mybutton.style.display = "block";
   } else {
     mybutton.style.display = "none";
@@ -75,8 +75,8 @@ function topFunction() {
 .dropbtn {
   background-color: #04006D;
   color: white;
-  padding: 14px;
-  font-size: 14px;
+  padding: 15px;
+  font-size: 15px;
   border: none;
 }
 
@@ -89,7 +89,7 @@ function topFunction() {
   display: none;
   position: absolute;
   background-color: #f1f1f1;
-  min-width: 160px;
+  min-width: 360px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
@@ -113,9 +113,6 @@ function topFunction() {
 <h4>Welcome to CS198.2x: Blockchain Technologies</h4>
 <p>
 This course provides a wide overview of many of the topics relating to and building upon the foundation of Bitcoin and blockchain technology.
-</p>
-<p>
-The course is divided into 6 modules: 1. Distributed Systems & Consensus, 2. Cryptoeconomics & Proof-of-Stake, 3. Enterprise Blockchain, 4. Scalability, 5. Anonymity, and 6. A Blockchain Powered Future.
 </p>
 <!---- <h2>Hoverable Dropdown Menu</h2> ---->
 <p>Move the mouse over the button to open the dropdown menu.</p>
@@ -250,11 +247,10 @@ ol.g {list-style-type: lower-latin;
 }
  h2 {
   padding: 22px 0 0 0;
-  font: normal 1.8em BBahnschrift, Verdana, Helvetica, sans-serif, tahoma;
+  font: normal 1.8em Bahnschrift, Verdana, Helvetica, sans-serif, tahoma;
   letter-spacing: 3px;
   color: #3800aa;   <!--- dark purple --->
   background: inherit;
-  text-align: left;
 }
  h3 {
   padding: 20px 0 0 0;
@@ -320,7 +316,7 @@ ol.g {list-style-type: lower-latin;
 
 <!---->
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- index.html in CS198.2x - Blockchain Technologies ------------------------>
+<!---------------------- index.html in CS198.2x - Blockchain Technologies ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <h2 align="center">
 CS198.2x - University of California @ BerkeleyX
@@ -328,7 +324,7 @@ CS198.2x - University of California @ BerkeleyX
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- cs198.2x Berkeley's Blockchain logo (01) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
+<p align="center">
 <img src="./images/cs198.2x logo.png?raw=true"
    alt="Blockchain at BerkeleyX logo"
    width="65%" />
@@ -544,7 +540,7 @@ members, and blockchain enthusiasts from all educational and industrial
 backgrounds.</p>
 <p><strong><u><br />
 </u></strong></p>
-<h2>
+<h2 id="ch1">
 Week 1: Trust Without Trust: Distributed Systems &amp; Consensus
 </h2>
 <!------------------------------------------------------------------------------------------------>
@@ -2809,7 +2805,7 @@ Finality Gadget </a></p>
 </blockquote>
 <h2>
 Securing Incentives: Cryptoeconomics &amp; Proof-of-Stake - Week 2
-</h2>
+</h2 id="ch2">
 <p>Welcome to week 2 of CS198.2x, Blockchain Technology.</p>
 <p>This week, we’ll be diving into an analysis of cryptoeconomics now
 that you have an understanding of distributed systems and consensus
@@ -3995,7 +3991,7 @@ to Cryptoeconomics</a></p>
 <p><a href="https://www.youtube.com/watch?v=9nQPcNY32JQ">EB105 - Vlad
 Zamfir: Bringing Ethereum Towards Proof-Of-Stake With Casper </a></p>
 </blockquote>
-<h2>
+<h2 id="ch3">
 Real-World Applications: Enterprise Blockchain - Week 3
 </h2>
 <p>Welcome to Week 3 of CS198.2x, Blockchain Technology.</p>
@@ -6438,7 +6434,7 @@ You Need To Know About Initial Coin Offerings </a></p>
 </blockquote>
 <p><strong><u><br />
 </u></strong></p>
-<h3>
+<h3 id="ch4">
 Welcome to Week 4
 </h3>
 <p>Welcome to Week 4 of CS198.2x, Blockchain Technology.</p>
@@ -8568,7 +8564,7 @@ Viable Plasma</a></p>
 href="https://cosmos.network/docs/resources/whitepaper.html">Cosmos: A
 Network of Distributed Ledgers </a></p>
 </blockquote>
-<h3>
+<h3 id="ch5">
 Welcome to Week 5
 </h3>
 <p>A great advantage offered by cryptocurrencies over fiat money
@@ -10277,7 +10273,7 @@ Explained</a></p>
 href="https://github.com/ignopeverell/grin/blob/master/doc/intro.md">Introduction
 to MimbleWimble and Grin </a></p>
 </blockquote>
-<h3>
+<h3 id="ch6">
 Welcome to Week 6
 </h3>
 <p>We’ve made it 12 weeks into the Blockchain Fundamentals
@@ -11470,4 +11466,4 @@ and innovation left to explore, so I challenge you to get more involved
 in the blockchain space.</p>
 <p>We wish you all the best on the rest of your blockchain journey!</p>
 <p>The end…</p>
-<p>5-13-2022 10:13am last updated.</p>
+<p>5-13-2022 12:10pm last updated.</p>
