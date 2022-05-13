@@ -289,7 +289,7 @@ of consensus.
 After this lecture, you’ll be able to think about blockchain within the
 much larger scope of distributed systems and consensus.
 
-<h3>Week 1 Announcements</h3>
+<h4>Week 1 Announcements</h4>
 
 Welcome to Week 1. Here's a quick breakdown of what to expect every
 week:
@@ -5268,10 +5268,13 @@ Thus, these blockchains still follow the scalability trilemma and
 exchange decentralization for scalability and security.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 87.  (xx) ---------------->
+<!-------------------- 58r. ethereum: enterprise blockchain platforms (144) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image087.png" style="width:5in;height:2.81702in" />
+<img src="./images/image058r.png"
+   alt="Ethereum: Enterprise Blockchain Platforms"
+   width="65%" />
+</p>
 
 Ethereum is the industry standard blockchain platform for public
 projects at this point.
@@ -5309,10 +5312,13 @@ Lubin, meant to develop and foster growth in the Ethereum ecosystem,
 helping popular initiatives such as MetaMask and Truffle.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 88.  (xx) ---------------->
+<!------------------ 58s. hyperledger: enterprise blockchain platforms (146) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image088.png" style="width:5in;height:2.79647in" />
+<img src="./images/image058s.png"
+   alt="Hyperledger: Enterprise Blockchain Platforms"
+   width="65%" />
+</p>
 
 Hyperledger, a project of the Linux Foundation, was one of the earliest
 responses to the need for easily accessible permissioned or private
@@ -5355,10 +5361,13 @@ If you’re interested in learning more about Hyperledger, feel free to
 check out their edX course.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 89.  (xx) ---------------->
+<!--------------------- 58t. Corda: Enterprise Blockchain Platforms (147) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image089.png" style="width:5in;height:2.78317in" />
+<img src="./images/image058t.png"
+   alt="Corda: Enterprise Blockchain Platforms"
+   width="65%" />
+</p>
 
 Corda focuses on enabling banks to record, manage, synchronize, and
 support financial transactions and agreements through distributed ledger
@@ -5385,10 +5394,13 @@ consuming any of the proposed transaction input states, or (2) Reject
 the transaction and flag that a end attempt has occurred otherwise.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 90.  (xx) ---------------->
+<!--------------------- 58u. chain: enterprise blockchain platforms (148) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image090.png" style="width:5in;height:2.8201in" />
+<img src="./images/image058u.png"
+   alt="Chain: Enterprise Blockchain Platforms"
+   width="65%" />
+</p>
 
 Chain is another blockchain platform also aimed at financial services.
 
@@ -5409,10 +5421,13 @@ while Sequence hosts the blockchain on behalf of the users, meaning that
 Sequence cannot produce transactions on any other users’ behalf.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 91.  (xx) ---------------->
+<!--------------------- 58v. ripple: enterprise blockchain platforms (149) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image091.png" style="width:5in;height:2.85366in" />
+<img src="./images/image058v.png"
+   alt="Ripple: Enterprise Blockchain Platforms"
+   width="65%" />
+</p>
 
 Ripple is another enterprise blockchain platform focusing on creating a
 global network of financial services.
@@ -5450,10 +5465,13 @@ demand liquidity, and sending global payments.
 These are called xCurrent, xRapid, and xVia, respectively.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 92.  (xx) ---------------->
+<!------------------- 58w. rootstock: enterprise blockchain platforms (150) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image092.png" style="width:5in;height:2.77419in" />
+<img src="./images/image058w.png"
+   alt="Rootstock: Enterprise Blockchain Platforms"
+   width="65%" />
+</p>
 
 Rootstock, a Bitcoin sidechain, aims integrate smart contracts with the
 Bitcoin blockchain.
@@ -5477,10 +5495,13 @@ using blockchain sharding techniques and creating blocks every ten
 seconds instead of every ten minutes.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 93.  (xx) ---------------->
+<!--------------------- 58x. quoram: enterprise blockchain platforms (151) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="./images/image093.png" style="width:5in;height:2.81452in" />
+<img src="./images/image058x.png"
+   alt="Quoram: Enterprise Blockchain Platforms"
+   width="65%" />
+</p>
 
 Quorum is a lightweight fork of Ethereum, built for enterprise, with a
 particular focus on governance, confidentiality, and security for
@@ -5517,10 +5538,12 @@ Quorum also supports pluggable Istanbul BFT and Raft-based consensus
 mechanisms.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 94.  (xx) ---------------->
+<!--------------- 58y. cosmos/tendermint: enterprise & blockchain platforms (152) ---------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image094.png" style="width:5in;height:2.82787in" />
+<img src="/images/image058y.png?raw=true"
+   alt="Cosmos/Tendermint: Enterprise Blockchain Platforms"
+   width="65%" />
+</p>
 
 Cosmos is an initiative to connect blockchains together.
 
@@ -5553,10 +5576,12 @@ We’ll be focusing more on the specifics of Cosmos and Tendermint come
 the Scalability lecture.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------- 95.  (xx) ---------------->
+<!---------- 58z. categories & accomplishments: enterprise blockchain platforms (153) ------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image095.png" style="width:5in;height:2.83279in" />
+<img src="/images/image058z.png?raw=true"
+   alt="Categories & Accomplishments: Enterprise Blockchain Platforms"
+   width="65%" />
+</p>
 
 As a short summary of all the enterprise blockchain platforms we’ve seen
 in the past couple slides, let’s tie it back to a more fundamental
@@ -5593,7 +5618,7 @@ In the next section, we’ll see the applications of these, as well as
 generalizations of enterprise blockchain use cases – and also when not
 to use blockchain.
 
-**Intro: Use Cases & Industries**
+<h3>Intro: Use Cases & Industries</h3>
 
 This section will focus on various industries around the world to give
 you a sense of what is currently being pursued to see into the minds of
@@ -6585,7 +6610,7 @@ Mirages pop up all the time, but that doesn’t make them the real deal.
 Be sure that you’re able to justify why a blockchain works for your use
 case!
 
-**Intro: ICO Schemes & Culture (1:04)**
+<h3>Intro: ICO Schemes & Culture (1:04)</h3>
 
 Now you’re familiar with blockchain use cases and various examples from
 around the world.
@@ -8445,7 +8470,7 @@ a better shot at creating the next block, since they’d have a head
 start, and others would have to wait the longer propagation time for the
 block to reach them.
 
-**Decrease Transaction Size**
+<h3>Decrease Transaction Size</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------- 134. decrease transaction size: idea (240) --------------------------->
@@ -9203,7 +9228,7 @@ We could potentially set up a network of payment channels.
 As long as Alice is connected to Charlie somehow in the network, she can
 send him money.
 
-**Lightning & Raiden**
+<h3>Lightning & Raiden</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- 158. payment channel conclusions: issues #2 (263) ---------------------->
@@ -9387,7 +9412,7 @@ The most basic differences to spot are that Raiden would be implemented
 as a smart contract, and Raiden nodes in the Ethereum network would
 allow for ERC20 compliant token transfers between users.
 
-**<u>Intro: Horizontal Scaling</u>**
+<h3>Intro: Horizontal Scaling</h3>
 
 We’ve been discussing various vertical scaling techniques, where we
 increase the performance of individual nodes, but what about horizontal
@@ -10116,7 +10141,7 @@ other modular blockchains, as well as in general novel alternative
 consensus mechanisms and the like, we realize that we can go back and
 scale blockchains vertically on chain once again.
 
-**<u>Text: Week 4 Summary</u>**
+<h3>Text: Week 4 Summary</h3>
 
 <h3>I. Background</h3>
 
@@ -10351,7 +10376,7 @@ vertically or horizontally.
    width="65%" />
 </p>
 
-**<u>Readings (Week 4)</u>**
+<h3>Readings (Week 4)</h3>
 
 > [Blockchains don't scale. Not today at least. But there's
 > hope.](https://hackernoon.com/blockchains-dont-scale-not-today-at-least-but-there-s-hope-2cb43946551a)
@@ -10380,7 +10405,7 @@ vertically or horizontally.
 > [Cosmos: A Network of Distributed
 > Ledgers ](https://cosmos.network/docs/resources/whitepaper.html)
 
-**<u>Welcome to Week 5</u>**
+<h3>Welcome to Week 5</h3>
 
 A great advantage offered by cryptocurrencies over fiat money alongside
 censorship-resistance and decentralized control was the advantage of
@@ -10409,7 +10434,7 @@ This week, we’ll be examining the benefits and costs of privacy, how we
 can achieve privacy through anonymity, along with how cryptocurrencies
 and blockchains can enhance privacy for their users.
 
-**<u>Announcements</u>**
+<h4>Announcements</h4>
 
 Welcome back to week 5 of CS198.2x Blockchain Technology. This is the
 second-to-last week of this course. Besides the usual quick check and
@@ -10432,7 +10457,7 @@ defense mechanisms, scalability, security & privacy, decentralization).
 This will be due at course end, Nov. 9 at 0:00 UTC, to give you extra
 time to write. We advise you to start as soon as possible. 
 
-**<u>Intro: Anonymity Basics</u>**
+<h3>Intro: Anonymity Basics</h3>
 
 Privacy has become a huge point of contention in recent days with tech
 organizations such as Google and Facebook, which make a great deal of
@@ -10456,7 +10481,7 @@ Hence, they can increase their privacy through anonymity, masking their
 identity, allowing them to gain access to some service while minimizing
 how much information they reveal about their real identity.
 
-**<u>Anonymity Basics</u>**
+<h3>Anonymity Basics</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!-------------------- 228. anonymity basics: blockchain fundamentals (298) ---------------------->
@@ -10912,7 +10937,7 @@ decentralized.
 And once again, we can tie this back to the fundamental trilemma we saw
 in earlier lectures.
 
-**<u>Intro: Deanonymization</u>**
+<h3>Intro: Deanonymization</h3>
 
 As anonymous as we think we are, there are tactics that can be used to
 deanonymize us.
@@ -10934,7 +10959,7 @@ conclusions.
 And in the following section, we’ll be taking our understanding of
 deanonymization tactics to design resistances to enhance user privacy.
 
-**<u>Deanonymization</u>**
+<h3>Deanonymization</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!-------------------- 244. anonymity basics: blockchain fundamentals (313) ---------------------->
@@ -11146,7 +11171,7 @@ In this section, we’ll see how we can combat deanonymization techniques
 to enhance user privacy and achieve anonymity through a strategy known
 as mixing.
 
-**<u>Mixing Basics</u>**
+<h3>Mixing Basics</h3>
 
 First, a couple disclaimers need to be made.
 
@@ -11353,7 +11378,7 @@ identifiable information and follow KYC/AML laws as mentioned before,
 meaning that such activity may appear suspicious to exchanges,
 especially if done repeatedly.
 
-**<u>Decentralized Mixing</u>**
+<h3>Decentralized Mixing</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!--------------------- 249. decentralized mining: can this be done? (324) ----------------------->
@@ -11616,7 +11641,7 @@ attacks, facing a tradeoff between centralized servers such as in
 CoinJoin and anonymity such as in CoinShuffle, and the tradeoff between
 plausible deniability and security.
 
-**<u>Fair Exchange Mixers</u>**
+<h3>Fair Exchange Mixers</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------ 250. fair exchange mixers - blockchain fundamentsls (331) ------------------->
@@ -11724,7 +11749,7 @@ The drawbacks, however, are that they’re difficult to build.
 TumbleBit only works with sufficient liquidity, XIM requires a few hours
 of computation, and BSC requires advances to Bitcoin Script.
 
-**<u>Intro: Anonymity Through Altcoins</u>**
+<h3>Intro: Anonymity Through Altcoins</h3>
 
 Mixing is something that a user would consciously have to do.
 
@@ -11741,7 +11766,7 @@ integrated into the protocol.
 In this section, we’ll cover some privacy focused altcoins and the
 technologies they are built upon to protect their users.
 
-**<u>Privacy Focused Altcoins</u>**
+<h3>Privacy Focused Altcoins</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------- 251. coinjoin dash (334) ------------------------------------>
@@ -12139,7 +12164,7 @@ setup, but that’s out of scope for this course.
 It is an interesting challenge in integrating such technologies into
 blockchain though, so it’s definitely worth checking out.
 
-**Intro: Advanced Anonymity & Generalizations**
+<h3>Intro: Advanced Anonymity & Generalizations</h3>
 
 Now that we’ve gone through all these anonymity techniques, separating
 them category by category, you’re likely wondering what else is left to
@@ -12155,7 +12180,7 @@ Then, we’ll bring back the contention between user experience and
 privacy, and discuss more in depth the trilemma that all blockchains
 face as a conclusion for the last three lectures.
 
-**Advanced Anonymity & Generalizations**
+<h3>Advanced Anonymity & Generalizations</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- 252. mimblewimble (345) ------------------------------------>
@@ -12319,9 +12344,9 @@ Really, there is no perfect all around blockchain system.
 
 Instead, each is designed for its specific goal and use case.
 
-**Text: Week 5 Summary**
+<h3>Text: Week 5 Summary</h3>
 
-**I. Anonymity Basics**
+<h3>I. Anonymity Basics</h3>
 
 It’s a common misconception that anonymity in cryptocurrencies is only
 useful for buying drugs or participating in illegal activities. The
@@ -12348,7 +12373,7 @@ And sometimes, as hard as one might try to make a particular technology
 secure, private, or anonymous, human factors make all of this very
 difficult.
 
-**II. Deanonymization**
+<h3>II. Deanonymization</h3>
 
 The goal of deanonymization is to link your online identity (pseudonym)
 to your real identity through analysis and heuristics. 
@@ -12394,7 +12419,7 @@ of **mixing** is to maximize the size of this anonymity set, because a
 larger anonymity set means it is more difficult to associate pseudonyms
 with real-world identities.
 
-**Centralized mixing solutions:**
+<h3>Centralized mixing solutions:</h3>
 
 -   **Third Party Protocol (TPP):** Of course, as with any centralized
     service, TPP faces the issue of being a single point of failure.
@@ -12421,7 +12446,7 @@ with real-world identities.
     difficulty, while disadvantages include the chance that exchanges
     may reveal the links between your inputs and outputs.
 
-**Decentralized mixing solutions:**
+<h3>Decentralized mixing solutions:</h3>
 
 -   **CoinJoin** was one of the earliest decentralized mixing protocols
     proposed, all the way back in 2011. It used n-of-n multi-signature
@@ -12450,7 +12475,7 @@ with real-world identities.
     protocol security, as any ⅔ of the users colluding can steal funds
     from all the other users.
 
-**Fair exchange mixers:**
+<h3>Fair exchange mixers:</h3>
 
 These are built upon the traditional **fair-exchange** protocol so that
 no trusted third party is needed.
@@ -12473,7 +12498,7 @@ no trusted third party is needed.
 -   **TumbleBit** - implements an “RSA evaluation as a service” protocol
     to make BSC possible on the Bitcoin blockchain.
 
-**IV. Anonymity Through Altcoins**
+<h3>IV. Anonymity Through Altcoins</h3>
 
 There exist altcoins with protocols where privacy is built in so that
 there is no suspicion towards any individual user. Examples include:
@@ -12495,7 +12520,7 @@ there is no suspicion towards any individual user. Examples include:
     addresses, using **zero-knowledge Succinct Non-interactive ARguments
     of Knowledge** (zk-SNARKs)
 
-**V. Advanced Anonymity & Generalizations**
+<h3>V. Advanced Anonymity & Generalizations</h3>
 
 **Mimblewimble** proposes a more scalable and private cryptographic
 protocol than that of Bitcoin.
@@ -12516,7 +12541,7 @@ blockchain platforms, this brings us back to our trilemma -- to enable
 the increase in privacy, there have to be sacrifices with regards to
 scalability and decentralization.
 
-**Readings (Week 5)**
+<h3>Readings (Week 5)</h3>
 
 > [Is Bitcoin Anonymous? A Complete Beginner's
 > Guide](https://bitcoinmagazine.com/articles/is-bitcoin-anonymous-a-complete-beginner-s-guide-1447875283/)
@@ -12554,7 +12579,7 @@ scalability and decentralization.
 > [Introduction to MimbleWimble and
 > Grin ](https://github.com/ignopeverell/grin/blob/master/doc/intro.md)
 
-**Welcome to Week 6**
+<h3>Welcome to Week 6</h3>
 
 We’ve made it 12 weeks into the Blockchain Fundamentals curriculum.
 
@@ -12575,7 +12600,7 @@ To end, we’ll see what the future of the world might look like if
 blockchain technology garners widespread adoption, and how you can get
 involved in making that future a reality.
 
-**Announcements**
+<h4>Announcements</h4>
 
 Welcome to the last week of CS198.2x Blockchain Technology, and of the
 Blockchain Fundamentals program! 
@@ -12593,7 +12618,7 @@ time. Please manage your time wisely. We are in the process of
 processing everyone's grades. Thank you in advance for your patience and
 understanding.
 
-**Intro: Program Summary**
+<h3>Intro: Program Summary</h3>
 
 We’ve made it so far in the curriculum; now would be a good time to
 summarize all that we have learned.
