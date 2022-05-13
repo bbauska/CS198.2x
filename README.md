@@ -171,11 +171,11 @@ Blockchain at Berkeley on Slack."
 views of the instructors for this course. Official course discussion
 should still occur on the edX discussion board.
 
-**Course Staff**
+<h4>Course Staff</h4>
 
 Rustie Lin, Nadir Akhtar, Jennifer Hu, Janice Ng.
 
-**Major Contributors**
+<h4>Major Contributors</h4>
 
 Blockchain Fundamentals started off as the [Cryptocurrency
 DeCal ](https://blockchain.berkeley.edu/decal/fa16/)(Democratic
@@ -2779,8 +2779,8 @@ Consensus comic strips.
 <h3>I. Distributed Systems</h3>
 
 Bitcoin transactions are recorded on the blockchain, a ledger that is
-maintained by a **distributed system**, or a network of
-independent **nodes** connected by **message channels** that move
+maintained by a <b>distributed system</b>, or a network of
+independent <b>nodes</b> connected by <b>message channels</b> that move
 information between them. A critical aspect of a distributed system is
 the way in which these nodes, which are unknown and untrusting of each
 other, come to agreement, or consensus. In the case of Bitcoin, the
@@ -2794,35 +2794,36 @@ malicious entities, we can still protect our information and services by
 relying on previously set protocols that withstand these failures.
 
 There are 3 key components of distributed systems:
+<ol>
+<li>Components in the system process information <b>concurrently</b></li><br/>
 
--   Components in the system process information **concurrently**
+<li>Each node maintains its own clock; there is <b>no global clock</b></li><br/>
 
--   Each node maintains its own clock; there is **no global clock**
+<li>Protocols <b>protect against potential failure</b> of individual components</li>
+</ol>
 
--   Protocols** protect against potential failure** of individual
-    components
-
-A distributed system is considered “**correct**” if it comes to
+A distributed system is considered “<b>correct</b>” if it comes to
 consensus on an answer -- given an input, the nodes must agree on an
 output. 
 
 To prove the correctness of a distributed system, we use the scheme
 designed by Lamport. The scheme says that a system is correct if two
 things are true:
+<ul>
+<li><b>Safety:</b> It doesn’t do bad things!</li><br/>&nbsp;
+<li><b>Liveness:</b> It will eventually do good things.</li>
+</ul>
 
--   **Safety:** It doesn’t do bad things! 
-
--   **Liveness:** It will eventually do good things. 
-
-To ensure correctness, we use **consensus algorithms**. There are 3
+To ensure correctness, we use <b>consensus algorithms</b>. There are 3
 requirements of any correct consensus algorithm:
+<ul>
+<li><b>Validity:</b> any value agreed upon must be proposed by one of the
+    processes</li><br/>&nbsp;
 
--   **Validity:** any value agreed upon must be proposed by one of the
-    processes
+<li><b>Agreement:</b> all non-faulty processes must agree on the same value</li><br/>&nbsp;
 
--   **Agreement:** all non-faulty processes must agree on the same value
-
--   **Termination:** all non-faulty nodes eventually decide
+<li><b>Termination:</b> all non-faulty nodes eventually decide</li>
+</ul>
 
 Notice that validity and agreement are safety properties while
 termination is a liveness property.
@@ -2840,96 +2841,101 @@ termination is a liveness property.
 
 The CAP Theorem states that any distributed system can only achieve 2 of
 the following 3 properties at any given time:
+<ul>
+<li><b>Consistency:</b> every node provides the most recent state of the
+    system</li><br/>
 
--   **Consistency:** every node provides the most recent state of the
-    system
+<li><b>Availability:</b> every node has constant read and write access</li><br/>
 
--   **Availability:** every node has constant read and write access
-
--   **Partition Tolerance:** ability to function in spite of partitions
+<li><b>Partition Tolerance:</b> ability to function in spite of partitions
     in the network, where a **partition** is the inability for two or
     more nodes to communicate with each other; this is almost a given
-    for any distributed system
+    for any distributed system</li>
+</ul>
 
 It is important to understand there aren’t black and white tradeoffs
 between these three properties -- compromises can be made. 
 
 <h3>III. Byzantine Fault Tolerance</h3>
 
-**Byzantine nodes** may act maliciously or arbitrarily. Achieving
+<b>Byzantine nodes</b> may act maliciously or arbitrarily. Achieving
 consensus when ⅓ or more of the nodes are Byzantine nodes is impossible.
 
-There are two types of **faults** that may be produced by Byzantine
+There are two types of <b>faults</b> that may be produced by Byzantine
 nodes, where faults are deviants from protocol:
+<ul>
+<li> <b>Fail-stop:</b> a node can crash and not return values</li><br/>
 
--   **Fail-stop:** a node can crash and not return values
-
--   **Byzantine:** in addition to above, nodes can also send
+<li> <b>Byzantine:</b> in addition to above, nodes can also send
     incorrect/corrupted values; all deviations from protocol fall under
-    this category
+    this category</li><br/>
+</ul>
 
 <h3>IV. Voting Based Consensus Mechanisms</h3>
 
 These mechanisms allow nodes to come to consensus when no more than ⅓ of
 the nodes are Byzantine nodes.
 
-**Paxos** - Consensus mechanism inspired by the Paxon parliament, who
+<b>Paxos</b> - Consensus mechanism inspired by the Paxon parliament, who
 used the Paxos algorithm to pass decrees and make sure everyone on the
 island was in consensus. Assumes nodes do not try to subvert protocol;
 only works for fail-stop, no byzantine failure tolerance.
+<ul>
+<li> <b>Proposer:</b> proposes legislation/changes to current state</li><br/>
 
--   **Proposer:** proposes legislation/changes to current state
+<li><b>Acceptor:</b> decides whether to accept proposed legislation</li><br/>
 
--   **Acceptor:** decides whether to accept proposed legislation
+<li><b>Learner:</b> learns and distributes changes to mass audience</li><br/>
 
--   **Learner:** learns and distributes changes to mass audience
+<li><b>Quorum:</b> Majority of acceptors, any two quorums must overlap</li>
+</ul>
 
--   **Quorum:** Majority of acceptors, any two quorums must overlap
-
-**Raft** - Leader based approach designed to be more understandable than
+<b>Raft</b> - Leader based approach designed to be more understandable than
 Paxos, easier to implement; i.e. JP Morgan’s Quorum (enterprise version
 of Ethereum).
-
--   **One and only one leader:** communicates with client directly,
+<ul>
+<li><b>One and only one leader:</b> communicates with client directly,
     > responsible for log replication on other servers, leads until
-    > fails or disconnects
+    > fails or disconnects</li><br/>
 
--   **Leader election:** leader sends heartbeats to signal it is online
+<li> <b>Leader election:</b> leader sends heartbeats to signal it is online
     > and functioning; if no heartbeats are received the first node to
-    > realize a lack of leader becomes the new leader
+    > realize a lack of leader becomes the new leader</li>
+</ul>
 
-**Practical Byzantine Fault Tolerance** - fast, handles F faults in a
+<b>Practical Byzantine Fault Tolerance</b> - fast, handles F faults in a
 system with 3F + 1 nodes, BFT-NFS implementation only 3% slower than
 standard unreplicated NFS
 
 Operates using 3 phases: 
-
--   **Pre-prepare:**  the primary node sends out pre-prepare messages to
+<ol>
+<li><b>Pre-prepare:</b>  the primary node sends out pre-prepare messages to
     > everyone in the network; a node accepts the pre-prepare message so
-    > long as its valid.
+    > long as its valid.</li>
 
--   **Prepare:** If a node accepts a pre-prepare message, it follows up
+<li><b>Prepare:</b> If a node accepts a pre-prepare message, it follows up
     > by sending out a prepare message to everyone else; prepare
     > messages are accepted by receiving nodes so long as they’re valid,
     > again, based on sequence number, signature, and other metadata; A
     > node is considered “prepared” if it has seen the original request
     > from the primary node, has pre-prepared, and has seen 2F prepare
-    > messages that match its pre-prepare – making for 2F + 1 prepares.
+    > messages that match its pre-prepare – making for 2F + 1 prepares.</li>
 
--   **Commit:** If a node receives F+ 1 valid commit messages, then they
+<li><b>Commit:</b> If a node receives F+ 1 valid commit messages, then they
     > carry out the client request and then finally send out the reply
     > to the client. The client waits for F + 1 of the same reply. Since
     > we allow for at most F faults, we need to wait for at least F + 1,
-    > and this ensures the response to be valid.
+    > and this ensures the response to be valid.</li>
+</ol>
 
 <h3>V. Nakamoto Consensus</h3>
 
 Used in Bitcoin and other cryptocurrencies. Whereas the voting based
 consensus mechanisms covered above use explicit voting, Nakamoto
-consensus uses **implicit voting** i.e. voting based on
+consensus uses <b>implicit voting</b> i.e. voting based on
 lottery-selection and earned voting power.
 
-Nakamoto consensus is **very robust**:
+Nakamoto consensus is <b>very robust</b>:
 
 -   Anyone can join or leave the network at any time
 
@@ -2950,33 +2956,33 @@ state, and try to convince others of its validity.
 
 Multiple forms of Nakamoto Consensus:
 
--   **Proof of Work** - current blockchain standard, led by bitcoin and
+-   <b>Proof of Work</b> - current blockchain standard, led by bitcoin and
     > followed by most networks, led to mining craze and rapid
     > acquisition of computing hardware
 
--   **Proof of Stake** - experimental protocol to end electricity drain
+-   <b>Proof of Stake</b> - experimental protocol to end electricity drain
     > by staking tokens, can mine or validate block transactions
     > according to how many tokens staked
 
--   **Proof of Activity** - a proof of work and proof of stake hybrid
+-   <b>Proof of Activity</b> - a proof of work and proof of stake hybrid
     > protocol
 
--   **Proof of Capacity/Space** - memory-hard PoW, allocating amount of
+-   <b>Proof of Capacity/Space</b> - memory-hard PoW, allocating amount of
     > memory or disk to solve a challenge
 
--   **Proof of Burn** - like Proof-of-Stake, except staked coins are
+-   <b>Proof of Burn</b> - like Proof-of-Stake, except staked coins are
     > burned
 
 <h3>VI. Proof-of-Stake</h3>
 
-With proof-of-stake, **validators** are stakeholders with voting power
-proportional to the **economic stake** they have locked up. The
+With proof-of-stake, <b>validators</b> are stakeholders with voting power
+proportional to the <b>economic stake</b> they have locked up. The
 assumption here is that someone with more stake is more incentivized to
 do things that will benefit the system and thus increase their economic
 stake.
 
-**Chain-based PoS** chooses availability while **Byzantine Fault
-Tolerant PoS** chooses consistency.
+<b>Chain-based PoS</b> chooses availability while <b>Byzantine Fault
+Tolerant PoS</b> chooses consistency.
 
 <h4>Weaknesses of PoS versus PoW:</h4>
 
@@ -2999,14 +3005,14 @@ network against Sybil attacks.
 
 If you don’t trust certain nodes in the quorum, we can avoid having a
 central party choose the quorum for us by using a quorum slice, or
-subsets of a quorum that a particular node can trust. A **quorum
-slice** allows us to individually choose who we trust, and when multiple
-quorum slices overlap, we form **quorum intersections** and thus a
+subsets of a quorum that a particular node can trust. A <b>quorum
+slice</b> allows us to individually choose who we trust, and when multiple
+quorum slices overlap, we form <b>quorum intersections</b> and thus a
 larger quorum.
 
 Federated consensus is powerful because of its decentralized control,
 low latency, and flexibility towards trust. Popular implementations of
-federated consensus include **Ripple** and **Stellar**. 
+federated consensus include <b>Ripple</b> and <b>Stellar</b>.
 
 <h3>Readings (Week 1)</h3>
 
@@ -4438,27 +4444,27 @@ Written by Deven Navani and Nicholas Shen
 
 Economic principles help us to design a system so that actors are
 incentivized to make decisions in line with the goals of the greater
-good. We are able to **secure the future**. (e.g. block reward in
+good. We are able to <b>secure the future</b>. (e.g. block reward in
 Bitcoin and cost of mining to deter Sybil attacks)
 
-Cryptography allows us to **secure the past** and ensure our decisions
+Cryptography allows us to <b>secure the past</b> and ensure our decisions
 cannot be manipulated by observers (e.g. cryptographic signatures for
 authentication and hashes for immutability)
 
 <h3>II. Cryptography</h3>
 
-**Cryptography** aims to secure the integrity and confidentiality of
+<b>Cryptography</b> aims to secure the integrity and confidentiality of
 information.
 
 The need for cryptography is especially important in distributed
 systems, where unknown actors are a potential threat to the secrecy and
 safekeeping of information.
 
-**Encryption** is the process of transforming information into an
+<b>Encryption</b> is the process of transforming information into an
 unintelligible intermediary piece of information which can be
-transformed back into its original state with **decryption**. An early
-example of encryption was the Roman Empire’s use of the **Caesar
-Cipher**, in which messages are encrypted by shifting letters to the
+transformed back into its original state with <b>decryption</b>. An early
+example of encryption was the Roman Empire’s use of the <b>Caesar
+Cipher</b>, in which messages are encrypted by shifting letters to the
 right by a previously set amount.
 
 <!------------------------------------------------------------------------------------------------>
@@ -4473,15 +4479,15 @@ right by a previously set amount.
 Be aware of various cryptographic primitives (review from previous
 course):
 
--   **Cryptographic hash functions**, used to capture the identity of
+-   <b>Cryptographic hash functions</b>, used to capture the identity of
     information without revealing anything about the information itself
 
--   **Digital signatures**, used to prove your identity and that you
+-   <b>Digital signatures</b>, used to prove your identity and that you
     sent a particular message
 
--   **Erasure codes** lower the 100% data availability requirement
+-   <b>Erasure codes</b> lower the 100% data availability requirement
 
--   **Timelocks** allow for a message to be easily encrypted but take a
+-   <b>Timelocks</b> allow for a message to be easily encrypted but take a
     longer amount of time to decrypt.
 
 <h3>III. Economics</h3>
@@ -4491,12 +4497,12 @@ best choice to make with your limited resources in order to maximize
 your profit? Economics also helps us to design a system so that everyone
 is incentivized to act in a certain way.
 
-In **game theory**, we aim to deduce how an actor will act in a given
+In <b>game theory</b>, we aim to deduce how an actor will act in a given
 situation. These decisions are influenced by the actions of others and
 the rewards and penalties associated with certain decisions. Therefore
 we aim to manipulate these factors.
 
-In blockchain, **tokens** are used as economic incentives. Tokens are
+In blockchain, <b>tokens</b> are used as economic incentives. Tokens are
 units of protocol defined cryptocurrency given out to miners and
 privileges miners can charge for. The assumption here is that the
 underlying objective for actors in a blockchain network is to maximize
@@ -4513,14 +4519,14 @@ Proof-of-Stake, we give these individuals the most power as validators.
 
 Major PoS implementations:
 
--   **Tendermint** - First BFT-based PoS consensus mechanism, published
+-   <b>Tendermint</b> - First BFT-based PoS consensus mechanism, published
     in 2014
 
--   **Casper the Friendly GHOST (CBC)** - a family of consensus
+-   <b>Casper the Friendly GHOST (CBC)</b> - a family of consensus
     algorithms designed from ground up i.e. Correct-by-construction, a
     proposed upgrade for the Ethereum network
 
--   **Casper the Friendly Finality Gadget** - a Proof-of-Work and
+-   <b>Casper the Friendly Finality Gadget</b> - a Proof-of-Work and
     Proof-of-Stake hybrid; another upgrade proposed for the Ethereum
     network
 
@@ -4540,20 +4546,20 @@ expected value to less than or equal to zero.
 
 Examples of attacks:
 
--   **Nothing-at-Stake**: voting in favor of every fork in hopes of
+-   <b>Nothing-at-Stake</b>: voting in favor of every fork in hopes of
     maximizing one’s rewards i.e. guaranteeing you will not miss the
     reward from the chosen branch; solution: slashing an actor if they
     are caught voting on multiple forks, or a less popular scheme
     penalizes incorrect votes; keep in mind that voting takes place
     using cryptographically identifiable/verifiable signatures.
 
--   **Stake grinding**: attack where a validator performs some
+-   <b>Stake grinding</b>: attack where a validator performs some
     computation or takes some other step to try to bias the randomness
     in their own favor; solution: require validators to deposit their
     coins well in advance, and avoid information that can be easily
     manipulated as source data for randomness.
 
-**Weak subjectivity** is a problem for new nodes or nodes that have been
+<b>Weak subjectivity</b> is a problem for new nodes or nodes that have been
 offline for a long time; the node does not know which chain is the main
 chain; solution: introduce a "revert limit" - a rule that nodes must
 simply refuse to revert further back in time than the deposit length.
@@ -7507,7 +7513,7 @@ with AML/KYC regulations, still was deemed risky.
 
 As Bitcoin and blockchain technology matured, banks and corporations
 took interest in developing what are now known
-as **permissioned** blockchains and distributed ledgers. They aimed to
+as <b>permissioned</b> blockchains and distributed ledgers. They aimed to
 “take the blockchain out of Bitcoin.”
 
 Permissioned systems only allow trusted users into the system, allowing
@@ -7516,8 +7522,8 @@ resulting in systems with reduced levels of openness, no guarantee of
 trustlessness, and fewer incentives built into the protocol.
 
 Primarily, enterprise blockchains of the time were used to solve issues
-in **coordination failures**, boost **horizontal integration**, and
-create **self-sovereign** decentralized networks. 
+in <b>coordination failures</b>, boost <b>horizontal integration</b>, and
+create <b>self-sovereign</b> decentralized networks. 
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- 106. centralized & distributed databases (210) ------------------------->
@@ -7528,7 +7534,7 @@ create **self-sovereign** decentralized networks. 
    width="35%" />
 </p>
 
-**Centralized databases** are run by a single entity (e.g. a company)
+<b>Centralized databases</b> are run by a single entity (e.g. a company)
 that handles all requests and data processing.
 
 <!------------------------------------------------------------------------------------------------>
@@ -7540,7 +7546,7 @@ that handles all requests and data processing.
    width="35%" />
 </p>
 
-**Distributed databases** are run by a group of storage nodes that are
+<b>Distributed databases</b> are run by a group of storage nodes that are
 connected to each other and work to maintain a consistent overall view
 of the entire system. Nodes are able to fully trust each other in some
 systems (hence the solid lines connecting storage nodes.)
@@ -7554,7 +7560,7 @@ systems (hence the solid lines connecting storage nodes.)
    width="35%" />
 </p>
 
-**Distributed ledgers** are a specific type of distributed database in
+<b>Distributed ledgers</b> are a specific type of distributed database in
 which the information is organized chronologically, mimicking a
 traditional ledger. Most often, storage nodes may not fully trust each
 other (hence the dotted lines in the diagram below). Instead, they must
@@ -7571,7 +7577,7 @@ the system.
 </p>
 
 Distributed ledgers that specifically implement a chain of blocks in
-their protocol are known as **blockchains**.
+their protocol are known as <b>blockchains</b>.
 
 Blockchains exist in three broad categories, depending on their access
 types: public, consortium, and private blockchains. Together, consortium
@@ -7606,19 +7612,19 @@ identity, and supply chain.
 In general, the essential properties of a good blockchain use case are
 that:
 
-1.  Blockchain is not only viable, but is **necessary**. Otherwise, it’s
+1.  Blockchain is not only viable, but is <b>necessary</b>. Otherwise, it’s
     hard to justify a blockchain’s low “efficiency”
 
-2.  Blockchain is used to **solve coordination failures**. Blockchain
+2.  Blockchain is used to <b>solve coordination failures</b>. Blockchain
     could be used to create arbitrary incentive structures and enable
     the cooperation of an untrusting consortium of companies and
     entities.
 
-3.  Blockchain aids in **horizontal integration**. Since data is now
+3.  Blockchain aids in <b>horizontal integration</b>. Since data is now
     stored in a logically centralized blockchain, we can combine data
     silos and enforce a common API and data standard.
 
-4.  Blockchain achieves **pure decentralization**. This is not as
+4.  Blockchain achieves <b>pure decentralization</b>. This is not as
     relevant to enterprise blockchains, but blockchain in general
     (public ones) can be used to avoid centralized corruption.
 
@@ -7628,7 +7634,7 @@ be used to solve your business need – rather than an entire blockchain.
 
 <h3>IV. ICO Schemas & Culture</h3>
 
-An** initial coin offering (ICO)** is a novel, “unregulated” means of
+An <b>initial coin offering (ICO)</b> is a novel, “unregulated” means of
 raising funds for a blockchain startup.
 
 ICOs are meant to allow developers to monetize open-source software
@@ -12353,7 +12359,7 @@ Instead, each is designed for its specific goal and use case.
 It’s a common misconception that anonymity in cryptocurrencies is only
 useful for buying drugs or participating in illegal activities. The
 truth is, everyone benefits from anonymity. Anonymity helps in providing
-crucial properties of currency. For example, **fungibility** is the idea
+crucial properties of currency. For example, <b>fungibility</b> is the idea
 that every unit of a currency must be equal in value to every other
 unit. Cash is fungible because it is anonymous – a dollar is a dollar.
 It may also be dangerous if information about a user’s
@@ -12368,8 +12374,8 @@ transactions are now public is concerning, especially for those who do
 not actively adhere to best practices, such as generating a new
 pseudonym for each transaction. Additionally, the privacy of users can
 be severely compromised if their virtual identities, or
-their **pseudonyms**, are somehow linked to their real ones -- this is
-known as **linking**. 
+their <b>pseudonyms</b>, are somehow linked to their real ones -- this is
+known as <b>linking</b>.
 
 And sometimes, as hard as one might try to make a particular technology
 secure, private, or anonymous, human factors make all of this very
@@ -12380,8 +12386,8 @@ difficult.
 The goal of deanonymization is to link your online identity (pseudonym)
 to your real identity through analysis and heuristics. 
 
-One technique is **Transaction Graph Analysis**, the process of
-constructing a **transaction graph** (pictured below) where each node is
+One technique is <b>Transaction Graph Analysis</b>, the process of
+constructing a <b>transaction graph</b> (pictured below) where each node is
 a pseudonym and each edge is a transaction conducted between pseudonyms.
 
 <!------------------------------------------------------------------------------------------------>
@@ -12393,37 +12399,35 @@ a pseudonym and each edge is a transaction conducted between pseudonyms.
    width="65%" />
 </p>
 
-This graph can be analyzed by **clustering**, or attributing a group of
+This graph can be analyzed by <b>clustering</b>, or attributing a group of
 pseudonyms to the same real-world entity. The first part of clustering,
 actually creating the clusters, can be performed using various
-heuristics, two of which are **merging transaction
-outputs** and **change addresses**. In regards to the second part,
+heuristics, two of which are <b>merging transaction
+outputs</b> and <b>change addresses</b>. In regards to the second part,
 linking clusters with their real-world identities, various tactics
 include:
+<ul>
+<li>Tagging by transacting (useful for tracking businesses)<br/>&nbsp;</li>
+<li>Relying on carelessness (useful for tracking individuals)<br/>&nbsp;</li>
+<li>Service providers, who use data analytics to discover real identities</li>
+</ul>
 
--   Tagging by transacting (useful for tracking businesses)
-
--   Relying on carelessness (useful for tracking individuals)
-
--   Service providers, who use data analytics to discover real
-    identities
-
-**Taint analysis** can be used to tag “bad” addresses and trace their
-associated activity throughout the network (**taint** is the percentages
+<b>Taint analysis</b> can be used to tag “bad” addresses and trace their
+associated activity throughout the network (<b>taint</b> is the percentages
 of funds received by an address that can be traced back to another
 address).
 
 <h3>III. Anonymity Through Mixing</h3>
 
-An **anonymity set** is the set of pseudonyms between which an entity
+An <b>anonymity set</b> is the set of pseudonyms between which an entity
 cannot be distinguished from their counterparts. The goal
-of **mixing** is to maximize the size of this anonymity set, because a
+of <b>mixing</b> is to maximize the size of this anonymity set, because a
 larger anonymity set means it is more difficult to associate pseudonyms
 with real-world identities.
 
 <h3>Centralized mixing solutions:</h3>
 
--   **Third Party Protocol (TPP):** Of course, as with any centralized
+-   <b>Third Party Protocol (TPP)</b>: Of course, as with any centralized
     service, TPP faces the issue of being a single point of failure.
     Additionally, if the only UTXOs being sent to the centralized mixer
     are dirty coins, the outputs for later users will only be dirty
@@ -12439,7 +12443,7 @@ with real-world identities.
    width="100%" />
 </p>
 
--   **Altcoin exchange mixing**, which works by sending dirty funds
+-   <b>Altcoin exchange mixing</b>, which works by sending dirty funds
     through several layers of altcoin ⇔ altcoin exchanges to obfuscate
     the money trail. This is less centralized than TPP. In this case,
     there is no mixing fee, but rather the sum of the exchange fees
@@ -12450,15 +12454,15 @@ with real-world identities.
 
 <h3>Decentralized mixing solutions:</h3>
 
--   **CoinJoin** was one of the earliest decentralized mixing protocols
+-   <b>CoinJoin</b> was one of the earliest decentralized mixing protocols
     proposed, all the way back in 2011. It used n-of-n multi-signature
     transactions to mix coins together between n peers. The problems
     were that it assumed there was some central “mix facilitator” with a
     central server coordinating all the users, in addition to lacking
     plausible deniability and DoS resistance.
 
--   **CoinShuffle** improved upon CoinJoin by
-    introducing **decentralized mixnets**, which allow a set of users to
+-   <b>CoinShuffle</b> improved upon CoinJoin by
+    introducing <b>decentralized mixnets</b>, which allow a set of users to
     pool together inputs from a group without revealing which input was
     submitted by which user. Additionally, it used an “Accountable
     Anonymous Group Messaging” protocol known as Dissent to coordinate
@@ -12466,12 +12470,12 @@ with real-world identities.
     deanonymization by a mix facilitator, it is still susceptible to all
     the drawbacks associated with CoinJoin.
 
--   **JoinMarket** sought to fill a liquidity market of mixable coins
+-   <b>JoinMarket</b> sought to fill a liquidity market of mixable coins
     for a fee, allowing anyone to contact this service to mix their
     coins. However, this approach does not provide a large anonymity set
     and was claimed to be deanonymizable with $32,000 USD alone.
 
--   **CoinParty** aimed to provide efficient mixing with plausible
+-   <b>CoinParty</b> aimed to provide efficient mixing with plausible
     deniability and a larger anonymity set via escrow addresses and
     threshold signatures. However, this comes at the cost of some
     protocol security, as any ⅔ of the users colluding can steal funds
@@ -12479,25 +12483,25 @@ with real-world identities.
 
 <h3>Fair exchange mixers:</h3>
 
-These are built upon the traditional **fair-exchange** protocol so that
+These are built upon the traditional <b>fair-exchange</b> protocol so that
 no trusted third party is needed.
 
--   **CoinSwap** - uses hash-locked, 2-of-2 multi-signature transactions
+-   <b>CoinSwap</b> - uses hash-locked, 2-of-2 multi-signature transactions
     to securely swap coins without linking transactions. While this
     process is trustless and provides better plausible deniability, it
     comes at the cost of inefficiency and is also insecure against
     mix-passive intermediary.
 
--   **XIM** - Uses untrusted intermediary to create fair-exchange mixer.
+-   <b>XIM</b> - Uses untrusted intermediary to create fair-exchange mixer.
     It prevents Sybil and DoS attacks by enforcing fees to use service,
     but it requires several hours to run because
     of group-forming protocol.
 
--   **BSC** - Builds upon XIM to allow users to skip group-forming
+-   <b>BSC</b> - Builds upon XIM to allow users to skip group-forming
     protocol with anonymous fee vouchers. However, it is not supported
     on the Bitcoin protocol due to insufficient scripting capabilities.
 
--   **TumbleBit** - implements an “RSA evaluation as a service” protocol
+-   <b>TumbleBit</b> - implements an “RSA evaluation as a service” protocol
     to make BSC possible on the Bitcoin blockchain.
 
 <h3>IV. Anonymity Through Altcoins</h3>
@@ -12505,11 +12509,11 @@ no trusted third party is needed.
 There exist altcoins with protocols where privacy is built in so that
 there is no suspicion towards any individual user. Examples include:
 
--   **DASH** - employs a network of Masternodes to perform privileged
+-   <b>DASH</b> - employs a network of Masternodes to perform privileged
     actions (voting on proposals, confirming transactions instantly, and
     mixing the coins of all network participants)
 
--   **Monero** - provides guarantees on transaction untraceability and
+-   <b>Monero</b> - provides guarantees on transaction untraceability and
     unlinkability
 
     -   *Untraceability*: for any incoming transaction, all possible
@@ -12518,17 +12522,17 @@ there is no suspicion towards any individual user. Examples include:
     -   *Unlinkability*: for any two outgoing transactions, it is
         impossible to prove that they went to the same person
 
--   **Zcash** - transactions reveal nothing about input and output
-    addresses, using **zero-knowledge Succinct Non-interactive ARguments
-    of Knowledge** (zk-SNARKs)
+-   <b>Zcash</b> - transactions reveal nothing about input and output
+    addresses, using <b>zero-knowledge Succinct Non-interactive ARguments
+    of Knowledge</b> (zk-SNARKs)
 
 <h3>V. Advanced Anonymity & Generalizations</h3>
 
-**Mimblewimble** proposes a more scalable and private cryptographic
+<b>Mimblewimble</b> proposes a more scalable and private cryptographic
 protocol than that of Bitcoin.
 
-In regards to privacy, MimbleWimble supports **Confidential
-Transactions** (proposed by George Maxell), where all values in a
+In regards to privacy, MimbleWimble supports <b>Confidential
+Transactions</b> (proposed by George Maxell), where all values in a
 transaction are encrypted with “blinding factors,” or secondary elliptic
 curves for increased privacy. MimbleWimble also bundles multiple
 transactions into larger transactions -- this is done to scramble inputs
@@ -13056,7 +13060,7 @@ using a blockchain better than using a centralized database?
 
 That concluded the first half of the program.
 
-**CS198.2x Blockchain Technology**
+<h3>CS198.2x Blockchain Technology</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!--------------- 218. trust without trust: distributed systems & consensus (366) ---------------->
@@ -13456,7 +13460,7 @@ And now we've made it all the way to the end this is the last lecture in
 the blockchain fundamentals program in which we talk about a blockchain
 powered future.
 
-**Intro: People’s Pick & FAQ**
+<h3>Intro: People’s Pick & FAQ</h3>
 
 Throughout our offerings of both courses in the Blockchain Fundamentals
 program, we’ve received many questions about the material we teach, as
@@ -13472,7 +13476,7 @@ in the regular course.
 Serving as a teaser and motivation for what’s to come if you choose to
 get involved in the blockchain space yourself.
 
-**People’s Pick: Cryptocurrency Mining**
+<h3>People’s Pick: Cryptocurrency Mining</h3>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 219. scratching the itch (377) --------------------------------->
@@ -13679,7 +13683,7 @@ Please feel free to continue engaging in the discussion board; if we
 find another frequently asked question, we’ll make another FAQ video to
 answer it.
 
-**Frequently Asked Questions**
+<h4>Frequently Asked Questions</h4>
 
 Many frequently asked questions in our discussion board have been about
 the mechanics and theory of Bitcoin and cryptocurrency technologies.
@@ -13690,9 +13694,9 @@ window</u>](https://www.youtube.com/playlist?list=PLZvgWu86XaWlQ22vnBbcHzxPFrmlE
 
 Here are some of the more recent FAQ for this course:
 
-**Q:** What is in a block?
+<b>Q:</b> What is in a block?
 
-**A:** Many students who have not taken CS198.1x have been curious about
+<b>A:</b> Many students who have not taken CS198.1x have been curious about
 the actual contents of a block, especially in Bitcoin, following our
 discussion of SegWit and other scalability solutions. In Bitcoin, a
 block contains: a block header, block size, transactions, transaction
@@ -13703,9 +13707,9 @@ These values are important for ensuring tamper-evidence. As the goal of
 blockchain is to ensure certain innovative properties of blockchain,
 many other blockchains have similar structures.
 
-**Q:** What is “hashing”?
+<b>Q:</b> What is “hashing”?
 
-**A:** In our courses, we’ve explained “hashing” to be the process of
+<b>A:</b> In our courses, we’ve explained “hashing” to be the process of
 solving proof-of-work partial preimage hash puzzles. It’s best to think
 of hashing then as a lottery, in which the more you spend, the more
 likely you are to win. Or perhaps like throwing darts blindfolded – you
@@ -13719,9 +13723,9 @@ topic of proof-of-work consensus and of the more general class of
 Nakamoto consensus (expanding on the lottery analogy), which we define
 in CS198.2x week 1.
 
-**Q:** Why so much focus on Bitcoin?
+<b>Q:</b> Why so much focus on Bitcoin?
 
-**A:** You may have realized this in our program summary section, but
+<b>A:</b> You may have realized this in our program summary section, but
 the overarching narrative of both of our courses can be seen as modeling
 the gradual maturing and general sentiment about cryptocurrency and
 later blockchain technologies. This approach explains the necessary
@@ -13739,9 +13743,9 @@ ideas of Bitcoin and cryptocurrencies from that of blockchain. And with
 something to refer back to such as a solid understanding of Bitcoin, it
 makes analysis of blockchain systems in general much easier.
 
-**Q:** Can blockchain be used in \_\_\_\_\_\_\_ industry?
+<b>Q:</b> Can blockchain be used in \_\_\_\_\_\_\_ industry?
 
-**A:** There are many factors to take into account when answering this
+<b>A:</b> There are many factors to take into account when answering this
 question. In this course, we have aimed to teach a framework with which
 students can gauge for themselves whether or not blockchain is useful
 for a given use case or industry. It mainly reduces to the question:
@@ -13751,17 +13755,17 @@ entirety of our second course should be of use to you. Course material
 related to blockchain use cases can be found in CS198.1x week 6 and
 CS198.2x week 3.
 
-**Q:** Is \_\_\_\_\_\_ blockchain platform any good?
+<b>Q:</b> Is \_\_\_\_\_\_ blockchain platform any good?
 
-**A:** Again, our goal is to stay nonpartisan here. There will be
+<b>A:</b> Again, our goal is to stay nonpartisan here. There will be
 invariably pros and cons and tradeoffs in the blockchain platform in
 question. These are all design considerations, and hopefully our course
 material – especially CS198.2x week 3 – has empowered you to judge these
 parameters by yourself. 
 
-**Q:** Other. (How do I get my questions answered?)
+<b>Q:</b> Other. (How do I get my questions answered?)
 
-**A:** We are actively supporting this course and engaging with students
+<b>A:</b> We are actively supporting this course and engaging with students
 in the discussion boards. There are a lot of students in this course
 though, so the best way to get a question or concern addressed is to
 first scan the discussion boards to see if someone has asked something
@@ -13770,7 +13774,7 @@ commenting, etc. As a rough analogy to what we’ve learned throughout
 this course and last, the posts with the most “work” (upvotes, comments,
 activity) will be more likely to be addressed first.
 
-**Intro: Thought Experiment**
+<h3>Intro: Thought Experiment</h3>
 
 Throughout our entire curriculum, we have focused on looking at problems
 from a top-down approach.
@@ -14097,7 +14101,7 @@ The blockchain space is constantly evolving, and joining a community of
 peers is perhaps the best way to keep up with the industry’s rapid
 changes.
 
-**Resources**
+<h4>Resources</h4>
 
 The most accessible resources for getting more involved in the
 blockchain space can be found right here in edX. The goal of both of our
@@ -14120,28 +14124,27 @@ your friends and peers.
 Now that you have finished this course, here are a list of other
 Blockchain at Berkeley resources. Some of you may have discovered these
 during the course run:
+<ul>
+<li> [<b>Blockchain at Berkeley
+    website</b>](https://blockchain.berkeley.edu/)</li>&nbsp;<br/>
+<li> Mailing list, located at the bottom of the website linked above</li><br/>
 
--   [**Blockchain at Berkeley
-    website**](https://blockchain.berkeley.edu/)
+<li> [<b>Discord chat</b>](https://discordapp.com/invite/7t7W3Xc)</li><br/>
 
--   Mailing list, located at the bottom of the website linked above
+<li> [<b>Blockchain for Developers course (Spring 2018)</b>](https://learnblockcha.in/)</li><br/>
 
--   [**Discord chat**](https://discordapp.com/invite/7t7W3Xc)
+<li> [<b>Blog</b>](https://blockchainatberkeley.blog/)</li><br/>
 
--   [**Blockchain for Developers course (Spring
-    2018)**](https://learnblockcha.in/)
+<li> [<b>Blockchain at Berkeley YouTube
+    channel</b>](https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg)</li><br/>
 
--   [**Blog**](https://blockchainatberkeley.blog/)
+<li> [<b>Berkeley Bitcoin
+    Meetup</b>](https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W)</li><br/>
 
--   [**Blockchain at Berkeley YouTube
-    channel**](https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg)
+<li> [<b>Facebook page</b>](https://www.facebook.com/BlockchainatBerkeley/)</li><br/>
 
--   [**Berkeley Bitcoin
-    Meetup**](https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W)
-
--   [**Facebook page**](https://www.facebook.com/BlockchainatBerkeley/)
-
--   [**Twitter**](https://twitter.com/CalBlockchain)
+<li> [<b>Twitter</b>](https://twitter.com/CalBlockchain)</li>
+</ul>
 
 We'll also open up a discussion topic below, under 'Student Resources',
 as a central place where you can post useful resources for other
@@ -14149,7 +14152,7 @@ students. If you recently read, watched, experienced, etc. anything
 related to the blockchain space in general, please contribute to our
 course community and share in the discussion boards!
 
-**Thank You**
+<b>Thank You</b>
 
 On behalf of all of our lovely course staff, I’d like to thank you, for
 taking CS198.2x, Blockchain Technology.df
