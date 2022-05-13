@@ -230,9 +230,6 @@ Campus, dedicated to serving the crypto and blockchain communities. Our
 members include Berkeley students, alumni, community members, and
 blockchain enthusiasts from all educational and industrial backgrounds.
 
-**<u>  
-</u>**
-
 <h2>Week 1: Trust Without Trust: Distributed Systems & Consensus</h2>
 
 <!------------------------------------------------------------------------------------------------>
@@ -835,8 +832,8 @@ Lucky for us, computer scientists much smarter than us have already done
 that, recognizing that the three requirements of any correct consensus
 algorithm are validity, agreement, and termination.
 
-***Validity** means that any value decided upon by the network must be
-proposed by one of the processes.*
+<b><i>Validity</b> means that any value decided upon by the network must be
+proposed by one of the processes.</i>
 
 In other words, the consensus algorithm cannot arbitrarily agree on some
 result.
@@ -849,8 +846,8 @@ but is that truly valid?
 If every node started off with 1, and we’re looking for the majority
 value, 0 is meaningless.
 
-***Agreement** means that all non-faulty processes must agree on the
-same value.*
+<b><i>Agreement</b> means that all non-faulty processes must agree on the
+same value.</i>
 
 It’s pointless to bother with the results of faulty processes, since
 those can always be wrong, so what matters is the agreement of the
@@ -868,8 +865,8 @@ agree on it.
 
 The last requirement is termination.
 
-***Termination** means that all non-faulty nodes will eventually decide
-on some value.*
+<b><i>Termination</b> means that all non-faulty nodes will eventually decide
+on some value.</i>
 
 In other words, the system must eventually return some value; it cannot
 forever hang in limbo.
@@ -946,7 +943,7 @@ the implications.
 
 The “C” in CAP stands for Consistency.
 
-***Consistency*** in a system is defined as every node providing the
+<b><i>Consistency</i></b> in a system is defined as every node providing the
 most recent state of the system.
 
 If it does not have the most recent state, it will not provide any
@@ -968,7 +965,7 @@ state at any given time, and that no node will return an outdated state.
 
 The “A” in CAP stands for Availability.
 
-***Availability*** in a system means that every node has constant read
+<b><i>Availability</i></b> in a system means that every node has constant read
 and write access.
 
 In other words, an available system allows me to make updates and
@@ -986,8 +983,8 @@ happen, which is the ability to read or write some state.
    width="65%" />
 </p>
 
-And last but not least the “P” in CAP stands for ***Partition
-Tolerance***.
+And last but not least the “P” in CAP stands for <b><i>Partition
+Tolerance</i></b>.
 
 A quick definition, a partition is an inability for two or more nodes in
 a network to communicate with each other.
@@ -1442,9 +1439,6 @@ mechanisms and their impact.
 
 After, we’ll see their evolution and how they inspired the blockchain
 systems of today.
-
-**<u>  
-</u>**
 
 <h3>Paxos and Raft</h3>
 
@@ -4126,9 +4120,6 @@ Because the resource consumed is monetary value, bad actors need to
 receive an explicit monetary penalty with each attempted attack to keep
 the system in check.
 
-**<u>  
-</u>**
-
 <h3>Attacks</h3>
 
 <!------------------------------------------------------------------------------------------------>
@@ -4782,9 +4773,6 @@ Lastly, blockchain provides new decentralized models to work with
 alongside existing centralized ones, thus preventing the possibility of
 centralized corruption.
 
-**<u>  
-</u>**
-
 <h3>Enterprise Blockchain Overview</h3>
 
 <!------------------------------------------------------------------------------------------------>
@@ -5165,9 +5153,6 @@ crucial to capturing widespread adoption.
 We’ll discuss various enterprise blockchain platforms and which use
 cases they’re geared towards – categorized primarily by their access
 type and consensus mechanisms.
-
-**<u>  
-</u>**
 
 <h3>Enterprise Blockchain Platforms</h3>
 
@@ -7701,9 +7686,6 @@ have taken steps to restricting access to cryptocurrencies.
 > [All You Need To Know About Initial Coin
 > Offerings ](https://gallery.mailchimp.com/65ae955d98e06dbd6fc737bf7/files/Initial_Coin_Offerings_Outlier_Ventures_Research.pdf)
 
-**<u>  
-</u>**
-
 <h3>Welcome to Week 4</h3>
 
 Welcome to Week 4 of CS198.2x, Blockchain Technology.
@@ -8154,9 +8136,6 @@ side chains and payment channels.
 Going forward, we choose to organize blockchain scaling solutions as
 vertical and horizontal as well as layer 1 and layer 2, so knowing the
 distinctions are important in identifying solutions.
-
-**<u>  
-</u>**
 
 <h3>Intro: Vertical Scaling On-Chain (0:32)</h3>
 
@@ -14143,7 +14122,7 @@ during the course run:
 
    - [<b>Facebook page</b>](https://www.facebook.com/BlockchainatBerkeley/)
 
-   - [Twitter](https://twitter.com/CalBlockchain)
+   - [<b>Twitter</b>](https://twitter.com/CalBlockchain)
 </ul>
 
 We'll also open up a discussion topic below, under 'Student Resources',
