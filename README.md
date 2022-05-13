@@ -6697,7 +6697,7 @@ We’ll see in a bit how much each industry has raised through ICOs.
 <!---------------------- 87. what is an ico? ico schemas and culture (184) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image086.png?raw=true"
+<img src="/images/image087.png?raw=true"
    alt="What is an ICO? ICO Schemas and Culture"
    width="65%" />
 </p>
@@ -14174,4 +14174,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-12-2022 6:04pm last updated.
+5-12-2022 10:11pm last updated.
