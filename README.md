@@ -5540,6 +5540,7 @@ mechanisms.
 <!------------------------------------------------------------------------------------------------>
 <!--------------- 58y. cosmos/tendermint: enterprise & blockchain platforms (152) ---------------->
 <!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="/images/image058y.png?raw=true"
    alt="Cosmos/Tendermint: Enterprise Blockchain Platforms"
    width="65%" />
@@ -5578,6 +5579,7 @@ the Scalability lecture.
 <!------------------------------------------------------------------------------------------------>
 <!---------- 58z. categories & accomplishments: enterprise blockchain platforms (153) ------------>
 <!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
 <img src="/images/image058z.png?raw=true"
    alt="Categories & Accomplishments: Enterprise Blockchain Platforms"
    width="65%" />
@@ -5998,7 +6000,7 @@ provide a very high level of security and transparency that would
 provide such trust.
 
 Accenture reports that 46 percent of insurers expect to integrate
-blockchain within 2 years.<img src="./images/image109.png" />
+blockchain within 2 years.
 
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 73. industry projects: insurance (166) ----------------------------->
@@ -14172,4 +14174,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-12-2022 4:35pm last updated.
+5-12-2022 6:04pm last updated.
