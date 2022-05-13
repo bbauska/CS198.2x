@@ -14124,26 +14124,26 @@ your friends and peers.
 Now that you have finished this course, here are a list of other
 Blockchain at Berkeley resources. Some of you may have discovered these
 during the course run:
-<ul>
-<li> [<b>Blockchain at Berkeley
-    website</b>](https://blockchain.berkeley.edu/)</li>&nbsp;<br/>
-<li> Mailing list, located at the bottom of the website linked above</li><br/>
 
-<li> [<b>Discord chat</b>](https://discordapp.com/invite/7t7W3Xc)</li><br/>
+   - [<b>Blockchain at Berkeley
+    website</b>](https://blockchain.berkeley.edu/)
+   - Mailing list, located at the bottom of the website linked above
 
-<li> [<b>Blockchain for Developers course (Spring 2018)</b>](https://learnblockcha.in/)</li><br/>
+   - [<b>Discord chat</b>](https://discordapp.com/invite/7t7W3Xc)
 
-<li> [<b>Blog</b>](https://blockchainatberkeley.blog/)</li><br/>
+   - [<b>Blockchain for Developers course (Spring 2018)</b>](https://learnblockcha.in/)
 
-<li> [<b>Blockchain at Berkeley YouTube
-    channel</b>](https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg)</li><br/>
+   - [<b>Blog</b>](https://blockchainatberkeley.blog/)
 
-<li> [<b>Berkeley Bitcoin
-    Meetup</b>](https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W)</li><br/>
+   - [<b>Blockchain at Berkeley YouTube
+    channel</b>](https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg)
 
-<li> [<b>Facebook page</b>](https://www.facebook.com/BlockchainatBerkeley/)</li><br/>
+   - [<b>Berkeley Bitcoin
+    Meetup</b>](https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W)
 
-<li> [<b>Twitter</b>](https://twitter.com/CalBlockchain)</li>
+   - [<b>Facebook page</b>](https://www.facebook.com/BlockchainatBerkeley/)
+
+   - [Twitter](https://twitter.com/CalBlockchain)
 </ul>
 
 We'll also open up a discussion topic below, under 'Student Resources',
