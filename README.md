@@ -9942,11 +9942,11 @@ there’s also other issues of security and trust and decentralization,
 all factors in community adoption – the ultimate goal, really.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 180. scalability summary: generalizations (###) --------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image218.png?raw=true"
-   alt=" "
+<img src="/images/image180.png?raw=true"
+   alt="Scalability Summary: Generalizations"
    width="65%" />
 </p>
 
@@ -9993,10 +9993,10 @@ A trilemma we brought up towards the beginning of this week’s material
 stated that scalability is just one aspect of blockchain functionality.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------- 219. scalability trilemma: revisited (284) --------------------------->
+<!------------------------- 181. scalability trilemma: revisited (284) --------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image219.png?raw=true"
+<img src="/images/image181.png?raw=true"
    alt="Scalability Trilemma, revisited"
    width="65%" />
 </p>
@@ -10011,11 +10011,11 @@ scalability solutions, there was usually some change in the regular
 blockchain trust structures.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 220. scalability summary: quick categorization (286) ---------------------->
+<!-------------------- 182. scalability summary: quick categorization (286) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image220.png?raw=true"
-   alt=" "
+<img src="/images/image182.png?raw=true"
+   alt="Scalability Summary: Quick Categorization"
    width="65%" />
 </p>
 
@@ -10031,10 +10031,10 @@ being a combination of the two.
 Let’s step through all of the scaling solutions we learned.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------- 221. scalability summary: quick categorization #2 (286) -------------------->
+<!------------------- 183. scalability summary: quick categorization #2 (286) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image221.png?raw=true"
+<img src="/images/image183.png?raw=true"
    alt="Scalability Summary: Quick Categorization #2"
    width="65%" />
 </p>
@@ -10130,10 +10130,10 @@ In Cosmos, hub and spoke blockchains create a network of interoperable
 blockchains.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------- 222. scalability summary: quick categorization #3 (289) -------------------->
+<!------------------- 184. scalability summary: quick categorization #3 (289) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image222.png?raw=true"
+<img src="/images/image184.png?raw=true"
    alt="Scalability Summary: Quick Categorization #3"
    width="65%" />
 </p>
@@ -10163,13 +10163,13 @@ scaling classifications: horizontal, vertical, and diagonal. Secondly,
 there are the blockchain-specific scaling classifications: layer 1
 (on-chain) and layer 2 (off-chain).
 
-II\. Vertical Scaling
+<h3>II. Vertical Scaling</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------- 223. tps calculation equation (290) ------------------------------>
+<!----------------------------- 185. tps calculation equation (290) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image223.png?raw=true"
+<img src="/images/image185.png?raw=true"
    alt="TPS Calculation Equations"
    width="65%" />
 </p>
@@ -10198,10 +10198,10 @@ reducing system security. This is because while block time decreases,
 the time to propagate a block remains the same.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 224. time to create block (290) -------------------------------->
+<!------------------------------- 186. time to create block (290) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image224.png?raw=true"
+<img src="/images/image186.png?raw=true"
    alt="Time to broadcast block fixed while block creation time decreases"
    width="65%" />
 </p>
@@ -10274,10 +10274,10 @@ The idea behind the Bitcoin Lightning Network is to create a network of
 payment channels
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------------- 225. diagram (292) --------------------------------------->
+<!------------------------------------- 187. diagram (292) --------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image225.png?raw=true"
+<img src="/images/image187.png?raw=true"
    alt="Payment Channel Network. Alice to Bob to Eve to Charlie"
    width="65%" />
 </p>
@@ -10326,10 +10326,10 @@ security concerns.
 Here is an example of a sidechain setup:
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ 226. example sidechain setup (294) ------------------------------>
+<!------------------------------ 188. example sidechain setup (294) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image###.png?raw=true"
+<img src="/images/image188.png?raw=true"
    alt="Sidechains"
    width="65%" />
 </p>
@@ -10370,10 +10370,10 @@ solutions are built on-chain or off-chain. Solutions can also scale
 vertically or horizontally.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------- 227. vertical and horizontal, layer 1 and layer 2 scaling solutions (295) ----------->
+<!---------- 189. vertical and horizontal, layer 1 and layer 2 scaling solutions (295) ----------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image227.png?raw=true"
+<img src="/images/image189.png?raw=true"
    alt="Vertical and Horizontal, Layer 1 and Layer 2 scaling solutions"
    width="65%" />
 </p>
@@ -10486,10 +10486,10 @@ how much information they reveal about their real identity.
 <h3>Anonymity Basics</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 228. anonymity basics: blockchain fundamentals (298) ---------------------->
+<!-------------------- 190. anonymity basics: blockchain fundamentals (298) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image228.png?raw=true"
+<img src="/images/image190.png?raw=true"
    alt="Anonymity Basics: Blockchain Fundamentals"
    width="65%" />
 </p>
@@ -10517,10 +10517,10 @@ the average person.
 Imagine it’s just any other day.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------ 229. is anonymity only for drugs? splitting the bill (299) ------------------>
+<!------------------ 191. is anonymity only for drugs? splitting the bill (299) ------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image229.png?raw=true"
+<img src="/images/image191.png?raw=true"
    alt="Is Anonymity Only for Drugs? Splitting the Bill"
    width="65%" />
 </p>
@@ -10560,10 +10560,10 @@ it reduces the fungibility of the currency and makes life harder for you
 too.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------- 230. is anonymity only for drugs? blockchain fundamentals (300) ---------------->
+<!--------------- 192. is anonymity only for drugs? blockchain fundamentals (300) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image230.png?raw=true"
+<img src="/images/image192.png?raw=true"
    alt="Is Anonymity Only for Drugs?  Blockchain Fundamentals"
    width="65%" />
 </p>
@@ -10582,10 +10582,10 @@ Even though you did nothing wrong, the exposure of the information about
 your transaction history and financial standing put you in danger.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------- 231. cypherpunk movement: bitcoin's genesis (301) ----------------------->
+<!---------------------- 193. cypherpunk movement: bitcoin's genesis (301) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image231.png?raw=true"
+<img src="/images/image193.png?raw=true"
    alt="Cypherpunk Movement: Bitcoin's Genesis"
    width="65%" />
 </p>
@@ -10610,10 +10610,10 @@ else.
 They allowed anyone to store the blockchain.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 232. recordkeeping: everyone's the bank (302) -------------------------->
+<!----------------------- 194. recordkeeping: everyone's the bank (302) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image232.png?raw=true"
+<img src="/images/image194.png?raw=true"
    alt="Recordkeeping: Everyone's the Bank"
    width="65%" />
 </p>
@@ -10629,10 +10629,10 @@ protection, it’s easy to see how their transaction history and balance
 can be exposed to their detriment.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 233. anonymity basics: blockchains are not anonymous  (302) --------------->
+<!-------------------- 195. anonymity basics: blockchains are not anonymous  (302) --------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image233.png?raw=true"
+<img src="/images/image195.png?raw=true"
    alt="Anonymity Basics: Blockchains are Not Anonymous"
    width="65%" />
 </p>
@@ -10660,10 +10660,10 @@ terms of anonymity:
 Most blockchains are not anonymous.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 234. anonymity basics: blockchain fundamentals (303) ---------------------->
+<!-------------------- 196. anonymity basics: blockchain fundamentals (303) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image234.png?raw=true"
+<img src="/images/image196.png?raw=true"
    alt="Anonymity Basics: Blockchain Fundamentals"
    width="65%" />
 </p>
@@ -10671,10 +10671,10 @@ Most blockchains are not anonymous.
 Instead, most blockchains are pseudonymous.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------ 235. anonymity basics: blockchain are not anonymous (304) ------------------->
+<!------------------ 197. anonymity basics: blockchain are not anonymous (304) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image235.png?raw=true"
+<img src="/images/image197.png?raw=true"
    alt="Anonymity Basics: Blockchain and Not Anonymous"
    width="65%" />
 </p>
@@ -10709,10 +10709,10 @@ that that identity belongs to.
 Therefore, most blockchains, including Bitcoin, are pseudonymous.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------- 236. anonymity basics: linking (305) ------------------------------>
+<!---------------------------- 198. anonymity basics: linking (305) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image236.png?raw=true"
+<img src="/images/image198.png?raw=true"
    alt="Anonymity Basics: Linking"
    width="65%" />
 </p>
@@ -10743,10 +10743,10 @@ of each of these identities, but that can be easily resolved using
 wallet software, which often performs this by default.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------- 237. anonymity basics: linking #2 (306) ---------------------------->
+<!--------------------------- 199. anonymity basics: linking #2 (306) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image237.png?raw=true"
+<img src="/images/image199.png?raw=true"
    alt="Anonymity Basics: Linking #2"
    width="65%" />
 </p>
@@ -10763,10 +10763,10 @@ In Bitcoin, you could just generate a new address per UTXO every time
 you receive Bitcoin.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 238. anonymity and ethics: why anonymity? (307) ------------------------>
+<!----------------------- 200. anonymity and ethics: why anonymity? (307) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image238.png?raw=true"
+<img src="/images/image200.png?raw=true"
    alt="Anonymity and Ethics: Why Anonymity?"
    width="65%" />
 </p>
@@ -10778,11 +10778,11 @@ Unfortunately, it turns out that basic analysis renders this technique
 of regenerating pseudonyms ineffective.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------- 239. anonymity basics: linking (307) ------------------------------>
+<!---------------------------- 201. anonymity basics: linking (307) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image238.png?raw=true"
-   alt="Anonumity Basics: Linking"
+<img src="/images/image201.png?raw=true"
+   alt="Anonymity Basics: Linking"
    width="65%" />
 </p>
 
@@ -10791,10 +10791,10 @@ transaction does keep away naive attackers, but a determined opponent
 can probably find a way to link your activity together.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------- 240. anonymity basics: linking #2 (308) ---------------------------->
+<!--------------------------- 202. anonymity basics: linking #2 (308) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image240.png?raw=true"
+<img src="/images/image202.png?raw=true"
    alt="Anonumity Basics: Linking #2"
    width="65%" />
 </p>
@@ -10823,10 +10823,10 @@ deanonymize them.
 But see, that’s the catch.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 241. anonymity basics: blockchain fundamentals (309) ---------------------->
+<!-------------------- 203. anonymity basics: blockchain fundamentals (309) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image241.png?raw=true"
+<img src="/images/image203.png?raw=true"
    alt="Anonymity Basics: Blockchain Fundamentals"
    width="65%" />
 </p>
@@ -10839,10 +10839,10 @@ isn’t going out of their way to do all they can to possibly ensure their
 privacy.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------- 242. anonymity and ethics: levels of anonymity? (309) -------------------->
+<!--------------------- 204. anonymity and ethics: levels of anonymity? (309) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image242.png?raw=true"
+<img src="/images/image204.png?raw=true"
    alt="Anonymity and Ethics: Levels of Anonymity"
    width="65%" />
 </p>
@@ -10862,10 +10862,10 @@ achieved privacy.
 But again, why do we care about having a higher degree of anonymity?
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 242b. anonymity and ethics: why anonymity? (310) ----------------------->
+<!----------------------- 200. anonymity and ethics: why anonymity? (310) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image242b.png?raw=true"
+<img src="/images/image200.png?raw=true"
    alt="Anonymity and Ethics: Why Anonymity?"
    width="65%" />
 </p>
@@ -10908,10 +10908,10 @@ reporters in oppressive regimes.
 We leave further contemplation for you to do yourself.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 243. anonymity basics: a slight paradox (311) -------------------------->
+<!----------------------- 205. anonymity basics: a slight paradox (311) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image243.png?raw=true"
+<img src="/images/image205.png?raw=true"
    alt="Deanonymization: A Slight Paradox"
    width="65%" />
 </p>
@@ -10964,10 +10964,10 @@ deanonymization tactics to design resistances to enhance user privacy.
 <h3>Deanonymization</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 244. anonymity basics: blockchain fundamentals (313) ---------------------->
+<!-------------------- 206. anonymity basics: blockchain fundamentals (313) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image244.png?raw=true"
+<img src="/images/image206.png?raw=true"
    alt="Anonymity Basics: Blockchain Fundamentals"
    width="65%" />
 </p>
@@ -10977,20 +10977,20 @@ deanonymization is that now, we can go back in the blockchain’s history
 to reveal information about a particular pseudonym.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------- 245. deanonymization: transaction graph analysis (313) --------------------->
+<!------------------- 207. deanonymization: transaction graph analysis (313) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image245.png?raw=true"
+<img src="/images/image207.png?raw=true"
    alt="Deanonymization: Transaction Graph Analysis"
    width="65%" />
 </p>
 
 That’s the goal of deanonymization, or linking
 <!------------------------------------------------------------------------------------------------>
-<!------------------ 246. deanonymization: transaction graph analysis @2 (314) ------------------->
+<!------------------ 208. deanonymization: transaction graph analysis @2 (314) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image246.png?raw=true"
+<img src="/images/image208.png?raw=true"
    alt="Deanonymization: Transaction Graph Analysis #2"
    width="65%" />
 </p>
@@ -11010,10 +11010,10 @@ transactions more than others, or are paid more than others, or perhaps
 make certain transactions with certain other pseudonyms.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------- 247. deanonymization: transaction graph analysis (315) --------------------->
+<!------------------- 209. deanonymization: transaction graph analysis (315) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image247.png?raw=true"
+<img src="/images/image209.png?raw=true"
    alt="Deanonymization: Transaction Graph Analysis #3"
    width="65%" />
 </p>
@@ -11188,10 +11188,10 @@ possible to anonymize your funds to make it more difficult for someone
 else to track your activity.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------- 248. mixing: money laundering basics  (319) -------------------------->
+<!------------------------- 210. mixing: money laundering basics  (319) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image248.png?raw=true"
+<img src="/images/image210.png?raw=true"
    alt="Mixing: Money Laundering Basics"
    width="65%" />
 </p>
@@ -11383,10 +11383,10 @@ especially if done repeatedly.
 <h3>Decentralized Mixing</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------- 249. decentralized mining: can this be done? (324) ----------------------->
+<!--------------------- 211. decentralized mining: can this be done? (324) ----------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image249.png?raw=true"
+<img src="/images/image211.png?raw=true"
    alt="Decentralized Mining: Can This be Done?"
    width="65%" />
 </p>
@@ -11646,10 +11646,10 @@ plausible deniability and security.
 <h3>Fair Exchange Mixers</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------ 250. fair exchange mixers - blockchain fundamentsls (331) ------------------->
+<!------------------ 212. fair exchange mixers - blockchain fundamentsls (331) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image250.png?raw=true"
+<img src="/images/image212.png?raw=true"
    alt="Fair Exchange Mixers: Blockchain Fundamentals"
    width="65%" />
 </p>
@@ -11771,10 +11771,10 @@ technologies they are built upon to protect their users.
 <h3>Privacy Focused Altcoins</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------- 251. coinjoin dash (334) ------------------------------------>
+<!---------------------------------- 213. coinjoin dash (334) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image251.png?raw=true"
+<img src="/images/image213.png?raw=true"
    alt="CoinJoin Dash: Privacy Focused AltCoins"
    width="65%" />
 </p>
@@ -12185,10 +12185,10 @@ face as a conclusion for the last three lectures.
 <h3>Advanced Anonymity & Generalizations</h3>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------------- 252. mimblewimble (345) ------------------------------------>
+<!----------------------------------- 214. mimblewimble (345) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image252.png?raw=true"
+<img src="/images/image214.png?raw=true"
    alt="Mimblewimble: Another  Pseudonymous Proposal"
    width="65%" />
 </p>
@@ -12385,10 +12385,10 @@ constructing a **transaction graph** (pictured below) where each node is
 a pseudonym and each edge is a transaction conducted between pseudonyms.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 253. crypto transactions in the network (350) -------------------------->
+<!----------------------- 215. crypto transactions in the network (350) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image253.jpeg?raw=true"
+<img src="/images/image215.jpg?raw=true"
    alt="The transaction graph shows the crypto transactions in the network. Satoshi, Mt Gox and silk road are nodes where most edges are connected to."
    width="65%" />
 </p>
@@ -12431,10 +12431,10 @@ with real-world identities.
     slush fund.
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------- 254. centralized mixing service (351) ------------------------------>
+<!--------------------------- 216. centralized mixing service (351) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image254.png?raw=true"
+<img src="/images/image216.png?raw=true"
    alt="Alice dirty input 1 BTC into the centralized mixing service. And the Mixer sends cleaned funds after random waiting period. So Alice will get 0.9 BTC as the output(0.1 is the &quot;cleanning fee&quot;)"
    width="100%" />
 </p>
@@ -12638,13 +12638,13 @@ have also taken the prerequisite course, Bitcoin and Cryptocurrencies.
 In the total Blockchain Fundamentals curriculum, this is week 12, and in
 this section we will review the culmination of all of our learning.
 
-**CS198.1x Bitcoin and Cryptocurrencies**
+<h4>CS198.1x Bitcoin and Cryptocurrencies</h4>
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------- 255. bitcoin protocol & consensus: a high-level overview (356) ----------------->
+<!--------------- 217. bitcoin protocol & consensus: a high-level overview (356) ----------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image255.png?raw=true"
+<img src="/images/image217.png?raw=true"
    alt="Bitcoin Protocol & Consensus: A High-Level Overview"
    width="65%" />
 </p>
@@ -13059,10 +13059,10 @@ That concluded the first half of the program.
 **CS198.2x Blockchain Technology**
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------- 256. trust without trust: distributed systems & consensus (366) ---------------->
+<!--------------- 218. trust without trust: distributed systems & consensus (366) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image256.png?raw=true"
+<img src="/images/image218.png?raw=true"
    alt="Trust Without Trust: Distributed Systems & Consensus"
    width="65%" />
 </p>
@@ -13475,10 +13475,10 @@ get involved in the blockchain space yourself.
 **People’s Pick: Cryptocurrency Mining**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------- 257. scratching the itch (377) --------------------------------->
+<!------------------------------- 219. scratching the itch (377) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image257.png?raw=true"
+<img src="/images/image219.png?raw=true"
    alt="Scratching the Itch"
    width="65%" />
 </p>
@@ -13497,10 +13497,10 @@ growing from digital trees, but there are some things that need to be
 considered.
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------ 258. scratching the itch #2 (377) ------------------------------->
+<!------------------------------ 220. scratching the itch #2 (377) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image258.png?raw=true"
+<img src="/images/image220.png?raw=true"
    alt="Scratching the Itch #2"
    width="65%" />
 </p>
@@ -13544,10 +13544,10 @@ miner is similar to that of a traditional business man: to minimize time
 to break even, and maximize return on investment.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------- 259. optimizing hardware costs (379) ------------------------------>
+<!---------------------------- 221. optimizing hardware costs (379) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image259.png?raw=true"
+<img src="/images/image221.png?raw=true"
    alt="Optimizing Hardware Costs"
    width="65%" />
 </p>
@@ -13583,10 +13583,10 @@ Overheated components perform poorly, and pose as risks as fire hazards.
 Hence, it’s crucial to keep your cards cool.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------- 260. optimizing hardware costs (380) ------------------------------>
+<!---------------------------- 222. optimizing hardware costs (380) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image260.png?raw=true"
+<img src="/images/image222.png?raw=true"
    alt="Optimizing Hardware Costs"
    width="65%" />
 </p>
@@ -13614,10 +13614,10 @@ mining rig as well.
 It doesn’t need to look pretty, it just needs to get you paid.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 261. software - nicehash, multipoolminer (381) ------------------------->
+<!----------------------- 223. software - nicehash, multipoolminer (381) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image261.png?raw=true"
+<img src="/images/image223.png?raw=true"
    alt="Sofware Options: Nicehash, MultiPoolMiner"
    width="65%" />
 </p>
@@ -13647,10 +13647,10 @@ Return on Investment == As we alluded to earlier, break even time is
 generally a good metric to measuring successful cryptocurrency mining.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------------- 262. roi and break-even time (382) ------------------------------->
+<!----------------------------- 224. roi and break-even time (382) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image262.png?raw=true"
+<img src="/images/image224.png?raw=true"
    alt="ROI and Break-Even Time"
    width="65%" />
 </p>
@@ -13808,10 +13808,10 @@ seriously or concern yourself with details.
 
 Let’s start with the utopia.
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 263. utopian blockchain world: #1 (386) ----------------------------->
+<!-------------------------- 225. utopian blockchain world: #1 (386) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image263.png?raw=true"
+<img src="/images/image225.png?raw=true"
    alt="Utopian Blockchain World"
    width="65%" />
 </p>
@@ -13829,10 +13829,10 @@ network.
 Since it’s all secure and doesn’t cost you any money anyway, you decide
 to extend your payment channel for another 20 years.
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 264. utopian blockchain world: #2 (387) ----------------------------->
+<!-------------------------- 226. utopian blockchain world: #2 (387) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image264.png?raw=true"
+<img src="/images/image226.png?raw=true"
    alt="Utopian Blockchain World #2"
    width="65%" />
 </p>
@@ -13846,10 +13846,10 @@ Using their collective income, they pay for recharging themselves,
 maintenance and insurance.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 265. utopian blockchain world: #3 (387) ----------------------------->
+<!-------------------------- 227. utopian blockchain world: #3 (387) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image265.png?raw=true"
+<img src="/images/image227.png?raw=true"
    alt="Utopian Blockchain World #3"
    width="65%" />
 </p>
@@ -13873,10 +13873,10 @@ blockchain ensures a universal basic income for everyone, and you’re a
 climate scientist primarily because you want to help push the boundaries
 of human knowledge.
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 266. utopian blockchain world: #4 (388) ----------------------------->
+<!-------------------------- 228. utopian blockchain world: #4 (388) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image266.png?raw=true"
+<img src="/images/image228.png?raw=true"
    alt="Utopian Blockchain World #4"
    width="65%" />
 </p>
@@ -13890,10 +13890,10 @@ worldwide oracle network, and who can exit their contract at any time.
 Your company itself receives revenue over time as measured by the net
 benefit to society your research brings.
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 267. utopian blockchain world: #5 (389) ----------------------------->
+<!-------------------------- 229. utopian blockchain world: #5 (389) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image267.png?raw=true"
+<img src="/images/image229.png?raw=true"
    alt="Utopian Blockchain World #5"
    width="65%" />
 </p>
@@ -13911,10 +13911,10 @@ A global democratic DAO decides this issue is important enough to
 provide further incentives for countries to meet their new carbon
 emission targets.
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------- 268. utopian blockchain world: #6 (390) ----------------------------->
+<!-------------------------- 230. utopian blockchain world: #6 (390) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image268.png?raw=true"
+<img src="/images/image230.png?raw=true"
    alt="Utopian Blockchain World #6"
    width="65%" />
 </p>
@@ -14040,10 +14040,10 @@ field.
 
 <h3>Getting Involved</h3>
 <!------------------------------------------------------------------------------------------------>
-<!----------------- 269. getting involved in blockchain: jobs, jobs, jobs (393) ------------------>
+<!----------------- 231. getting involved in blockchain: jobs, jobs, jobs (393) ------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image269.png?raw=true"
+<img src="/images/image231.png?raw=true"
    alt="Getting Involved in Blockchain: Jobs, Jobs, Jobs!"
    width="65%" />
 </p>
@@ -14174,4 +14174,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-12-2022 10:11pm last updated.
+5-13-2022 7:51am last updated.
