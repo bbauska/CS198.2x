@@ -8525,7 +8525,7 @@ From previous sections, we saw that transaction size is on average about
 <!-------------------------- 136. seg witness: avoid hard fork (242) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image175.png?raw=true"
+<img src="/images/image136.png?raw=true"
    alt="Segregated Witness: Avoid Hard Fork"
    width="65%" />
 </p>
@@ -8780,10 +8780,10 @@ any machine in the network can verify the proof in milliseconds.
 That’s the main idea of zk-SNARKS
 
 <!------------------------------------------------------------------------------------------------>
-<!--------------------- 146. recursive snarks scalabilty: improvements (249) --------------------->
+<!--------------------- 147. recursive snarks scalabilty: improvements (249) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image146.png?raw=true"
+<img src="/images/image147.png?raw=true"
    alt="Recursize Snarks Scalability: Improvements"
    width="65%" />
 </p>
@@ -8827,10 +8827,10 @@ including a transaction, and any machine in the network can verify the
 proof in milliseconds.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------- 148. resursive snarks scalability: drawbacks #2 (251) --------------------->
+<!-------------------- 148b. resursive snarks scalability: drawbacks #2 (251) -------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image148.png?raw=true"
+<img src="/images/image148b.png?raw=true"
    alt="Recursize Snarks Scalability: Drawbacks #2"
    width="65%" />
 </p>
@@ -9381,7 +9381,7 @@ Of course, the idea of payment channel networks isn’t limited to just
 the Lightning Network for Bitcoin.
 
 <!------------------------------------------------------------------------------------------------>
-<!---------------- 163. raiden network scalability: blockchain fundamentals (268) ---------------->
+<!---------------- 163. raiden network scalability: blockchain fundamentals (267) ---------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image163.png?raw=true"
@@ -9420,11 +9420,11 @@ scaling solutions in more ambitious diagonal scaling solutions.
 <u>Sharding & Sidechains</u>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 164. sharding: idea (269) -------------------------->
+<!---------------------------------- 164. sharding: idea (268) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image164.png?raw=true"
-   alt=" "
+   alt="Sharding: Idea"
    width="65%" />
 </p>
 
@@ -9476,11 +9476,11 @@ What we notice is that since every node has to process everything, it
 creates a scalability bottleneck.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 165. sharding: idea #2 (271) -------------------------->
+<!-------------------------------- 165. sharding: idea #2 (270) ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image165.png?raw=true"
-   alt=" "
+   alt="Sharding: idea #2"
    width="65%" />
 </p>
 
@@ -9519,11 +9519,11 @@ well as the ones yet to come in the following sections, sharding is
 currently actively being researched.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 166. sharding: idea #3 (272) -------------------------->
+<!-------------------------------- 166. sharding: idea #3 (271) ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image166.png?raw=true"
-   alt=" "
+   alt="Sharding: Idea #3"
    width="65%" />
 </p>
 
@@ -9558,11 +9558,11 @@ and succinctly between shards, and also the issue of how we can maintain
 correct operation if a single shard has been taken over.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 167. sidechains: bitcoin sidechains (273) -------------------------->
+<!------------------------- 167. sidechains: bitcoin sidechains (272) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image167.png?raw=true"
-   alt=" "
+   alt="Sidechains: Bitcoin Sidechains"
    width="65%" />
 </p>
 
@@ -9590,11 +9590,11 @@ And if this is the case, there also needs to be countermeasures against
 a compromised chain.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 168. sidechains: blockchain fundamentals (274) -------------------------->
+<!----------------------- 168. sidechains: blockchain fundamentals (273) ------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image206.png?raw=true"
-   alt=" "
+<img src="/images/image168.png?raw=true"
+   alt="Sidechains: Blockchain Fundamentals"
    width="65%" />
 </p>
 
@@ -9653,11 +9653,11 @@ masses.
 <u>Advanced Scaling</u>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!----------------------- 169. diagonal scaling: the fourth state (275) -------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image207.png?raw=true"
-   alt=" "
+<img src="/images/image169.png?raw=true"
+   alt="Diagonal Scaling: the Fourth State"
    width="65%" />
 </p>
 
@@ -9677,11 +9677,11 @@ The root chain is the main source of truth within the system, and acts
 as an arbiter in the case of dispute.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------- 170. diagonal scaling: the fourth state #2 (276) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image208.png?raw=true"
-   alt=" "
+<img src="/images/image170.png?raw=true"
+   alt="Diagonal Scaling: the Fourth State #2"
    width="65%" />
 </p>
 
@@ -9714,11 +9714,11 @@ In either case, the result is posted on the root chain, which serves as
 the source of truth.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------- 171. diagonal scaling: the fourth state #3 (277) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image209.png?raw=true"
-   alt=" "
+<img src="/images/image171.png?raw=true"
+   alt="Diagonal Scaling: the Fourth State #3"
    width="65%" />
 </p>
 
@@ -9741,11 +9741,11 @@ Plasma implementation, and chose to build their child chain
 implementation on Cosmos.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!---------------------- 172. diagonal scaling: the fourth state #4 (278) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image210.png?raw=true"
-   alt=" "
+<img src="/images/image172.png?raw=true"
+   alt="Diagonal Scaling: the Fourth State #4"
    width="65%" />
 </p>
 
@@ -9761,11 +9761,11 @@ And this is especially the case if you view Plasma with a particular
 sense of modularity.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 173. diagonal scaling: internet of blockchains (278) ---------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image211.png?raw=true"
-   alt=" "
+<img src="/images/image173.png?raw=true"
+   alt="Diagonal Scaling: Internet of Blockchains"
    width="65%" />
 </p>
 
@@ -9777,11 +9777,11 @@ And with the Fourth State team’s implementation of Plasma on Cosmos, it
 especially opens up the door for interoperability.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------ 174. diagonal scaling: internet of blockchains #2 (279) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image212.png?raw=true"
-   alt=" "
+   alt="Diagonal Scaling: Internet of Blockchains #2"
    width="65%" />
 </p>
 
@@ -9815,11 +9815,11 @@ themselves from Bitcoin’s standard UTXOs, Proof-of-Work, scripting
 language, etc.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------ 175. diagonal scaling: internet of blockchains #3 (280) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image213.png?raw=true"
-   alt=" "
+<img src="/images/image175.png?raw=true"
+   alt="Diagonal Scaling: Internet of Blockchains #3"
    width="65%" />
 </p>
 
@@ -9839,11 +9839,11 @@ This allows arbitrary applications to be built on top of Tendermint,
 with the ABCI, or application blockchain interface.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------ 176. diagonal scaling: internet of blockchains #4 (281) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image214.png?raw=true"
-   alt=" "
+<img src="/images/image176.png?raw=true"
+   alt="Diagonal Scaling: Internet of Blockchains #4"
    width="65%" />
 </p>
 
@@ -9858,11 +9858,11 @@ consensus, and horizontal scaling by the interoperability of the Cosmos
 network itself.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------ 177. diagonal scaling: internet of blockchains #5 (281) --------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image215.png?raw=true"
-   alt=" "
+   alt="Diagonal Scaling: Internet of Blockchains #5"
    width="65%" />
 </p>
 
@@ -9877,11 +9877,11 @@ payment blockchains, or a full fledged port of Ethereum onto Tendermint.
 <u>Generalizations</u>
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!------------------- 178. blockchain scalability: alternative consensus (282) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image216.png?raw=true"
-   alt=" "
+<img src="/images/image178.png?raw=true"
+   alt="Blockchain Scalability: Alternative Consensus"
    width="65%" />
 </p>
 
@@ -9904,11 +9904,11 @@ It’s hard to tell at this point, so as an aside, as always, please do
 your own research in this.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- ###.  (###) -------------------------->
+<!-------------------- 179. scalability summary: blockchain fundamentals (283) ------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image217.png?raw=true"
-   alt=" "
+<img src="/images/image179.png?raw=true"
+   alt="Scalability Summary: Blockchain Fundamentals"
    width="65%" />
 </p>
 
@@ -9927,7 +9927,7 @@ there’s also other issues of security and trust and decentralization,
 all factors in community adoption – the ultimate goal, really.
 
 <!------------------------------------------------------------------------------------------------>
-<!----------------------- 180. scalability summary: generalizations (###) --------------->
+<!---------------------- 180. scalability summary: generalizations (#284) ------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image180.png?raw=true"
