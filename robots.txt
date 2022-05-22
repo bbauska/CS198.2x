@@ -1,2 +1,3 @@
+Sitemap: http://cs198.2x.org/sitemap.xml
 User-agent: *
 Disallow: /
