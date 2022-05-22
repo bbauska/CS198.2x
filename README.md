@@ -1414,7 +1414,7 @@ block or the valid chain of transaction history is the same as coming to
 agreement on whether to attack or retreat. It’s the same concepts with
 different names.
 
-<h3>Intro: Voting Based Consensus</h3>
+<h3>Voting Based Consensus</h3>
 
 Now that we have an understanding of the fundamentals of distributed
 systems and distributed consensus, our main focus for the next section
@@ -2161,7 +2161,7 @@ There is a question mark because this follows the paradigm of
 politically centralized systems, with a few actors making decisions for
 the rest of the network.
 
-<h3>Intro: Proof-of-Stake</h3>
+<h3>Proof-of-Stake</h3>
 
 Proof-of-Stake is a pretty important consensus mechanism – so much so
 that we have this entire section on it.
@@ -2543,7 +2543,7 @@ finality and absolute finality and the differences between how the two
 types of Casper achieve finality are the most important takeaways for
 this particular section.
 
-<h3>Intro: Federated Consensus</h3>
+<h3>Federated Consensus</h3>
 
 We’ve discussed voting consensus algorithms as solutions to traditional
 distributed systems problems and Nakamoto consensus algorithms as
@@ -4427,7 +4427,7 @@ pick the validator for the next round.
 Unless there is collusion within the majority, this strategy should
 work.
 
-<h3>Text: Week 2 Summary</h3>
+<h3>Week 2 Summary</h3>
 
 Written by Deven Navani and Nicholas Shen
 
@@ -7492,7 +7492,7 @@ essentially banning cryptocurrencies.
 India shut down an exchange known as BTCXIndia which, despite complying
 with AML/KYC regulations, still was deemed risky.
 
-<h3>Text: Week 3 Summary</h3>
+<h3>Week 3 Summary</h3>
 
 <h3>I. Enterprise Blockchain Overview</h3>
 
@@ -10128,7 +10128,7 @@ other modular blockchains, as well as in general novel alternative
 consensus mechanisms and the like, we realize that we can go back and
 scale blockchains vertically on chain once again.
 
-<h3>Text: Week 4 Summary</h3>
+<h3>Week 4 Summary</h3>
 
 <h3>I. Background</h3>
 
@@ -12331,7 +12331,7 @@ Really, there is no perfect all around blockchain system.
 
 Instead, each is designed for its specific goal and use case.
 
-<h3>Text: Week 5 Summary</h3>
+<h3>Week 5 Summary</h3>
 
 <h3>I. Anonymity Basics</h3>
 
@@ -12603,7 +12603,7 @@ time. Please manage your time wisely. We are in the process of
 processing everyone's grades. Thank you in advance for your patience and
 understanding.
 
-<h3>Intro: Program Summary</h3>
+<h3>Program Summary</h3>
 
 We’ve made it so far in the curriculum; now would be a good time to
 summarize all that we have learned.
@@ -13439,7 +13439,7 @@ And now we've made it all the way to the end this is the last lecture in
 the blockchain fundamentals program in which we talk about a blockchain
 powered future.
 
-<h3>Intro: People’s Pick & FAQ</h3>
+<h3>People’s Pick & FAQ</h3>
 
 Throughout our offerings of both courses in the Blockchain Fundamentals
 program, we’ve received many questions about the material we teach, as
@@ -13753,7 +13753,7 @@ commenting, etc. As a rough analogy to what we’ve learned throughout
 this course and last, the posts with the most “work” (upvotes, comments,
 activity) will be more likely to be addressed first.
 
-<h3>Intro: Thought Experiment</h3>
+<h3>Thought Experiment</h3>
 
 Throughout our entire curriculum, we have focused on looking at problems
 from a top-down approach.
