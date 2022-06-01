@@ -14103,10 +14103,9 @@ your friends and peers.
 Now that you have finished this course, here are a list of other
 Blockchain at Berkeley resources. Some of you may have discovered these
 during the course run:
-
-   - [<b>Blockchain at Berkeley
-    website</b>](https://blockchain.berkeley.edu/)
-   - Mailing list, located at the bottom of the website linked above
+<ul>
+<li><a href="https://blockchain.berkeley.edu/">Blockchain at Berkeley website</a><br/></li>
+<liMailing list, located at the bottom of the website linked above</li>
 
    - [<b>Discord chat</b>](https://discordapp.com/invite/7t7W3Xc)
 
