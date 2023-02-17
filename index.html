@@ -6,6 +6,7 @@
 <head>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);
 body {
@@ -32,6 +33,15 @@ body {
 #myBtn:hover {
   background-color: #555;
 }
+img.displayed {
+  display: block;
+  margin: 0 auto; }
+
+.border {
+  border-width: 1px;
+  border-color: #778899;
+  border-style: solid; }
+
 </style>
 </head>
 <body>
@@ -307,20 +317,17 @@ ol.g {list-style-type: lower-latin;
 <!------------------------------------------------------------------------------------------------>
 <!---------------------- index.html in CS198.2x - Blockchain Technologies ------------------------>
 <!------------------------------------------------------------------------------------------------>
-<h2 align="center">
-CS198.2x - University of California @ BerkeleyX
-</h2>
+<h2 align="center">CS198.2x - University of California @ BerkeleyX</h2>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- cs198.2x Berkeley's Blockchain logo (01) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center">
-<img src="./images/cs198.2x logo.png?raw=true"
-   alt="Blockchain at BerkeleyX logo"
-   width="65%" />
-</p>
-<h2 align="center">
-Blockchain Technologies
-</h2>
+<img class="displayed"
+  src="./images/cs198.2x logo.png?raw=true"
+  style="width:65%;"
+  alt="Blockchain at BerkeleyX logo" />
+
+<h2 align="center">Blockchain Technologies</h2>
+
 <!----------------- ## [Table of Contents](#table-of-contents) ------->
 <p><b>Course Syllabus</b></p>
 <p>This course provides a wide overview of many of the topics relating
@@ -330,10 +337,9 @@ technology. </p>
 Consensus, 2. Cryptoeconomics &amp; Proof-of-Stake, 3. Enterprise
 Blockchain, 4. Scalability, 5. Anonymity, and 6. A Blockchain Powered
 Future.</p>
-<h2>
-<b>1. Trust Without Trust: <i>Distributed Systems &amp;
-Consensus</i></b>
-</h2>
+
+<h2><b>1. Trust Without Trust: <i>Distributed Systems &amp; Consensus</i></b></h2>
+
 <blockquote>
 <p>Blockchain architecture is built on the foundation of decades of
 computer science and distributed systems literature. We start out by
@@ -344,10 +350,9 @@ consensus mechanisms to Bitcoin’s Proof-of-work, including
 Proof-of-Stake, voting-based consensus algorithms, and federated
 consensus.</p>
 </blockquote>
-<h2>
-<b>2. Securing Incentives: <i>Cryptoeconomics &amp;
-Proof-of-Stake</i></b>
-</h2>
+
+<h2><b>2. Securing Incentives: <i>Cryptoeconomics &amp;Proof-of-Stake</i></b></h2>
+
 <blockquote>
 <p>We examine the meaning and properties of cryptoeconomics as it
 relates to its two compositional fields: cryptography and economics. We
@@ -355,9 +360,9 @@ then look at the goals of cryptoeconomics with respect to distributed
 systems fundamentals (liveness, safety, data availability) and the
 griefing factors and faults in the way of these goals.</p>
 </blockquote>
-<h2>
-<b>3. Real-World Applications: <i>Enterprise Blockchain</i></b>
-</h2>
+
+<h2><b>3. Real-World Applications: <i>Enterprise Blockchain</i></b></h2>
+
 <blockquote>
 <p>We categorize the uses of blockchain and distributed ledger
 technologies, and look at various existing enterprise-level blockchain
@@ -366,9 +371,9 @@ HyperLedger. We also explore business and industry use cases for
 blockchain, ICOs, and the increasing regulations surrounding
 blockchain.</p>
 </blockquote>
-<h2>
-<b>4. Cryptocurrencies for the Masses: <i>Scaling Blockchain</i></b>
-</h2>
+
+<h2><b>4. Cryptocurrencies for the Masses: <i>Scaling Blockchain</i></b></h2>
+
 <blockquote>
 <p>One major obstacle to widespread blockchain adoption is the problem
 of scalability. We define scaling first as it relates to Bitcoin as a
@@ -379,9 +384,9 @@ horizontal, as well as layer 1 and layer 2 scaling. Topics include block
 size increases, Segregated Witness, payment channels, Lightning Network,
 sidechains, Plasma, sharding, and Cosmos.</p>
 </blockquote>
-<h2>
-<b>5. The Fight for Privacy: <i>Anonymity, Mixing &amp; Altcoins</i></b>
-</h2>
+
+<h2><b>5. The Fight for Privacy: <i>Anonymity, Mixing &amp; Altcoins</i></b></h2>
+
 <blockquote>
 <p>We look into the measures that governments have taken to regulate and
 control blockchain technology.  We examine Anti-Money Laundering (AML)
@@ -390,9 +395,9 @@ government techniques for deanonymization of entities on blockchain.
 Then from the user’s perspective, we also dive into privacy oriented
 altcoins and mixing techniques.</p>
 </blockquote>
-<h2>
-<b>6. A Blockchain Powered Future</b>
-</h2>
+
+<h2><b>6. A Blockchain Powered Future</b></h2>
+
 <blockquote>
 <p>A summary of the entire Blockchain Fundamentals program and an
 exploratory look into blockchain ventures today, such as venture
@@ -400,9 +405,9 @@ capitalism, ICOs, and crowdfunding. We conclude with a blockchain-based
 future thought experiment and explain the avenues for the student’s
 potential involvement.</p>
 </blockquote>
-<h4>
-Notes from Rustie
-</h4>
+
+<h4>Notes from Rustie</h4>
+
 <p>Since Fall, 2016, Blockchain at Berkeley has been offering a course
 on the fundamental concepts of cryptocurrencies and blockchain on UC
 Berkeley campus. The goal was to create a survey of the blockchain space
@@ -442,9 +447,9 @@ or concerns, please do not hesitate to ask in the discussion boards.</p>
 welcome you to CS198.2x Blockchain Technology.</p>
 <p>We hope you enjoy the course! </p>
 <p>Rustie Lin</p>
-<h4>
-Resources
-</h4>
+
+<h4>Resources</h4>
+
 <p>CS198.1x Bitcoin and Cryptocurrencies is a prerequisite for this
 course. If you haven’t already taken it, the course material is free for
 review on edX, or for verified certificate if you wish. You can enroll
@@ -453,24 +458,20 @@ in both courses concurrently.</p>
 distributed and available online. If you haven’t taken our previous
 course yet, another way to catch up besides auditing the course material
 is to read these books.</p>
+
 <ul>
-<li><p><a
-href="https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf">Bitcoin
-and Cryptocurrency Technologies </a>by Arvind Narayanan, Joseph</p></li>
-<li><p>Bonneau, Edward Felten, Andrew Miller, and Steven
-Goldfeder</p></li>
-<li><p><a
-href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc">Mastering
-Bitcoin </a>by Andreas Antonopoulos</p></li>
+  <li><p><a href="https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf">Bitcoin and Cryptocurrency Technologies </a>by Arvind Narayanan, Joseph</p></li>
+  <li><p>Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder</p></li>
+  <li><p><a href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc">Mastering Bitcoin </a>by Andreas Antonopoulos</p></li>
 </ul>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ blockchain at berkeley logo (04) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/cs198.2x blockchain at berkeley logo.png?raw=true"
-   alt="Berkeley's Hub for Blockchain Innovation logo"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/cs198.2x blockchain at berkeley logo.png?raw=true"
+  style="width:65%;"
+  alt="Berkeley's Hub for Blockchain Innovation logo" />
+
 <p>A good unofficial resource is the Blockchain at Berkeley Public
 Slack, where we discuss various topics related to blockchain. You can
 request access to our Slack workspace at the bottom of the <a
@@ -500,9 +501,9 @@ Fundamentals, who have not already been featured on the previous
 page.</p>
 <p>Max Fang, Philip Hayes, Sunny Aggarwal, Aparna Krishnan, Gloria Zhao,
 Gillian Chu, and Brian Ho.</p>
-<h4>
-FAQ
-</h4>
+
+<h4>FAQ</h4>
+
 <p>Q: Are there any prerequisites to this course?</p>
 <p>A: CS198.1x Bitcoin and Cryptocurrencies (or equivalent knowledge) is
 a prerequisite to this course. You can review all material from the
@@ -529,17 +530,16 @@ members, and blockchain enthusiasts from all educational and industrial
 backgrounds.</p>
 <p><strong><u><br />
 </u></strong></p>
-<h1 id="ch1">
-Week 1: Trust Without Trust: Distributed Systems &amp; Consensus
-</h1>
+
+<h1 id="ch1">Week 1: Trust Without Trust: Distributed Systems &amp; Consensus</h1>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- 01. cs198.2x Berkeley's Blockchain logo (07) ------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image001.png?raw=true"
-   alt="Blockchain at BerkeleyX logo"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image001.png?raw=true"
+  style="width:65%;"
+  alt="Blockchain at BerkeleyX logo" />
+
 <p>Welcome to the first module of Blockchain Technology, the second
 course in the Blockchain Fundamentals program.</p>
 <p>This course is a continuation of our first course, Bitcoin and
@@ -575,9 +575,9 @@ distributed systems, with a focus on Proof-of-Stake and other new styles
 of consensus.</p>
 <p>After this lecture, you’ll be able to think about blockchain within
 the much larger scope of distributed systems and consensus.</p>
-<h4>
-Week 1 Announcements
-</h4>
+
+<h4>Week 1 Announcements</h4>
+
 <p>Welcome to Week 1. Here’s a quick breakdown of what to expect every
 week:</p>
 <p>In general, each week will have 5 sections of video content and
@@ -586,16 +586,17 @@ are designed to be quick self-tests that you indeed understand the
 material. Quick Checks are graded on correctness, but you will have
 unlimited tries on each Quick Check question.</p>
 <p>The 1st week, we cover:</p>
+
 <ul>
-<li><p>Distributed Systems</p></li>
-<li><p>Voting Based Consensus</p></li>
-<li><p>Nakamoto Consensus</p></li>
-<li><p>Proof-of-Stake</p></li>
-<li><p>Federated Consensus</p></li>
+  <li><p>Distributed Systems</p></li>
+  <li><p>Voting Based Consensus</p></li>
+  <li><p>Nakamoto Consensus</p></li>
+  <li><p>Proof-of-Stake</p></li>
+  <li><p>Federated Consensus</p></li>
 </ul>
-<h2>
-1.1 Intro: Distributed Systems
-</h2>
+
+<h2>1.1 Intro: Distributed Systems</h2>
+
 <p>Let’s take a step back and think about the design and architecture of
 what we’re trying to achieve with blockchain.</p>
 <p>What exactly are we trying to build, and how do we go about designing
@@ -616,9 +617,9 @@ math behind it.</p>
 been studied for decades by mathematicians and computer scientists.</p>
 <p>It’s by studying this traditional literature and design formalisms
 that we can start designing blockchain systems from the ground up.</p>
-<h3>
-Distributed Systems Origins
-</h3>
+
+<h3>Distributed Systems Origins</h3>
+
 <p>Before we explain what a distributed system actually is, let’s define
 a fundamental, age-old problem that pervades not only computer science
 and blockchain technology, but all of humanity.</p>
@@ -632,11 +633,11 @@ process by which we reach agreement might be difficult.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 01a. distributed systems origins: why study consensus? (10) ------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image001a.png?raw=true"
-   alt="Distributed Systems Origins: Why Study Consensus?"
-   width="65%" />
-</p>
+<img class="displayed"
+   src="./images/image001a.png?raw=true"
+   style="width:65%;"
+   alt="Distributed Systems Origins: Why Study Consensus?" />
+
 <p>In this example, my group of friends had to come to consensus on a
 common choice of action – what to get for lunch – before we were able to
 move forward – to actually get lunch.</p>
@@ -645,11 +646,11 @@ where we start building our intuition and context.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------- 02. distributed systems origins: digital avionics (11) --------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image002.png?raw=true"
-   alt="Distributed Systems Origins: Digital Avionics"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image002.png?raw=true"
+  style="width:65%;"
+  alt="Distributed Systems Origins: Digital Avionics" />
+
 <p>Consensus has been studied for ages in fields such as biophysics,
 ethics, and philosophy, but the formal study of consensus in computer
 science didn’t start until the 70s and 80s, when people decided that it
@@ -682,11 +683,11 @@ challenge.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------- 03. distributed systems origins: early literature (12) --------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image003.png?raw=true"
-   alt="Distributed Systems Origins: Early Literature"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image003.png?raw=true"
+  style="width:65%;"
+  alt="Distributed Systems Origins: Early Literature" />
+
 <p>Early literature had focused on enabling coordination of processes –
 where these processes could be processes on a CPU, or computers in a
 network, separated spatially.</p>
@@ -732,22 +733,22 @@ shape.</p>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------- 04. distributed systems origins: other problems (14) ---------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image004.png?raw=true"
-   alt="Distributed Systems Origins: Other Problems"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image004.png?raw=true"
+  style="width:65%;"
+  alt="Distributed Systems Origins: Other Problems" />
+
 <p>And as it turns out, the same problem that was originally studied to
 coordinate computers on commercial airliners is still studied today, for
 example on more high-tech jet planes.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------- 04b. distributed systems origins: other problems #2 (14) ------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image004b.png?raw=true"
-   alt="Distributed Systems Origins: Other Problems #2"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image004b.png?raw=true"
+  alt="Distributed Systems Origins: Other Problems #2"
+  style="width:65%;" />
+
 <p>And more recently, on various spacecraft, such as SpaceX’s famous
 Falcon 9 or Dragon spacecraft.</p>
 <p>For example, spacecraft have to be tolerant of the violent vibrations
@@ -760,11 +761,11 @@ after cross checking.
 <!------------------------------------------------------------------------------------------------>
 <!------------------- 05. distributed systems origins: other problems #3 (15) -------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image005.png?raw=true"
-   alt="Distributed Systems Origins: Other Problems #3"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image005.png?raw=true"
+  style="width:65%;"
+  alt="Distributed Systems Origins: Other Problems #3" />
+
 <p>Distributed systems and consensus is also studied in the context of
 big enterprise operations as well.</p>
 <p>Distributed lock servers for example, ensure that no two processes
@@ -774,11 +775,11 @@ important data.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------- 06. distributed systems origins: other problems #4 (15) -------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image006.png?raw=true"
-   alt="Distributed Systems Origins: Other Problems #4"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image006.png?raw=true"
+  style="width:65%;"
+  alt="Distributed Systems Origins: Other Problems #4" />
+
 <p>And finally, of course – the main focus of this course – the
 blockchain and distributed ledger revolution.</p>
 <p>Fundamentally, each of these problems we just went over, and more,
@@ -813,11 +814,11 @@ Distributed Systems Fundamentals
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- 07. distributed systems: definition (17) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image007.png?raw=true"
-   alt="Distributed Systems: Definition"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image007.png?raw=true"
+  style="width:65%;"
+  alt="Distributed Systems: Definition" />
+
 <p>In order to understand blockchain technology like a pro, knowing its
 ins and outs, we need to delve into the heart of what blockchain looks
 like from a technical perspective.</p>
@@ -832,11 +833,11 @@ systems contain two particular categories of components.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------- 08a. distributed systems: definition #2 (18) ------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image008a.png?raw=true"
-   alt="Distributed Systems: Definition #2"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image008a.png?raw=true"
+  style="width:65%;"
+  alt="Distributed Systems: Definition #2" />
+
 <p>The first category is referred to as “nodes.”</p>
 <p>Nodes are meant to represent separate machines, or processes.</p>
 <p>This separation manifests in the real-world as physical distance,
@@ -845,11 +846,11 @@ CPU cores in your laptop.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------- 08. distributed systems: definition #3 (18) -------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image008.png?raw=true"
-   alt="Distributed Systems: Definition #3"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image008.png?raw=true"
+  style="width:65%;"
+  alt="Distributed Systems: Definition #3" />
+
 <p>The second category is referred to as “message passing.”</p>
 <p>These are represented as arrows, or “edges” as we like to call them
 in the context of graph theory.</p>
@@ -874,11 +875,11 @@ be safe in the event of a crash.</p>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- 09. distributed systems: properties (19) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image009.png?raw=true"
-   alt="Distributed Systems: Properties"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image009.png?raw=true"
+  style="width:65%;"
+  alt="Distributed Systems: Properties" />
+
 <p>Let’s discuss the properties of a distributed system keeping in mind
 the two main two components to understand exactly what we’re working
 with.</p>
@@ -905,11 +906,11 @@ working distributed system from a faulty one.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 10. distributed systems: example (20) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image010.png?raw=true"
-   alt="Distributed Systems: Example"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image010.png?raw=true"
+  style="width:65%;"
+   alt="Distributed Systems: Example" />
+ 
 <p>This graph shows a classic example problem from distributed
 systems.</p>
 <p>Consider an arrangement of an odd number of nodes as such.</p>
@@ -931,11 +932,11 @@ looking for in this system?</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------- 11. distributed systems: properties of multiprocess programs (21) ---------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image011.png?raw=true"
-   alt="Distributed Systems: Properties of Multiprocess Programs"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image011.png?raw=true"
+  alt="Distributed Systems: Properties of Multiprocess Programs"
+  style="width:65%;" />
+
 <p>Leslie Lamport, distributed systems researcher and superhero,
 designed a scheme by which we can formally prove the correctness of a
 distributed system.</p>
@@ -972,11 +973,11 @@ your program can and should do.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------- 12. distributed consensus: correctness (23) -------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image012.png?raw=true"
-   alt="Distributed Consensus: Correctness"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image012.png?raw=true"
+  alt="Distributed Consensus: Correctness"
+  style="width:65%;" />
+
 <p>We spent quite a bit of time understanding safety and liveness, but
 how do we apply those ideas of desirable and undesirable guidelines to a
 distributed system?</p>
@@ -1032,11 +1033,11 @@ consensus will ever be achieved.
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- 13. distributed consensus: correctness #2 (25) ------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image013.png?raw=true"
-   alt="Distributed Consensus: Correctness #2"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image013.png?raw=true"
+  alt="Distributed Consensus: Correctness #2."
+  style="width:65%;" />
+
 <p>By understanding these three essentials of a consensus algorithm, you
 now understand what is needed for any distributed system to come to
 consensus.</p>
@@ -1051,11 +1052,11 @@ CAP Theorem
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 14. cap theorem: introduction (25) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image014.png?raw=true"
-   alt="CAP Theorem: Introduction"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image014.png?raw=true"
+  alt="CAP Theorem: Introduction"
+  style="width:65%;" />
+
 <p>This section hones in on a famous trilemma of distributed systems
 called the CAP Theorem.</p>
 <p>The most reasonable explanation for the name “CAP Theorem” is that
@@ -1071,11 +1072,11 @@ into the implications.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------ 15. cap theorem: consistency 'c' in cap (26) -------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image015.png?raw=true"
-   alt="CAP Theorem: Consistency 'c' in cap"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image015.png?raw=true"
+  alt="CAP Theorem: Consistency 'C' in cap."
+  style="width:65%;" />
+
 <p>The “C” in CAP stands for Consistency.</p>
 <p><strong><em>Consistency</em></strong> in a system is defined as every
 node providing the most recent state of the system.</p>
@@ -1088,11 +1089,11 @@ state at any given time, and that no node will return an outdated state.
 <!------------------------------------------------------------------------------------------------>
 <!------------------------ 16. cap theorem: availability 'a' in cap (27) ------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image016.png?raw=true"
-   alt="CAP Theorem: Availability 'A' in cap"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image016.png?raw=true"
+  alt="CAP Theorem: Availability 'A' in cap."
+  style="width:65%;" />
+
 <p>The “A” in CAP stands for Availability.</p>
 <p><strong><em>Availability</em></strong> in a system means that every
 node has constant read and write access.</p>
@@ -1103,11 +1104,11 @@ happen, which is the ability to read or write some state.</p>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- 17. cap theorem: partition tolerance (28) --------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image017.png?raw=true"
-   alt="CAP Theorem: Partition Tolerance 'P' in cap"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image017.png?raw=true"
+  alt="CAP Theorem: Partition Tolerance 'P' in cap."
+  style="width:65%;" />
+
 <p>And last but not least the “P” in CAP stands for
 <strong><em>Partition Tolerance</em></strong>.</p>
 <p>A quick definition, a partition is an inability for two or more nodes
@@ -1125,11 +1126,11 @@ even with partitions.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------ 18. cap theorem: nothing is impossible (29) --------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image018.png?raw=true"
-   alt="CAP Theorem: Nothing is Important"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image018.png?raw=true"
+  style="width:65%;"
+  alt="CAP Theorem: Nothing is Important." />
+
 <p>What is the CAP Theorem, truly?</p>
 <p>It is a simple statement: a system can only have two out of three of
 these properties at any given time.</p>
@@ -1147,22 +1148,22 @@ examples.</p>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------- 19. cap theorem: proof (30) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image019.png?raw=true"
-   alt="CAP Theorem: Proof"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image019.png?raw=true"
+  alt="CAP Theorem: Proof"
+  style="width:65%;" />
+
 <p>In each example, we’re going to give an example of a situation in
 which choosing two properties forces us to yield the third.</p>
 <p>Let’s pretend this is a database which stores my favorite color.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 20. cap theorem: proof #2 (30) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image020.png?raw=true"
-   alt="CAP Theorem: Proof #2"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image020.png?raw=true"
+  alt="CAP Theorem: Proof #2"
+  style="width:65%;" />
+
 <p>In our first example, let’s choose Partition Tolerance and
 Availability.</p>
 <p>Here’s how we lose consistency:</p>
@@ -1175,11 +1176,11 @@ red.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 21. cap theorem: proof #3 (31) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image021.png?raw=true"
-   alt="CAP Theorem: Proof #3"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image021.png?raw=true"
+  alt="CAP Theorem: Proof #3"
+  style="width:65%;" />
+
 <p>Node 1 relays the update to all other accessible nodes, which update
 their state.</p>
 <p>Nodes 2 and 4, however, cannot receive messages from the other half
@@ -1198,30 +1199,30 @@ Consistency.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 22. cap theorem: proof #4 (32) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image022.png?raw=true"
-   alt="CAP Theorem: Proof #4"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image022.png?raw=true"
+  style="width:65%;"
+  alt="CAP Theorem: Proof #4" />
+
 <p>I send the update to Node 1, which then sends the update to other
 nodes.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 23. cap theorem: proof #5 (32) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image023.png?raw=true"
-   alt="CAP Theorem: Proof #5"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image023.png?raw=true"
+  alt="CAP Theorem: Proof #5"
+  style="width:65%;" />
+
 <p>Nodes 2 and 4 are still ignorant of the update to red.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 24. cap theorem: proof #6 (33) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image024.png?raw=true"
-   alt="CAP Theorem: Proof #6"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image024.png?raw=true"
+  alt="CAP Theorem: Proof #6"
+  style="width:65%;" />
+
 <p>Again, I query Node 2.</p>
 <p>What happens this time?</p>
 <p>Since Node 2 is bound to consistency, it chooses not to return
@@ -1237,21 +1238,21 @@ happens when we choose Consistency and Availability.</p>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------- 25. cap theorem: proof #7 (34) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image025.png?raw=true"
-   alt="CAP Theorem: Proof #7"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image025.png?raw=true"
+  alt="CAP Theorem: Proof #7"
+  style="width:65%;" />
+
 <p>I send an update to Node 1.</p>
 <p>Node 1 passes the information around.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 26. cap theorem: proof #8 (34) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image026.png?raw=true"
-   alt="CAP Theorem: Proof #8"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image026.png?raw=true"
+  alt="CAP Theorem: Proof #8"
+  style="width:65%;" />
+
 <p>I query Node 2, and it returns a value to me.</p>
 <p>Great!</p>
 <p>Everything worked as expected.</p>
@@ -1264,11 +1265,11 @@ system must compromise.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------------- 27. cap theorem: notes (36) ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image027.png?raw=true"
-   alt="CAP Theorem: Notes"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image027.png?raw=true"
+  alt="CAP Theorem: Notes."
+  style="width:65%;" />
+
 <p>Now you understand the CAP Theorem.</p>
 <p>You’ll often hear discussion about Consistency and Availability in
 consensus algorithm discussion.</p>
@@ -1299,17 +1300,16 @@ seriously.</p>
 some incorrectly fixate on the black-and-white implications of the CAP
 Theorem rather than using it as another lens to view the system’s
 design.</p>
-<h3>
-Byzantine Fault Tolerance
-</h3>
+
+<h3>Byzantine Fault Tolerance</h3>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------- 28. byzantine fault tolerance: generals' problem (36) --------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image028.png?raw=true"
-   alt="Byzantine Fault Tolerance: Generals' Problem"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image028.png?raw=true"
+  alt="Byzantine Fault Tolerance: Generals' Problem"
+  style="width:65%;" />
+
 <p>We’ve defined distributed systems, understood the definition of
 correctness in their context, and understood the various properties and
 limitations of these systems. We’re now going to finish off by
@@ -1385,11 +1385,11 @@ the remaining situations.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------- 29. practical byzantine fault tolerance (39) ------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image029.png?raw=true"
-   alt="Practical Byzantine Fault Tolerance"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image029.png?raw=true"
+  alt="Practical Byzantine Fault Tolerance."
+  style="width:65%;" />
+
 <p>Practical Byzantine Fault Tolerance released in 1999 by Miguel Castro
 and Barbara Liskov gives an algorithm to allow nodes to come to
 consensus with no more than ⅓ Byzantine nodes. This paper has inspired
@@ -1409,11 +1409,11 @@ of fault.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------- 30. byzantine fault tolerance in blockchain (40) ------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image030.png?raw=true"
-   alt="Byzantine Fault Tolerancein Blockchain"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image030.png?raw=true"
+  alt="Byzantine Fault Tolerancein Blockchain"
+  style="width:65%;" />
+
 <p>A Byzantine fault, referring to the Byzantine Generals’ Problem, is a
 fault that refers to any arbitrary deviance from the protocol. In other
 words, not only might nodes stop replying or receiving information, but
@@ -11410,34 +11410,20 @@ future. Feel free to share video links with your friends and peers.</p>
 <p>Now that you have finished this course, here are a list of other
 Blockchain at Berkeley resources. Some of you may have discovered these
 during the course run:</p>
+
 <ul>
-<li><p><a href="https://blockchain.berkeley.edu/"><strong>Blockchain at
-Berkeley website</strong></a></p></li>
-<li><p>Mailing list, located at the bottom of the website linked
-above</p></li>
-<li><p><a href="https://discordapp.com/invite/7t7W3Xc"><strong>Discord
-chat</strong></a></p></li>
-<li><p><a href="https://learnblockcha.in/"><strong>Blockchain for
-Developers course (Spring 2018)</strong></a></p></li>
-<li><p><a
-href="https://blockchainatberkeley.blog/"><strong>Blog</strong></a></p></li>
-<li><p><a
-href="https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg"><strong>Blockchain
-at Berkeley YouTube channel</strong></a></p></li>
-<li><p><a
-href="https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W"><strong>Berkeley
-Bitcoin Meetup</strong></a></p></li>
-<li><p><a
-href="https://www.facebook.com/BlockchainatBerkeley/"><strong>Facebook
-page</strong></a></p></li>
-<li><p><a
-href="https://twitter.com/CalBlockchain"><strong>Twitter</strong></a></p></li>
+  <li><p><a href="https://blockchain.berkeley.edu/"><strong>Blockchain at Berkeley website</strong></a></p></li>
+  <li><p>Mailing list, located at the bottom of the website linked above</p></li>
+  <li><p><a href="https://discordapp.com/invite/7t7W3Xc"><strong>Discord chat</strong></a></p></li>
+  <li><p><a href="https://learnblockcha.in/"><strong>Blockchain for Developers course (Spring 2018)</strong></a></p></li>
+  <li><p><a href="https://blockchainatberkeley.blog/"><strong>Blog</strong></a></p></li>
+  <li><p><a href="https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg"><strong>Blockchain at Berkeley YouTube channel</strong></a></p></li>
+  <li><p><a href="https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W"><strong>Berkeley Bitcoin Meetup</strong></a></p></li>
+  <li><p><a href="https://www.facebook.com/BlockchainatBerkeley/"><strong>Facebook page</strong></a></p></li>
+  <li><p><a href="https://twitter.com/CalBlockchain"><strong>Twitter</strong></a></p></li>
 </ul>
-<p>We’ll also open up a discussion topic below, under ‘Student
-Resources’, as a central place where you can post useful resources for
-other students. If you recently read, watched, experienced, etc.
-anything related to the blockchain space in general, please contribute
-to our course community and share in the discussion boards!</p>
+
+<p>We’ll also open up a discussion topic below, under ‘Student Resources’, as a central place where you can post useful resources for other students. If you recently read, watched, experienced, etc. anything related to the blockchain space in general, please contribute to our course community and share in the discussion boards!</p>
 <p><strong>Thank You</strong></p>
 <p>On behalf of all of our lovely course staff, I’d like to thank you,
 for taking CS198.2x, Blockchain Technology.df</p>
@@ -11455,5 +11441,5 @@ and innovation left to explore, so I challenge you to get more involved
 in the blockchain space.</p>
 <p>We wish you all the best on the rest of your blockchain journey!</p>
 <p>The end…</p>
-<h4>CS1982x Last Updated: 6-27-2022 Thu 9:41am.</h4>
+<h4>CS1982x Last Updated: 2-16-2023 Thu 11:03pm.</h4>
 </html>
