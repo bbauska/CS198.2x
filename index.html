@@ -71,8 +71,8 @@ function scrollFunction() {
 
 // When the user clicks on the button, scroll to the top of the document.
 function topFunction() {
-  document.body.scrollTop = 55;
-  document.documentElement.scrollTop = 55;
+  document.body.scrollTop = 1555;
+  document.documentElement.scrollTop = 1555;
 }
 </script>
 
@@ -258,6 +258,7 @@ ol.g {list-style-type: lower-latin;
   color: #3800aa;   <!--- dark purple --->
   background: inherit;
   text-align: inherit;
+  margin-left: 5px;
 }
  h3 {
   padding: 20px 0 0 0;
@@ -267,6 +268,7 @@ ol.g {list-style-type: lower-latin;
   color: #326908;    <!-- green ---->
   background: inherit;
   text-align: left;
+  margin-left: 5px;
 }
  h4 {
   padding: 18px 0 0 0;
@@ -277,6 +279,7 @@ ol.g {list-style-type: lower-latin;
   color: #900001 ;    <!-- red ---->
   background: inherit;
   text-align: left;
+  margin-left: 5px;
 }
  h5 {
   padding: 16px 0 0 0;
@@ -285,6 +288,7 @@ ol.g {list-style-type: lower-latin;
   color: #326908;    <!-- green ---->
   background: inherit;
   text-align: left;
+  margin-left: 5px;
 }
  h6 {
   padding: 14px 0 0 0;
@@ -293,9 +297,11 @@ ol.g {list-style-type: lower-latin;
   color: #326908;    <!-- green ---->
   background: inherit;
   text-align: left;
+  margin-left: 5px;
 }
 body {
   font-family: Bahnschrift, Calibri, Verdana, sans-serif;
+  margin-left: 5px;
 }
 <!------ list item styles ------>
 
@@ -785,7 +791,7 @@ important data.</p>
 <img class="displayed"
   src="./images/image006.png?raw=true"
   style="width:65%;"
-  alt="Distributed Systems Origins: Other Problems #4" />
+  alt="Distributed Systems Origins: Other Problems #4." />
 
 <p>And finally, of course – the main focus of this course – the
 blockchain and distributed ledger revolution.</p>
@@ -1452,9 +1458,9 @@ unreliable messengers, and coming to consensus on whether to include a
 block or the valid chain of transaction history is the same as coming to
 agreement on whether to attack or retreat. It’s the same concepts with
 different names.</p>
-<h3>
-Intro: Voting Based Consensus
-</h3>
+
+<h3>Intro: Voting Based Consensus</h3>
+
 <p>Now that we have an understanding of the fundamentals of distributed
 systems and distributed consensus, our main focus for the next section
 is that of classical consensus mechanisms which have been the backbone
@@ -1475,17 +1481,16 @@ mechanisms and their impact.</p>
 systems of today.</p>
 <p><strong><u><br />
 </u></strong></p>
-<h3>
-Paxos and Raft
-</h3>
+
+<h3>Paxos and Raft</h3>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- 31. paxos overview (42) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image031.png?raw=true"
-   alt="PAXOS Overview"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image031.png?raw=true"
+  style="width:65%;"
+  alt="PAXOS Overview" />
+
 <p>Before we talk about our first consensus mechanisms, let’s take a
 short break.</p>
 <p>We’ve been going through a lot of technical material, so for now,
@@ -1522,11 +1527,11 @@ maintained a ledger, where they’d record everything that happened.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------------- 32. paxos terminology (43) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image032.png?raw=true"
-   alt="PAXOS Terminology"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image032.png?raw=true"
+  style="width:65%;"
+  alt="PAXOS Terminology" />
+
 <p>Diving a bit more in depth, the paper specifies that within the Paxon
 parliament, there are three types of legislators: proposers, acceptors,
 and learners.</p>
@@ -1545,11 +1550,11 @@ consensus algorithms.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------- 33. paxos main idea (44) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image033.png?raw=true"
-   alt="PAXOS Main Idea"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image033.png?raw=true"
+  style="width:65%;"
+  alt="PAXOS Main Idea" />
+
 <p>The protocol that the Paxon parliament uses proceeds over several
 rounds, until consensus is reached.</p>
 <p>Each successful round has two phases: prepare and accept.</p>
@@ -1571,11 +1576,11 @@ the entire island know what happened in parliament.</p>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- 34. paxos knowledge of the ancients (45) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image034.png?raw=true"
-   alt="PAXOS Knowledge of the Ancients"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image034.png?raw=true"
+  style="width:65%;"
+  alt="PAXOS Knowledge of the Ancients." />
+
 <p>There’s a very clear parallel between the Paxon parliament and
 distributed consensus.</p>
 <p>As Lamport put it in his paper: “There’s an obvious correspondence
@@ -1589,11 +1594,11 @@ passed by the parliament.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 35. paxos in practice - assumptions & real-world use (46) -------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image035.png?raw=true"
-   alt="PAXOS in Practice: Assumptions & Real-World Use"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image035.png?raw=true"
+  style="width:65%;"
+  alt="PAXOS in Practice: Assumptions & Real-World Use." />
+
 <p>One major assumption that Paxos makes is that nodes aren’t trying to
 subvert the protocol, and that messages are delivered without
 corruption.</p>
@@ -1620,11 +1625,11 @@ story.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- 36. raft overview (47) ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image036.png?raw=true"
-   alt="Raft Overview"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image036.png?raw=true"
+  style="width:65%;"
+  alt="Raft Overview" />
+
 <p>In 2014, an alternative to Paxos was proposed.</p>
 <p>The paper was titled “In Search of an Understandable Consensus
 Algorithm,” poking fun at the confusion Paxos caused, and even the name
@@ -1640,11 +1645,11 @@ consensus.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------------- 37. raft how it works (47) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image037.png?raw=true"
-   alt="Raft How it Works"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image037.png?raw=true"
+  style="width:65%;"
+  alt="Raft How it Works" />
+
 <p>There’s a really good Raft simulation that I’ll link in the
 “Readings” section for this week, but here’s a brief rundown of how Raft
 consensus works.</p>
@@ -1680,11 +1685,11 @@ Practical Byzantine Fault Tolerance
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- 38. pbft overview (49) ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image038.png?raw=true"
-   alt="PBFT Overview"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image038.png?raw=true"
+  style="width:65%;"
+  alt="PBFT Overview" />
+
 <p>We’ll end here with another famous consensus algorithm: Practical
 Byzantine Fault Tolerance, or PBFT. Published by Miguel Castro and
 Barbara Liskov in 1999, the original paper posed a solution to the
@@ -1705,11 +1710,11 @@ faults.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------- 39. pbft by example (50) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image039.png?raw=true"
-   alt="PBFT By Example"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image039.png?raw=true"
+  style="width:65%;"
+  alt="PBFT By Example" />
+
 <p>The main PBFT algorithm consists of three phases – pre-prepare,
 prepare, and commit.</p>
 <p>PBFT begins when the client submits a request to the primary node.
@@ -1721,11 +1726,11 @@ people.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 40. pbft by example request (50) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image040.png?raw=true"
-   alt="PBFT by Example Request"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image040.png?raw=true"
+  style="width:65%;"
+  alt="PBFT by Example Request" />
+
 <p>In this case, the primary node is Derrick. We have a total of 4
 nodes, meaning that we should be able to withstand 1 fault, since ¼ is
 less than ⅓. So, let’s say one of our 4 nodes, Nadir, drops out due to a
@@ -1733,37 +1738,30 @@ spotty internet connection.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 41. pbft by example request #2 (51) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image041.png?raw=true"
-   alt="PBFT by Example Request #2"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image041.png?raw=true"
+  style="width:65%;"
+  alt="PBFT by Example Request #2" />
+
 <p>Nadir might’ve dropped out, but the other 3 nodes might not know that
 yet, so they’ll still send messages to him.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------- 42. pbft by example: pre-prepare (51) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image042.png?raw=true"
-   alt="PBFT by Example: Pre-Prepare"
-   width="65%" />
-</p>
-<p>The next step is pre-prepare, which is one of the three main phases –
-pre-prepare, prepare, and commit. In the pre-prepare phase, the primary
-node Derrick sends out pre-prepare messages to everyone in the network.
-A node accepts the pre-prepare message so long as its valid. We won’t go
-too much in detail, but messages contain a sequence number – like the
-increasing numbers Proposers in Paxos assign to each of their decrees.
-They also contain signatures, and other useful metadata that lets nodes
-determine message validity.</p>
+<img class="displayed"
+  src="./images/image042.png?raw=true"
+  style="width:65%;"
+  alt="PBFT by Example: Pre-Prepare" />
+
+<p>The next step is pre-prepare, which is one of the three main phases – pre-prepare, prepare, and commit. In the pre-prepare phase, the primary node Derrick sends out pre-prepare messages to everyone in the network. A node accepts the pre-prepare message so long as its valid. We won’t go too much in detail, but messages contain a sequence number – like the increasing numbers Proposers in Paxos assign to each of their decrees. They also contain signatures, and other useful metadata that lets nodes - determine message validity.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 43. pbft by example: prepare (52) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image043.png?raw=true"
-   alt="PBFT by Example: Prepare"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image043.png?raw=true"
+  style="width:65%;"
+  alt="PBFT by Example: Prepare" />
+  
 <p>If a node accepts a pre-prepare message, it follows up by sending out
 a prepare message to everyone else. And prepare messages are accepted by
 receiving nodes so long as they’re valid, again, based on sequence
@@ -1775,22 +1773,22 @@ Byzantine faults.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 44. pbft by example: commit (52) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image044.png?raw=true"
-   alt="PBFT by Example: Commit"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image044.png?raw=true"
+  style="width:65%;"
+  alt="PBFT by Example: Commit" />
+
 <p>After nodes have prepared, they send out a commit message. If a node
 receives f + 1 valid commit messages, then they carry out the client
 request and then finally</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 45. pbft by example: reply (53) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image045.png?raw=true"
-   alt="PBFT by Example: Reply"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image045.png?raw=true"
+  style="width:65%;"
+  alt="PBFT by Example: Reply" />
+
 <p>Send out the reply to the client. The client waits for f + 1 of the
 same reply. Since we allow for at most f faults, we need to wait for at
 least f + 1, and this ensures the response to be valid. After this
@@ -1798,11 +1796,11 @@ point, the client gets the correct response.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 46. pbft normal case operation (53) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image046.png?raw=true"
-   alt="PBFT Normal Case Operation"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image046.png?raw=true"
+  style="width:65%;"
+  alt="PBFT Normal Case Operation" />
+
 <p>Here’s a diagram from the PBFT whitepaper, which models exactly the
 scenario we just went over. The diagram has five processes, or nodes in
 our case.</p>
@@ -1817,9 +1815,9 @@ processes.</p>
 message.</p>
 <p>After hearing sufficient amount of commits, we respond directly to
 the client.</p>
-<h3>
-Intro: Nakamoto Consensus
-</h3>
+
+<h3>Intro: Nakamoto Consensus</h3>
+
 <p>Now that we’ve traversed the landscape of classical voting-based
 consensus mechanisms, we now arrive in modern times.</p>
 <p>In 2008, the release of the Bitcoin whitepaper not only
@@ -2031,9 +2029,9 @@ testnets.</p>
 <p>There is a question mark because this follows the paradigm of
 politically centralized systems, with a few actors making decisions for
 the rest of the network.</p>
-<h3>
-Intro: Proof-of-Stake
-</h3>
+
+<h3>Intro: Proof-of-Stake</h3>
+
 <p>Proof-of-Stake is a pretty important consensus mechanism – so much so
 that we have this entire section on it.</p>
 <p>With increasing concern over the energy costs and scalability of
@@ -2047,17 +2045,16 @@ voting and Nakamoto consensus flavors, and also how innovations in this
 space are driving blockchain research from a cryptoeconomics standpoint,
 which aims to formalize all its claims about blockchain through
 cryptography and economics.</p>
-<h3>
-Proof-of-Stake Overview
-</h3>
+
+<h3>Proof-of-Stake Overview</h3>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 47. pow vs pos? differences (62) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image047.png?raw=true"
-   alt="POW vs POS? Differences"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image047.png?raw=true"
+  style="width:65%;"
+  alt="POW vs POS? Differences" />
+
 <p>As we mentioned in the Nakamoto consensus section, we can understand
 both Proof-of-Work and Proof-of-Stake by looking at what resources are
 consumed.</p>
@@ -2131,11 +2128,11 @@ Proof-of-Stake Implementations
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 48. proof of stake: tendermint  (64) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image048.png?raw=true"
-   alt="Proof-of-Stake: Tendermint"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image048.png?raw=true"
+  style="width:65%;"
+  alt="Proof-of-Stake: Tendermint" />
+
 <p>Tendermint was the first BFT-based Proof-of-Stake consensus
 mechanism, created by Jae Kwon and his team in 2014.</p>
 <p>To give a bit of historical context, Tendermint brought with it the
@@ -2563,31 +2560,30 @@ termination is a liveness property.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 49. cap theorem venn diagram (78) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image049.png?raw=true"
-   width="35%"
-   alt="CAP Theorem Venn diagram highlighting intersections of Consistency and Availability with the letters CA, Consistency and Partition Tolerance with the letters CP, and Availability and Partition Tolerances with the letters AP." />
-</p>
+<img class="displayed"
+  src="./images/image049.png?raw=true"
+  style="width:35%;"
+  alt="CAP Theorem Venn diagram highlighting intersections of Consistency and Availability with the letters CA, Consistency and Partition Tolerance with the letters CP, and Availability and Partition Tolerances with the letters AP." />
+
 <p>The CAP Theorem states that any distributed system can only achieve 2
 of the following 3 properties at any given time:</p>
+
 <ul>
-<li><p><strong>Consistency:</strong> every node provides the most recent
-state of the system</p></li>
-<li><p><strong>Availability:</strong> every node has constant read and
-write access</p></li>
-<li><p><strong>Partition Tolerance:</strong> ability to function in
-spite of partitions in the network, where
-a <strong>partition</strong> is the inability for two or more nodes to
-communicate with each other; this is almost a given for any distributed
-system</p></li>
+  <li><p><strong>Consistency:</strong> every node provides the most recent state of the system</p></li>
+  <li><p><strong>Availability:</strong> every node has constant read and write access</p></li>
+  <li><p><strong>Partition Tolerance:</strong> ability to function in spite of partitions in the network, where a <strong>partition</strong> is the inability for two or more nodes to communicate with each other; this is almost a given for any distributed system</p></li>
 </ul>
+
 <p>It is important to understand there aren’t black and white tradeoffs
 between these three properties – compromises can be made. </p>
+
 <h3>
-<ol start="3" type="I">
-<li>Byzantine Fault Tolerance
-</h3></li>
-</ol>
+  <ol start="3" type="I">
+    <li>Byzantine Fault Tolerance
+    </h3>
+    </li>
+  </ol>
+
 <p><strong>Byzantine nodes</strong> may act maliciously or arbitrarily.
 Achieving consensus when ⅓ or more of the nodes are Byzantine nodes is
 impossible.</p>
@@ -2600,11 +2596,14 @@ values</p></li>
 send incorrect/corrupted values; all deviations from protocol fall under
 this category</p></li>
 </ul>
+
 <h3>
 <ol start="4" type="I">
-<li>Voting Based Consensus Mechanisms
-</h3></li>
+  <li>Voting Based Consensus Mechanisms
+</h3>
+</li>
 </ol>
+
 <p>These mechanisms allow nodes to come to consensus when no more than ⅓
 of the nodes are Byzantine nodes.</p>
 <p><strong>Paxos</strong> - Consensus mechanism inspired by the Paxon
@@ -2612,69 +2611,47 @@ parliament, who used the Paxos algorithm to pass decrees and make sure
 everyone on the island was in consensus. Assumes nodes do not try to
 subvert protocol; only works for fail-stop, no byzantine failure
 tolerance.</p>
+
 <ul>
-<li><p><strong>Proposer:</strong> proposes legislation/changes to
-current state</p></li>
-<li><p><strong>Acceptor:</strong> decides whether to accept proposed
-legislation</p></li>
-<li><p><strong>Learner:</strong> learns and distributes changes to mass
-audience</p></li>
-<li><p><strong>Quorum:</strong> Majority of acceptors, any two quorums
-must overlap</p></li>
+  <li><p><strong>Proposer:</strong> proposes legislation/changes to current state</p></li>
+  <li><p><strong>Acceptor:</strong> decides whether to accept proposed legislation</p></li>
+  <li><p><strong>Learner:</strong> learns and distributes changes to mass audience</p></li>
+  <li><p><strong>Quorum:</strong> Majority of acceptors, any two quorums must overlap</p></li>
 </ul>
+
 <p><strong>Raft</strong> - Leader based approach designed to be more
 understandable than Paxos, easier to implement; i.e. JP Morgan’s Quorum
 (enterprise version of Ethereum).</p>
+
 <ul>
-<li><p><strong>One and only one leader:</strong> communicates with
-client directly, &gt; responsible for log replication on other servers,
-leads until &gt; fails or disconnects</p></li>
-<li><p><strong>Leader election:</strong> leader sends heartbeats to
-signal it is online &gt; and functioning; if no heartbeats are received
-the first node to &gt; realize a lack of leader becomes the new
-leader</p></li>
+  <li><p><strong>One and only one leader:</strong> communicates with client directly, &gt; responsible for log replication on other servers, leads until &gt; fails or disconnects</p></li>
+  <li><p><strong>Leader election:</strong> leader sends heartbeats to signal it is online &gt; and functioning; if no heartbeats are received the first node to &gt; realize a lack of leader becomes the new leader</p></li>
 </ul>
-<p><strong>Practical Byzantine Fault Tolerance</strong> - fast, handles
-F faults in a system with 3F + 1 nodes, BFT-NFS implementation only 3%
-slower than standard unreplicated NFS</p>
+
+<p><strong>Practical Byzantine Fault Tolerance</strong> - fast, handles F faults in a system with 3F + 1 nodes, BFT-NFS implementation only 3% slower than standard unreplicated NFS</p>
 <p>Operates using 3 phases: </p>
+
 <ul>
-<li><p><strong>Pre-prepare:</strong>  the primary node sends out
-pre-prepare messages to &gt; everyone in the network; a node accepts the
-pre-prepare message so &gt; long as its valid.</p></li>
-<li><p><strong>Prepare:</strong> If a node accepts a pre-prepare
-message, it follows up &gt; by sending out a prepare message to everyone
-else; prepare &gt; messages are accepted by receiving nodes so long as
-they’re valid, &gt; again, based on sequence number, signature, and
-other metadata; A &gt; node is considered “prepared” if it has seen the
-original request &gt; from the primary node, has pre-prepared, and has
-seen 2F prepare &gt; messages that match its pre-prepare – making for 2F
-+ 1 prepares.</p></li>
-<li><p><strong>Commit:</strong> If a node receives F+ 1 valid commit
-messages, then they &gt; carry out the client request and then finally
-send out the reply &gt; to the client. The client waits for F + 1 of the
-same reply. Since &gt; we allow for at most F faults, we need to wait
-for at least F + 1, &gt; and this ensures the response to be
-valid.</p></li>
+  <li><p><strong>Pre-prepare:</strong>  the primary node sends out pre-prepare messages to &gt; everyone in the network; a node accepts the pre-prepare message so &gt; long as its valid.</p></li>
+  <li><p><strong>Prepare:</strong> If a node accepts a pre-prepare message, it follows up &gt; by sending out a prepare message to everyone else; prepare &gt; messages are accepted by receiving nodes so long as they’re valid, &gt; again, based on sequence number, signature, and other metadata; A &gt; node is considered “prepared” if it has seen the original request &gt; from the primary node, has pre-prepared, and has seen 2F prepare &gt; messages that match its pre-prepare – making for 2F + 1 prepares.</p></li>
+  <li><p><strong>Commit:</strong> If a node receives F+ 1 valid commit messages, then they &gt; carry out the client request and then finally send out the reply &gt; to the client. The client waits for F + 1 of the same reply. Since &gt; we allow for at most F faults, we need to wait for at least F + 1, &gt; and this ensures the response to be valid.</p></li>
 </ul>
-<h3>
-V. Nakamoto Consensus
-</h3>
+
+<h3> V. Nakamoto Consensus</h3>
+
 <p>Used in Bitcoin and other cryptocurrencies. Whereas the voting based
 consensus mechanisms covered above use explicit voting, Nakamoto
 consensus uses <strong>implicit voting</strong> i.e. voting based on
 lottery-selection and earned voting power.</p>
 <p>Nakamoto consensus is <strong>very robust</strong>:</p>
+
 <ul>
-<li><p>Anyone can join or leave the network at any time</p></li>
-<li><p>Anyone can even send corrupted messages to others</p></li>
-<li><p>Any user can have as many virtual identities/key pairs, as they
-want</p></li>
-<li><p>To prevent unfair voting from anyone who dishonestly creates &gt;
-multiple identities, voting power must be made scarce, done by &gt;
-tying voting power to a scarce resource such as power or &gt;
-electricity</p></li>
+  <li><p>Anyone can join or leave the network at any time</p></li>
+  <li><p>Anyone can even send corrupted messages to others</p></li>
+  <li><p>Any user can have as many virtual identities/key pairs, as they want</p></li>
+  <li><p>To prevent unfair voting from anyone who dishonestly creates &gt; multiple identities, voting power must be made scarce, done by &gt; tying voting power to a scarce resource such as power or &gt; electricity</p></li>
 </ul>
+
 <p>Each Nakamoto Consensus protocol must have a set of rules defining
 how to choose the most valid state of the network, such as
 the<strong> longest chain</strong> policy in Bitcoin and many
@@ -2682,25 +2659,21 @@ cryptocurrencies. This is because each node in the Nakamoto consensus
 network gets to choose its own state, and try to convince others of its
 validity.</p>
 <p>Multiple forms of Nakamoto Consensus:</p>
+
 <ul>
-<li><p><strong>Proof of Work</strong> - current blockchain standard, led
-by bitcoin and &gt; followed by most networks, led to mining craze and
-rapid &gt; acquisition of computing hardware</p></li>
-<li><p><strong>Proof of Stake</strong> - experimental protocol to end
-electricity drain &gt; by staking tokens, can mine or validate block
-transactions &gt; according to how many tokens staked</p></li>
-<li><p><strong>Proof of Activity</strong> - a proof of work and proof of
-stake hybrid &gt; protocol</p></li>
-<li><p><strong>Proof of Capacity/Space</strong> - memory-hard PoW,
-allocating amount of &gt; memory or disk to solve a challenge</p></li>
-<li><p><strong>Proof of Burn</strong> - like Proof-of-Stake, except
-staked coins are &gt; burned</p></li>
+  <li><p><strong>Proof of Work</strong> - current blockchain standard, led by bitcoin and &gt; followed by most networks, led to mining craze and rapid &gt; acquisition of computing hardware</p></li>
+  <li><p><strong>Proof of Stake</strong> - experimental protocol to end electricity drain &gt; by staking tokens, can mine or validate block transactions &gt; according to how many tokens staked</p></li>
+  <li><p><strong>Proof of Activity</strong> - a proof of work and proof of stake hybrid &gt; protocol</p></li>
+  <li><p><strong>Proof of Capacity/Space</strong> - memory-hard PoW, allocating amount of &gt; memory or disk to solve a challenge</p></li>
+  <li><p><strong>Proof of Burn</strong> - like Proof-of-Stake, except staked coins are &gt; burned</p></li>
 </ul>
-<h3>
-<ol start="6" type="I">
-<li>Proof-of-Stake
-</h3></li>
+
+<h3><ol start="6" type="I">
+  <li>Proof-of-Stake
+  </h3>
+  </li>
 </ol>
+
 <p>With proof-of-stake, <strong>validators</strong> are stakeholders
 with voting power proportional to the <strong>economic
 stake</strong> they have locked up. The assumption here is that someone
@@ -2709,25 +2682,20 @@ system and thus increase their economic stake.</p>
 <p><strong>Chain-based PoS</strong> chooses availability
 while <strong>Byzantine Fault Tolerant PoS</strong> chooses
 consistency.</p>
-<h4>
-Weaknesses of PoS versus PoW:
-</h4>
+
+<h4>Weaknesses of PoS versus PoW:</h4>
+
 <ul>
-<li><p>PoS is susceptible to corruption if over 33% of the network are
-&gt; malicious actors, whereas PoW requires over 50% malicious
-actors</p></li>
-<li><p>PoS tends to lead to a rich-become-richer problem where those who
-&gt; stake substantial portions of the total network will grow in &gt;
-proportion due to higher likelihood of being selected, and thus &gt;
-rewarded</p>
-<ul>
-<li>If the larger players grow past 33% of network, poses a threat &gt;
-to validity</li>
-</ul></li>
+  <li><p>PoS is susceptible to corruption if over 33% of the network are &gt; malicious actors, whereas PoW requires over 50% malicious actors</p></li>
+  <li><p>PoS tends to lead to a rich-become-richer problem where those who &gt; stake substantial portions of the total network will grow in &gt; proportion due to higher likelihood of being selected, and thus &gt; rewarded</p>
+  <ul>
+    <li>If the larger players grow past 33% of network, poses a threat &gt; to validity</li>
+  </ul>
+  </li>
 </ul>
-<h3>
-VII. Federated Consensus
-</h3>
+
+<h3>VII. Federated Consensus</h3>
+
 <p>Federated consensus allows us to achieve explicit voting and
 censorship resistance, so that we can allow anyone to join but also
 protect the network against Sybil attacks.</p>
@@ -2741,18 +2709,17 @@ intersections</strong> and thus a larger quorum.</p>
 low latency, and flexibility towards trust. Popular implementations of
 federated consensus
 include <strong>Ripple</strong> and <strong>Stellar</strong>. </p>
-<h3>
-Readings (Week 1)
-</h3>
+
+<h3>Readings (Week 1)</h3>
+
 <blockquote>
-<p><a
-href="https://www.coindesk.com/short-guide-blockchain-consensus-protocols/">Short
+<p><a href="https://www.coindesk.com/short-guide-blockchain-consensus-protocols/">Short
 Overview of Alternatives to PoW</a></p>
 </blockquote>
 <p>https://www.coindesk.com/short-guide-blockchain-consensus-protocols/</p>
+
 <blockquote>
-<p><a
-href="https://www.stellar.org/stories/adventures-in-galactic-consensus-chapter-1/">Adventures
+<p><a href="https://www.stellar.org/stories/adventures-in-galactic-consensus-chapter-1/">Adventures
 in Galactic Consensus</a></p>
 <p>https://www.stellar.org/stories/adventures-in-galactic-consensus-chapter-1/</p>
 <p><a
@@ -2762,46 +2729,35 @@ Protocol Overview</a></p>
 <p><a href="https://www.youtube.com/watch?v=Jw1iFr4v58M">CAP Theorem
 Overview</a></p>
 </blockquote>
+
 <p>https://www.youtube.com/watch?v=Jw1iFr4v58M</p>
+
 <blockquote>
-<p><a
-href="https://container-solutions.com/raft-explained-part-1-the-consenus-problem/">Raft
+<p><a href="https://container-solutions.com/raft-explained-part-1-the-consenus-problem/">Raft
 Overview </a></p>
 <p>https://container-solutions.com/raft-explained-part-1-the-consenus-problem/</p>
 </blockquote>
+
 <p>Video: </p>
+
 <blockquote>
 <p><a href="https://www.youtube.com/watch?v=N5faA2MZ6jY">Software
 Powering Falcon 9 &amp; Dragon, Simply Explained</a></p>
-<p><a
-href="https://lamport.azurewebsites.net/pubs/pubs.html#time-clocks">Time,
-Clocks, and the Ordering of Events in a Distributed System</a></p>
-<p><a href="https://lamport.azurewebsites.net/pubs/pubs.html#byz">The
-Byzantine Generals Problem</a></p>
-<p><a
-href="https://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos">The
-Part-Time Parliament </a></p>
-<p><a
-href="https://lamport.azurewebsites.net/pubs/pubs.html#paxos-simple">Paxos
-Made Simple </a></p>
-<p><a href="https://raft.github.io/raft.pdf">In Search of an
-Understandable Consensus Algorithm </a></p>
-<p><a href="https://pmg.csail.mit.edu/papers/osdi99.pdf">Practical
-Byzantine Fault Tolerance </a></p>
-<p><a href="https://eprint.iacr.org/2013/796.pdf">Proofs of
-Space</a></p>
-<p><a
-href="https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf">Tendermint:
-Byzantine Fault Tolerance in the Age of Blockchains</a></p>
-<p><a
-href="https://github.com/ethereum/research/blob/master/papers/CasperTFG/CasperTFG.pdf">Casper
+<p><a href="https://lamport.azurewebsites.net/pubs/pubs.html#time-clocks">Time, Clocks, and the Ordering of Events in a Distributed System</a></p>
+<p><a href="https://lamport.azurewebsites.net/pubs/pubs.html#byz">The Byzantine Generals Problem</a></p>
+<p><a href="https://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos">The Part-Time Parliament </a></p>
+<p><a href="https://lamport.azurewebsites.net/pubs/pubs.html#paxos-simple">Paxos Made Simple </a></p>
+<p><a href="https://raft.github.io/raft.pdf">In Search of an Understandable Consensus Algorithm </a></p>
+<p><a href="https://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance </a></p>
+<p><a href="https://eprint.iacr.org/2013/796.pdf">Proofs of Space</a></p>
+<p><a href="https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf">Tendermint: Byzantine Fault Tolerance in the Age of Blockchains</a></p>
+<p><a href="https://github.com/ethereum/research/blob/master/papers/CasperTFG/CasperTFG.pdf">Casper
 the Friendly Ghost</a></p>
-<p><a href="https://arxiv.org/pdf/1710.09437.pdf">Casper the Friendly
-Finality Gadget </a></p>
+<p><a href="https://arxiv.org/pdf/1710.09437.pdf">Casper the Friendly Finality Gadget </a></p>
 </blockquote>
-<h1 id="ch2">
-Securing Incentives: Cryptoeconomics &amp; Proof-of-Stake - Week 2
-</h1>
+
+<h1 id="ch2">Securing Incentives: Cryptoeconomics &amp; Proof-of-Stake - Week 2</h1>
+
 <p>Welcome to week 2 of CS198.2x, Blockchain Technology.</p>
 <p>This week, we’ll be diving into an analysis of cryptoeconomics now
 that you have an understanding of distributed systems and consensus
@@ -2817,9 +2773,9 @@ and secure decisions for peers in a decentralized system.</p>
 <p>Through understanding cryptoeconomics, we can understand and prove
 qualities about a blockchain system’s architecture without getting
 distracted by unnecessary details.</p>
-<h3>
-Intro: Cryptoeconomics
-</h3>
+
+<h3>Intro: Cryptoeconomics</h3>
+
 <p>The world is full of decisions.</p>
 <p>On a daily basis: when you wake up, go to work, take an online
 course, you’ve observed the state of the universe and come to some
@@ -2849,17 +2805,16 @@ observers.</p>
 incentivizing actors to make the best decisions for a given goal from
 ensuring that the decisions’ history is maintained honestly and
 forever.</p>
-<h3>
-Cryptoeconomics
-</h3>
+
+<h3>Cryptoeconomics</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 50. what is cryptoeconomics: Virtual Decision making (85) -------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image050.png?raw=true"
-   alt="What is Cryptoeconomics: Virtual Decision Making"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image050.png?raw=true"
+  style="width:65%;"
+  alt="What is Cryptoeconomics: Virtual Decision Making." />
+
 <p>Cryptoeconomics aims to understand virtual decision-making by
 unknown, untrusting peers.</p>
 <p>If that’s too abstract for you, think Bitcoin: several different
