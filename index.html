@@ -10,8 +10,7 @@
 <style>
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);
 body {
-  font-family: Bahnschrift, Calibri, Verdana, sans-serif;
-<!--  font-family: "Avenir Next", Calibri, Verdana, sans-serif; -->
+  font-family: "Avenir Next", Calibri, Verdana, sans-serif;
   font-size: 13.5px;
   margin-left: 5px;
 }
@@ -72,8 +71,8 @@ function scrollFunction() {
 
 // When the user clicks on the button, scroll to the top of the document.
 function topFunction() {
-  document.body.scrollTop = 925;
-  document.documentElement.scrollTop = 925;
+  document.body.scrollTop = 755;
+  document.documentElement.scrollTop = 755;
 }
 </script>
 
@@ -174,6 +173,7 @@ h2 {
   padding: 20px 0 0 0;
   font: normal 1.4em frente, verdana, helvetica, arial, sans-serif;
   letter-spacing: 3px;
+<!---  color: #3899ff; --->
   color: #326908;    <!-- green ---->
   background: inherit;
   text-align: left;
@@ -209,8 +209,7 @@ h2 {
   margin-left: 5px;
 }
 body {
-  font-family: Bahnschrift, Calibri, Verdana, sans-serif;
-<!--  font-family: "Avenir Next", Calibri, Verdana, sans-serif; -->
+  font-family: "Avenir Next", Calibri, Verdana, sans-serif;
   font-size: 13.5px;
   margin-left: 5px;
 }
@@ -246,8 +245,7 @@ ol.g {list-style-type: lower-latin;
 <style>
  h1 {
   padding: 24px 0 0 0;
-  font-family: Bahnschrift, Calibri, Verdana, sans-serif;
-<!--  font-family: normal 2.0em Bahnschrift, Verdana, Helvetica, sans-serif, helvetica; -->
+  font-family: normal 2.0em Bahnschrift, Verdana, Helvetica, sans-serif, helvetica;
   text-transform: uppercase;
   letter-spacing: 3px;
   color: #acaf2c;		<!--- olive ---->
@@ -823,9 +821,8 @@ the system as a whole.</p>
 reliability of any individuals, we trust the general protocol and the
 math behind it.</p>
 <p>It’s trust – without trust.</p>
-<h3>
-Distributed Systems Fundamentals
-</h3>
+
+<h3>Distributed Systems Fundamentals</h3>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- 07. distributed systems: definition (17) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1061,9 +1058,8 @@ critical to understanding different approaches.</p>
 <p>Before we get into examples of consensus algorithms, however, we need
 to understand more of the caveats of distributed systems, and the
 tradeoffs that any system must make.</p>
-<h3>
-CAP Theorem
-</h3>
+
+<h3>CAP Theorem</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 14. cap theorem: introduction (25) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1681,9 +1677,8 @@ that we’ll link in the readings section.</p>
 <p>It teaches everything we just went over in the previous slide but by
 example.</p>
 <p>All credit and respect to the original author!</p>
-<h3>
-Practical Byzantine Fault Tolerance
-</h3>
+
+<h3>Practical Byzantine Fault Tolerance</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- 38. pbft overview (49) ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1846,9 +1841,9 @@ on their hash power, derived from energy, to propose the next block.</p>
 Proof-of-Work mechanism, it isn’t the only style of Nakamoto
 Consensus.</p>
 <p>That’s what we’re going to be covering in this section.</p>
-<h3>
-Nakamoto Consensus
-</h3>
+
+<h3>Nakamoto Consensus</h3>
+
 <p>In general, Nakamoto consensus delivers a few key properties.</p>
 <p>First off, this paradigm serves as a way to come to consensus with
 unknown, untrusted peers.</p>
@@ -2124,9 +2119,8 @@ GHOST: Correct-by-Construction, part of a family of consensus algorithms
 designed from scratch based on the same safety proof.</p>
 <p>The second is Casper the Friendly Finality Gadget, which is a
 Proof-of-Work and Proof-of-Stake hybrid.</p>
-<h3>
-Proof-of-Stake Implementations
-</h3>
+
+<h3>Proof-of-Stake Implementations</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 48. proof of stake: tendermint  (64) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -2344,9 +2338,9 @@ but recognizing the gist of the difference between probabilistic
 finality and absolute finality and the differences between how the two
 types of Casper achieve finality are the most important takeaways for
 this particular section.</p>
-<h3>
-Intro: Federated Consensus
-</h3>
+
+<h3>Intro: Federated Consensus</h3>
+
 <p>We’ve discussed voting consensus algorithms as solutions to
 traditional distributed systems problems and Nakamoto consensus
 algorithms as solutions to this new distributed system paradigm.</p>
@@ -2363,9 +2357,9 @@ allow anyone to participate in consensus.</p>
 <p>How can you achieve both, allowing anyone to join but not being
 subjected to Sybil attacks?</p>
 <p>One way to achieve this is Federated Consensus.</p>
-<h3>
-Federated Consensus Overview
-</h3>
+
+<h3>Federated Consensus Overview</h3>
+
 <p>Before diving into federated consensus, we’re going to refresh
 ourselves with the definitions of all the terminology we’ve picked up
 thus far.</p>
@@ -2456,9 +2450,9 @@ slices.</p>
 <p>The intersections are the most crucial parts, as those ensure that
 decisions made within individual quorums propagate to the other parts of
 the network.</p>
-<h3>
-Federated Consensus Implementations
-</h3>
+
+<h3>Federated Consensus Implementations</h3>
+
 <p>Because of the way that Federated Byzantine Agreement functions, it
 offers a few nice properties.</p>
 <p>First, like other blockchain consensus algorithms, it offers
@@ -2502,12 +2496,11 @@ represents the process by which someone in the Stellar network might
 come to a decision on what they want to have for lunch.</p>
 <p>If interested in exploring Stellar, check out the Adventures in
 Galactic Consensus comic strips.</p>
-<h2>
-Week 1 - Distributed Systems
-</h2>
-<h3>
-I. Distributed Systems
-</h3>
+
+<h2>Week 1 - Distributed Systems</h2>
+
+<h3>I. Distributed Systems</h3>
+
 <p>Bitcoin transactions are recorded on the blockchain, a ledger that is
 maintained by a <strong>distributed system</strong>, or a network of
 independent <strong>nodes</strong> connected by <strong>message
@@ -2545,19 +2538,15 @@ things. </p></li>
 <p>To ensure correctness, we use <strong>consensus algorithms</strong>.
 There are 3 requirements of any correct consensus algorithm:</p>
 <ul>
-<li><p><strong>Validity:</strong> any value agreed upon must be proposed
-by one of the processes</p></li>
-<li><p><strong>Agreement:</strong> all non-faulty processes must agree
-on the same value</p></li>
-<li><p><strong>Termination:</strong> all non-faulty nodes eventually
-decide</p></li>
+  <li><p><strong>Validity:</strong> any value agreed upon must be proposed by one of the processes</p></li>
+  <li><p><strong>Agreement:</strong> all non-faulty processes must agree on the same value</p></li>
+  <li><p><strong>Termination:</strong> all non-faulty nodes eventually decide</p></li>
 </ul>
-<p>Notice that validity and agreement are safety properties while
-termination is a liveness property.</p>
-<h3>
+
+<p>Notice that validity and agreement are safety properties while termination is a liveness property.</p>
+
 <ol start="2" type="I">
-<li>CAP Theorem
-</h3></li>
+  <h3><li>CAP Theorem</li></h3>
 </ol>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 49. cap theorem venn diagram (78) -------------------------------->
@@ -2579,31 +2568,23 @@ of the following 3 properties at any given time:</p>
 <p>It is important to understand there aren’t black and white tradeoffs
 between these three properties – compromises can be made. </p>
 
-<h3>
-  <ol start="3" type="I">
-    <li>Byzantine Fault Tolerance
-    </h3>
-    </li>
-  </ol>
+<ol start="3" type="I">
+  <li><h3>Byzantine Fault Tolerance</h3></li>
+</ol>
 
 <p><strong>Byzantine nodes</strong> may act maliciously or arbitrarily.
 Achieving consensus when ⅓ or more of the nodes are Byzantine nodes is
 impossible.</p>
 <p>There are two types of <strong>faults</strong> that may be produced
 by Byzantine nodes, where faults are deviants from protocol:</p>
+
 <ul>
-<li><p><strong>Fail-stop:</strong> a node can crash and not return
-values</p></li>
-<li><p><strong>Byzantine:</strong> in addition to above, nodes can also
-send incorrect/corrupted values; all deviations from protocol fall under
-this category</p></li>
+  <li><p><strong>Fail-stop:</strong> a node can crash and not return values</p></li>
+  <li><p><strong>Byzantine:</strong> in addition to above, nodes can also send incorrect/corrupted values; all deviations from protocol fall under this category</p></li>
 </ul>
 
-<h3>
 <ol start="4" type="I">
-  <li>Voting Based Consensus Mechanisms
-</h3>
-</li>
+  <h3><li>Voting Based Consensus Mechanisms</li></h3>
 </ol>
 
 <p>These mechanisms allow nodes to come to consensus when no more than ⅓
@@ -2635,6 +2616,7 @@ understandable than Paxos, easier to implement; i.e. JP Morgan’s Quorum
 
 <ul>
   <li><p><strong>Pre-prepare:</strong>  the primary node sends out pre-prepare messages to &gt; everyone in the network; a node accepts the pre-prepare message so &gt; long as its valid.</p></li>
+  <li><p><strong>Prepare:</strong> If a node accepts a pre-prepare message, it follows up &gt; by sending out a prepare message to everyone else; prepare &gt; messages are accepted by receiving nodes so long as they’re valid, &gt; again, based on sequence number, signature, and other metadata; A &gt; node is considered “prepared” if it has seen the original request &gt; from the primary node, has pre-prepared, and has seen 2F prepare &gt; messages that match its pre-prepare – making for 2F + 1 prepares.</p></li>
   <li><p><strong>Prepare:</strong> If a node accepts a pre-prepare message, it follows up &gt; by sending out a prepare message to everyone else; prepare &gt; messages are accepted by receiving nodes so long as they’re valid, &gt; again, based on sequence number, signature, and other metadata; A &gt; node is considered “prepared” if it has seen the original request &gt; from the primary node, has pre-prepared, and has seen 2F prepare &gt; messages that match its pre-prepare – making for 2F + 1 prepares.</p></li>
   <li><p><strong>Commit:</strong> If a node receives F+ 1 valid commit messages, then they &gt; carry out the client request and then finally send out the reply &gt; to the client. The client waits for F + 1 of the same reply. Since &gt; we allow for at most F faults, we need to wait for at least F + 1, &gt; and this ensures the response to be valid.</p></li>
 </ul>
@@ -2892,17 +2874,16 @@ the potential for failures or attackers.</p>
 like blockchain networks, cryptography is fundamentally important to
 ensuring that information is kept secret and safe whenever
 necessary.</p>
-<h3>
-Origins of Cryptography
-</h3>
+
+<h3>Origins of Cryptography</h3>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 51. origins of cryptography (88) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image051.png?raw=true"
-   alt="Origins of Cryptography"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image051.png?raw=true"
+  style="width:65%;"
+  alt="Origins of Cryptography" />
+
 <p>Before we talk about the specifics of cryptography, let’s go over
 some situations which gave birth to the field of cryptography.</p>
 <p>A famous example you may be familiar with is the Caesar cipher.</p>
@@ -3101,9 +3082,9 @@ decided upon by some entity.</p>
 <p>We’ll now go over some of the primitives in cryptography, which serve
 as building blocks for larger devices to accomplish this decision
 securing.</p>
-<h3>
-Cryptographic Primitives
-</h3>
+
+<h3>Cryptographic Primitives</h3>
+
 <p>In the next few slides, we’ll be presenting various cryptographic
 primitives that will be relevant in this lecture and in future ones, so
 pay close attention, and try to imagine situations where this primitive
@@ -3180,17 +3161,16 @@ of time.</p>
 <p>The value of n in the exponent is proportional to how much time it
 takes to decode, allowing us to easily adjust the functionality of this
 timelock to our specifications.</p>
-<h3>
-Game Theory
-</h3>
+
+<h3>Game Theory</h3>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------- 52. economic incentives: rewards and penalties (98) ---------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image052.png?raw=true"
-   alt="Economic Incentives: Rewards and Penalties"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image052.png?raw=true"
+  style="width:65%;"
+  alt="Economic Incentives: Rewards and Penalties" />
+
 <p>In Game Theory, we aim to deduce how an actor will act in a given
 situation. There are a number of factors that will affect the actor’s
 choice: these include the actions of the other actors in the situation,
@@ -3356,17 +3336,16 @@ same attack from a completely different perspective. This is exactly
 what we’re aiming for, to understand common blockchain protocols from
 this cryptoeconomics perspective. We’ll leverage this frame of mind as
 we dive into the next section, Proof-of-Stake.</p>
-<h3>
-Blacklisting
-</h3>
+
+<h3>Blacklisting</h3>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 53. blacklisting: feather forking (103) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image053.png?raw=true"
-   alt="Blacklisting: Feather Forking"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image053.png?raw=true"
+  style="width:65%;"
+  alt="Blacklisting: Feather Forking" />
+
 <p>Now, some attacks review, with a particular focus on economic
 incentives.. These were covered in our first course, go back and take
 that course if you haven’t already.</p>
@@ -3410,9 +3389,9 @@ same attack from a completely different perspective. This is exactly
 what we’re aiming for, to understand common blockchain protocols from
 this cryptoeconomics perspective. We’ll leverage this frame of mind as
 we dive into the next section, Proof-of-Stake.</p>
-<h3>
-Intro: Proof-of-Stake
-</h3>
+
+<h3>Intro: Proof-of-Stake</h3>
+
 <p>Now you understand how economics is used to incentivize good
 decisions and how cryptography is used to secure those decisions.</p>
 <p>The combination of these two frames of mind will give you a holistic
@@ -3430,9 +3409,9 @@ disincentivized to cheat.</p>
 <p>Through the cryptographic and economic primitives, we learned in the
 previous sections, we’ll break down Proof-of-Stake choices at an
 architectural level.</p>
-<h3>
-Proof-of-Stake
-</h3>
+
+<h3>Proof-of-Stake</h3>
+
 <p>Up until now, the main consensus algorithm we’ve focused on is
 Proof-of-Work.</p>
 <p>Proof-of-Work, although the system behind the most popular
@@ -3532,9 +3511,9 @@ transactions on a different chain.</p>
 <p>Outside of these drawbacks of Proof-of-Stake that were mentioned,
 there are also specific attacks that can be conducted in a
 Proof-of-Stake system that will be covered in the next section.</p>
-<h3>
-Intro: Attacks
-</h3>
+
+<h3>Intro: Attacks</h3>
+
 <p>In this last section, we’ll cover Proof-of-Stake attacks, again
 analyzing them from the perspective of cryptoeconomics.</p>
 <p>Each attack represents a scenario in which the incentives of an
@@ -3551,17 +3530,16 @@ receive an explicit monetary penalty with each attempted attack to keep
 the system in check.</p>
 <p><strong><u><br />
 </u></strong></p>
-<h3>
-Attacks
-</h3>
+
+<h3>Attacks</h3>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------ 54. nothing at stake: undesirable path (110) -------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image054.png?raw=true"
-   alt="Nothing at Stake: Undesirable Path"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image054.png?raw=true"
+  style="width:65%;"
+  alt="Nothing at Stake: Undesirable Path." />
+
 <p>Let’s start looking at the most basic problem in Proof-of-Stake: the
 Nothing at Stake attack.</p>
 <p>This problem stems from the fact that all voting uses virtual
@@ -3785,13 +3763,13 @@ multiple validators come to consensus on some random value that can help
 pick the validator for the next round.</p>
 <p>Unless there is collusion within the majority, this strategy should
 work.</p>
-<h3>
-Text: Week 2 Summary
-</h3>
+
+<h3>Text: Week 2 Summary</h3>
+
 <p>Written by Deven Navani and Nicholas Shen</p>
-<h3>
-I. Cryptoeconomics
-</h3>
+
+<h3>I. Cryptoeconomics</h3>
+
 <p>Economic principles help us to design a system so that actors are
 incentivized to make decisions in line with the goals of the greater
 good. We are able to <strong>secure the future</strong>. (e.g. block
@@ -3799,11 +3777,11 @@ reward in Bitcoin and cost of mining to deter Sybil attacks)</p>
 <p>Cryptography allows us to <strong>secure the past</strong> and ensure
 our decisions cannot be manipulated by observers (e.g. cryptographic
 signatures for authentication and hashes for immutability)</p>
-<h3>
+
 <ol start="2" type="I">
-<li>Cryptography
-</h3></li>
+  <h3><li>Cryptography</li></h3>
 </ol>
+
 <p><strong>Cryptography</strong> aims to secure the integrity and
 confidentiality of information.</p>
 <p>The need for cryptography is especially important in distributed
@@ -3837,11 +3815,11 @@ requirement</p></li>
 <li><p><strong>Timelocks</strong> allow for a message to be easily
 encrypted but take a longer amount of time to decrypt.</p></li>
 </ul>
-<h3>
+
 <ol start="3" type="I">
-<li>Economics
-</h3></li>
+  <li><h3>Economics</h3></li>
 </ol>
+
 <p>Economics boils down to a fundamental question: how do you determine
 the best choice to make with your limited resources in order to maximize
 your profit? Economics also helps us to design a system so that everyone
@@ -3856,11 +3834,11 @@ out to miners and privileges miners can charge for. The assumption here
 is that the underlying objective for actors in a blockchain network is
 to maximize their profit, which equals their revenues minus their
 costs.</p>
-<h3>
+
 <ol start="4" type="I">
-<li>Proof of Stake
-</h3></li>
+  <h3><li>Proof of Stake</li></h3>
 </ol>
+
 <p>Proof-of-Stake is a particular type of consensus mechanism that
 assumes all voting power is tied to financial resources. Fundamentally,
 the idea is: the more tokens or currency an actor holds within a
@@ -3869,20 +3847,15 @@ stewards of said system; if the system grows the wealthier the actor
 becomes. Thus in Proof-of-Stake, we give these individuals the most
 power as validators.</p>
 <p>Major PoS implementations:</p>
+
 <ul>
-<li><p><strong>Tendermint</strong> - First BFT-based PoS consensus
-mechanism, published in 2014</p></li>
-<li><p><strong>Casper the Friendly GHOST (CBC)</strong> - a family of
-consensus algorithms designed from ground up
-i.e. Correct-by-construction, a proposed upgrade for the Ethereum
-network</p></li>
-<li><p><strong>Casper the Friendly Finality Gadget</strong> - a
-Proof-of-Work and Proof-of-Stake hybrid; another upgrade proposed for
-the Ethereum network</p></li>
+  <li><p><strong>Tendermint</strong> - First BFT-based PoS consensus mechanism, published in 2014</p></li>
+  <li><p><strong>Casper the Friendly GHOST (CBC)</strong> - a family of consensus algorithms designed from ground up i.e. Correct-by-construction, a proposed upgrade for the Ethereum network</p></li>
+  <li><p><strong>Casper the Friendly Finality Gadget</strong> - a Proof-of-Work and Proof-of-Stake hybrid; another upgrade proposed for the Ethereum network</p></li>
 </ul>
-<h3>
-V. Attacks
-</h3>
+
+<h3>V. Attacks</h3>
+
 <p>Each proof of stake attack represents a scenario in which the
 incentives of an individual are not aligned with the incentives of a
 group, i.e. giving an unfair advantage to any single actor. Because the
@@ -3912,9 +3885,9 @@ nodes that have been offline for a long time; the node does not know
 which chain is the main chain; solution: introduce a “revert limit” - a
 rule that nodes must simply refuse to revert further back in time than
 the deposit length.</p>
-<h3>
-Readings (Week 2)
-</h3>
+
+<h3>Readings (Week 2)</h3>
+
 <blockquote>
 <p><a
 href="https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51">A
@@ -3970,9 +3943,9 @@ infrastructure available for use.</p>
 blockchain fits in (or doesn’t).</p>
 <p>And finally, we’ll take a step back and look at the culture,
 regulations, and caveats surrounding enterprise blockchains.</p>
-<h3>
-Intro: Enterprise Blockchain Overview
-</h3>
+
+<h3>Intro: Enterprise Blockchain Overview</h3>
+
 <p>Before jumping straight into enterprise blockchain platforms and use
 cases, as always, we must first understand the architectural decisions
 that enterprise use cases need to make.</p>
@@ -3987,17 +3960,16 @@ trustless, and decentralized blockchains, to developing more trusted and
 centralized enterprise blockchains.</p>
 <p>We’ll then make a quick comparison between related technologies and
 distinguish different types of blockchains available for use.</p>
-<h3>
-Enterprise Blockchain History (3:56)
-</h3>
+
+<h3>Enterprise Blockchain History (3:56)</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- 56. banks and blockchain: history review (125) ------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image056.png?raw=true"
-   alt="Banks and Blockchain: Blockchain History Review"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image056.png?raw=true"
+  style="width:65%;"
+  alt="Banks and Blockchain: Blockchain History Review" />
+
 <p>As Bitcoin and blockchain grew increasingly popular, banks and large
 corporations began to take notice of the potential applications of this
 new technology.</p>
@@ -4072,11 +4044,11 @@ and decentralized networks.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------- 72b. enterprise blockchain use cases: blockchain history review (126) -------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image072b.png?raw=true"
-   alt="Banks and Blockchain: Blockchain History Review"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image072b.png?raw=true"
+  style="width:65%;"
+  alt="Banks and Blockchain: Blockchain History Review" />
+
 <p>Coordination failures between multiple parties seeking to work
 together often exist due to trust issues.</p>
 <p>Blockchain solves this issue by creating arbitrary incentive
@@ -4092,19 +4064,16 @@ allowing multiple systems to be immediately interoperable.</p>
 <p>Lastly, blockchain provides new decentralized models to work with
 alongside existing centralized ones, thus preventing the possibility of
 centralized corruption.</p>
-<p><strong><u><br />
-</u></strong></p>
-<h3>
-Enterprise Blockchain Overview
-</h3>
+
+<h3>Enterprise Blockchain Overview</h3>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------- 57. blockchain vs databases: high-level overview (129) -------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image057.png?raw=true"
-   alt="Blockchain vs. Databases: High-Level Overview"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image057.png?raw=true"
+  style="width:65%;"
+  alt="Blockchain vs. Databases: High-Level Overview" />
+
 <p>At its most basic level, a blockchain is merely a highly specialized
 type of database.</p>
 <p>Here on the right, you can see a very generalized and broad
@@ -4374,9 +4343,9 @@ infrastructure.</p>
 blockchain’s codebase.</p>
 <p>But nowadays, existing blockchain development frameworks have proven
 to be successful and secure.</p>
-<h3>
-Intro: Enterprise Blockchain Platforms
-</h3>
+
+<h3>Intro: Enterprise Blockchain Platforms</h3>
+
 <p>Now that we have a clear working framework for categorizing and
 designing blockchain system architectures, we can start to see some of
 the patterns between these categories.</p>
@@ -4392,19 +4361,16 @@ is crucial to capturing widespread adoption.</p>
 <p>We’ll discuss various enterprise blockchain platforms and which use
 cases they’re geared towards – categorized primarily by their access
 type and consensus mechanisms.</p>
-<p><strong><u><br />
-</u></strong></p>
-<h3>
-Enterprise Blockchain Platforms
-</h3>
+
+<h3>Enterprise Blockchain Platforms</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 58. things to look for: enterprise blockchain platforms (141) ---------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image058.png?raw=true"
-   alt="Things to Look For: Enterprise Blockchain Platforms"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image058.png?raw=true"
+  style="width:65%;"
+  alt="Things to Look For: Enterprise Blockchain Platforms" />
+
 <p>In the early days of blockchain development, the most common projects
 forked the original Bitcoin codebase to modify small but significant
 portions of the codebase.</p>
@@ -4740,9 +4706,9 @@ of network architecture and choice of consensus mechanisms.</p>
 <p>In the next section, we’ll see the applications of these, as well as
 generalizations of enterprise blockchain use cases – and also when not
 to use blockchain.</p>
-<h3>
-Intro: Use Cases &amp; Industries
-</h3>
+
+<h3>Intro: Use Cases &amp; Industries</h3>
+
 <p>This section will focus on various industries around the world to
 give you a sense of what is currently being pursued to see into the
 minds of big corporations as well as get a sense of the patterns behind
@@ -4755,17 +4721,16 @@ blockchain space.</p>
 the goal is for you to apply your previous knowledge of blockchain’s
 history and mechanisms to these use cases to evaluate for yourself the
 use case quality.</p>
-<h3>
-Use Case: Auto &amp; Mobility
-</h3>
+
+<h3>Use Case: Auto &amp; Mobility</h3>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 59. mobi: auto and mobility (154) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image059.png?raw=true"
-   alt="MOBI: Auto and Mobility"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image059.png?raw=true"
+  style="width:65%;"
+  alt="MOBI: Auto and Mobility" />
+
 <p>Mobility use cases combine blockchain, autonomous cars, and IoT.</p>
 <p>There’s a nonprofit consortium known as MOBI (Mobility Open
 Blockchain Initiative) aiming to make mobility services efficient,
@@ -4812,17 +4777,16 @@ finance industry.</p>
 <p>You’ll find that these use cases revolve primarily around
 tokenization, disintermediated value transfer, privacy, and
 traceability.</p>
-<h3>
-Use Case: Finance
-</h3>
+
+<h3>Use Case: Finance</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 62. digitizing assets: banks & financial institutions (156) ------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image062.png?raw=true"
-   alt=""
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image062.png?raw=true"
+  style="width:65%;"
+  alt="Digitizing Assets: Banks and Financial Institutions." />
+
 <p>The finance industry is particularly well-situated for the blockchain
 revolution since a lot of the assets banks deal with are not necessarily
 physical in nature, like stocks, bonds, etc.</p>
@@ -4835,11 +4799,11 @@ Goldman Sachs.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------- 63. disintermediated transfer: banks & financial institutions (157) -------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image063.png?raw=true"
-   alt="Disintermediated Transfer: Banks & Financial Institutions"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image063.png?raw=true"
+  style="width:65%;"
+  alt="Disintermediated Transfer: Banks & Financial Institutions" />
+
 <p>Blockchains and their associated assets are also allowing assets to
 pass across borders and jurisdictions largely unencumbered by regulation
 and intermediation.</p>
@@ -4859,11 +4823,11 @@ Hyperledger Fabric and yielded positive results earlier this year.</p>
 <!------------------------------------------------------------------------------------------------>
 <!-------------- 64. privacy & traceability: banks & financial institutions (158) ---------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image064.png?raw=true"
-   alt="Privacy & Traceability: Banks & Financial Institutions"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image064.png?raw=true"
+  style="width:65%;"
+  alt="Privacy & Traceability: Banks & Financial Institutions" />
+
 <p>Lastly, many finance giants are using blockchain to facilitate
 traceability and/or privacy.</p>
 <p>The Industrial and Commercial Bank of China is using blockchain as a
@@ -4876,17 +4840,16 @@ transactions, permissioned network access, and smart contracts.</p>
 banks to use blockchain to help audit financial reports.</p>
 <p>The transparency and immutability afforded to blockchain-based
 systems is particularly enticing for accounting use cases.</p>
-<h3>
-Use Case: Travel &amp; Tourism
-</h3>
+
+<h3>Use Case: Travel &amp; Tourism</h3>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 65. services: travel & tourism (159) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image065.png?raw=true"
-   alt="Services: Travel & Tourism"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image065.png?raw=true"
+  style="width:65%;"
+  alt="Services: Travel & Tourism" />
+
 <p>Blockchain is also making waves in the travel industry, allowing
 people to keep track of their luggage, get better rates on extra rooms,
 participate in the sharing economy, and set up secure payment channels,
@@ -4903,11 +4866,11 @@ flexibility to make specialized offers.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------- 66. identity: travel & tourism (160) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image066.png?raw=true"
-   alt="Identity: Travel & Tourism"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image066.png?raw=true"
+  style="width:65%;"
+  alt="Identity: Travel & Tourism" />
+
 <p>Definitely one of the largest problems facing the travel industry
 today is identity management.</p>
 <p>How can an airline be sure if the person getting on their flight is
@@ -4928,17 +4891,16 @@ combining biometrics and blockchain technology.</p>
 Airport in 2020.</p>
 <p>Next, we’ll be talking about broader approaches to digital
 identity.</p>
-<h3>
-Use Case: Digital Identity
-</h3>
+
+<h3>Use Case: Digital Identity</h3>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------ 67. self-sovereignty: digital identity (161) -------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image067.png?raw=true"
-   alt="Self-Sovereignty: Digital Identity"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image067.png?raw=true"
+  style="width:65%;"
+  alt="Self-Sovereignty: Digital Identity" />
+
 <p>Companies focusing on decentralized digital identity are focusing
 heavily on a concept known as self-sovereignty of identity, which is the
 ability to limit the information you share in situations today where you
@@ -4953,11 +4915,11 @@ decoupling that information.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------ 68. industry players: digital identity (162) -------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image068.png?raw=true"
-   alt="Industry Players: Digital Identity"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image068.png?raw=true"
+  style="width:65%;"
+  alt="Industry Players: Digital Identity" />
+
 <p>One of the companies working on self sovereign identity (SSI) is
 Vetri, formerly VALID.</p>
 <p>Vetri’s model consists of a data wallet and a data marketplace.</p>
@@ -4984,17 +4946,16 @@ solutions to identity useful, is that nobody should be in control of
 your identity but you.</p>
 <p>Next, we’ll be talking about blockchain’s applications in the
 healthcare industry.</p>
-<h3>
-Use Case: Healthcare
-</h3>
+
+<h3>Use Case: Healthcare</h3>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 69. medical data: healthcare (163) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image069.png?raw=true"
-   alt="Medical Data: Healthcare"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image069.png?raw=true"
+  style="width:65%;"
+  alt="Medical Data: Healthcare" />
+
 <p>In the healthcare industry, blockchain can provide utility by
 guaranteeing data persistence and availability.</p>
 <p>Ensuring the integrity and accessibility of medical records is
@@ -5012,11 +4973,11 @@ patients.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 70. incentivization: healthcare (164) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image070.png?raw=true"
-   alt="Incentivization: Healthcare"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image070.png?raw=true"
+  style="width:65%;"
+  alt="Incentivization: Healthcare" />
+
 <p>Blockchain is also particularly useful for providing financial
 incentives for good behavior, which, interestingly enough, could have a
 positive impact on the efficacy of modern healthcare.</p>
@@ -5033,17 +4994,16 @@ sugar to attending a health-related webinar, to recording steps.</p>
 premiums.</p>
 <p>Insurance as an industry is also slated to be radically changed by
 the blockchain.</p>
-<h3>
-Use Case: Insurance
-</h3>
+
+<h3>Use Case: Insurance</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 71. industry trands: insurance (165) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image071.png?raw=true"
-   alt="Industry Trends: Insurance"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image071.png?raw=true"
+  style="width:65%;"
+  alt="Industry Trends: Insurance" />
+
 <p>At the most basic level, insurance is something of a prediction
 market - you’re placing bets based on the likelihood of some future
 outcome.</p>
@@ -5057,11 +5017,11 @@ blockchain within 2 years.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 73. industry projects: insurance (166) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image073.png?raw=true"
-   alt="Industry Projects: Insurance"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image072.png?raw=true"
+  style="width:65%;"
+  alt="Industry Projects: Insurance" />
+
 <p>A blockchain solution would allow the insured party to log their
 claim and their evidence immutably on the chain and have it be validated
 by the network such that the insurer can take it as truth.</p>
@@ -5081,17 +5041,16 @@ the Blockchain Insurance Industry Initiative (B3i), which intends to use
 blockchain to add security and transparency to current insurance
 services.</p>
 <p>Next, we’re going to look at how blockchain interacts with IoT.</p>
-<h3>
-Use Case – Supply Chain (2:27)
-</h3>
+
+<h3>Use Case – Supply Chain (2:27)</h3>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------- 74. walmart and alibaba: supply chain (167) -------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image074.png?raw=true"
-   alt="Wal-Mart & Alibaba: Supply Chain"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image074.png?raw=true"
+  style="width:65%;"
+  alt="Wal-Mart & Alibaba: Supply Chain" />
+
 <p>With the rise of supply chains, many massive corporations have
 attempted to incorporate blockchains into their own business models.</p>
 <p>One example of this is Wal-Mart, which has decided to use a supply
@@ -5139,17 +5098,16 @@ the endpoints which input data to the blockchain are still fallible.</p>
 <p>This endpoint verification problem, or, more informally, ‘garbage in,
 garbage out’, is one of largest barriers to large scale blockchain
 adoption today.</p>
-<h3>
-Use Case:IoT (1:02)
-</h3>
+
+<h3>Use Case:IoT (1:02)</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- 75. Security: IoT (169) ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image075.png?raw=true"
-   alt="Security: IoT"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image075.png?raw=true"
+  style="width:65%;"
+  alt="Security: IoT" />
+
 <p>IoT devices collect and push data, and blockchains verify and codify
 it.</p>
 <p>Many of the use cases we’ve discussed so far involve smart contracts
@@ -5170,17 +5128,16 @@ like and quarantine nodes that don’t measure up, while distributing the
 collected information from those devices to multiple sources.</p>
 <p>Next, we will talk about blockchain in supply chain, which leverages
 IoT as well.</p>
-<h3>
-Use Case: Housing &amp; Real Estate (1:39)
-</h3>
+
+<h3>Use Case: Housing &amp; Real Estate (1:39)</h3>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 76. current issues: real estate (170) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image076.png?raw=true"
-   alt="Current Issues: Real Estate"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image076.png?raw=true"
+  style="width:65%;"
+  alt="Current Issues: Real Estate" />
+
 <p>Real estate is another industry being revolutionized by blockchain,
 primarily when it comes to land rights.</p>
 <p>Blockchain land registry projects have cropped up all over the world,
@@ -5198,11 +5155,11 @@ available, persistent, and valid?</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 77. solutions: real estate (171) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image077.png?raw=true"
-   alt="Solutions: Real Estate"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image077.png?raw=true"
+  style="width:65%;"
+  alt="Solutions: Real Estate" />
+
 <p>The blockchain solution is to create a hash of every land registry
 and store that hash on-chain.</p>
 <p>Only the person with the corresponding private key can claim
@@ -5222,17 +5179,16 @@ from 3-6 months to a few hours.</p>
 with a city in Vermont was launched earlier this year, and Zebi Data, an
 indian blockchain startup partnering with the states of Maharashtra and
 Telangana.</p>
-<h3>
-Use Case: Foreign Aid (2:00)
-</h3>
+
+<h3>Use Case: Foreign Aid (2:00)</h3>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 78. non-cash aid: foreign aid (172) ------------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image078.png?raw=true"
-   alt="Non-Cash Aid: Foreign Aid"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image078.png?raw=true"
+  style="width:65%;"
+  alt="Non-Cash Aid: Foreign Aid" />
+
 <p>Last but certainly not least, blockchain can improve the efficiency
 and effectiveness of foreign aid.</p>
 <p>Today’s aid distribution systems are fraught with problems - many
