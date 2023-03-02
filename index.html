@@ -119,6 +119,7 @@ function topFunction() {
 <body>
 <!------------------------------------------------------------------------------------------------>
 <h4>Welcome to CS198.2x: Blockchain Technologies</h4>
+
 <p>
 This course provides a wide overview of many of the topics relating to and building upon the foundation of Bitcoin and blockchain technology.
 </p>
@@ -241,14 +242,14 @@ ol.g {list-style-type: lower-latin;
 <body>
 
 <!---------------------------- Table of Contents style definitions ------------------------------->
-<!-- 1.5em, 1.4em, 1.3, 1.2, 1 --->
+<!-- 1.5em, 1.4em, 1.3, 1.2, 1 -->
 <style>
  h1 {
   padding: 24px 0 0 0;
   font-family: normal 2.0em Bahnschrift, Verdana, Helvetica, sans-serif, helvetica;
   text-transform: uppercase;
   letter-spacing: 3px;
-  color: #acaf2c;		<!--- olive ---->
+  color: #acaf2c;		<!-- olive -->
   background: inherit;
   text-align: center;
 }
@@ -256,7 +257,7 @@ ol.g {list-style-type: lower-latin;
   padding: 22px 0 0 0;
   font: normal 1.8em Bahnschrift, Verdana, Helvetica, sans-serif, tahoma;
   letter-spacing: 3px;
-  color: #3800aa;   <!--- dark purple --->
+  color: #3800aa;   <!-- dark purple -->
   background: inherit;
   text-align: inherit;
   margin-left: 5px;
@@ -265,7 +266,7 @@ ol.g {list-style-type: lower-latin;
   padding: 20px 0 0 0;
   font: normal 1.6em Bahnschrift, Verdana, Helvetica, arial, sans-serif;
   letter-spacing: 3px;
-  color: #326908;    <!-- green ---->
+  color: #326908;    <!-- green -->
   background: inherit;
   text-align: left;
   margin-left: 5px;
@@ -273,10 +274,10 @@ ol.g {list-style-type: lower-latin;
  h4 {
   padding: 18px 0 0 0;
   font: normal 1.4em Bahnschrift, Verdana, Helvetica, sans-serif;
-  <!---- frente, helvetica, garamond, futura, didot; --->
-  <!--- verdana, helvetica, arial, sans-serif --->
+  <!-- frente, helvetica, garamond, futura, didot; -->
+  <!-- verdana, helvetica, arial, sans-serif -->
   letter-spacing: 3px;
-  color: #900001 ;    <!-- red ---->
+  color: #900001 ;    <!-- red -->
   background: inherit;
   text-align: left;
   margin-left: 5px;
@@ -285,7 +286,7 @@ ol.g {list-style-type: lower-latin;
   padding: 16px 0 0 0;
   font: normal 1.3em Bahnschrift, Verdana, Helvetica, arial, sans-serif;
   letter-spacing: 3px;
-  color: #326908;    <!-- green ---->
+  color: #326908;    <!-- green -->
   background: inherit;
   text-align: left;
   margin-left: 5px;
@@ -294,7 +295,7 @@ ol.g {list-style-type: lower-latin;
   padding: 14px 0 0 0;
   font: normal 1.3em Bahnschrift, Verdana, Helvetica, arial, sans-serif;
   letter-spacing: 3px;
-  color: #326908;    <!-- green ---->
+  color: #326908;    <!-- green -->
   background: inherit;
   text-align: left;
   margin-left: 5px;
@@ -318,9 +319,9 @@ ol.g {list-style-type: lower-latin;
 </style>
 
 <body>
-<!---  <div id="banner"> --->
-<!---    <h1 align="center">CS198.2x - Blockchain (see below)</h1>  --->
-<!---  </div>  --->
+<!--  <div id="banner"> -->
+<!--    <h1 align="center">CS198.2x - Blockchain (see below)</h1>  -->
+<!--  </div>  -->
 
 &nbsp;
 &nbsp;
@@ -341,7 +342,7 @@ ol.g {list-style-type: lower-latin;
 
 <h2 align="center">Blockchain Technologies</h2>
 
-<!----------------- ## [Table of Contents](#table-of-contents) ------->
+<!----------------- [Table of Contents](#table-of-contents) ------->
 <p><b>Course Syllabus</b></p>
 <p>This course provides a wide overview of many of the topics relating
 to and building upon the foundation of Bitcoin and blockchain
@@ -1207,16 +1208,15 @@ not Consistent.</p>
 Consistency.</p>
 <p>We’ll see how that ends up sacrificing Availability.</p>
 <p>Same scenario,</p>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------------------- 22. cap theorem: proof #4 (32) --------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
   src="./images/image022.png?raw=true"
   style="width:65%;"
   alt="CAP Theorem: Proof #4" />
 
-<p>I send the update to Node 1, which then sends the update to other
-nodes.</p>
+<p>I send the update to Node 1, which then sends the update to other nodes.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- 23. cap theorem: proof #5 (32) --------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -2516,27 +2516,28 @@ corrupted by malicious entities, we can still protect our information
 and services by relying on previously set protocols that withstand these
 failures.</p>
 <p>There are 3 key components of distributed systems:</p>
+
 <ul>
-<li><p>Components in the system process
-information <strong>concurrently</strong></p></li>
-<li><p>Each node maintains its own clock; there is <strong>no global
-clock</strong></p></li>
-<li><p>Protocols<strong> protect against potential failure</strong> of
-individual components</p></li>
+  <li><p>Components in the system process information <strong>concurrently</strong></p></li>
+  <li><p>Each node maintains its own clock; there is <strong>no global clock</strong></p></li>
+  <li><p>Protocols<strong> protect against potential failure</strong> of individual components</p></li>
 </ul>
+
 <p>A distributed system is considered “<strong>correct</strong>” if it
 comes to consensus on an answer – given an input, the nodes must agree
 on an output. </p>
 <p>To prove the correctness of a distributed system, we use the scheme
 designed by Lamport. The scheme says that a system is correct if two
 things are true:</p>
+
 <ul>
-<li><p><strong>Safety:</strong> It doesn’t do bad things! </p></li>
-<li><p><strong>Liveness:</strong> It will eventually do good
-things. </p></li>
+  <li><p><strong>Safety:</strong> It doesn’t do bad things! </p></li>
+  <li><p><strong>Liveness:</strong> It will eventually do good things. </p></li>
 </ul>
+
 <p>To ensure correctness, we use <strong>consensus algorithms</strong>.
 There are 3 requirements of any correct consensus algorithm:</p>
+
 <ul>
   <li><p><strong>Validity:</strong> any value agreed upon must be proposed by one of the processes</p></li>
   <li><p><strong>Agreement:</strong> all non-faulty processes must agree on the same value</p></li>
@@ -2621,7 +2622,7 @@ understandable than Paxos, easier to implement; i.e. JP Morgan’s Quorum
   <li><p><strong>Commit:</strong> If a node receives F+ 1 valid commit messages, then they &gt; carry out the client request and then finally send out the reply &gt; to the client. The client waits for F + 1 of the same reply. Since &gt; we allow for at most F faults, we need to wait for at least F + 1, &gt; and this ensures the response to be valid.</p></li>
 </ul>
 
-<h3> V. Nakamoto Consensus</h3>
+<h3>V. Nakamoto Consensus</h3>
 
 <p>Used in Bitcoin and other cryptocurrencies. Whereas the voting based
 consensus mechanisms covered above use explicit voting, Nakamoto
@@ -2653,9 +2654,7 @@ validity.</p>
 </ul>
 
 <h3><ol start="6" type="I">
-  <li>Proof-of-Stake
-  </h3>
-  </li>
+  <li>Proof-of-Stake</h3></li>
 </ol>
 
 <p>With proof-of-stake, <strong>validators</strong> are stakeholders
@@ -2722,7 +2721,7 @@ Overview </a></p>
 <p>https://container-solutions.com/raft-explained-part-1-the-consenus-problem/</p>
 </blockquote>
 
-<p>Video: </p>
+<p>Video:</p>
 
 <blockquote>
 <p><a href="https://www.youtube.com/watch?v=N5faA2MZ6jY">Software
