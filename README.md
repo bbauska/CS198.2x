@@ -14104,28 +14104,28 @@ your quick reference in the future. Feel free to share video links with
 your friends and peers.
 
 Now that you have finished this course, here are a list of other
-Blockchain at Berkeley resources. Some of you may have discovered these
-during the course run:
+Blockchain at Berkeley resources.
+
+Some of you may have discovered these during the course run:
+
 <ul>
-<li><a href="https://blockchain.berkeley.edu/">Blockchain at Berkeley website</a><br/></li>
-<liMailing list, located at the bottom of the website linked above</li>
-  <ul>
-    <li> [<b>Discord chat</b>](https://discordapp.com/invite/7t7W3Xc)</li>
+  <li><a href="https://blockchain.berkeley.edu/">Blockchain at Berkeley website</a><br/></li>
+  
+  <li>Mailing list, located at the bottom of the website linked above</li>
+  
+  <li><a href="https://discordapp.com/invite/7t7W3Xc">Discord chat</a></li>
 
-    <li> Not Available: <b><a href="https://learnblockcha.in/">Blockchain for Developers course (Spring 2018)</a></b></li>
+  <li><a href="https://learnblockcha.in/">Not Found: Blockchain for Developers course (Spring 2018)</a></b></li>
 
-    <li> [<b>Blog</b>](https://blockchainatberkeley.blog/)</li>
+  <li><a href="https://blockchainatberkeley.blog/">Blog</a></li>
 
-    <li> [<b>Blockchain at Berkeley YouTube
-    channel</b>](https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg)</li>
+  <li><a href="https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg">Blockchain at Berkeley YouTube channel</a></li>
 
-    <li> [<b>Berkeley Bitcoin
-    Meetup</b>](https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W)</li>
+  <li><a href="https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W">Berkeley Bitcoin Meetup</a></li>
 
-    <li> [<b>Facebook page</b>](https://www.facebook.com/BlockchainatBerkeley/)</li>
+  <li><a href="https://www.facebook.com/BlockchainatBerkeley/">Facebook page</li>
 
-    <li> [<b>Twitter</b>](https://twitter.com/CalBlockchain)</li>
-  </ul>
+  <li><a href="https://twitter.com/CalBlockchain">Twitter</a></li>
 </ul>
 
 We'll also open up a discussion topic below, under 'Student Resources',
