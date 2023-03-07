@@ -14109,22 +14109,23 @@ during the course run:
 <ul>
 <li><a href="https://blockchain.berkeley.edu/">Blockchain at Berkeley website</a><br/></li>
 <liMailing list, located at the bottom of the website linked above</li>
+  <ul>
+    <li> [<b>Discord chat</b>](https://discordapp.com/invite/7t7W3Xc)</li>
 
-   - [<b>Discord chat</b>](https://discordapp.com/invite/7t7W3Xc)
+    <li> Not Available: <b><a href="https://learnblockcha.in/">Blockchain for Developers course (Spring 2018)</a></b></li>
 
-   - [<b>Blockchain for Developers course (Spring 2018)</b>](https://learnblockcha.in/)
+    <li> [<b>Blog</b>](https://blockchainatberkeley.blog/)</li>
 
-   - [<b>Blog</b>](https://blockchainatberkeley.blog/)
+    <li> [<b>Blockchain at Berkeley YouTube
+    channel</b>](https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg)</li>
 
-   - [<b>Blockchain at Berkeley YouTube
-    channel</b>](https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg)
+    <li> [<b>Berkeley Bitcoin
+    Meetup</b>](https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W)</li>
 
-   - [<b>Berkeley Bitcoin
-    Meetup</b>](https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W)
+    <li> [<b>Facebook page</b>](https://www.facebook.com/BlockchainatBerkeley/)</li>
 
-   - [<b>Facebook page</b>](https://www.facebook.com/BlockchainatBerkeley/)
-
-   - [<b>Twitter</b>](https://twitter.com/CalBlockchain)
+    <li> [<b>Twitter</b>](https://twitter.com/CalBlockchain)</li>
+  </ul>
 </ul>
 
 We'll also open up a discussion topic below, under 'Student Resources',
@@ -14158,4 +14159,4 @@ We wish you all the best on the rest of your blockchain journey!
 
 The end…
 
-5-14-2022 9:15pm last updated.
+3-6-2023 9:29pm last updated.
