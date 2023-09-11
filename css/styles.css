@@ -38,6 +38,7 @@ h1 {
   font-family: normal 1.4em verdana, tahoma, arial, sans-serif, helvetica;
   text-transform: uppercase;
   letter-spacing: 3px;
+  margin-left: 15px;
   color: #acaf2c;			/* olive */
   background: inherit;
   text-align: center;
@@ -49,7 +50,7 @@ h1 {
   color: #3800aa;			/* dark purple */
   background: inherit;
   text-align: left;
-  margin-left: 5px;
+  margin-left: 15px;
 }
   h3 {
   padding: 20px 0 0 0;
@@ -59,7 +60,7 @@ h1 {
   color: #326908;			/* green */
   background: inherit;
   text-align: left;
-  margin-left: 5px;
+  margin-left: 15px;
 }
   h4 {
   padding: 20px 0 0 0;
@@ -70,7 +71,7 @@ h1 {
   color: #900001 ;			/* red */
   background: inherit;
   text-align: left;
-  margin-left: 5px;
+  margin-left: 15px;
 }
   h5 {
   padding: 20px 0 0 0;
@@ -79,7 +80,7 @@ h1 {
   color: #326908;			/* green */
   background: inherit;
   text-align: left;
-  margin-left: 5px;
+  margin-left: 15px;
 }
   h6 {
   padding: 20px 0 0 0;
@@ -88,7 +89,7 @@ h1 {
   color: #326908;			/* green */
   background: inherit;
   text-align: left;
-  margin-left: 5px;
+  margin-left: 15px;
 }
 
 <!------ list item styles ------>
