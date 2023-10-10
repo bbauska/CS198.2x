@@ -32,7 +32,9 @@ body {
     border-color: #778899;
     border-style: solid; 
   }
-
+p {
+  margin-left: 15px;
+}
 h1 {
   padding: 20px 0 0 0;
   font-family: normal 1.4em verdana, tahoma, arial, sans-serif, helvetica;
