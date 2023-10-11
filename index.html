@@ -79,7 +79,6 @@ This course provides a wide overview of many of the topics relating to and build
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ table of contents style definitions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- 1.5em, 1.4em, 1.3, 1.2, 1 -->
 
-<body>
 <!--  <div id="banner"> -->
 <!--    <h1 align="center">CS198.2x - Blockchain (see below)</h1>  -->
 <!--  </div>  -->
@@ -93,7 +92,7 @@ This course provides a wide overview of many of the topics relating to and build
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ index.html in cs198.2x - blockchain technologies ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 align="center">CS198.2x - University of California @ BerkeleyX</h2>
+<h2 style="align:center">CS198.2x - University of California @ BerkeleyX</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ cs198.2x berkeley's blockchain logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -102,7 +101,7 @@ This course provides a wide overview of many of the topics relating to and build
   style="width:65%;"
   alt="Blockchain at BerkeleyX logo" />
 
-<h2 align="center">Blockchain Technologies</h2>
+<h2 style="align:center">Blockchain Technologies</h2>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ [Table of Contents](#table-of-contents) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3312,11 +3311,11 @@ single correct chain.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 54b. nothing at stake: undesirable path #2 (111) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image054b.png?raw=true"
-   alt="Nothing at Stake: Undesirable Path"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image054b.png?raw=true"
+  alt="Nothing at Stake: Undesirable Path"
+  style="width:65%" />
+
 <p>If ever the blockchain ends up in a situation which consensus is not
 desirable for individual actors, then there is an issue.</p>
 <p>These two forks might continue on forever, and no one will come to
@@ -3325,11 +3324,11 @@ consensus!</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 54c. nothing at stake: attack (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image054c.png?raw=true"
-   alt="Nothing at Stake: Attack"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image054c.png?raw=true"
+  alt="Nothing at Stake: Attack"
+  style="width:65%" />
+
 <p>Take a look at the bottom image demonstrating Proof-of-Work.</p>
 <p>As you know, Proof-of-Work implies that each actor has a limited
 amount of computational power that can be expended at any point in
@@ -3371,11 +3370,11 @@ be a longest fork!</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 54d. nothing at stake: defense (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image054d.png?raw=true"
-   alt="Nothing at Stake: Defense"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image054d.png?raw=true"
+  alt="Nothing at Stake: Defense"
+  style="width:65%" />
+
 <p>Well, to discourage voting on voting on incorrect forks, let’s
 introduce a penalty to do exactly that.</p>
 <p>Though the solution is simple on the surface, it has great
@@ -3401,22 +3400,22 @@ voting strategies need to be explicitly enforced.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 54e. nothing at stake: defense #2 (114) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image054e.png?raw=true"
-   alt="Nothing at Stake: Defense #2"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image054e.png?raw=true"
+  alt="Nothing at Stake: Defense #2"
+  style="width:65%" />
+
 <p>As you can see in this example, we’ve made it such that the best
 choice is to vote on fork A. This is because voting on fork B, or voting
 on both, now leads to penalties for the voter.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 54f. long range attack: attack (115) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image054f.png?raw=true"
-   alt="Long Range Attack: Attack"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image054f.png?raw=true"
+  alt="Long Range Attack: Attack"
+  style="width:65%" />
+
 <p>One major attack that can be conducted in a Proof-of-Stake network is
 a long-range attack.</p>
 <p>In this scenario, attackers essentially create a new chain of
@@ -3425,11 +3424,11 @@ over the main chain.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 54g. long range attack: attack #2 (115) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image054g.png?raw=true"
-   alt="Long Range Attack: Attack #2"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image054g.png?raw=true"
+  alt="Long Range Attack: Attack #2"
+  style="width:65%" />
+
 <p>There are two properties in Proof-of-Stake that allow this to happen:
 nothing-at-stake and weak subjectivity.</p>
 <p>Nothing-at-stake, which is explained earlier, allows for long range
@@ -3446,10 +3445,11 @@ chain.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------- 54h. long range attack: attack #3 (116) ---------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<p><img src="./images/image054h.png?raw=true"
-   alt="Long Range Attack: Attack #3"
-   width="65%" /></p>
+<img class="displayed"
+  src="./images/image054h.png?raw=true"
+  alt="Long Range Attack: Attack #3"
+  style="width:65%" />
+
 <p>One preconception about blockchains in general is that the longest
 chain is the most trustworthy one.</p>
 <p>This can be said about proof-of-work, as the longest chain has the
@@ -3463,11 +3463,11 @@ long range attack can potentially be accepted as the main chain.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------- 54i. long range attack: example (117) ----------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image054i.png?raw=true"
-   alt="Long Range Attack: Example"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image054i.png?raw=true"
+  alt="Long Range Attack: Example"
+  width="65%" />
+
 <p>Suppose Gloria owns 1% of the tokens the moment the genesis block is
 created.</p>
 <p>Instead of “mining” on the main chain, she mines on her own secret
@@ -3482,11 +3482,11 @@ any point of the chain, including the genesis block.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 54j. stake grinding: attack (118) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image054j.png?raw=true"
-   alt="Stake Grinding: Attack"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image054j.png?raw=true"
+  alt="Stake Grinding: Attack"
+  style="width:65%" />
+
 <p>Next, we’ll take a look at the Stake Grinding attack.</p>
 <p>This attack takes advantage of the fact that in a Proof-of-Stake
 protocol, we need a method of randomly picking the next validator.</p>
@@ -3507,11 +3507,11 @@ around with the block parameters to change the signature outcome.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 54k. stake grinding: defense (119) ------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image054k.png?raw=true"
-   alt="Stake Grinding: Defense"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image054k.png?raw=true"
+  alt="Stake Grinding: Defense"
+  style="width:65%" />
+
 <p>There are a few ways that we can address this vulnerability.</p>
 <p>The first is that we can stop using any mutable parameters from the
 previous block to generate the random pick for the next validator.</p>
@@ -3559,23 +3559,22 @@ set amount.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------- 55. caesar cipher (120) ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image055.png?raw=true"
-   alt="Caesar Cipher"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image055.png?raw=true"
+  alt="Caesar Cipher"
+  style="width:65%" />
+
 <p>Be aware of various cryptographic primitives (review from previous
 course):</p>
+
 <ul>
-<li><p><strong>Cryptographic hash functions</strong>, used to capture
-the identity of information without revealing anything about the
-information itself</p></li>
-<li><p><strong>Digital signatures</strong>, used to prove your identity
-and that you sent a particular message</p></li>
-<li><p><strong>Erasure codes</strong> lower the 100% data availability
-requirement</p></li>
-<li><p><strong>Timelocks</strong> allow for a message to be easily
-encrypted but take a longer amount of time to decrypt.</p></li>
+  <li><strong>Cryptographic hash functions</strong>, used to capture the identity 
+    of information without revealing anything about the information itself</li>
+  <li><strong>Digital signatures</strong>, used to prove your identity and that 
+    you sent a particular message</li>
+  <li><strong>Erasure codes</strong> lower the 100% data availability requirement</li>
+  <li><strong>Timelocks</strong> allow for a message to be easily encrypted but take 
+    a longer amount of time to decrypt.</li>
 </ul>
 
 <ol start="3" type="I">
@@ -3611,9 +3610,13 @@ power as validators.</p>
 <p>Major PoS implementations:</p>
 
 <ul>
-  <li><p><strong>Tendermint</strong> - First BFT-based PoS consensus mechanism, published in 2014</p></li>
-  <li><p><strong>Casper the Friendly GHOST (CBC)</strong> - a family of consensus algorithms designed from ground up i.e. Correct-by-construction, a proposed upgrade for the Ethereum network</p></li>
-  <li><p><strong>Casper the Friendly Finality Gadget</strong> - a Proof-of-Work and Proof-of-Stake hybrid; another upgrade proposed for the Ethereum network</p></li>
+  <li><strong>Tendermint</strong> - First BFT-based PoS consensus mechanism, 
+    published in 2014</li>
+  <li><strong>Casper the Friendly GHOST (CBC)</strong> - a family of consensus 
+    algorithms designed from ground up i.e. Correct-by-construction, a proposed 
+	upgrade for the Ethereum network</li>
+  <li><strong>Casper the Friendly Finality Gadget</strong> - a Proof-of-Work 
+    and Proof-of-Stake hybrid; another upgrade proposed for the Ethereum network</li>
 </ul>
 
 <h3>V. Attacks</h3>
@@ -3763,11 +3766,11 @@ for enterprise use than associated public blockchain systems.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------- 72b. enterprise blockchain use cases: blockchain history review (126) -------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image072b.png?raw=true"
-   alt="Banks and Blockchain: Blockchain History Review"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image072b.png?raw=true"
+  alt="Banks and Blockchain: Blockchain History Review"
+  style="width:65%" />
+
 <p>While many use cases exist for enterprise blockchains, most problems
 that enterprise blockchain aims to solve fall within three broad
 classifications: solving coordination failures, horizontally integrating
@@ -3775,11 +3778,11 @@ systems, and creating self-sovereign decentralized networks.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------- 73b. scaling issues: blockchain history review (127) ----------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image073b.png?raw=true"
-   alt="Scaling Issues: Blockchain History Review"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image073b.png?raw=true"
+  alt="Scaling Issues: Blockchain History Review."
+  style="width:65%" />
+
 <p>Although many enterprises now wish to take advantage of blockchain
 technology, true enterprise blockchain solutions are typically very
 situational.</p>
@@ -3871,11 +3874,11 @@ most people are familiar with: centralized databases.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------ 76b. centralized database: blockchain vs databases (130) -------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image076b.png?raw=true"
-   alt="Cenralized Database: Blockchain vs Databases"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image076b.png?raw=true"
+  alt="Cenralized Database: Blockchain vs Databases"
+  style="width:65%" />
+
 <p>Centralized databases, such as a single password server, are located,
 stored, and maintained in one location, with one central entity handling
 all requests and data processing.</p>
@@ -3888,11 +3891,11 @@ failure.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------- 77b. centralized database: blockchain vs databases #2 (131) ------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image077b.png?raw=true"
-   alt="Cenralized Database: Blockchain vs Databases #2"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image077b.png?raw=true"
+  alt="Cenralized Database: Blockchain vs Databases #2."
+  style="width:65%" />
+
 <p>On the other hand, distributed databases consist of groups of nodes
 which trust each other and cooperate to maintain a consistent view of
 the overall system.</p>
@@ -3902,22 +3905,22 @@ evenly across all nodes.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------- 78b. centralized database: blockchain vs databases #3 (131) ------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image078b.png?raw=true"
-   alt="Cenralized Database: Blockchain vs Databases #3"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image078b.png?raw=true"
+  alt="Cenralized Database: Blockchain vs Databases #3"
+  style="width:65%" />
+
 <p>However, distributed databases also introduce increased complexity,
 cost, and redundancy as well as exposing more points of failure.</p>
 <p>That’s just the overhead of being distributed.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------- 79b. centralized database: blockchain vs databases #4 (132) ------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image079b.png?raw=true"
-   alt="Cenralized Database: Blockchain vs Databases #4"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image079b.png?raw=true"
+  alt="Cenralized Database: Blockchain vs Databases #4"
+  style="width:65%" />
+
 <p>A specific type of distributed database is a distributed ledger,
 which contains nodes operated by different entities that may or may not
 trust each other.</p>
@@ -3927,11 +3930,11 @@ and consensus protocols are known as blockchains.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------- 80b. centralized database: blockchain vs databases #3 (133) ------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image080b.png?raw=true"
-   alt="Cenralized Database: Blockchain vs Databases #3"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image080b.png?raw=true"
+  alt="Cenralized Database: Blockchain vs Databases #3"
+  style="width:65%" />
+
 <p>Recall from our Bitcoin and Cryptocurrencies course that the
 fundamental innovation of blockchain was not to enable distributed
 information sharing.</p>
@@ -3945,11 +3948,11 @@ non-trusting parties in the network to interact with each other.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------- 81b. centralized database: blockchain vs databases #3 (134) ------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image081b.png?raw=true"
-   alt="Cenralized Database: Blockchain vs Databases #5"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image081b.png?raw=true"
+  alt="Cenralized Database: Blockchain vs Databases #5"
+  style="width:65%" />
+
 <p>Blockchains can also be categorized based on their architecture and
 the trust and access permissions that a typical user possesses.</p>
 <p>Most generally, all blockchains fall into either the public or
@@ -3997,11 +4000,11 @@ constituents.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------- 82b. tech company involvement: big names (136) -------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image082b.png?raw=true"
-   alt="Tech Company Involvement: Big Names"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image082b.png?raw=true"
+  alt="Tech Company Involvement: Big Names"
+  style="width:65%" />
+
 <p>While blockchain is still in its infancy, many tech powerhouses are
 already starting to show interest.</p>
 <p>For example, Microsoft recently released the Blockchain Workbench,
@@ -4030,11 +4033,11 @@ their base layer.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------- 83b. perspectives: how do you feel about blockchain? (137) -------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image083b.png?raw=true"
-   alt="Perspectives: How Do You Feel About Blockchain?"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image083b.png?raw=true"
+  alt="Perspectives: How Do You Feel About Blockchain?"
+  style="width:65%" />
+
 <p>Despite enterprise movement towards blockchain, there’s still
 differing perspectives and sentiment about blockchain technology as a
 whole – and this all depends on the audience that you’re speaking to, of
@@ -4066,11 +4069,11 @@ technology.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------- 84b. misconceptions: not always what you'd expect (138) -------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image084b.png?raw=true"
-   alt="Misconceptions: Not Always What You'd Expect"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image084b.png?raw=true"
+  alt="Misconceptions: Not Always What You'd Expect"
+  style="width:65%" />
+
 <p>It’s a misconception that enterprise blockchains are always
 useful.</p>
 <p>Some use cases have fundamental flaws – usually a misalignment with
@@ -4173,11 +4176,11 @@ facets of the enterprise blockchain space.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------ 114. scalability: trilemma (142) -------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image114.png?raw=true"
-   alt="Scalability: Trilemma"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image114.png?raw=true"
+  alt="Scalability: Trilemma"
+  style="width:65%" />
+
 <p>As the use of blockchain becomes more and more prevalent, the issue
 of scalability also grows.</p>
 <p>The idea of the Scalability Trilemma is that from security,
@@ -4206,11 +4209,11 @@ exchange decentralization for scalability and security.</p>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------- 58r. ethereum: enterprise blockchain platforms (144) ---------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image058r.png"
-   alt="Ethereum: Enterprise Blockchain Platforms"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image058r.png"
+  alt="Ethereum: Enterprise Blockchain Platforms"
+  style="width:65%" />
+
 <p>Ethereum is the industry standard blockchain platform for public
 projects at this point.</p>
 <p>Ethereum is, as stated on the website, a decentralized platform that
@@ -4239,11 +4242,11 @@ helping popular initiatives such as MetaMask and Truffle.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------ 58s. hyperledger: enterprise blockchain platforms (146) --------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image058s.png"
-   alt="Hyperledger: Enterprise Blockchain Platforms"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image058s.png"
+  alt="Hyperledger: Enterprise Blockchain Platforms"
+  style="width:65%" />
+
 <p>Hyperledger, a project of the Linux Foundation, was one of the
 earliest responses to the need for easily accessible permissioned or
 private blockchain platforms.</p>
@@ -4275,11 +4278,11 @@ check out their edX course.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------- 58t. Corda: Enterprise Blockchain Platforms (147) ------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image058t.png"
-   alt="Corda: Enterprise Blockchain Platforms"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image058t.png"
+  alt="Corda: Enterprise Blockchain Platforms"
+  style="width:65%" />
+
 <p>Corda focuses on enabling banks to record, manage, synchronize, and
 support financial transactions and agreements through distributed ledger
 technology.</p>
@@ -4300,11 +4303,11 @@ the transaction and flag that a end attempt has occurred otherwise.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------- 58u. chain: enterprise blockchain platforms (148) ------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image058u.png"
-   alt="Chain: Enterprise Blockchain Platforms"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image058u.png"
+  alt="Chain: Enterprise Blockchain Platforms"
+  style="width:65%" />
+
 <p>Chain is another blockchain platform also aimed at financial
 services.</p>
 <p>It uses a federated consensus mechanism with M-of-N signatures
@@ -4322,11 +4325,11 @@ Sequence cannot produce transactions on any other users’ behalf.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------- 58v. ripple: enterprise blockchain platforms (149) ----------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image058v.png"
-   alt="Ripple: Enterprise Blockchain Platforms"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image058v.png"
+  alt="Ripple: Enterprise Blockchain Platforms"
+  style="width:65%" />
+
 <p>Ripple is another enterprise blockchain platform focusing on creating
 a global network of financial services.</p>
 <p>To enable such payments, it uses an internal cryptocurrency called
@@ -4354,11 +4357,11 @@ on demand liquidity, and sending global payments.</p>
 <!------------------------------------------------------------------------------------------------>
 <!------------------- 58w. rootstock: enterprise blockchain platforms (150) ---------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image058w.png"
-   alt="Rootstock: Enterprise Blockchain Platforms"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image058w.png"
+  alt="Rootstock: Enterprise Blockchain Platforms"
+  style="width:65%" />
+
 <p>Rootstock, a Bitcoin sidechain, aims integrate smart contracts with
 the Bitcoin blockchain.</p>
 <p>It has a two-way peg, which will be explained deeper in the next
@@ -4378,11 +4381,11 @@ seconds instead of every ten minutes.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------- 58x. quoram: enterprise blockchain platforms (151) ----------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image058x.png"
-   alt="Quoram: Enterprise Blockchain Platforms"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image058x.png"
+  alt="Quoram: Enterprise Blockchain Platforms"
+  style="width:65%" />
+
 <p>Quorum is a lightweight fork of Ethereum, built for enterprise, with
 a particular focus on governance, confidentiality, and security for
 streamlining global payments.</p>
@@ -4409,11 +4412,11 @@ mechanisms.</p>
 <!------------------------------------------------------------------------------------------------>
 <!--------------- 58y. cosmos/tendermint: enterprise & blockchain platforms (152) ---------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image058y.png?raw=true"
-   alt="Cosmos/Tendermint: Enterprise Blockchain Platforms"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image058y.png?raw=true"
+  alt="Cosmos/Tendermint: Enterprise Blockchain Platforms"
+  style="width:65%" />
+
 <p>Cosmos is an initiative to connect blockchains together.</p>
 <p>Its focus on blockchain interoperability.</p>
 <p>For example, if I currently want to exchange Bitcoin for Ether, I’d
@@ -4437,11 +4440,11 @@ the Scalability lecture.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------- 58z. categories & accomplishments: enterprise blockchain platforms (153) ------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image058z.png?raw=true"
-   alt="Categories & Accomplishments: Enterprise Blockchain Platforms"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image058z.png?raw=true"
+  alt="Categories & Accomplishments: Enterprise Blockchain Platforms"
+  style="width:65%" />
+
 <p>As a short summary of all the enterprise blockchain platforms we’ve
 seen in the past couple slides, let’s tie it back to a more fundamental
 understanding of blockchain and enterprise use cases in general.</p>
@@ -4502,11 +4505,11 @@ Ashley Lannquist, doing a lot of exploration of the industry.</p>
 <!------------------------------------------------------------------------------------------------>
 <!----------------- 60. vehicle data sharing & exchange: auto & mobility (155) ------------------->
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image060.png?raw=true"
-   alt="Vehicle Data Sharing & Exchange: Auto & Mobility"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image060.png?raw=true"
+  alt="Vehicle Data Sharing & Exchange: Auto & Mobility"
+  style="width:65%" />
+
 <p>One of their major use cases revolves around collecting a car’s data,
 the obvious stuff like miles driven, MPG, but also more micro datapoints
 like the force applied to the accelerator, for the purpose of informing
@@ -4518,11 +4521,11 @@ Rover.</p>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------- 61. additional use casese: auto & mobility (155) ------------------------>
 <!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/image061.png?raw=true"
-   alt="Additional Use Cases: Auto & Mobility"
-   width="65%" />
-</p>
+<img class="displayed"
+  src="./images/image061.png?raw=true"
+  alt="Additional Use Cases: Auto & Mobility"
+  style="width:65%" />
+
 <p>As far as other use cases, there’s supply chain and provenance, so
 tracking car parts, or an immutable ‘Carfax’-style used car
 database.</p>
