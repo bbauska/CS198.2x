@@ -1,6 +1,6 @@
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);
 body {
-  font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+  font-family: Bahnschrift, "Avenir Next", Calibri, Verdana, sans-serif;
   font-size: 13.5px;
   margin-left: 15px;
 }
@@ -37,7 +37,8 @@ p {
 }
 h1 {
   padding: 20px 0 0 0;
-  font-family: normal 1.4em verdana, tahoma, arial, sans-serif, helvetica;
+  font-size: 24px;
+  font-family: normal 1.4em Bahnschrift, verdana, tahoma, arial, sans-serif, helvetica;
   text-transform: uppercase;
   letter-spacing: 3px;
   margin-left: 15px;
@@ -47,7 +48,8 @@ h1 {
 }
   h2 {
   padding: 20px 0 0 0;
-  font: normal 1.4em verdana, calibri, arial, sans-serif, tahoma;
+  font-size: 22px;
+  font: normal 1.4em Bahnschrift, verdana, calibri, arial, sans-serif, tahoma;
   letter-spacing: 3px;
   color: #3800aa;			/* dark purple */
   background: inherit;
@@ -56,7 +58,8 @@ h1 {
 }
   h3 {
   padding: 20px 0 0 0;
-  font: normal 1.4em frente, verdana, helvetica, arial, sans-serif;
+  font-size: 18px;
+  font: normal 1.4em Bahnschrift, frente, verdana, helvetica, arial, sans-serif;
   letter-spacing: 3px;
 <!-- color: #3899ff; -->
   color: #326908;			/* green */
@@ -66,7 +69,8 @@ h1 {
 }
   h4 {
   padding: 20px 0 0 0;
-  font: normal 1.4em verdana, helvetica, arial, sans-serif;
+  font-size: 16px;
+  font: normal 1.4em Bahnschrift, verdana, helvetica, arial, sans-serif;
   <!---- frente, helvetica, garamond, futura, didot; --->
   <!--- verdana, helvetica, arial, sans-serif --->
   letter-spacing: 3px;
@@ -77,7 +81,8 @@ h1 {
 }
   h5 {
   padding: 20px 0 0 0;
-  font: normal 1.4em frente, verdana, helvetica, arial, sans-serif;
+  font-size: 12px;
+  font: normal 1.4em Bahnschrift, frente, verdana, helvetica, arial, sans-serif;
   letter-spacing: 3px;
   color: #326908;			/* green */
   background: inherit;
@@ -86,7 +91,8 @@ h1 {
 }
   h6 {
   padding: 20px 0 0 0;
-  font: normal 1.4em frente, verdana, helvetica, arial, sans-serif;
+  font-size: 10px;
+  font: normal 1.4em Bahnschrift, frente, verdana, helvetica, arial, sans-serif;
   letter-spacing: 3px;
   color: #326908;			/* green */
   background: inherit;
