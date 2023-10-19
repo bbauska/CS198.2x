@@ -101,7 +101,9 @@ h1 {
 }
 
 <!------ list item styles ------>
-
+li {
+  line-height: 1.6em;
+}
 ul.a {list-style-type: circle;}
 ul.b {list-style-type: square;}
 
