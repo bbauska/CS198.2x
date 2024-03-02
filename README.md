@@ -1,19 +1,19 @@
 ---
 cs198.2x: "University of California @ Berkeley - Blockchain Technologies"
 ---
-<!------------------------------------------------------------------------------------------------>
-<!----------------------- readme.md in CS198.2x - Blockchain Technologies ------------------------>
-<!------------------------------------------------------------------------------------------------>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ readme.md in cs198.2x - blockchain technologies ~~~~~~~~~~~~~~~~~~~~~~-->
 
 <h2 align="center">CS198.2x - University of California @ BerkeleyX</h2>
 
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------- cs198.2x Berkeley's Blockchain logo (01) ---------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ cs198.2x berkeley's blockchain logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/cs198.2x logo.png?raw=true"
-   alt="Blockchain at BerkeleyX logo"
-   width="65%" />
+  title="Blockchain at BerkeleyX logo"
+  alt="Blockchain at BerkeleyX logo."
+  style="width:65%" />
 </p>
 
 <h2 align="center">Blockchain Technologies</h2>
@@ -155,13 +155,13 @@ is to read these books.
     Bitcoin ](https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc)by
     Andreas Antonopoulos
 
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------ blockchain at berkeley logo (04) -------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ blockchain at berkeley logo (04) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/cs198.2x blockchain at berkeley logo.png?raw=true"
-   alt="Berkeley's Hub for Blockchain Innovation logo"
-   width="65%" />
+  title="Berkeley's Hub for Blockchain Innovation logo"
+  alt="Berkeley's Hub for Blockchain Innovation logo."
+  style="width:65%" />
 </p>
 
 A good unofficial resource is the Blockchain at Berkeley Public Slack,
@@ -235,13 +235,13 @@ blockchain enthusiasts from all educational and industrial backgrounds.
 
 <h2>Week 1: Trust Without Trust: Distributed Systems & Consensus</h2>
 
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------- 01. cs198.2x Berkeley's Blockchain logo (07) ------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 01. cs198.2x berkeley's blockchain logo (07) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image001.png?raw=true"
-   alt="Blockchain at BerkeleyX logo"
-   width="65%" />
+  title="Blockchain at BerkeleyX logo"
+  alt="Blockchain at BerkeleyX logo."
+  style="width:65%" />
 </p>
 
 Welcome to the first module of Blockchain Technology, the second course
@@ -360,13 +360,12 @@ I can always agree with myself on where to have lunch, but when I go out
 with my friends, we have to all agree on where to go first, and the
 process by which we reach agreement might be difficult.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!----------------- 01a. distributed systems origins: why study consensus? (10) ------------------>
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image001a.png?raw=true"
-   alt="Distributed Systems Origins: Why Study Consensus?"
-   width="65%" />
+  alt="Distributed Systems Origins: Why Study Consensus?"
+  style="width:65%" />
 </p>
 
 In this example, my group of friends had to come to consensus on a
@@ -376,13 +375,12 @@ move forward – to actually get lunch.
 This is no different from how a distributed system works, and is where
 we start building our intuition and context.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------- 02. distributed systems origins: digital avionics (11) --------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image002.png?raw=true"
-   alt="Distributed Systems Origins: Digital Avionics"
-   width="65%" />
+  alt="Distributed Systems Origins: Digital Avionics"
+  style="width:65%" />
 </p>
 
 Consensus has been studied for ages in fields such as biophysics,
@@ -430,7 +428,7 @@ challenge.
 <p align="center" width="100%">
 <img src="/images/image003.png?raw=true"
    alt="Distributed Systems Origins: Early Literature"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Early literature had focused on enabling coordination of processes –
@@ -490,7 +488,7 @@ scientists, the formal study of distributed systems began to take shape.
 <p align="center" width="100%">
 <img src="/images/image004.png?raw=true"
    alt="Distributed Systems Origins: Other Problems"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 And as it turns out, the same problem that was originally studied to
@@ -503,7 +501,7 @@ example on more high-tech jet planes.
 <p align="center" width="100%">
 <img src="/images/image004b.png?raw=true"
    alt="Distributed Systems Origins: Other Problems #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 And more recently, on various spacecraft, such as SpaceX’s famous Falcon
@@ -523,7 +521,7 @@ after cross checking.
 <p align="center" width="100%">
 <img src="/images/image005.png?raw=true"
    alt="Distributed Systems Origins: Other Problems #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Distributed systems and consensus is also studied in the context of big
@@ -540,7 +538,7 @@ important data.
 <p align="center" width="100%">
 <img src="/images/image006.png?raw=true"
    alt="Distributed Systems Origins: Other Problems #4"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 And finally, of course – the main focus of this course – the blockchain
@@ -590,7 +588,7 @@ It’s trust – without trust.
 <p align="center" width="100%">
 <img src="/images/image007.png?raw=true"
    alt="Distributed Systems: Definition"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In order to understand blockchain technology like a pro, knowing its ins
@@ -615,7 +613,7 @@ systems contain two particular categories of components.
 <p align="center" width="100%">
 <img src="/images/image008a.png?raw=true"
    alt="Distributed Systems: Definition #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The first category is referred to as “nodes.”
@@ -632,7 +630,7 @@ cores in your laptop.
 <p align="center" width="100%">
 <img src="/images/image008.png?raw=true"
    alt="Distributed Systems: Definition #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The second category is referred to as “message passing.”
@@ -674,7 +672,7 @@ safe in the event of a crash.
 <p align="center" width="100%">
 <img src="/images/image009.png?raw=true"
    alt="Distributed Systems: Properties"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Let’s discuss the properties of a distributed system keeping in mind the
@@ -715,7 +713,7 @@ distributed system from a faulty one.
 <p align="center" width="100%">
 <img src="/images/image010.png?raw=true"
    alt="Distributed Systems: Example"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 This graph shows a classic example problem from distributed systems.
@@ -751,7 +749,7 @@ We’re about to answer those questions right now.
 <p align="center" width="100%">
 <img src="/images/image011.png?raw=true"
    alt="Distributed Systems: Properties of Multiprocess Programs"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Leslie Lamport, distributed systems researcher and superhero, designed a
@@ -809,7 +807,7 @@ program can and should do.
 <p align="center" width="100%">
 <img src="/images/image012.png?raw=true"
    alt="Distributed Consensus: Correctness"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 We spent quite a bit of time understanding safety and liveness, but how
@@ -893,7 +891,7 @@ consensus will ever be achieved.
 <p align="center" width="100%">
 <img src="/images/image013.png?raw=true"
    alt="Distributed Consensus: Correctness #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 By understanding these three essentials of a consensus algorithm, you
@@ -915,7 +913,7 @@ that any system must make.
 <p align="center" width="100%">
 <img src="/images/image014.png?raw=true"
    alt="CAP Theorem: Introduction"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 This section hones in on a famous trilemma of distributed systems called
@@ -941,7 +939,7 @@ the implications.
 <p align="center" width="100%">
 <img src="/images/image015.png?raw=true"
    alt="CAP Theorem: Consistency 'c' in cap"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The “C” in CAP stands for Consistency.
@@ -963,7 +961,7 @@ state at any given time, and that no node will return an outdated state.
 <p align="center" width="100%">
 <img src="/images/image016.png?raw=true"
    alt="CAP Theorem: Availability 'A' in cap"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The “A” in CAP stands for Availability.
@@ -983,7 +981,7 @@ happen, which is the ability to read or write some state.
 <p align="center" width="100%">
 <img src="/images/image017.png?raw=true"
    alt="CAP Theorem: Partition Tolerance 'P' in cap"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 And last but not least the “P” in CAP stands for <b><i>Partition
@@ -1013,7 +1011,7 @@ even with partitions.
 <p align="center" width="100%">
 <img src="/images/image018.png?raw=true"
    alt="CAP Theorem: Nothing is Important"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 What is the CAP Theorem, truly?
@@ -1043,7 +1041,7 @@ In order to prove the CAP Theorem, let’s run through some examples.
 <p align="center" width="100%">
 <img src="/images/image019.png?raw=true"
    alt="CAP Theorem: Proof"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In each example, we’re going to give an example of a situation in which
@@ -1057,7 +1055,7 @@ Let’s pretend this is a database which stores my favorite color.
 <p align="center" width="100%">
 <img src="/images/image020.png?raw=true"
    alt="CAP Theorem: Proof #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In our first example, let’s choose Partition Tolerance and Availability.
@@ -1077,7 +1075,7 @@ I send the update to the system, and my message happens to go to Node 1.
 <p align="center" width="100%">
 <img src="/images/image021.png?raw=true"
    alt="CAP Theorem: Proof #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Node 1 relays the update to all other accessible nodes, which update
@@ -1110,7 +1108,7 @@ Same scenario,
 <p align="center" width="100%">
 <img src="/images/image022.png?raw=true"
    alt="CAP Theorem: Proof #4"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 I send the update to Node 1, which then sends the update to other nodes.
@@ -1121,7 +1119,7 @@ I send the update to Node 1, which then sends the update to other nodes.
 <p align="center" width="100%">
 <img src="/images/image023.png?raw=true"
    alt="CAP Theorem: Proof #5"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Nodes 2 and 4 are still ignorant of the update to red.
@@ -1132,7 +1130,7 @@ Nodes 2 and 4 are still ignorant of the update to red.
 <p align="center" width="100%">
 <img src="/images/image024.png?raw=true"
    alt="CAP Theorem: Proof #6"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Again, I query Node 2.
@@ -1159,7 +1157,7 @@ happens when we choose Consistency and Availability.
 <p align="center" width="100%">
 <img src="/images/image025.png?raw=true"
    alt="CAP Theorem: Proof #7"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 I send an update to Node 1.
@@ -1172,7 +1170,7 @@ Node 1 passes the information around.
 <p align="center" width="100%">
 <img src="/images/image026.png?raw=true"
    alt="CAP Theorem: Proof #8"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 I query Node 2, and it returns a value to me.
@@ -1197,7 +1195,7 @@ must compromise.
 <p align="center" width="100%">
 <img src="/images/image027.png?raw=true"
    alt="CAP Theorem: Notes"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Now you understand the CAP Theorem.
@@ -1252,7 +1250,7 @@ design.
 <p align="center" width="100%">
 <img src="/images/image028.png?raw=true"
    alt="Byzantine Fault Tolerance: Generals' Problem"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 We’ve defined distributed systems, understood the definition of
@@ -1350,7 +1348,7 @@ the remaining situations.
 <p align="center" width="100%">
 <img src="/images/image029.png?raw=true"
    alt="Practical Byzantine Fault Tolerance"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Practical Byzantine Fault Tolerance released in 1999 by Miguel Castro
@@ -1378,7 +1376,7 @@ of fault.
 <p align="center" width="100%">
 <img src="/images/image030.png?raw=true"
    alt="Byzantine Fault Tolerancein Blockchain"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 A Byzantine fault, referring to the Byzantine Generals’ Problem, is a
@@ -1451,7 +1449,7 @@ systems of today.
 <p align="center" width="100%">
 <img src="/images/image031.png?raw=true"
    alt="PAXOS Overview"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Before we talk about our first consensus mechanisms, let’s take a short
@@ -1504,7 +1502,7 @@ maintained a ledger, where they’d record everything that happened.
 <p align="center" width="100%">
 <img src="/images/image032.png?raw=true"
    alt="PAXOS Terminology"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Diving a bit more in depth, the paper specifies that within the Paxon
@@ -1534,7 +1532,7 @@ consensus algorithms.
 <p align="center" width="100%">
 <img src="/images/image033.png?raw=true"
    alt="PAXOS Main Idea"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The protocol that the Paxon parliament uses proceeds over several
@@ -1570,7 +1568,7 @@ the entire island know what happened in parliament.
 <p align="center" width="100%">
 <img src="/images/image034.png?raw=true"
    alt="PAXOS Knowledge of the Ancients"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 There’s a very clear parallel between the Paxon parliament and
@@ -1593,7 +1591,7 @@ by the parliament.
 <p align="center" width="100%">
 <img src="/images/image035.png?raw=true"
    alt="PAXOS in Practice: Assumptions & Real-World Use"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One major assumption that Paxos makes is that nodes aren’t trying to
@@ -1631,7 +1629,7 @@ story.
 <p align="center" width="100%">
 <img src="/images/image036.png?raw=true"
    alt="Raft Overview"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In 2014, an alternative to Paxos was proposed.
@@ -1657,7 +1655,7 @@ consensus.
 <p align="center" width="100%">
 <img src="/images/image037.png?raw=true"
    alt="Raft How it Works"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 There’s a really good Raft simulation that I’ll link in the “Readings”
@@ -1710,7 +1708,7 @@ All credit and respect to the original author!
 <p align="center" width="100%">
 <img src="/images/image038.png?raw=true"
    alt="PBFT Overview"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 We’ll end here with another famous consensus algorithm: Practical
@@ -1740,7 +1738,7 @@ faults.
 <p align="center" width="100%">
 <img src="/images/image039.png?raw=true"
    alt="PBFT By Example"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The main PBFT algorithm consists of three phases – pre-prepare, prepare,
@@ -1758,7 +1756,7 @@ legislators in the Paxon Parliament based on the requests of the people.
 <p align="center" width="100%">
 <img src="/images/image040.png?raw=true"
    alt="PBFT by Example Request"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In this case, the primary node is Derrick. We have a total of 4 nodes,
@@ -1772,7 +1770,7 @@ spotty internet connection.
 <p align="center" width="100%">
 <img src="/images/image041.png?raw=true"
    alt="PBFT by Example Request #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Nadir might’ve dropped out, but the other 3 nodes might not know that
@@ -1784,7 +1782,7 @@ yet, so they’ll still send messages to him.
 <p align="center" width="100%">
 <img src="/images/image042.png?raw=true"
    alt="PBFT by Example: Pre-Prepare"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The next step is pre-prepare, which is one of the three main phases –
@@ -1802,7 +1800,7 @@ determine message validity.
 <p align="center" width="100%">
 <img src="/images/image043.png?raw=true"
    alt="PBFT by Example: Prepare"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 If a node accepts a pre-prepare message, it follows up by sending out a
@@ -1820,7 +1818,7 @@ Byzantine faults.
 <p align="center" width="100%">
 <img src="/images/image044.png?raw=true"
    alt="PBFT by Example: Commit"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 After nodes have prepared, they send out a commit message. If a node
@@ -1833,7 +1831,7 @@ request and then finally
 <p align="center" width="100%">
 <img src="/images/image045.png?raw=true"
    alt="PBFT by Example: Reply"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Send out the reply to the client. The client waits for f + 1 of the same
@@ -1847,7 +1845,7 @@ client gets the correct response.
 <p align="center" width="100%">
 <img src="/images/image046.png?raw=true"
    alt="PBFT Normal Case Operation"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Here’s a diagram from the PBFT whitepaper, which models exactly the
@@ -2191,7 +2189,7 @@ cryptography and economics.
 <p align="center" width="100%">
 <img src="/images/image047.png?raw=true"
    alt="POW vs POS? Differences"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 As we mentioned in the Nakamoto consensus section, we can understand
@@ -2287,7 +2285,7 @@ Proof-of-Work and Proof-of-Stake hybrid.
 <p align="center" width="100%">
 <img src="/images/image048.png?raw=true"
    alt="Proof-of-Stake: Tendermint"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Tendermint was the first BFT-based Proof-of-Stake consensus mechanism,
@@ -3148,7 +3146,7 @@ ensuring that the decisions’ history is maintained honestly and forever.
 <p align="center" width="100%">
 <img src="/images/image050.png?raw=true"
    alt="What is Cryptoeconomics: Virtual Decision Making"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Cryptoeconomics aims to understand virtual decision-making by unknown,
@@ -3257,7 +3255,7 @@ that information is kept secret and safe whenever necessary.
 <p align="center" width="100%">
 <img src="/images/image051.png?raw=true"
    alt="Origins of Cryptography"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Before we talk about the specifics of cryptography, let’s go over some
@@ -3668,7 +3666,7 @@ timelock to our specifications.
 <p align="center" width="100%">
 <img src="/images/image052.png?raw=true"
    alt="Economic Incentives: Rewards and Penalties"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In Game Theory, we aim to deduce how an actor will act in a given
@@ -3882,7 +3880,7 @@ we dive into the next section, Proof-of-Stake.
 <p align="center" width="100%">
 <img src="/images/image053.png?raw=true"
    alt="Blacklisting: Feather Forking"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Now, some attacks review, with a particular focus on economic
@@ -4131,7 +4129,7 @@ the system in check.
 <p align="center" width="100%">
 <img src="/images/image054.png?raw=true"
    alt="Nothing at Stake: Undesirable Path"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Let’s start looking at the most basic problem in Proof-of-Stake: the
@@ -4151,7 +4149,7 @@ Anything that prevents this from happening should be discouraged.
 <p align="center" width="100%">
 <img src="/images/image054b.png?raw=true"
    alt="Nothing at Stake: Undesirable Path"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 If ever the blockchain ends up in a situation which consensus is not
@@ -4168,7 +4166,7 @@ What is it about Proof-of-Stake that makes this an issue?
 <p align="center" width="100%">
 <img src="/images/image054c.png?raw=true"
    alt="Nothing at Stake: Attack"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Take a look at the bottom image demonstrating Proof-of-Work.
@@ -4232,7 +4230,7 @@ Is there a way to solve this?
 <p align="center" width="100%">
 <img src="/images/image054d.png?raw=true"
    alt="Nothing at Stake: Defense"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Well, to discourage voting on voting on incorrect forks, let’s introduce
@@ -4272,7 +4270,7 @@ strategies need to be explicitly enforced.
 <p align="center" width="100%">
 <img src="/images/image054e.png?raw=true"
    alt="Nothing at Stake: Defense #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 As you can see in this example, we've made it such that the best choice
@@ -4285,7 +4283,7 @@ both, now leads to penalties for the voter.
 <p align="center" width="100%">
 <img src="/images/image054f.png?raw=true"
    alt="Long Range Attack: Attack"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One major attack that can be conducted in a Proof-of-Stake network is a
@@ -4301,7 +4299,7 @@ over the main chain.
 <p align="center" width="100%">
 <img src="/images/image054g.png?raw=true"
    alt="Long Range Attack: Attack #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 There are two properties in Proof-of-Stake that allow this to happen:
@@ -4328,7 +4326,7 @@ these nodes know which of the chains they are given is the main chain.
 <p align="center" width="100%">
 <img src="/images/image054h.png?raw=true"
    alt="Long Range Attack: Attack #3"
-   width="65%" />
+   style="width:65%" />
 
 One preconception about blockchains in general is that the longest chain
 is the most trustworthy one.
@@ -4351,7 +4349,7 @@ To explain this clearly, we will step through an example.
 <p align="center" width="100%">
 <img src="/images/image054i.png?raw=true"
    alt="Long Range Attack: Example"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Suppose Gloria owns 1% of the tokens the moment the genesis block is
@@ -4376,7 +4374,7 @@ point of the chain, including the genesis block.
 <p align="center" width="100%">
 <img src="/images/image054j.png?raw=true"
    alt="Stake Grinding: Attack"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Next, we’ll take a look at the Stake Grinding attack.
@@ -4409,7 +4407,7 @@ with the block parameters to change the signature outcome.
 <p align="center" width="100%">
 <img src="/images/image054k.png?raw=true"
    alt="Stake Grinding: Defense"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 There are a few ways that we can address this vulnerability.
@@ -4467,7 +4465,7 @@ right by a previously set amount.
 <p align="center" width="100%">
 <img src="/images/image055.png?raw=true"
    alt="Caesar Cipher"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Be aware of various cryptographic primitives (review from previous
@@ -4655,7 +4653,7 @@ distinguish different types of blockchains available for use.
 <p align="center" width="100%">
 <img src="/images/image056.png?raw=true"
    alt="Banks and Blockchain: Blockchain History Review"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 As Bitcoin and blockchain grew increasingly popular, banks and large
@@ -4701,7 +4699,7 @@ for enterprise use than associated public blockchain systems.
 <p align="center" width="100%">
 <img src="/images/image072b.png?raw=true"
    alt="Banks and Blockchain: Blockchain History Review"
-   width="65%" />
+   style="width:65%" />
 </p>
 While many use cases exist for enterprise blockchains, most problems
 that enterprise blockchain aims to solve fall within three broad
@@ -4714,7 +4712,7 @@ systems, and creating self-sovereign decentralized networks.
 <p align="center" width="100%">
 <img src="/images/image073b.png?raw=true"
    alt="Scaling Issues: Blockchain History Review"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Although many enterprises now wish to take advantage of blockchain
@@ -4753,7 +4751,7 @@ Let’s look back at the previous slide.
 <p align="center" width="100%">
 <img src="/images/image072b.png?raw=true"
    alt="Banks and Blockchain: Blockchain History Review"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Coordination failures between multiple parties seeking to work together
@@ -4784,7 +4782,7 @@ centralized corruption.
 <p align="center" width="100%">
 <img src="/images/image057.png?raw=true"
    alt="Blockchain vs. Databases: High-Level Overview"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 At its most basic level, a blockchain is merely a highly specialized
@@ -4837,7 +4835,7 @@ people are familiar with: centralized databases.
 <p align="center" width="100%">
 <img src="/images/image076b.png?raw=true"
    alt="Cenralized Database: Blockchain vs Databases"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Centralized databases, such as a single password server, are located,
@@ -4858,7 +4856,7 @@ failure.
 <p align="center" width="100%">
 <img src="/images/image077b.png?raw=true"
    alt="Cenralized Database: Blockchain vs Databases #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 On the other hand, distributed databases consist of groups of nodes
@@ -4875,7 +4873,7 @@ across all nodes.
 <p align="center" width="100%">
 <img src="/images/image078b.png?raw=true"
    alt="Cenralized Database: Blockchain vs Databases #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 However, distributed databases also introduce increased complexity,
@@ -4889,7 +4887,7 @@ That’s just the overhead of being distributed.
 <p align="center" width="100%">
 <img src="/images/image079b.png?raw=true"
    alt="Cenralized Database: Blockchain vs Databases #4"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 A specific type of distributed database is a distributed ledger, which
@@ -4906,7 +4904,7 @@ and consensus protocols are known as blockchains.
 <p align="center" width="100%">
 <img src="/images/image080b.png?raw=true"
    alt="Cenralized Database: Blockchain vs Databases #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Recall from our Bitcoin and Cryptocurrencies course that the fundamental
@@ -4929,7 +4927,7 @@ non-trusting parties in the network to interact with each other.
 <p align="center" width="100%">
 <img src="/images/image081b.png?raw=true"
    alt="Cenralized Database: Blockchain vs Databases #5"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Blockchains can also be categorized based on their architecture and the
@@ -4999,7 +4997,7 @@ constituents.
 <p align="center" width="100%">
 <img src="/images/image082b.png?raw=true"
    alt="Tech Company Involvement: Big Names"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 While blockchain is still in its infancy, many tech powerhouses are
@@ -5042,7 +5040,7 @@ base layer.
 <p align="center" width="100%">
 <img src="/images/image083b.png?raw=true"
    alt="Perspectives: How Do You Feel About Blockchain?"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Despite enterprise movement towards blockchain, there’s still differing
@@ -5087,7 +5085,7 @@ Blockchain can be cool, but only in very particular ways.
 <p align="center" width="100%">
 <img src="/images/image084b.png?raw=true"
    alt="Misconceptions: Not Always What You'd Expect"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 It’s a misconception that enterprise blockchains are always useful.
@@ -5165,7 +5163,7 @@ type and consensus mechanisms.
 <p align="center" width="100%">
 <img src="/images/image058.png?raw=true"
    alt="Things to Look For: Enterprise Blockchain Platforms"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In the early days of blockchain development, the most common projects
@@ -5225,7 +5223,7 @@ facets of the enterprise blockchain space.
 <p align="center" width="100%">
 <img src="/images/image114.png?raw=true"
    alt="Scalability: Trilemma"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 As the use of blockchain becomes more and more prevalent, the issue of
@@ -5267,7 +5265,7 @@ exchange decentralization for scalability and security.
 <p align="center" width="100%">
 <img src="./images/image058r.png"
    alt="Ethereum: Enterprise Blockchain Platforms"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Ethereum is the industry standard blockchain platform for public
@@ -5311,7 +5309,7 @@ helping popular initiatives such as MetaMask and Truffle.
 <p align="center" width="100%">
 <img src="./images/image058s.png"
    alt="Hyperledger: Enterprise Blockchain Platforms"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Hyperledger, a project of the Linux Foundation, was one of the earliest
@@ -5360,7 +5358,7 @@ check out their edX course.
 <p align="center" width="100%">
 <img src="./images/image058t.png"
    alt="Corda: Enterprise Blockchain Platforms"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Corda focuses on enabling banks to record, manage, synchronize, and
@@ -5393,7 +5391,7 @@ the transaction and flag that a end attempt has occurred otherwise.
 <p align="center" width="100%">
 <img src="./images/image058u.png"
    alt="Chain: Enterprise Blockchain Platforms"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Chain is another blockchain platform also aimed at financial services.
@@ -5420,7 +5418,7 @@ Sequence cannot produce transactions on any other users’ behalf.
 <p align="center" width="100%">
 <img src="./images/image058v.png"
    alt="Ripple: Enterprise Blockchain Platforms"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Ripple is another enterprise blockchain platform focusing on creating a
@@ -5464,7 +5462,7 @@ These are called xCurrent, xRapid, and xVia, respectively.
 <p align="center" width="100%">
 <img src="./images/image058w.png"
    alt="Rootstock: Enterprise Blockchain Platforms"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Rootstock, a Bitcoin sidechain, aims integrate smart contracts with the
@@ -5494,7 +5492,7 @@ seconds instead of every ten minutes.
 <p align="center" width="100%">
 <img src="./images/image058x.png"
    alt="Quoram: Enterprise Blockchain Platforms"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Quorum is a lightweight fork of Ethereum, built for enterprise, with a
@@ -5537,7 +5535,7 @@ mechanisms.
 <p align="center" width="100%">
 <img src="/images/image058y.png?raw=true"
    alt="Cosmos/Tendermint: Enterprise Blockchain Platforms"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Cosmos is an initiative to connect blockchains together.
@@ -5576,7 +5574,7 @@ the Scalability lecture.
 <p align="center" width="100%">
 <img src="/images/image058z.png?raw=true"
    alt="Categories & Accomplishments: Enterprise Blockchain Platforms"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 As a short summary of all the enterprise blockchain platforms we’ve seen
@@ -5639,7 +5637,7 @@ quality.
 <p align="center" width="100%">
 <img src="/images/image059.png?raw=true"
    alt="MOBI: Auto and Mobility"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Mobility use cases combine blockchain, autonomous cars, and IoT.
@@ -5657,7 +5655,7 @@ Ashley Lannquist, doing a lot of exploration of the industry.
 <p align="center" width="100%">
 <img src="/images/image060.png?raw=true"
    alt="Vehicle Data Sharing & Exchange: Auto & Mobility"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One of their major use cases revolves around collecting a car’s data,
@@ -5676,7 +5674,7 @@ This concept is also being explored by Toyota and Jaguar/Land Rover.
 <p align="center" width="100%">
 <img src="/images/image061.png?raw=true"
    alt="Additional Use Cases: Auto & Mobility"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 As far as other use cases, there’s supply chain and provenance, so
@@ -5708,7 +5706,7 @@ disintermediated value transfer, privacy, and traceability.
 <p align="center" width="100%">
 <img src="/images/image062.png?raw=true"
    alt=""
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The finance industry is particularly well-situated for the blockchain
@@ -5730,7 +5728,7 @@ Goldman Sachs.
 <p align="center" width="100%">
 <img src="/images/image063.png?raw=true"
    alt="Disintermediated Transfer: Banks & Financial Institutions"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Blockchains and their associated assets are also allowing assets to pass
@@ -5759,7 +5757,7 @@ Fabric and yielded positive results earlier this year.
 <p align="center" width="100%">
 <img src="/images/image064.png?raw=true"
    alt="Privacy & Traceability: Banks & Financial Institutions"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Lastly, many finance giants are using blockchain to facilitate
@@ -5787,7 +5785,7 @@ is particularly enticing for accounting use cases.
 <p align="center" width="100%">
 <img src="/images/image065.png?raw=true"
    alt="Services: Travel & Tourism"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Blockchain is also making waves in the travel industry, allowing people
@@ -5813,7 +5811,7 @@ flexibility to make specialized offers.
 <p align="center" width="100%">
 <img src="/images/image066.png?raw=true"
    alt="Identity: Travel & Tourism"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Definitely one of the largest problems facing the travel industry today
@@ -5851,7 +5849,7 @@ Next, we’ll be talking about broader approaches to digital identity.
 <p align="center" width="100%">
 <img src="/images/image067.png?raw=true"
    alt="Self-Sovereignty: Digital Identity"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Companies focusing on decentralized digital identity are focusing
@@ -5873,7 +5871,7 @@ decoupling that information.
 <p align="center" width="100%">
 <img src="/images/image068.png?raw=true"
    alt="Industry Players: Digital Identity"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One of the companies working on self sovereign identity (SSI) is Vetri,
@@ -5918,7 +5916,7 @@ industry.
 <p align="center" width="100%">
 <img src="/images/image069.png?raw=true"
    alt="Medical Data: Healthcare"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In the healthcare industry, blockchain can provide utility by
@@ -5947,7 +5945,7 @@ patients.
 <p align="center" width="100%">
 <img src="/images/image070.png?raw=true"
    alt="Incentivization: Healthcare"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Blockchain is also particularly useful for providing financial
@@ -5980,7 +5978,7 @@ blockchain.
 <p align="center" width="100%">
 <img src="/images/image071.png?raw=true"
    alt="Industry Trends: Insurance"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 At the most basic level, insurance is something of a prediction market -
@@ -6002,7 +6000,7 @@ blockchain within 2 years.
 <p align="center" width="100%">
 <img src="/images/image073.png?raw=true"
    alt="Industry Projects: Insurance"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 A blockchain solution would allow the insured party to log their claim
@@ -6039,7 +6037,7 @@ Next, we’re going to look at how blockchain interacts with IoT.
 <p align="center" width="100%">
 <img src="/images/image074.png?raw=true"
    alt="Wal-Mart & Alibaba: Supply Chain"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 With the rise of supply chains, many massive corporations have attempted
@@ -6115,7 +6113,7 @@ adoption today.
 <p align="center" width="100%">
 <img src="/images/image075.png?raw=true"
    alt="Security: IoT"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 IoT devices collect and push data, and blockchains verify and codify it.
@@ -6151,7 +6149,7 @@ as well.
 <p align="center" width="100%">
 <img src="/images/image076.png?raw=true"
    alt="Current Issues: Real Estate"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Real estate is another industry being revolutionized by blockchain,
@@ -6180,7 +6178,7 @@ available, persistent, and valid?
 <p align="center" width="100%">
 <img src="/images/image077.png?raw=true"
    alt="Solutions: Real Estate"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The blockchain solution is to create a hash of every land registry and
@@ -6217,7 +6215,7 @@ Telangana.
 <p align="center" width="100%">
 <img src="/images/image078.png?raw=true"
    alt="Non-Cash Aid: Foreign Aid"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Last but certainly not least, blockchain can improve the efficiency and
@@ -6251,7 +6249,7 @@ now be traced from sender to recipient.
 <p align="center" width="100%">
 <img src="/images/image079.png?raw=true"
    alt="Cash Aid: Foreign Aid"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The problems of fraud and accountability are more severe for providers
@@ -6312,7 +6310,7 @@ they fit into the generalizations.
 <p align="center" width="100%">
 <img src="/images/image080.png?raw=true"
    alt="Blockchain Generalizations: Essential Properties"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 To start off, let’s talk about the scenarios where a blockchain will
@@ -6357,7 +6355,7 @@ they’re over-engineered solutions to these problems.
 <p align="center" width="100%">
 <img src="/images/image081.png?raw=true"
    alt="Blockchain Generalizations: Essential Properties #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 As mentioned in several of the use cases, blockchains allow us to solve
@@ -6397,7 +6395,7 @@ as intended, giving us the ability to believe in this code as law.
 <p align="center" width="100%">
 <img src="/images/image082.png?raw=true"
    alt="Blockchain Generalizations: Essential Properties #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Blockchains create a standardized platform for access and interaction.
@@ -6447,7 +6445,7 @@ benefiting themselves as well.
 <p align="center" width="100%">
 <img src="/images/image083.png?raw=true"
    alt="Blockchain Generalizations: Essential Properties #4"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Finally, the most abstract yet fundamental property of a good blockchain
@@ -6493,7 +6491,7 @@ persisting across nations.
 <p align="center" width="100%">
 <img src="/images/image084.png?raw=true"
    alt="Blockchain Generalizations: Essential Properties #5"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Now that we’ve finished talking about all the meaningful properties of
@@ -6586,7 +6584,7 @@ out on most of the benefits of decentralization.
 <p align="center" width="100%">
 <img src="/images/image085.png?raw=true"
    alt="Blockchain Generalizations: Essential Properties #6"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The main takeaway is that there are advantages to both centralized and
@@ -6640,7 +6638,7 @@ bring order to this ambiguous and uncertain space.
 <p align="center" width="100%">
 <img src="/images/image086.png?raw=true"
    alt="Initial Coin Offerings: ICO Schemas and Culture"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 An Initial Coin Offering, or “ICO,” is a novel, unregulated means of
@@ -6693,7 +6691,7 @@ We’ll see in a bit how much each industry has raised through ICOs.
 <p align="center" width="100%">
 <img src="/images/image087.png?raw=true"
    alt="What is an ICO? ICO Schemas and Culture"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Let’s take a deeper look at how ICOs innovate on previous fundraising
@@ -6736,7 +6734,7 @@ Let’s take a look at how ICOs might incentivize open-source development.
 <p align="center" width="100%">
 <img src="/images/image088.png?raw=true"
    alt="Aligning Incentives: What's Your Incentive?"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Open-source development is typically led by foundations, such as the
@@ -6773,7 +6771,7 @@ further increase in value.
 <p align="center" width="100%">
 <img src="/images/image089.png?raw=true"
    alt="ICO Schemas: What's Your Incentive?"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 What does the lifecycle of an ICO look like?
@@ -6872,7 +6870,7 @@ blockchain project!
 <p align="center" width="100%">
 <img src="/images/image090.png?raw=true"
    alt="Legal Uncertainty: ICO Schemas & Culture"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Legal uncertainty, as expected from so new a space, also permeates ICOs.
@@ -6913,7 +6911,7 @@ goods from the team.
 <p align="center" width="100%">
 <img src="/images/image091.png?raw=true"
    alt="Aligning Incentives: Incentive Misalignment"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Another caveat to consider is the reluctance or even inability of
@@ -6939,7 +6937,7 @@ term.
 <p align="center" width="100%">
 <img src="/images/image091b.png?raw=true"
    alt="Aligning Incentives: Solutions"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One proposed solution was for funds to be held in escrow, released only
@@ -6959,7 +6957,7 @@ This solution is not popularly used in ICOs.
 <p align="center" width="100%">
 <img src="/images/image092.png?raw=true"
    alt="ICO's A Double Edged Sword: ICO Schemas & Culture"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Recall, the purpose of an ICO is to remove regulatory bodies from the
@@ -7007,7 +7005,7 @@ accessibility to a larger set of investors, also come the consequences.
 <p align="center" width="100%">
 <img src="/images/image093.png?raw=true"
    alt="Limitatios of ICO's: ICO Schemas & Culture"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The new paradigm of ICOs don’t just have drawbacks for investors.
@@ -7039,7 +7037,7 @@ They do not come with the support that a VC can provide.
 <p align="center" width="100%">
 <img src="/images/image094.png?raw=true"
    alt="Limitatios of ICO's: ICO Schemas & Culture #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 This model of funding comes with many further drawbacks.
@@ -7088,7 +7086,7 @@ say: “be careful what you wish for.”
 <p align="center" width="100%">
 <img src="/images/image095.png?raw=true"
    alt="ICO Statistics"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In 2017, we saw ICOs overtake VCs as the most popular form of funding
@@ -7106,7 +7104,7 @@ VC.
 <p align="center" width="100%">
 <img src="/images/image095b.png?raw=true"
    alt="ICO Statistics"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In 2018, we saw even more raised through ICOs, totaling 20 billion
@@ -7130,7 +7128,7 @@ a funding mechanism, VC funding is starting to surge.
 <p align="center" width="100%">
 <img src="/images/image096.png?raw=true"
    alt="ICO Statistics"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 You’ll see in this slide the distribution of funding.
@@ -7170,7 +7168,7 @@ snapshot of present-day perception around the technology.
 <p align="center" width="100%">
 <img src="/images/image097.png?raw=true"
    alt="PAXOS in Practice: Assumptions & Real-World Use"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 With handling money come several significant measures to prevent illegal
@@ -7205,7 +7203,7 @@ the blockchain community diverges from regulation as much as possible.
 <p align="center" width="100%">
 <img src="/images/image098.png?raw=true"
    alt="Know Your Customer"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Know your Customer regulations are another kind of regulation imposed
@@ -7254,7 +7252,7 @@ serve audiences as large as possible.
 <p align="center" width="100%">
 <img src="/images/image099.png?raw=true"
    alt="Money Transmitter License"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Entities which deal with money transfer services or payment instruments
@@ -7285,7 +7283,7 @@ services enormously difficult.
 <p align="center" width="100%">
 <img src="/images/image100.png?raw=true"
    alt="Bitlicense: Issued by NYSDFS"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 If that weren’t enough, New York has a separate license exclusively for
@@ -7313,7 +7311,7 @@ obtain a BitLicense, being the 9th.
 <p align="center" width="100%">
 <img src="/images/image101.png?raw=true"
    alt="Bitcoin ETF: A Noteworthy Ruling"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 For a bit more perspective, let’s delve into some regulatory history.
@@ -7345,7 +7343,7 @@ this ruling confirms that.
 <p align="center" width="100%">
 <img src="/images/image102.png?raw=true"
    alt="Bitcoin ETF: A Noteworthy Ruling #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 This slide demonstrates key arguments against proposed ETFs and Mutual
@@ -7367,7 +7365,7 @@ as an underlying asset for financial products.
 <p align="center" width="100%">
 <img src="/images/image103.png?raw=true"
    alt="Perspectives: States"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Now that we’ve given some examples of regulation about cryptocurrencies,
@@ -7409,7 +7407,7 @@ legislation.
 <p align="center" width="100%">
 <img src="/images/image104.png?raw=true"
    alt="Perspectives: Global (good)"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 To put cryptocurrencies and blockchain further into perspective, let’s
@@ -7467,7 +7465,7 @@ blockchain.
 <p align="center" width="100%">
 <img src="/images/image105.png?raw=true"
    alt="Perspectives: Global (bad)"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In Bangladesh, it’s claimed that a lack of regulation by a central bank
@@ -7750,7 +7748,7 @@ fundamental systems scaling approaches and tradeoffs.
 <p align="center" width="100%">
 <img src="/images/image111.png?raw=true"
    alt="What is the Scalability Problem? Scalability Definition"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One property we look for when gauging the scalability of a blockchain
@@ -7772,7 +7770,7 @@ with a higher velocity.
 <p align="center" width="100%">
 <img src="/images/image112.png?raw=true"
    alt="What is the Scalability Problem? #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Another property we’re looking for is the speed with which we can update
@@ -7801,7 +7799,7 @@ wait an hour every morning to get my coffee.
 <p align="center" width="100%">
 <img src="/images/image113.png?raw=true"
    alt="What is the Scalability Problem? Another Consideration"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 And one side note: as we know, blockchain is a decentralized system.
@@ -7850,7 +7848,7 @@ blockchain systems keeping into account storage size.
 <p align="center" width="100%">
 <img src="/images/image114.png?raw=true"
    alt="Scalability: Trilemma"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Fundamentally, there’s a scalability trilemma here.
@@ -7898,7 +7896,7 @@ decentralization would take a hit.
 <p align="center" width="100%">
 <img src="/images/image115.png?raw=true"
    alt="Transaction Size: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 To understand all of that more, let’s look at further detail and do a
@@ -7918,7 +7916,7 @@ We can see that on average, Bitcoin transactions have a size of around
 <p align="center" width="100%">
 <img src="/images/image116.png?raw=true"
    alt="Max Transactions Per Second"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 And here, we have a similar graph, but for Bitcoin block size.
@@ -7932,7 +7930,7 @@ reflected in the graph.
 <p align="center" width="100%">
 <img src="/images/image117.png?raw=true"
    alt="Max Transactions Per Second #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Here’s a quick calculation based on the numbers we’ve collected so far
@@ -7960,7 +7958,7 @@ That’s not too hot.
 <p align="center" width="100%">
 <img src="/images/image118.png?raw=true"
    alt="TPS Comparisons: Bitcoin vs Modern Payments"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Compared with some other traditional payment systems, Bitcoin is way
@@ -7988,7 +7986,7 @@ That was the situation at hand.
 <p align="center" width="100%">
 <img src="/images/image119.png?raw=true"
    alt="Current Scalability: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Suppose we now want to make our transaction rate comparable to that of
@@ -8029,7 +8027,7 @@ sections.
 <p align="center" width="100%">
 <img src="/images/image120.png?raw=true"
    alt="Scaling Techniques: How Do We Scale?"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In terms of different techniques with which we can scale, there are two
@@ -8089,7 +8087,7 @@ Yep that’s right –– blockchains have layers.
 <p align="center" width="100%">
 <img src="/images/image121.png?raw=true"
    alt="Layers of Scaling: Blockchains have Layers"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 We’ll cover this part pretty quickly since it’s more insightful to see
@@ -8115,7 +8113,7 @@ and operation of the Ethereum blockchain.
 <p align="center" width="100%">
 <img src="/images/image122.png?raw=true"
    alt="Layers of Scaling: Blockchains have Layers"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 On the other hand, we have layer 2 scaling solutions, which push
@@ -8162,7 +8160,7 @@ scaling projects and active areas of research later on.
 <p align="center" width="100%">
 <img src="/images/image123.png?raw=true"
    alt="Naive Solution: Idea"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The first idea we have for a naive scaling solution is to increase the
@@ -8187,7 +8185,7 @@ we looked at earlier, right?
 <p align="center" width="100%">
 <img src="/images/image124.png?raw=true"
    alt="Naive Solution: Idea #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The main issue we have here if we decrease the difficulty of the
@@ -8213,7 +8211,7 @@ Let’s say that we halve the block time.
 <p align="center" width="100%">
 <img src="/images/image125.png?raw=true"
    alt="Naive Solution: Idea #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Firstly, decreasing block time means that the blockchain will grow
@@ -8231,7 +8229,7 @@ the same size, since we’re producing blocks twice as fast now.
 <p align="center" width="100%">
 <img src="/images/image126.png?raw=true"
    alt=" "
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Now, with the decreased block time, it’s also more likely that different
@@ -8272,7 +8270,7 @@ potential for double spends.
 <p align="center" width="100%">
 <img src="/images/image127.png?raw=true"
    alt="Naive Solution Revisited: Cons Size"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 What we were trying to do with our naive scaling solution was to
@@ -8292,7 +8290,7 @@ a look at with a more constructive outlook?
 <p align="center" width="100%">
 <img src="/images/image128.png?raw=true"
    alt=" "
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Recall that another problem with the naive solution was that there were
@@ -8318,7 +8316,7 @@ How do we avoid wasting all of this work?
 <p align="center" width="100%">
 <img src="/images/image129.png?raw=true"
    alt="Ghost: Idea"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Instead of just increasing the speed of blocks and doing nothing else,
@@ -8358,7 +8356,7 @@ reduce the overhead of communicating with pools anyways.
 <p align="center" width="100%">
 <img src="/images/image130.png?raw=true"
    alt="Ghost: Ethereum Average Block Time"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Ethereum had a period when it had 17 second block times, but now it’s
@@ -8381,7 +8379,7 @@ in Bitcoin.
 <p align="center" width="100%">
 <img src="/images/image131.png?raw=true"
    alt="Blocksize Increase: Idea"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Another vertical scaling alternative we can achieve by adjusting system
@@ -8419,7 +8417,7 @@ less reward.
 <p align="center" width="100%">
 <img src="/images/image132.png?raw=true"
    alt="Blocksize Increase: Cons"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Another issue that might come up after implementing block size increase
@@ -8445,7 +8443,7 @@ block size.
 <p align="center" width="100%">
 <img src="/images/image133.png?raw=true"
    alt="Blocksize Increase: Cons #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Yet another con is that of longer propagation times.
@@ -8468,7 +8466,7 @@ block to reach them.
 <p align="center" width="100%">
 <img src="/images/image134.png?raw=true"
    alt="Decrease Transaction Size: Idea"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Another alternative we mentioned earlier was that of decreasing the size
@@ -8493,7 +8491,7 @@ which are SegWit and recursive SNARKs.
 <p align="center" width="100%">
 <img src="/images/image135.png?raw=true"
    alt="Segregated Witness: Idea"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 SegWit is short for Segregated Witness, and was originally created to
@@ -8530,7 +8528,7 @@ From previous sections, we saw that transaction size is on average about
 <p align="center" width="100%">
 <img src="/images/image136.png?raw=true"
    alt="Segregated Witness: Avoid Hard Fork"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The idea for SegWit was to move the signatures to a separate add-on
@@ -8553,7 +8551,7 @@ Assuming the signatures are valid, then the transaction is valid.
 <p align="center" width="100%">
 <img src="/images/image137.png?raw=true"
    alt="Segregated Witness: Avoid Hard Fork #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Old nodes on the other hand would find these new scriptPubKeys and think
@@ -8580,7 +8578,7 @@ SegWit is compatible as a soft fork.
 <p align="center" width="100%">
 <img src="/images/image138.png?raw=true"
    alt="Segregated Witness: Mirror Signature Tree"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One issue now though is that because we segregated signatures from other
@@ -8593,7 +8591,7 @@ correct signatures were included in their respective transactions!
 <p align="center" width="100%">
 <img src="/images/image139.png?raw=true"
    alt="Segregated Witness: Mirrow Signature Tree #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 To fix this, Segwit also comes with a change to the regular merkle tree
@@ -8614,7 +8612,7 @@ beautiful properties of tamper evidence.
 <p align="center" width="100%">
 <img src="/images/image140.png?raw=true"
    alt="Segregated Witness: Pros and Cons"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The pros and cons of SegWit.
@@ -8674,7 +8672,7 @@ transactions we want to represent.
 <p align="center" width="100%">
 <img src="/images/image141.png?raw=true"
    alt="Segregated Witness: Pros and Cons #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 As for cons, we know that SegWit is only a one time linear capacity
@@ -8709,7 +8707,7 @@ And finally, SegWit isn’t the only way to fix transaction malleability.
 <p align="center" width="100%">
 <img src="/images/image143.png?raw=true"
    alt="Bitcoin and Bitcoin Cash"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 So as the Bitcoin scalability debate reached its climax, Bitcoin split
@@ -8725,7 +8723,7 @@ This was on August 1st, 2017, at block number 478,558.
 <p align="center" width="100%">
 <img src="/images/image144.png?raw=true"
    alt="Recursize Snarks Scalability: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The next on-chain vertical scalability topic we’ll cover hinges on the
@@ -8750,7 +8748,7 @@ your user’s identities are compromised.
 <p align="center" width="100%">
 <img src="/images/image145.png?raw=true"
    alt="Recursize Snarks Scalability: Idea"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Instead, websites usually store a hash of your password instead.
@@ -8788,7 +8786,7 @@ That’s the main idea of zk-SNARKS
 <p align="center" width="100%">
 <img src="/images/image147.png?raw=true"
    alt="Recursize Snarks Scalability: Improvements"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 And it gets better; we can introduce a recursive structure!
@@ -8819,7 +8817,7 @@ For some closing thoughts, let’s look back at our previous slide.
 <p align="center" width="100%">
 <img src="/images/image147.png?raw=true"
    alt="Recursize Snarks Scalability: Drawbacks"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Back to Alice and Bob, Alice generates a proof that she can send a valid
@@ -8835,7 +8833,7 @@ proof in milliseconds.
 <p align="center" width="100%">
 <img src="/images/image148b.png?raw=true"
    alt="Recursize Snarks Scalability: Drawbacks #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 However, there do exist some pretty big drawbacks.
@@ -8860,7 +8858,7 @@ blockchains.
 <p align="center" width="100%">
 <img src="/images/image149.png?raw=true"
    alt="Now What? Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 We’ve been playing with a bunch of parameters, such as block size, size
@@ -8911,7 +8909,7 @@ scaling by thinking off chain.
 <p align="center" width="100%">
 <img src="/images/image150.png?raw=true"
    alt="Recall Bitcoin Transactions: Issue with Bitcoin Payments"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 We’ve been referring back to Bitcoin a lot since it’s one of the oldest
@@ -8932,7 +8930,7 @@ winter 2018, becoming insanely high.
 <p align="center" width="100%">
 <img src="/images/image151.png?raw=true"
    alt="Recall Bitcoin Transactions: Issue with Bitcoin Payments #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Here’s a graph of the daily transaction fees in US dollars per
@@ -8972,7 +8970,7 @@ Alice and Bob.
 <p align="center" width="100%">
 <img src="/images/image152.png?raw=true"
    alt="payment channel buildup: private channels"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 How would we actually implement a private payment channel between Alice
@@ -9004,7 +9002,7 @@ confirmation times of regular on chain transactions.
 <p align="center" width="100%">
 <img src="/images/image153.png?raw=true"
    alt="payment channel buildup: private channels #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 This is how Alice and Bob’s payment channel would look like.
@@ -9034,7 +9032,7 @@ in a payment channel can cheat the other.
 <p align="center" width="100%">
 <img src="/images/image154.png?raw=true"
    alt="payment channel buildup: idea"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In blockchain, we call them payment channels, but we generally also mean
@@ -9063,7 +9061,7 @@ for not cheating.
 <p align="center" width="100%">
 <img src="/images/image155.png?raw=true"
    alt="payment channel payments: blockchain fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Let’s walk through a short little demo for a payment on a payment
@@ -9096,7 +9094,7 @@ large number of blocks, say 1000 blocks.
 <p align="center" width="100%">
 <img src="/images/image156.png?raw=true"
    alt="Payment Channel Payments: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Say Alice pays Bob 3 bitcoins.
@@ -9134,7 +9132,7 @@ prevent cheating.
 <p align="center" width="100%">
 <img src="/images/image157.png?raw=true"
    alt="Payment Channel Conclusions: Goals Reached"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Now some key observations from our payment channel demo, and of payment
@@ -9180,7 +9178,7 @@ There remain some issues though.
 <p align="center" width="100%">
 <img src="/images/image158.png?raw=true"
    alt="payment channel conclusions: issues"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Firstly, both participants Alice and Bob need to have capital locked up
@@ -9226,7 +9224,7 @@ send him money.
 <p align="center" width="100%">
 <img src="/images/image158.png?raw=true"
    alt="payment channel conclusions: issues #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In the last video, we saw that if Alice and Bob have a payment channel,
@@ -9246,7 +9244,7 @@ she can send him money.
 <p align="center" width="100%">
 <img src="/images/image160.png?raw=true"
    alt="lightning network: blockchain fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 This is an example of what a payment channel network would look like.
@@ -9262,7 +9260,7 @@ Eve, then finally to Charlie.
 <p align="center" width="100%">
 <img src="/images/image161.png?raw=true"
    alt=" "
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The main problem we have to address here is that of security.
@@ -9337,7 +9335,7 @@ literally have tens of thousands of tps with the Lightning Network.
 <p align="center" width="100%">
 <img src="/images/image162.png?raw=true"
    alt=" "
-   width="65%" />
+   style="width:65%" />
 </p>
 
 As great as the Lightning Network sounds, of course we have some
@@ -9389,7 +9387,7 @@ the Lightning Network for Bitcoin.
 <p align="center" width="100%">
 <img src="/images/image163.png?raw=true"
    alt=" "
-   width="65%" />
+   style="width:65%" />
 </p>
 
 There’s also a comparable technology for Ethereum, called Raiden.
@@ -9428,7 +9426,7 @@ scaling solutions in more ambitious diagonal scaling solutions.
 <p align="center" width="100%">
 <img src="/images/image164.png?raw=true"
    alt="Sharding: Idea"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One way databases have traditionally been horizontally scaled is through
@@ -9484,7 +9482,7 @@ creates a scalability bottleneck.
 <p align="center" width="100%">
 <img src="/images/image165.png?raw=true"
    alt="Sharding: idea #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In the case of blockchain, sharding could be used to eliminate the
@@ -9527,7 +9525,7 @@ currently actively being researched.
 <p align="center" width="100%">
 <img src="/images/image166.png?raw=true"
    alt="Sharding: Idea #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Especially within the Ethereum research community, there’ve been efforts
@@ -9566,7 +9564,7 @@ correct operation if a single shard has been taken over.
 <p align="center" width="100%">
 <img src="/images/image167.png?raw=true"
    alt="Sidechains: Bitcoin Sidechains"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 On a similar note, there’s also the idea of creating side chains.
@@ -9598,7 +9596,7 @@ a compromised chain.
 <p align="center" width="100%">
 <img src="/images/image168.png?raw=true"
    alt="Sidechains: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 And here’s an idea of how sidechain networks would look like.
@@ -9661,7 +9659,7 @@ masses.
 <p align="center" width="100%">
 <img src="/images/image169.png?raw=true"
    alt="Diagonal Scaling: the Fourth State"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Having discussed both vertical and horizontal scaling solutions, let’s
@@ -9685,7 +9683,7 @@ as an arbiter in the case of dispute.
 <p align="center" width="100%">
 <img src="/images/image170.png?raw=true"
    alt="Diagonal Scaling: the Fourth State #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 A user’s interaction with Plasma might be as follows.
@@ -9722,7 +9720,7 @@ the source of truth.
 <p align="center" width="100%">
 <img src="/images/image171.png?raw=true"
    alt="Diagonal Scaling: the Fourth State #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Plasma is being developed by Blockchain at Berkeley’s FourthState Labs.
@@ -9749,7 +9747,7 @@ implementation on Cosmos.
 <p align="center" width="100%">
 <img src="/images/image172.png?raw=true"
    alt="Diagonal Scaling: the Fourth State #4"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Here’s a picture of our team getting a well deserved shoutout at the 4th
@@ -9769,7 +9767,7 @@ sense of modularity.
 <p align="center" width="100%">
 <img src="/images/image173.png?raw=true"
    alt="Diagonal Scaling: Internet of Blockchains"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Plasma is one component of the larger scalability ecosystem.
@@ -9785,7 +9783,7 @@ especially opens up the door for interoperability.
 <p align="center" width="100%">
 <img src="/images/image212.png?raw=true"
    alt="Diagonal Scaling: Internet of Blockchains #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Before introducing Cosmos from the scalability perspective, it’s nice to
@@ -9823,7 +9821,7 @@ language, etc.
 <p align="center" width="100%">
 <img src="/images/image175.png?raw=true"
    alt="Diagonal Scaling: Internet of Blockchains #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Then, with the advent of Ethereum, writing blockchain applications
@@ -9847,7 +9845,7 @@ with the ABCI, or application blockchain interface.
 <p align="center" width="100%">
 <img src="/images/image176.png?raw=true"
    alt="Diagonal Scaling: Internet of Blockchains #4"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 An advantage of this modular design is that of flexibility, which lends
@@ -9866,7 +9864,7 @@ network itself.
 <p align="center" width="100%">
 <img src="/images/image215.png?raw=true"
    alt="Diagonal Scaling: Internet of Blockchains #5"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 We won’t dive too in depth here, but the general topology of the Cosmos
@@ -9885,7 +9883,7 @@ payment blockchains, or a full fledged port of Ethereum onto Tendermint.
 <p align="center" width="100%">
 <img src="/images/image178.png?raw=true"
    alt="Blockchain Scalability: Alternative Consensus"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 With consideration of blockchain ecosystem rearchitecting, such as with
@@ -9912,7 +9910,7 @@ your own research in this.
 <p align="center" width="100%">
 <img src="/images/image179.png?raw=true"
    alt="Scalability Summary: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Let’s take a moment to reflect on what we’ve learned this week.
@@ -9935,7 +9933,7 @@ all factors in community adoption – the ultimate goal, really.
 <p align="center" width="100%">
 <img src="/images/image180.png?raw=true"
    alt="Scalability Summary: Generalizations"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Upon understanding the scaling problem, we saw some fundamental ways to
@@ -9986,7 +9984,7 @@ stated that scalability is just one aspect of blockchain functionality.
 <p align="center" width="100%">
 <img src="/images/image181.png?raw=true"
    alt="Scalability Trilemma, revisited"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Perhaps a blockchain would rather focus on security or decentralization,
@@ -10004,7 +10002,7 @@ blockchain trust structures.
 <p align="center" width="100%">
 <img src="/images/image182.png?raw=true"
    alt="Scalability Summary: Quick Categorization"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Again to summarize what we’ve learned, let’s tie back to the two main
@@ -10024,7 +10022,7 @@ Let’s step through all of the scaling solutions we learned.
 <p align="center" width="100%">
 <img src="/images/image183.png?raw=true"
    alt="Scalability Summary: Quick Categorization #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 First, we tried tuning on-chain parameters for vertical scaling.
@@ -10123,7 +10121,7 @@ blockchains.
 <p align="center" width="100%">
 <img src="/images/image184.png?raw=true"
    alt="Scalability Summary: Quick Categorization #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 And finally, with Tendermint’s integration within the Cosmos network and
@@ -10159,7 +10157,7 @@ there are the blockchain-specific scaling classifications: layer 1
 <p align="center" width="100%">
 <img src="/images/image185.png?raw=true"
    alt="TPS Calculation Equations"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Bitcoin processes less than 10 transactions per second, and without any
@@ -10191,7 +10189,7 @@ the time to propagate a block remains the same.
 <p align="center" width="100%">
 <img src="/images/image186.png?raw=true"
    alt="Time to broadcast block fixed while block creation time decreases"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Ethereum has dealt with this problem historically by employing the GHOST
@@ -10267,7 +10265,7 @@ payment channels
 <p align="center" width="100%">
 <img src="/images/image187.png?raw=true"
    alt="Payment Channel Network. Alice to Bob to Eve to Charlie"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In the diagram above, Alice can pay Charlie without having a payment
@@ -10319,7 +10317,7 @@ Here is an example of a sidechain setup:
 <p align="center" width="100%">
 <img src="/images/image188.png?raw=true"
    alt="Sidechains"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Source: [https://blockstream.com/technology/ ](https://blockstream.com/technology/ )
@@ -10363,7 +10361,7 @@ vertically or horizontally.
 <p align="center" width="100%">
 <img src="/images/image189.png?raw=true"
    alt="Vertical and Horizontal, Layer 1 and Layer 2 scaling solutions"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 <h3>Readings (Week 4)</h3>
@@ -10479,7 +10477,7 @@ how much information they reveal about their real identity.
 <p align="center" width="100%">
 <img src="/images/image190.png?raw=true"
    alt="Anonymity Basics: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 When thinking of anonymity, your mind might jump to secret
@@ -10510,7 +10508,7 @@ Imagine it’s just any other day.
 <p align="center" width="100%">
 <img src="/images/image191.png?raw=true"
    alt="Is Anonymity Only for Drugs? Splitting the Bill"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 You’re with your friend at McDonald’s ordering food, and it’s time to
@@ -10553,7 +10551,7 @@ too.
 <p align="center" width="100%">
 <img src="/images/image192.png?raw=true"
    alt="Is Anonymity Only for Drugs?  Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Now let’s consider a more drastic example.
@@ -10575,7 +10573,7 @@ your transaction history and financial standing put you in danger.
 <p align="center" width="100%">
 <img src="/images/image193.png?raw=true"
    alt="Cypherpunk Movement: Bitcoin's Genesis"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Taking a step back, we can look at the origin of Bitcoin and blockchain
@@ -10603,7 +10601,7 @@ They allowed anyone to store the blockchain.
 <p align="center" width="100%">
 <img src="/images/image194.png?raw=true"
    alt="Recordkeeping: Everyone's the Bank"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 What this means though is that everyone has everyone’s data.
@@ -10622,7 +10620,7 @@ can be exposed to their detriment.
 <p align="center" width="100%">
 <img src="/images/image195.png?raw=true"
    alt="Anonymity Basics: Blockchains are Not Anonymous"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 It’s clear that blockchains are not anonymous by default.
@@ -10653,7 +10651,7 @@ Most blockchains are not anonymous.
 <p align="center" width="100%">
 <img src="/images/image196.png?raw=true"
    alt="Anonymity Basics: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Instead, most blockchains are pseudonymous.
@@ -10664,7 +10662,7 @@ Instead, most blockchains are pseudonymous.
 <p align="center" width="100%">
 <img src="/images/image197.png?raw=true"
    alt="Anonymity Basics: Blockchain and Not Anonymous"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In most blockchains, we use a publicly viewable but arbitrary
@@ -10702,7 +10700,7 @@ Therefore, most blockchains, including Bitcoin, are pseudonymous.
 <p align="center" width="100%">
 <img src="/images/image198.png?raw=true"
    alt="Anonymity Basics: Linking"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In Bitcoin, and some other blockchain platforms, it’s generally best
@@ -10730,13 +10728,13 @@ This does introduce the slight hitch that one would have to keep track
 of each of these identities, but that can be easily resolved using
 wallet software, which often performs this by default.
 
-<!------------------------------------------------------------------------------------------------>
-<!--------------------------- 199. anonymity basics: linking #2 (306) ---------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 199. anonymity basics: linking #2 (306) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image199.png?raw=true"
-   alt="Anonymity Basics: Linking #2"
-   width="65%" />
+  title="Anonymity Basics: Linking #2"
+  alt="Anonymity Basics: Linking #2."
+  style="width:65%" />
 </p>
 
 Just generate a new address every time you receive any cryptocurrency,
@@ -10750,13 +10748,13 @@ And that’s because Ethereum is account based, not UTXO based.
 In Bitcoin, you could just generate a new address per UTXO every time
 you receive Bitcoin.
 
-<!------------------------------------------------------------------------------------------------>
-<!----------------------- 200. anonymity and ethics: why anonymity? (307) ------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 200. anonymity and ethics: why anonymity? (307) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image200.png?raw=true"
-   alt="Anonymity and Ethics: Why Anonymity?"
-   width="65%" />
+  title="Anonymity and Ethics: Why Anonymity?"
+  alt="Anonymity and Ethics: Why Anonymity?"
+  style="width:65%" />
 </p>
 
 It’s much harder to do that in Ethereum and other account based
@@ -10765,26 +10763,25 @@ blockchains.
 Unfortunately, it turns out that basic analysis renders this technique
 of regenerating pseudonyms ineffective.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------------- 201. anonymity basics: linking (307) ------------------------------>
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image201.png?raw=true"
-   alt="Anonymity Basics: Linking"
-   width="65%" />
+  title="Anonymity Basics: Linking"
+  alt="Anonymity Basics: Linking."
+  style="width:65%" />
 </p>
 
 Similar to a lock on a front door, generating new pseudonyms for every
 transaction does keep away naive attackers, but a determined opponent
 can probably find a way to link your activity together.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--------------------------- 202. anonymity basics: linking #2 (308) ---------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image202.png?raw=true"
    alt="Anonumity Basics: Linking #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The term “linking” in the context of anonymity is the act of associating
@@ -10810,13 +10807,12 @@ deanonymize them.
 
 But see, that’s the catch.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-------------------- 203. anonymity basics: blockchain fundamentals (309) ---------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image203.png?raw=true"
    alt="Anonymity Basics: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The underlying technology might be anonymous or pseudonymous, but we
@@ -10826,13 +10822,12 @@ People make mistakes – especially your every day normal person, who
 isn’t going out of their way to do all they can to possibly ensure their
 privacy.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--------------------- 204. anonymity and ethics: levels of anonymity? (309) -------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image204.png?raw=true"
    alt="Anonymity and Ethics: Levels of Anonymity"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 What we like to say is that anonymity is not absolute – not a clear yes
@@ -10849,13 +10844,12 @@ achieved privacy.
 
 But again, why do we care about having a higher degree of anonymity?
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!----------------------- 200. anonymity and ethics: why anonymity? (310) ----------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image200.png?raw=true"
    alt="Anonymity and Ethics: Why Anonymity?"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 To deal with the question again of how anonymous cryptocurrencies can
@@ -10895,13 +10889,12 @@ reporters in oppressive regimes.
 
 We leave further contemplation for you to do yourself.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!----------------------- 205. anonymity basics: a slight paradox (311) -------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image205.png?raw=true"
    alt="Deanonymization: A Slight Paradox"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 To round out our brief introduction as to why we might want anonymity in
@@ -10951,36 +10944,33 @@ deanonymization tactics to design resistances to enhance user privacy.
 
 <h3>Deanonymization</h3>
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-------------------- 206. anonymity basics: blockchain fundamentals (313) ---------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image206.png?raw=true"
    alt="Anonymity Basics: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The big concern about decentralization that we look at in regards to
 deanonymization is that now, we can go back in the blockchain’s history
 to reveal information about a particular pseudonym.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------- 207. deanonymization: transaction graph analysis (313) --------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image207.png?raw=true"
    alt="Deanonymization: Transaction Graph Analysis"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 That’s the goal of deanonymization, or linking
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------ 208. deanonymization: transaction graph analysis @2 (314) ------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image208.png?raw=true"
    alt="Deanonymization: Transaction Graph Analysis #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One way we can achieve this – which we alluded to earlier – is by
@@ -10997,13 +10987,12 @@ From a transaction graph, you might be able to see some pseudonyms make
 transactions more than others, or are paid more than others, or perhaps
 make certain transactions with certain other pseudonyms.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------- 209. deanonymization: transaction graph analysis (315) --------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image209.png?raw=true"
    alt="Deanonymization: Transaction Graph Analysis #3"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One way of analyzing the transaction graph is by clustering, or
@@ -11175,13 +11164,12 @@ This is simply an intellectual exercise to understand how it may be
 possible to anonymize your funds to make it more difficult for someone
 else to track your activity.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------------- 210. mixing: money laundering basics  (319) -------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image210.png?raw=true"
-   alt="Mixing: Money Laundering Basics"
-   width="65%" />
+  alt="Mixing: Money Laundering Basics"
+  style="width:65%" />
 </p>
 
 To better understand mixing’s mechanics, we’re going to examine a
@@ -11370,13 +11358,12 @@ especially if done repeatedly.
 
 <h3>Decentralized Mixing</h3>
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--------------------- 211. decentralized mining: can this be done? (324) ----------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image211.png?raw=true"
    alt="Decentralized Mining: Can This be Done?"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Thus far, our proposed solutions have leveraged either a single
@@ -11633,13 +11620,12 @@ plausible deniability and security.
 
 <h3>Fair Exchange Mixers</h3>
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------ 212. fair exchange mixers - blockchain fundamentsls (331) ------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image212.png?raw=true"
    alt="Fair Exchange Mixers: Blockchain Fundamentals"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Fair exchange mixers are a different category of mixer.
@@ -11758,13 +11744,13 @@ technologies they are built upon to protect their users.
 
 <h3>Privacy Focused Altcoins</h3>
 
-<!------------------------------------------------------------------------------------------------>
-<!---------------------------------- 213. coinjoin dash (334) ------------------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213. coinjoin dash (334) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image213.png?raw=true"
-   alt="CoinJoin Dash: Privacy Focused AltCoins"
-   width="65%" />
+  title="CoinJoin Dash: Privacy Focused AltCoins"
+  alt="CoinJoin Dash: Privacy Focused AltCoins."
+  style="width:65%" />
 </p>
 
 DASH, formerly known as DarkCoin, is a privacy focused cryptocurrency
@@ -12172,13 +12158,13 @@ face as a conclusion for the last three lectures.
 
 <h3>Advanced Anonymity & Generalizations</h3>
 
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------------- 214. mimblewimble (345) ------------------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. mimblewimble (345) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image214.png?raw=true"
-   alt="Mimblewimble: Another  Pseudonymous Proposal"
-   width="65%" />
+  title="Mimblewimble: Another Pseudonymous Proposal"
+  alt="Mimblewimble: Another Pseudonymous Proposal."
+  style="width:65%" />
 </p>
 
 In traditional cypherpunk fashion, there was a proposal published in
@@ -12372,13 +12358,13 @@ One technique is <b>Transaction Graph Analysis</b>, the process of
 constructing a <b>transaction graph</b> (pictured below) where each node is
 a pseudonym and each edge is a transaction conducted between pseudonyms.
 
-<!------------------------------------------------------------------------------------------------>
-<!----------------------- 215. crypto transactions in the network (350) -------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 215. crypto transactions in the network (350) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image215.jpg?raw=true"
-   alt="The transaction graph shows the crypto transactions in the network. Satoshi, Mt Gox and silk road are nodes where most edges are connected to."
-   width="65%" />
+  title="The transaction graph shows the crypto transactions in the network. Satoshi, Mt Gox and silk road are nodes where most edges are connected to"
+  alt="The transaction graph shows the crypto transactions in the network. Satoshi, Mt Gox and silk road are nodes where most edges are connected to."
+  style="width:65%" />
 </p>
 
 This graph can be analyzed by <b>clustering</b>, or attributing a group of
@@ -12416,9 +12402,8 @@ with real-world identities.
     coins unless there are enough clean coins being cycled through the
     slush fund.
 
-<!------------------------------------------------------------------------------------------------>
-<!--------------------------- 216. centralized mixing service (351) ------------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 216. centralized mixing service (351) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image216.png?raw=true"
    alt="Alice dirty input 1 BTC into the centralized mixing service. And the Mixer sends cleaned funds after random waiting period. So Alice will get 0.9 BTC as the output(0.1 is the &quot;cleanning fee&quot;)"
@@ -12626,13 +12611,12 @@ this section we will review the culmination of all of our learning.
 
 <h4>CS198.1x Bitcoin and Cryptocurrencies</h4>
 
-<!------------------------------------------------------------------------------------------------>
-<!--------------- 217. bitcoin protocol & consensus: a high-level overview (356) ----------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 217. bitcoin protocol & consensus: a high-level overview (356) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image217.png?raw=true"
    alt="Bitcoin Protocol & Consensus: A High-Level Overview"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 You’ve done it!
@@ -13044,13 +13028,12 @@ That concluded the first half of the program.
 
 <h3>CS198.2x Blockchain Technology</h3>
 
-<!------------------------------------------------------------------------------------------------>
-<!--------------- 218. trust without trust: distributed systems & consensus (366) ---------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 218. trust without trust: distributed systems & consensus (366) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image218.png?raw=true"
    alt="Trust Without Trust: Distributed Systems & Consensus"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 In our second course CS198.2x we decided to take a huge step back to
@@ -13460,13 +13443,12 @@ get involved in the blockchain space yourself.
 
 <h3>People’s Pick: Cryptocurrency Mining</h3>
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------------------- 219. scratching the itch (377) --------------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image219.png?raw=true"
    alt="Scratching the Itch"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 Throughout our offerings of both courses in the Blockchain Fundamentals
@@ -13482,13 +13464,12 @@ Mining cryptocurrency at first may sound like printing money, or money
 growing from digital trees, but there are some things that need to be
 considered.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------------------ 220. scratching the itch #2 (377) ------------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image220.png?raw=true"
    alt="Scratching the Itch #2"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 First of all, one ought to choose profitable hardware; the older stuff
@@ -13529,13 +13510,12 @@ Optimizing hardware costs == The goal of the average cryptocurrency
 miner is similar to that of a traditional business man: to minimize time
 to break even, and maximize return on investment.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------------- 221. optimizing hardware costs (379) ------------------------------>
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image221.png?raw=true"
    alt="Optimizing Hardware Costs"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 One of the ways to do this is to optimize hardware costs on the assets
@@ -13568,13 +13548,12 @@ Overheated components perform poorly, and pose as risks as fire hazards.
 
 Hence, it’s crucial to keep your cards cool.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------------- 222. optimizing hardware costs (380) ------------------------------>
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image222.png?raw=true"
    alt="Optimizing Hardware Costs"
-   width="65%" />
+   style="width:65%" />
 </p>
 
 The non-essentials of a mining rig are all the components that are not
@@ -13599,13 +13578,13 @@ mining rig as well.
 
 It doesn’t need to look pretty, it just needs to get you paid.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!----------------------- 223. software - nicehash, multipoolminer (381) ------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image223.png?raw=true"
-   alt="Sofware Options: Nicehash, MultiPoolMiner"
-   width="65%" />
+  title="Sofware Options: Nicehash, MultiPoolMiner"
+  alt="Sofware Options: Nicehash, MultiPoolMiner."
+  style="width:65%" />
 </p>
 
 Now onto software ==== In terms of software for mining, some common
@@ -13632,13 +13611,13 @@ We would not recommend for anyone new to the game.
 Return on Investment == As we alluded to earlier, break even time is
 generally a good metric to measuring successful cryptocurrency mining.
 
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------- 224. roi and break-even time (382) ------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224. roi and break-even time (382) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image224.png?raw=true"
-   alt="ROI and Break-Even Time"
-   width="65%" />
+  title="ROI and Break-Even Time"
+  alt="ROI and Break-Even Time."
+  style="width:65%" />
 </p>
 
 Ideally, every business endeavor wants to minimize the time until
@@ -13793,34 +13772,31 @@ This is just an imaginative venture for fun, so please don’t take it too
 seriously or concern yourself with details.
 
 Let’s start with the utopia.
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------- 225. utopian blockchain world: #1 (386) ----------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 225. utopian blockchain world: #1 (386) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image225.png?raw=true"
-   alt="Utopian Blockchain World"
-   width="65%" />
+  alt="Utopian Blockchain World #1"
+  alt="Utopian Blockchain World #1."
+  style="width:65%" />
 </p>
 
-You leave the apartment where you spent the night, and as you leave,
-sensors detect your departure and Slock.it’s smart contract pays back
-your security deposit.
+You leave the apartment where you spent the night, and as you leave, sensors 
+detect your departure and it’s smart contract pays back your security deposit.
 
-You order a coffee on your smartphone and as you pull up your payment, a
-notification pops up.
-
-It’s a reminder to extend your payment channel with the global lightning
-network.
+You order a coffee on your smartphone and as you pull up your payment, a 
+notification pops up. It’s a reminder to extend your payment channel with the 
+global lightning network.
 
 Since it’s all secure and doesn’t cost you any money anyway, you decide
 to extend your payment channel for another 20 years.
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------- 226. utopian blockchain world: #2 (387) ----------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 226. utopian blockchain world: #2 (387) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image226.png?raw=true"
-   alt="Utopian Blockchain World #2"
-   width="65%" />
+  title="Utopian Blockchain World #2"
+  alt="Utopian Blockchain World #2."
+  style="width:65%" />
 </p>
 
 You call ‘your’ car, but it’s not really yours; it’s plugged into an
@@ -13831,13 +13807,13 @@ The cars have no owner and instead run entirely on smart contracts.
 Using their collective income, they pay for recharging themselves,
 maintenance and insurance.
 
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------- 227. utopian blockchain world: #3 (387) ----------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 227. utopian blockchain world: #3 (387) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image227.png?raw=true"
-   alt="Utopian Blockchain World #3"
-   width="65%" />
+  title="Utopian Blockchain World #3"
+  alt="Utopian Blockchain World #3."
+  style="width:65%" />
 </p>
 
 Accidents are rare, but when they do happen, the insurance agency
@@ -13858,13 +13834,13 @@ Except your work isn’t really work - it’s all voluntary because the
 blockchain ensures a universal basic income for everyone, and you’re a
 climate scientist primarily because you want to help push the boundaries
 of human knowledge.
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------- 228. utopian blockchain world: #4 (388) ----------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 228. utopian blockchain world: #4 (388) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image228.png?raw=true"
-   alt="Utopian Blockchain World #4"
-   width="65%" />
+  title="Utopian Blockchain World #4"
+  alt="Utopian Blockchain World #4."
+  style="width:65%" />
 </p>
 
 Your company isn’t really a company either - it’s a decentralized
@@ -13875,13 +13851,13 @@ worldwide oracle network, and who can exit their contract at any time.
 
 Your company itself receives revenue over time as measured by the net
 benefit to society your research brings.
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------- 229. utopian blockchain world: #5 (389) ----------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 229. utopian blockchain world: #5 (389) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image229.png?raw=true"
-   alt="Utopian Blockchain World #5"
-   width="65%" />
+  title="Utopian Blockchain World #5"
+  alt="Utopian Blockchain World #5."
+  style="width:65%" />
 </p>
 
 Your latest research provides strong evidence that the efforts to reduce
@@ -13896,13 +13872,13 @@ of their published research on the blockchain.
 A global democratic DAO decides this issue is important enough to
 provide further incentives for countries to meet their new carbon
 emission targets.
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------- 230. utopian blockchain world: #6 (390) ----------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 230. utopian blockchain world: #6 (390) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image230.png?raw=true"
-   alt="Utopian Blockchain World #6"
-   width="65%" />
+  title="Utopian Blockchain World #6"
+  alt="Utopian Blockchain World #6."
+  style="width:65%" />
 </p>
 
 Thanks to the fair democracy enabled by the DAO, the planet is saved and
@@ -14003,7 +13979,7 @@ Everyone is reliant on Universal Basic Income and as this gets reduced
 over time, the people have no choice but to spend their lives being a
 slave to Amazon.
 
-Intro: Get Involved</h3>
+<h3>Intro: Get Involved</h3>
 
 Blockchain Fundamentals was designed to give you a brief survey into the
 field of cryptocurrencies, blockchain and related technologies.
@@ -14025,13 +14001,13 @@ This section will be a quick roadmap explaining the opportunities in the
 field.
 
 <h3>Getting Involved</h3>
-<!------------------------------------------------------------------------------------------------>
-<!----------------- 231. getting involved in blockchain: jobs, jobs, jobs (393) ------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 231. getting involved in blockchain: jobs, jobs, jobs (393) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image231.png?raw=true"
-   alt="Getting Involved in Blockchain: Jobs, Jobs, Jobs!"
-   width="65%" />
+  title="Getting Involved in Blockchain: Jobs, Jobs, Jobs!"
+  alt="Getting Involved in Blockchain: Jobs, Jobs, Jobs!"
+  style="width:65%" />
 </p>
 
 About getting involved in the blockchain space.
@@ -14097,11 +14073,10 @@ lists, chat rooms, and even organized meetups – all from the discussion
 boards. Such student-created resources are not official resources, but
 we encourage decentralization!
 
-We have ported all of our educational materials over to our [Blockchain
-Fundamentals edX YouTube
-channel](https://www.youtube.com/channel/UCqeIoMMTKl9PK9O8BcEpNhQ) , for
-your quick reference in the future. Feel free to share video links with
-your friends and peers.
+We have ported all of our educational materials over to our 
+<a href="https://www.youtube.com/channel/UCqeIoMMTKl9PK9O8BcEpNhQ">
+Blockchain Fundamentals edX YouTube channel</a> , for your quick reference in 
+the future. Feel free to share video links with your friends and peers.
 
 Now that you have finished this course, here are a list of other
 Blockchain at Berkeley resources.
@@ -14110,21 +14085,13 @@ Some of you may have discovered these during the course run:
 
 <ul>
   <li><a href="https://blockchain.berkeley.edu/">Blockchain at Berkeley website</a><br/></li>
-  
   <li>Mailing list, located at the bottom of the website linked above</li>
-  
   <li><a href="https://discordapp.com/invite/7t7W3Xc">Discord chat</a></li>
-
   <li><a href="https://learnblockcha.in/">Not Found: Blockchain for Developers course (Spring 2018)</a></b></li>
-
   <li><a href="https://blockchainatberkeley.blog/">Blog</a></li>
-
   <li><a href="https://www.youtube.com/feed/subscriptions/UC5sgoRfoSp3jeX4DEqKLwKg">Blockchain at Berkeley YouTube channel</a></li>
-
   <li><a href="https://www.meetup.com/Berkeley-Bitcoin-Meetup/?_cookie-check=M03ES0jUM3OKnk0W">Berkeley Bitcoin Meetup</a></li>
-
   <li><a href="https://www.facebook.com/BlockchainatBerkeley/">Facebook page</li>
-
   <li><a href="https://twitter.com/CalBlockchain">Twitter</a></li>
 </ul>
 
@@ -14160,3 +14127,4 @@ We wish you all the best on the rest of your blockchain journey!
 The end…
 
 3-6-2023 9:29pm last updated.
+3-2-2024 12:12pm last updated.
