@@ -6632,13 +6632,13 @@ bring order to this ambiguous and uncertain space.
 
 <h3>ICO Schemes & Culture (12:57)</h3>
 
-<!------------------------------------------------------------------------------------------------>
-<!----------------- 86. initial coin offerings: ico schemas and culture (184) -------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 86. initial coin offerings: ico schemas and culture (184) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image086.png?raw=true"
-   alt="Initial Coin Offerings: ICO Schemas and Culture"
-   style="width:65%" />
+  title="Initial Coin Offerings: ICO Schemas and Culture"
+  alt="Initial Coin Offerings: ICO Schemas and Culture."
+  style="width:65%" />
 </p>
 
 An Initial Coin Offering, or “ICO,” is a novel, unregulated means of
@@ -6685,9 +6685,8 @@ network, raising 257 million in USD.
 
 We’ll see in a bit how much each industry has raised through ICOs.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------- 87. what is an ico? ico schemas and culture (184) ----------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image087.png?raw=true"
    alt="What is an ICO? ICO Schemas and Culture"
@@ -6728,9 +6727,8 @@ However, as we’ll see, this is not the case today.
 
 Let’s take a look at how ICOs might incentivize open-source development.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-------------------- 88. aligning incentives: what's your incentive? (186) --------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image088.png?raw=true"
    alt="Aligning Incentives: What's Your Incentive?"
@@ -6765,13 +6763,13 @@ representation of the value of their platform.
 Additionally, as others build on top of that platform, the token will
 further increase in value.
 
-<!------------------------------------------------------------------------------------------------>
-<!----------------------- 89. ico schemas: what's your incentive? (187) -------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 89. ico schemas: what's your incentive? (187) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image089.png?raw=true"
-   alt="ICO Schemas: What's Your Incentive?"
-   style="width:65%" />
+  title="ICO Schemas: What's Your Incentive?"
+  alt="ICO Schemas: What's Your Incentive?"
+  style="width:65%" />
 </p>
 
 What does the lifecycle of an ICO look like?
@@ -6864,9 +6862,8 @@ project.
 If that all works out, then you’ll get funding for your revolutionary
 blockchain project!
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--------------------- 90. Legal Uncertainty: ICO Schemas & Culture (190) ----------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image090.png?raw=true"
    alt="Legal Uncertainty: ICO Schemas & Culture"
@@ -6905,9 +6902,8 @@ Instead, they simply serve as a way to access services, such as how
 Kickstarter donations provide the user with access to early or special
 goods from the team.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------- 91. aligning incentives: incentive misalignment (191) ---------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image091.png?raw=true"
    alt="Aligning Incentives: Incentive Misalignment"
@@ -6931,9 +6927,8 @@ In 2017, investors in ICO pre-sales tended to sell right away, gaining 4
 to 5 times returns on their investment instead of waiting for the long
 term.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-------------------------- 91b. aligning incentives: solutions (192) ---------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image091b.png?raw=true"
    alt="Aligning Incentives: Solutions"
@@ -6951,9 +6946,8 @@ paid out arises as well.
 
 This solution is not popularly used in ICOs.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--------------- 92. ico's: a double edged sword: ico schemas & culture (193) ------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image092.png?raw=true"
    alt="ICO's A Double Edged Sword: ICO Schemas & Culture"
@@ -6999,9 +6993,8 @@ fill their pockets.
 With the benefits of deregulation, such as larger freedom and
 accessibility to a larger set of investors, also come the consequences.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------- 93. limitatios of ico's: ico schemas & culture  (194) ---------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image093.png?raw=true"
    alt="Limitatios of ICO's: ICO Schemas & Culture"
@@ -7031,9 +7024,8 @@ ICOs, on the other hand, are nothing more than lumps of money.
 
 They do not come with the support that a VC can provide.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------- 94. limitatios of ico's: ico schemas & culture #2 (195) -------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image094.png?raw=true"
    alt="Limitatios of ICO's: ICO Schemas & Culture #2"
@@ -7080,9 +7072,8 @@ private, to focus only on the few large investors.
 Though ICOs provide tremendous access to funding, you know what they
 say: “be careful what you wish for.”
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------------------- 95. ico statistics (197) ------------------------------------>
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image095.png?raw=true"
    alt="ICO Statistics"
@@ -7098,13 +7089,12 @@ startups through ICOs, over 25% of which was raised in December alone.
 Compare this to approximately just over half a million raised through
 VC.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------------------- 95b. ico statistics (197) ------------------------------------>
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image095b.png?raw=true"
-   alt="ICO Statistics"
-   style="width:65%" />
+  alt="ICO Statistics"
+  style="width:65%" />
 </p>
 
 In 2018, we saw even more raised through ICOs, totaling 20 billion
@@ -7122,9 +7112,8 @@ deal from 2017.
 Since ICOs seem not to provide long-term returns and have lost credit as
 a funding mechanism, VC funding is starting to surge.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------------------- 96. ico statistics (198) ------------------------------------>
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image096.png?raw=true"
    alt="ICO Statistics"
@@ -7162,9 +7151,8 @@ snapshot of present-day perception around the technology.
 
 <h3>Regulations & Caveats (9:28)</h3>
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--------------------- 97. anti-money laundering: law & regulations (199) ----------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image097.png?raw=true"
    alt="PAXOS in Practice: Assumptions & Real-World Use"
@@ -7197,9 +7185,8 @@ Kraken, and Bitstamp.
 A good number of exchanges are not compliant given that a good amount of
 the blockchain community diverges from regulation as much as possible.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------------------ 98 Know your customer(kyc) (200) -------------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image098.png?raw=true"
    alt="Know Your Customer"
@@ -7246,9 +7233,8 @@ qualities into businesses is socially difficult, though exchanges like
 Coinbase will comply with these restrictions in order to be able to
 serve audiences as large as possible.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!----------------------------- 99. money transmitter license (202) ------------------------------>
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image099.png?raw=true"
    alt="Money Transmitter License"
@@ -7277,9 +7263,8 @@ This depth of regulation is meant to protect consumers from businesses
 mishandling their money, but it consequently makes performing these
 services enormously difficult.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--------------------------- 100. bitlicense: issued by nysdfs (203) ---------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image100.png?raw=true"
    alt="Bitlicense: Issued by NYSDFS"
@@ -7305,9 +7290,8 @@ An exchange known as Circle was the first to obtain a BitLicense.
 Coinbase also followed later, and Square is the most recent company to
 obtain a BitLicense, being the 9th.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------------ 101. bitcoin etf: a noteworthy rulling (204) -------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image101.png?raw=true"
    alt="Bitcoin ETF: A Noteworthy Ruling"
@@ -7337,9 +7321,8 @@ One might say this rejection is not entirely bad.
 After all, the entire purpose of Bitcoin is to be beyond regulation –
 this ruling confirms that.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------- 102. bitcoin etf: a noteworthy rulling #2 (205) ------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image102.png?raw=true"
    alt="Bitcoin ETF: A Noteworthy Ruling #2"
@@ -7359,9 +7342,8 @@ Until Bitcoin receives a reputation for low risk investments, if it ever
 will, it’s unlikely to reach widespread acceptance by the US government
 as an underlying asset for financial products.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------------------- 103. perspectives: states (206) -------------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image103.png?raw=true"
    alt="Perspectives: States"
@@ -7401,9 +7383,8 @@ It’s fascinating to think that technology just reaching a decade in age
 has already become powerful and popular enough to make its way into
 legislation.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------------- 104. perspectives: global (good) (207) ---------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image104.png?raw=true"
    alt="Perspectives: Global (good)"
@@ -7459,9 +7440,8 @@ blockchain.
 Here’s a few examples of countries pushing against cryptocurrencies and
 blockchain.
 
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------------- 105. perspectives: global (bad) (208) ---------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image105.png?raw=true"
    alt="Perspectives: Global (bad)"
@@ -7511,9 +7491,8 @@ Primarily, enterprise blockchains of the time were used to solve issues
 in <b>coordination failures</b>, boost <b>horizontal integration</b>, and
 create <b>self-sovereign</b> decentralized networks. 
 
-<!------------------------------------------------------------------------------------------------>
-<!----------------------- 106. centralized & distributed databases (210) ------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!----------------------- 106. centralized & distributed databases (210) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image106.png?raw=true"
    alt="There are two main catogories of databases: Centralized Databases and Distributed Databases. Within Distributed Databases, there is Distributed ledgers. Within Distributed ledgers, there is Blockchain"
@@ -7523,9 +7502,8 @@ create <b>self-sovereign</b> decentralized networks. 
 <b>Centralized databases</b> are run by a single entity (e.g. a company)
 that handles all requests and data processing.
 
-<!------------------------------------------------------------------------------------------------>
-<!--------------------------- 107. incoming to central database (210) ---------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--------------------------- 107. incoming to central database (210) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image107.png?raw=true"
    alt="Incoming to Central Database"
@@ -7537,9 +7515,8 @@ connected to each other and work to maintain a consistent overall view
 of the entire system. Nodes are able to fully trust each other in some
 systems (hence the solid lines connecting storage nodes.)
 
-<!------------------------------------------------------------------------------------------------>
-<!------------------------- 108. incoming to distributed database (210) -------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!------------------------- 108. incoming to distributed database (210) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image108.png?raw=true"
    alt="Incoming to Distributed Databases"
@@ -7553,9 +7530,8 @@ other (hence the dotted lines in the diagram below). Instead, they must
 implement some form of consensus protocol to have a consistent view of
 the system.
 
-<!------------------------------------------------------------------------------------------------>
-<!--------------------- 109. Incoming request: consistent shared view (210) ---------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--------------------- 109. Incoming request: consistent shared view (210) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image109.png?raw=true"
    alt="Incoming to Distributed Databases"
@@ -7637,9 +7613,8 @@ diligence. Additionally, many ICOs raise so much money that they have no
 incentive to actually finish up the project, leading to incentive
 misalignments.
 
-<!------------------------------------------------------------------------------------------------>
-<!---------------------- 110. ryan gosling, fake currency, miroskii (214) ------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!---------------------- 110. ryan gosling, fake currency, miroskii (214) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image110.png?raw=true"
    alt="Ryan Gosling, Fake Currency, Miroskii"
@@ -7742,13 +7717,13 @@ fundamental systems scaling approaches and tradeoffs.
 
 <h3>Scaling Background (11:44)</h3>
 
-<!------------------------------------------------------------------------------------------------>
-<!-------=----- 111. what is the scalability problem? scalability definition (217) --------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 111. what is the scalability problem? scalability definition (217) ~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image111.png?raw=true"
-   alt="What is the Scalability Problem? Scalability Definition"
-   style="width:65%" />
+  title="What is the Scalability Problem? Scalability Definition"
+  alt="What is the Scalability Problem? Scalability Definition."
+  style="width:65%" />
 </p>
 
 One property we look for when gauging the scalability of a blockchain
@@ -7764,13 +7739,13 @@ Being able to handle a greater volume of transactions per second means
 that our blockchain system would be able to handle more transactions
 with a higher velocity.
 
-<!------------------------------------------------------------------------------------------------>
-<!------------------------ 112. what is the scalability problem? #2 (218) ------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 112. what is the scalability problem? #2 (218) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image112.png?raw=true"
-   alt="What is the Scalability Problem? #2"
-   style="width:65%" />
+  title="What is the Scalability Problem? #2"
+  alt="What is the Scalability Problem? #2."
+  style="width:65%" />
 </p>
 
 Another property we’re looking for is the speed with which we can update
@@ -7793,13 +7768,13 @@ our transaction has gone through and has been finalized.
 This isn’t scalable though, at least in the sense that I don’t want to
 wait an hour every morning to get my coffee.
 
-<!------------------------------------------------------------------------------------------------>
-<!-------------- 113. what is the scalability problem? another consideration (219) --------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 113. what is the scalability problem? another consideration (219) ~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image113.png?raw=true"
-   alt="What is the Scalability Problem? Another Consideration"
-   style="width:65%" />
+  title="What is the Scalability Problem? Another Consideration"
+  alt="What is the Scalability Problem? Another Consideration."
+  style="width:65%" />
 </p>
 
 And one side note: as we know, blockchain is a decentralized system.
@@ -7842,13 +7817,13 @@ In order to make it easier for nodes to join the network in the future,
 whether they be run by dedicated or casual users, we must design
 blockchain systems keeping into account storage size.
 
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------ 114. scalability: trilemma (220) -------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 114. scalability: trilemma (220) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image114.png?raw=true"
-   alt="Scalability: Trilemma"
-   style="width:65%" />
+  title="Scalability: Trilemma"
+  alt="Scalability: Trilemma."
+  style="width:65%" />
 </p>
 
 Fundamentally, there’s a scalability trilemma here.
@@ -7890,13 +7865,13 @@ blocks means more orphaned blocks; and perhaps if someone has the right
 amount of resources, they could tilt the system in their favor and so
 decentralization would take a hit.
 
-<!------------------------------------------------------------------------------------------------>
-<!-------------------- 115. transaction size: blockchain fundamentals (221) ---------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 115. transaction size: blockchain fundamentals (221) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image115.png?raw=true"
-   alt="Transaction Size: Blockchain Fundamentals"
-   style="width:65%" />
+  title="Transaction Size: Blockchain Fundamentals"
+  alt="Transaction Size: Blockchain Fundamentals."
+  style="width:65%" />
 </p>
 
 To understand all of that more, let’s look at further detail and do a
@@ -7910,13 +7885,13 @@ The graph is a bit outdated, but the scalability concerns still apply.
 We can see that on average, Bitcoin transactions have a size of around
 546 bytes.
 
-<!------------------------------------------------------------------------------------------------>
-<!---------------------------- 116. max transactions per second (222) ---------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 116. max transactions per second (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image116.png?raw=true"
-   alt="Max Transactions Per Second"
-   style="width:65%" />
+  title="Max Transactions Per Second"
+  alt="Max Transactions Per Second."
+  style="width:65%" />
 </p>
 
 And here, we have a similar graph, but for Bitcoin block size.
@@ -7924,13 +7899,13 @@ And here, we have a similar graph, but for Bitcoin block size.
 The system was designed for 1 megabyte blocks, and we can see that
 reflected in the graph.
 
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------- 117. max transactions per second #2 (223) --------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 117. max transactions per second #2 (223) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image117.png?raw=true"
-   alt="Max Transactions Per Second #2"
-   style="width:65%" />
+  title="Max Transactions Per Second #2"
+  alt="Max Transactions Per Second #2."
+  style="width:65%" />
 </p>
 
 Here’s a quick calculation based on the numbers we’ve collected so far
@@ -7952,13 +7927,13 @@ final value of 3.2 transactions per second.
 
 That’s not too hot.
 
-<!------------------------------------------------------------------------------------------------>
-<!------------------ 118. tps comparisons: bitcoin vs modern payments  (224) --------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 118. tps comparisons: bitcoin vs modern payments  (224) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image118.png?raw=true"
-   alt="TPS Comparisons: Bitcoin vs Modern Payments"
-   style="width:65%" />
+  title="TPS Comparisons: Bitcoin vs Modern Payments"
+  alt="TPS Comparisons: Bitcoin vs Modern Payments."
+  style="width:65%" />
 </p>
 
 Compared with some other traditional payment systems, Bitcoin is way
@@ -7980,13 +7955,13 @@ is definitely quite drastic.
 
 That was the situation at hand.
 
-<!------------------------------------------------------------------------------------------------>
-<!------------------ 119. current scalability: blockchain fundamentals (225) --------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 119. current scalability: blockchain fundamentals (225) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image119.png?raw=true"
-   alt="Current Scalability: Blockchain Fundamentals"
-   style="width:65%" />
+  title="Current Scalability: Blockchain Fundamentals"
+  alt="Current Scalability: Blockchain Fundamentals."
+  style="width:65%" />
 </p>
 
 Suppose we now want to make our transaction rate comparable to that of
@@ -8021,13 +7996,13 @@ There are definitely drawbacks and considerations for each of these
 approaches, so that’s what we’re going to be looking into in later
 sections.
 
-<!------------------------------------------------------------------------------------------------>
-<!----------------------- 120. scaling techniques: how do we scale? (226) ------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 120. scaling techniques: how do we scale? (226) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image120.png?raw=true"
-   alt="Scaling Techniques: How Do We Scale?"
-   style="width:65%" />
+  title="Scaling Techniques: How Do We Scale?"
+  alt="Scaling Techniques: How Do We Scale?"
+  style="width:65%" />
 </p>
 
 In terms of different techniques with which we can scale, there are two
@@ -8081,13 +8056,13 @@ another useful model to view scaling solutions, which is in layers.
 
 Yep that’s right –– blockchains have layers.
 
-<!------------------------------------------------------------------------------------------------>
-<!-------------------- 121. layers of scaling: blockchans have layers (228) ---------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 121. layers of scaling: blockchans have layers (228) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image121.png?raw=true"
-   alt="Layers of Scaling: Blockchains have Layers"
-   style="width:65%" />
+  title="Layers of Scaling: Blockchains have Layers"
+  alt="Layers of Scaling: Blockchains have Layers."
+  style="width:65%" />
 </p>
 
 We’ll cover this part pretty quickly since it’s more insightful to see
@@ -8107,13 +8082,13 @@ that Casper the Friendly GHOST, Correct by Construction, is a layer 1
 scaling solution, since it would fundamentally change the infrastructure
 and operation of the Ethereum blockchain.
 
-<!------------------------------------------------------------------------------------------------>
-<!--------------- 122. layers of scaling: blockchains have layers #2 (222) ----------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 122. layers of scaling: blockchains have layers #2 (222) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image122.png?raw=true"
-   alt="Layers of Scaling: Blockchains have Layers"
-   style="width:65%" />
+  title="Layers of Scaling: Blockchains have Layers"
+  alt="Layers of Scaling: Blockchains have Layers."
+  style="width:65%" />
 </p>
 
 On the other hand, we have layer 2 scaling solutions, which push
@@ -8154,13 +8129,13 @@ scaling projects and active areas of research later on.
 
 <h3>Naïve Solution (2:45)</h3>
 
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------ 123. naive solution: idea (230) --------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. naive solution: idea (230) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="/images/image123.png?raw=true"
-   alt="Naive Solution: Idea"
-   style="width:65%" />
+  title="Naive Solution: Idea"
+  alt="Naive Solution: Idea."
+  style="width:65%" />
 </p>
 
 The first idea we have for a naive scaling solution is to increase the
@@ -8181,7 +8156,6 @@ we looked at earlier, right?
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 124. naive solution: idea #2 (231) ------------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image124.png?raw=true"
    alt="Naive Solution: Idea #2"
@@ -8207,7 +8181,6 @@ Let’s say that we halve the block time.
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 125. naive solution: idea #2 (231) ------------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image125.png?raw=true"
    alt="Naive Solution: Idea #2"
@@ -8225,7 +8198,6 @@ the same size, since we’re producing blocks twice as fast now.
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- 126. naive solution: cons. natural forks (232) ------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image126.png?raw=true"
    alt=" "
@@ -8266,7 +8238,6 @@ potential for double spends.
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- 127. naive solution revisited: cons size (234) ------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image127.png?raw=true"
    alt="Naive Solution Revisited: Cons Size"
@@ -8286,7 +8257,6 @@ a look at with a more constructive outlook?
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------ 128. naive solution revisited: cons natural forks (234) --------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image128.png?raw=true"
    alt=" "
@@ -8312,7 +8282,6 @@ How do we avoid wasting all of this work?
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- 129. ghost: idea (235) ------------------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image129.png?raw=true"
    alt="Ghost: Idea"
@@ -8352,7 +8321,6 @@ reduce the overhead of communicating with pools anyways.
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- 130. ghost: ethereum average block time (236) -------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image130.png?raw=true"
    alt="Ghost: Ethereum Average Block Time"
@@ -8375,7 +8343,6 @@ in Bitcoin.
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- 131. blocksize increate: idea (237) ------------------------------>
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image131.png?raw=true"
    alt="Blocksize Increase: Idea"
@@ -8413,7 +8380,6 @@ less reward.
 
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------- 132. blocksize increase: cons (238) ------------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image132.png?raw=true"
    alt="Blocksize Increase: Cons"
@@ -8439,7 +8405,6 @@ block size.
 
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- 133.  blocksize increase: cons #2 (239) ----------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image133.png?raw=true"
    alt="Blocksize Increase: Cons #2"
@@ -8462,7 +8427,6 @@ block to reach them.
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------- 134. decrease transaction size: idea (240) --------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image134.png?raw=true"
    alt="Decrease Transaction Size: Idea"
@@ -8487,7 +8451,6 @@ which are SegWit and recursive SNARKs.
 
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------- 135. segregated witness: idea (241) ------------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image135.png?raw=true"
    alt="Segregated Witness: Idea"
@@ -8524,7 +8487,6 @@ From previous sections, we saw that transaction size is on average about
 
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------- 136. seg witness: avoid hard fork (242) ----------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image136.png?raw=true"
    alt="Segregated Witness: Avoid Hard Fork"
@@ -8547,7 +8509,6 @@ Assuming the signatures are valid, then the transaction is valid.
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- 137. seg witness: avoid hard fork #2 (242) ----------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image137.png?raw=true"
    alt="Segregated Witness: Avoid Hard Fork #2"
@@ -8574,11 +8535,11 @@ SegWit is compatible as a soft fork.
 
 <!------------------------------------------------------------------------------------------------>
 <!----------------------- 138. seg witness: mirror signature tree (243) -------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image138.png?raw=true"
-   alt="Segregated Witness: Mirror Signature Tree"
-   style="width:65%" />
+  title="Segregated Witness: Mirror Signature Tree"
+  alt="Segregated Witness: Mirror Signature Tree."
+  style="width:65%" />
 </p>
 
 One issue now though is that because we segregated signatures from other
@@ -8587,7 +8548,6 @@ correct signatures were included in their respective transactions!
 
 <!------------------------------------------------------------------------------------------------>
 <!--------------------- 139. seg witness: mirror signature tree #2 (244) ------------------------->
-<!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
 <img src="/images/image139.png?raw=true"
    alt="Segregated Witness: Mirrow Signature Tree #2"
