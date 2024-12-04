@@ -37,70 +37,40 @@
 <!-- script function: scrollFunction() -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <script>
-// Get the button
-var mybutton = document.getElementById("myBtn");
+  <!-- get the button -->
+  var mybutton = document.getElementById("myBtn");
 
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
+  <!-- when the user scrolls down 10px from the top of the document, show the button -->
+  window.onscroll = function() {scrollFunction()};
 
-function scrollFunction() {
-  if (document.body.scrollTop > 1 || document.documentElement.scrollTop > 1) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
+  function scrollFunction() {
+    if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
   }
-}
 
-// When the user clicks on the button, scroll to the top of the document.
-function topFunction() {
-  document.body.scrollTop = 860;
-  document.documentElement.scrollTop = 860;
-}
+  <!-- when the user clicks on the button, scroll to the top of the document. 0,0 or -->
+  <!-- to table of contents (approx ###), if applicable was; 315 -->
+  function topFunction() {
+    document.getElementById('table-of-contents').scrollIntoView();
+  }
 </script>
 
 <h4>Welcome to CS198.2x: Blockchain Technologies</h4>
 
-<p>
-This course provides a wide overview of many of the topics relating to and building upon the foundation of Bitcoin and blockchain technology.
-</p>
-<!-- Hoverable Dropdown Menu -->
-<!-- <p>Move the mouse over the button to open the dropdown menu.</p>  -->
-
-<!-- <div class="dropdown"> -->
-<!--  <button class="dropbtn">CS198.2x Blockchain</button> -->
-<!--   <div class="dropdown-content">  -->
-<!-- <a href="#ch1">Ch 1: Distributed Systems</a>  -->
-<!-- <a href="#ch2">Ch 2: Cryptoeconomics</a>  -->
-<!--     <a href="#ch3">Ch 3: Enterprise Blockchain</a>  -->
-<!--     <a href="#ch4">Ch 4: Scalability</a>  -->
-<!--     <a href="#ch5">Ch 5: Anonymity</a>  -->
-<!--     <a href="#ch6">Ch 6: A Blockchain Powered Future</a>  -->
-<!--   </div>  -->
-<!-- </div>  -->
+<p>This course provides a wide overview of many of the topics relating to and building upon the 
+foundation of Bitcoin and blockchain technology.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ <h1>CS198.2x - Blockchain Table of Contents</h1> ~~~~~~~~~~~~~~~~~~~~~~-->
-&nbsp;
-&nbsp;
 <br/>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ table of contents style definitions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--  <div id="banner"> -->
-<!--    <h1 align="center">CS198.2x - Blockchain (see below)</h1>  -->
-<!--  </div>  -->
-
-&nbsp;
-&nbsp;
 <br/>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ finish ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ index.html in cs198.2x - blockchain technologies ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 style="align:center">CS198.2x - University of California @ BerkeleyX</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ cs198.2x berkeley's blockchain logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
   src="./images/cs198.2x logo.png?raw=true"
   style="width:45%;"
