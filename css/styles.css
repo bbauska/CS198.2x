@@ -35,9 +35,10 @@ img.displayed {
     border-color: #778899;  /* dark grayish blue */
     border-style: solid; 
   }
-
 p {
   font-size: 15px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+  text-align: left;
   margin-left: 15px;
 }
 p.em2 {
@@ -142,12 +143,10 @@ ol.g {list-style-type: lower-latin;
   font-size: 12px;
   border: none;
 }
-
 .dropdown {
   position: relative;
   display: inline-block;
 }
-
 .dropdown-content {
   display: none;
   position: absolute;
@@ -156,16 +155,12 @@ ol.g {list-style-type: lower-latin;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
-
 .dropdown-content a {
   color: #000000;  /* black */
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
-
 .dropdown-content a:hover {background-color: #cccccc;}  /* light gray */
-
 .dropdown:hover .dropdown-content {display: block;}
-
 .dropdown:hover .dropbtn {background-color: #398e41;}  /* dark moderate lime green */
