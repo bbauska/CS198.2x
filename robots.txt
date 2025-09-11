@@ -1,3 +1,4 @@
-Sitemap: http://cs198.2x.net/sitemap.xml
-User-agent: *
-Disallow: /
+User-Agent: *
+Disallow: 
+
+Sitemap: https://github.com/bbauska/cs1982x.bauska.org
