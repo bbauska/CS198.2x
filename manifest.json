@@ -1,6 +1,9 @@
 {
- "name": "App",
- "icons": [
+  "name": "CS198.2x Blockchain Technologies",
+  "short_name": "CS198.2x", 
+  "start_url": "/cs1982x.bauska.org",
+  "display": "standalone",
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
